@@ -62,6 +62,10 @@ function transformToMongoFormat(data) {
       id: 11,
       name: "INGENIERIA DE SISTEMAS",
     },
+    14: {
+      id: 14,
+      name: "QUIMICA"
+    },
     27: {
       id: 27,
       name: "DISEÑO INDUSTRIAL",
@@ -73,6 +77,10 @@ function transformToMongoFormat(data) {
     50: {
       id: 50,
       name: "INGENIERIA EN CIENCIA DE DATOS",
+    },
+    58: {
+      id: 58,
+      name: "MICROBIOLOGIA",
     },
     21: {
       id: 21,
@@ -89,8 +97,8 @@ function transformToMongoFormat(data) {
   };
 
   const program = programMap[data.programa_academico] || {
-    id: parseInt(data.programa_academico) || 27,
-    name: "DISEÑO INDUSTRIAL",
+    id: parseInt(data.programa_academico) || 0,
+    name: "PROGRAMA DESCONOCIDO",
   };
 
   if (data.plan == 14) {
