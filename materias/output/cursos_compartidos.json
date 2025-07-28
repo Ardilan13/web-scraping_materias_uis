@@ -1,0 +1,714 @@
+[
+  {
+    "codigo": "20252",
+    "nombre": "Cálculo I",
+    "creditos": 4,
+    "requisitos": [],
+    "nivel": 1,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "Id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "22949",
+    "nombre": "Química Básica",
+    "creditos": 4,
+    "requisitos": [],
+    "nivel": 1,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "23423",
+    "nombre": "Cultura Física y Deportiva",
+    "creditos": 1,
+    "requisitos": [],
+    "nivel": 1,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "Id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "23427",
+    "nombre": "Taller de Lenguaje",
+    "creditos": 3,
+    "requisitos": [],
+    "nivel": 1,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "Id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "Id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "24948",
+    "nombre": "Vida y cultura universitaria",
+    "creditos": 0,
+    "requisitos": [],
+    "nivel": 1,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "Id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "Id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "20253",
+    "nombre": "Cálculo II",
+    "creditos": 4,
+    "requisitos": [
+      "20252"
+    ],
+    "nivel": 2,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "Id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "22109",
+    "nombre": "Ética Ciudadana",
+    "creditos": 3,
+    "requisitos": [],
+    "nivel": 2,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "22950",
+    "nombre": "Física I",
+    "creditos": 4,
+    "requisitos": [],
+    "nivel": 2,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "Id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "22952",
+    "nombre": "Biología para Ingenieros",
+    "creditos": 2,
+    "requisitos": [
+      "22949"
+    ],
+    "nivel": 2,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "Id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "20254",
+    "nombre": "Cálculo III",
+    "creditos": 4,
+    "requisitos": [
+      "20253"
+    ],
+    "nivel": 3,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "22953",
+    "nombre": "Física II",
+    "creditos": 4,
+    "requisitos": [
+      "20252",
+      "22950"
+    ],
+    "nivel": 3,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "23425",
+    "nombre": "Inglés II",
+    "creditos": 4,
+    "requisitos": [
+      "23424"
+    ],
+    "nivel": 3,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "20255",
+    "nombre": "Ecuaciones Diferenciales",
+    "creditos": 4,
+    "requisitos": [
+      "20254"
+    ],
+    "nivel": 4,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "Id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "22956",
+    "nombre": "Física III",
+    "creditos": 4,
+    "requisitos": [
+      "20253",
+      "22953"
+    ],
+    "nivel": 4,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "Id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "22975",
+    "nombre": "Trabajo de Grado I",
+    "creditos": 3,
+    "requisitos": [
+      "CA: 150"
+    ],
+    "nivel": 9,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "Id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "Id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "22977",
+    "nombre": "Trabajo de Grado II",
+    "creditos": 7,
+    "requisitos": [
+      "22975"
+    ],
+    "nivel": 10,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "Id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "Id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "27288",
+    "nombre": "Interacción Hombre Computador",
+    "creditos": 4,
+    "requisitos": [],
+    "nivel": "Electivas",
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "Id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "Id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "codigo": "29205",
+    "nombre": "Cátedra UIS",
+    "creditos": 1,
+    "requisitos": [],
+    "nivel": 1,
+    "grupos": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "Id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "Id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "Id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "40940",
+    "nombre": "Mecánica",
+    "creditos": 3,
+    "requisitos": [],
+    "nivel": 2,
+    "grupos": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "Id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "Id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "Id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "23424",
+    "nombre": "Ingles I",
+    "creditos": 4,
+    "requisitos": [],
+    "nivel": 6,
+    "grupos": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "Id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "Id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "23425",
+    "nombre": "Ingles II",
+    "creditos": 4,
+    "requisitos": [
+      "23424"
+    ],
+    "nivel": 7,
+    "grupos": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "Id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "Id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "40936",
+    "nombre": "Introducción al Álgebra Lineal",
+    "creditos": 3,
+    "requisitos": [],
+    "nivel": 1,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "Id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "Id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "41095",
+    "nombre": "Lengua Extranjera I: Inglés",
+    "creditos": 2,
+    "requisitos": [],
+    "nivel": 1,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "Id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "Id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "40939",
+    "nombre": "Cálculo de Funciones en Varias Variables",
+    "creditos": 3,
+    "requisitos": [],
+    "nivel": 2,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "Id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "Id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "41096",
+    "nombre": "Lengua Extranjera II: Inglés",
+    "creditos": 2,
+    "requisitos": [],
+    "nivel": 2,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "Id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "Id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "41018",
+    "nombre": "Ecuaciones Diferenciales",
+    "creditos": 3,
+    "requisitos": [],
+    "nivel": 3,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "Id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "Id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "41019",
+    "nombre": "Laboratorio de Mecánica",
+    "creditos": 2,
+    "requisitos": [],
+    "nivel": 3,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "Id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "Id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "41097",
+    "nombre": "Lengua Extranjera III: Inglés",
+    "creditos": 2,
+    "requisitos": [],
+    "nivel": 3,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "Id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "Id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "41098",
+    "nombre": "Lengua Extranjera IV: Inglés",
+    "creditos": 2,
+    "requisitos": [],
+    "nivel": 5,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "Id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "Id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "codigo": "23015",
+    "nombre": "Geometría Descriptiva",
+    "creditos": 4,
+    "requisitos": [],
+    "nivel": 1,
+    "grupos": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "Id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "Id": 4,
+        "new_pensum": false
+      }
+    ]
+  }
+]
