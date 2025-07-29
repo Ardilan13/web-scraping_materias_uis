@@ -1,7 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 
-
 class SharedCoursesAnalyzer {
     constructor(materiasPath = 'json') {
         this.materiasPath = materiasPath;
@@ -12,7 +11,8 @@ class SharedCoursesAnalyzer {
             { name: "INGENIERIA BIOMEDICA", id: 69, file: "biomedica.json" },
             { name: "INGENIERIA EN CIENCIA DE DATOS", id: 50, file: "datos.json" },
             { name: "INGENIERIA CIVIL", id: 21, file: "civil.json" },
-            { name: "INGENIERIA DE PETROLEOS", id: 4, file: "petroleos.json" }
+            { name: "INGENIERIA DE PETROLEOS", id: 4, file: "petroleos.json" },
+            { name: "QUIMICA", id: 14, file: "quimica.json" }
         ];
     }
 
@@ -38,6 +38,7 @@ class SharedCoursesAnalyzer {
                     programsData[programKey] = coursesData;
                 }
             } catch (error) {
+                console.error(`Error loading ${program.file}:`, error.message);
             }
         }
         
@@ -64,12 +65,16 @@ class SharedCoursesAnalyzer {
             courses.forEach(course => {
                 totalCoursesProcessed++;
                 
-                const courseKey = `${course.codigo}-${course.nombre.toUpperCase().trim()}`;
+                
+                const courseKey = course.codigo;
                 
                 if (coursesMap.has(courseKey)) {
                     const existingCourse = coursesMap.get(courseKey);
 
-                    const programExists = existingCourse.programs.some(p => p.Id === programInfo.id);
+                    
+                    const programExists = existingCourse.programs.some(p => 
+                        p.Id === programInfo.id && p.name === programInfo.name
+                    );
                     
                     if (!programExists) {
                         const programWithValidation = this.validateNewPensum({
@@ -93,16 +98,17 @@ class SharedCoursesAnalyzer {
         
         const allCourses = Array.from(coursesMap.values());
         const sharedCourses = allCourses.filter(course => course.programs.length > 1);
+        const uniqueCourses = allCourses.filter(course => course.programs.length === 1);
         
         return {
             totalCoursesProcessed,
             uniqueCoursesFound: allCourses.length,
-            sharedCoursesCount: sharedCourses.length
+            sharedCoursesCount: sharedCourses.length,
+            uniqueCoursesCount: uniqueCourses.length
         };
     }
 
-
-    getSharedCoursesData(programsData) {
+    getAllCoursesData(programsData) {
         const coursesMap = new Map();
         
         Object.keys(programsData).forEach(programKey => {
@@ -112,11 +118,15 @@ class SharedCoursesAnalyzer {
             if (!programInfo) return;
             
             courses.forEach(course => {
-                const courseKey = `${course.codigo}-${course.nombre.toUpperCase().trim()}`;
+                
+                const courseKey = course.codigo;
                 
                 if (coursesMap.has(courseKey)) {
                     const existingCourse = coursesMap.get(courseKey);
-                    const programExists = existingCourse.program.some(p => p.Id === programInfo.id);
+                    
+                    const programExists = existingCourse.program.some(p => 
+                        p.Id === programInfo.id && p.name === programInfo.name
+                    );
                     
                     if (!programExists) {
                         const programWithValidation = this.validateNewPensum({
@@ -131,33 +141,82 @@ class SharedCoursesAnalyzer {
                         name: programInfo.name,
                         Id: programInfo.id
                     });
-                    
+
                     coursesMap.set(courseKey, {
-                        codigo: course.codigo,
-                        nombre: course.nombre,
-                        creditos: course.creditos,
-                        requisitos: course.requisitos,
-                        nivel: course.nivel,
-                        grupos: [],
+                        sku: course.codigo,
+                        name: course.nombre,
+                        credits: course.creditos,
+                        requirements: course.requisitos || [],
+                        level: course.nivel,
+                        groups: [],
                         program: [programWithValidation]
                     });
                 }
             });
         });
-        
-        return Array.from(coursesMap.values()).filter(course => course.program.length > 1);
+
+        return Array.from(coursesMap.values());
     }
 
-    saveSharedCourses(sharedCourses, outputPath = 'output') {
+    getSharedCoursesData(programsData) {
+        const allCourses = this.getAllCoursesData(programsData);
+        return allCourses.filter(course => course.program.length > 1);
+    }
+
+    getUniqueCoursesData(programsData) {
+        const allCourses = this.getAllCoursesData(programsData);
+        return allCourses.filter(course => course.program.length === 1);
+    }
+
+    saveAllCourses(allCourses, outputPath = 'output') {
         if (!fs.existsSync(outputPath)) {
             fs.mkdirSync(outputPath, { recursive: true });
         }
         
         fs.writeFileSync(
             path.join(outputPath, 'cursos_compartidos.json'),
-            JSON.stringify(sharedCourses, null, 2),
+            JSON.stringify(allCourses, null, 2),
             'utf8'
         );
+    }
+
+    debugDuplicates(programsData) {
+        const coursesMap = new Map();
+        const duplicatesFound = [];
+        
+        Object.keys(programsData).forEach(programKey => {
+            const courses = programsData[programKey];
+            const programInfo = this.findProgramInfo(programKey);
+            
+            if (!programInfo) return;
+            
+            courses.forEach(course => {
+                const courseKey = course.codigo;
+                
+                if (coursesMap.has(courseKey)) {
+                    const existing = coursesMap.get(courseKey);
+                    duplicatesFound.push({
+                        sku: course.codigo,
+                        name: course.nombre,
+                        existingProgram: existing.program,
+                        newProgram: programInfo.name,
+                        sameName: existing.name === course.nombre
+                    });
+                } else {
+                    coursesMap.set(courseKey, {
+                        name: course.nombre,
+                        program: programInfo.name
+                    });
+                }
+            });
+        });
+        
+        console.log('🔍 Duplicados encontrados:', duplicatesFound.length);
+        duplicatesFound.forEach(dup => {
+            console.log(`   SKU: ${dup.sku} | ${dup.name} | Programas: ${dup.existingProgram} + ${dup.newProgram} | Mismo nombre: ${dup.sameName}`);
+        });
+        
+        return duplicatesFound;
     }
 
     async run() {
@@ -168,20 +227,42 @@ class SharedCoursesAnalyzer {
                 console.log('❌ No se pudieron cargar archivos de materias');
                 return;
             }
+
+            console.log('🔍 Analizando duplicados...');
+            this.debugDuplicates(programsData);
             
             const stats = this.analyzeSharedCourses(programsData);
 
-            const sharedCourses = this.getSharedCoursesData(programsData);
+            const allCourses = this.getAllCoursesData(programsData);
+            const sharedCourses = allCourses.filter(course => course.program.length > 1);
+            const uniqueCourses = allCourses.filter(course => course.program.length === 1);
             
             console.log('📊 Análisis completado:');
             console.log(`   • Total de cursos procesados: ${stats.totalCoursesProcessed}`);
             console.log(`   • Materias únicas encontradas: ${stats.uniqueCoursesFound}`);
             console.log(`   • ✨ MATERIAS COMPARTIDAS: ${stats.sharedCoursesCount}`);
+            console.log(`   • 🔹 MATERIAS ÚNICAS: ${stats.uniqueCoursesCount}`);
+
+            const skus = allCourses.map(course => course.sku);
+            const uniqueSkus = new Set(skus);
+            if (skus.length !== uniqueSkus.size) {
+                console.error('❌ ERROR: Se encontraron SKUs duplicados en el resultado final');
+                const duplicates = skus.filter((sku, index) => skus.indexOf(sku) !== index);
+                console.error('SKUs duplicados:', [...new Set(duplicates)]);
+                return;
+            }
+
+            this.saveAllCourses(allCourses);
+            console.log(`💾 Archivo guardado: output/cursos_compartidos.json (${allCourses.length} materias total)`);
+            console.log(`   - ${sharedCourses.length} materias compartidas`);
+            console.log(`   - ${uniqueCourses.length} materias únicas`);
             
-            this.saveSharedCourses(sharedCourses);
-            console.log(`💾 Archivo guardado: output/cursos_compartidos.json (${sharedCourses.length} materias)`);
-            
-            return { stats, sharedCourses };
+            return { 
+                stats, 
+                allCourses,
+                sharedCourses,
+                uniqueCourses
+            };
             
         } catch (error) {
             console.error('❌ Error durante la ejecución:', error.message);

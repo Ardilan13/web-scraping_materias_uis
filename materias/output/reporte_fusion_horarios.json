@@ -1,0 +1,3473 @@
+{
+  "fecha_generacion": "2025-07-29T21:15:27.411Z",
+  "resumen": {
+    "total_cursos": 378,
+    "cursos_actualizados": 17,
+    "cursos_mantenidos_sin_cambios": 361
+  },
+  "cursos_actualizados": [
+    {
+      "sku": "29205",
+      "name": "Cátedra UIS",
+      "grupos_agregados": 3,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO",
+        "INGENIERIA BIOMEDICA",
+        "INGENIERIA EN CIENCIA DE DATOS",
+        "QUIMICA"
+      ]
+    },
+    {
+      "sku": "40940",
+      "name": "Mecánica",
+      "grupos_agregados": 6,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO",
+        "INGENIERIA BIOMEDICA",
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ]
+    },
+    {
+      "sku": "40936",
+      "name": "Introducción al Álgebra Lineal",
+      "grupos_agregados": 7,
+      "programas": [
+        "INGENIERIA BIOMEDICA",
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ]
+    },
+    {
+      "sku": "40937",
+      "name": "Bioquímica",
+      "grupos_agregados": 4,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ]
+    },
+    {
+      "sku": "40938",
+      "name": "Introducción a la Ingeniería Biomédica",
+      "grupos_agregados": 2,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ]
+    },
+    {
+      "sku": "41095",
+      "name": "Lengua Extranjera I: Inglés",
+      "grupos_agregados": 6,
+      "programas": [
+        "INGENIERIA BIOMEDICA",
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ]
+    },
+    {
+      "sku": "40939",
+      "name": "Cálculo de Funciones en Varias Variables",
+      "grupos_agregados": 4,
+      "programas": [
+        "INGENIERIA BIOMEDICA",
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ]
+    },
+    {
+      "sku": "40941",
+      "name": "Biología Celular y Molecular",
+      "grupos_agregados": 4,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ]
+    },
+    {
+      "sku": "40942",
+      "name": "Modelado Asistido por Ordenador CAD",
+      "grupos_agregados": 2,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ]
+    },
+    {
+      "sku": "41017",
+      "name": "Programación",
+      "grupos_agregados": 2,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ]
+    },
+    {
+      "sku": "41096",
+      "name": "Lengua Extranjera II: Inglés",
+      "grupos_agregados": 6,
+      "programas": [
+        "INGENIERIA BIOMEDICA",
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ]
+    },
+    {
+      "sku": "41018",
+      "name": "Ecuaciones Diferenciales",
+      "grupos_agregados": 3,
+      "programas": [
+        "INGENIERIA BIOMEDICA",
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ]
+    },
+    {
+      "sku": "41019",
+      "name": "Laboratorio de Mecánica",
+      "grupos_agregados": 6,
+      "programas": [
+        "INGENIERIA BIOMEDICA",
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ]
+    },
+    {
+      "sku": "41020",
+      "name": "Electromagnetismo",
+      "grupos_agregados": 2,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ]
+    },
+    {
+      "sku": "41021",
+      "name": "Fisiología I",
+      "grupos_agregados": 4,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ]
+    },
+    {
+      "sku": "41022",
+      "name": "Biotecnología en Salud",
+      "grupos_agregados": 2,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ]
+    },
+    {
+      "sku": "41097",
+      "name": "Lengua Extranjera III: Inglés",
+      "grupos_agregados": 4,
+      "programas": [
+        "INGENIERIA BIOMEDICA",
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ]
+    }
+  ],
+  "cursos_mantenidos_sin_cambios": [
+    {
+      "sku": "20252",
+      "name": "Cálculo I",
+      "grupos_originales": 40,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "DISEÑO INDUSTRIAL",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22948",
+      "name": "Fundamentos de Programación",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22949",
+      "name": "Química Básica",
+      "grupos_originales": 17,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22979",
+      "name": "Algebra Lineal I",
+      "grupos_originales": 33,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "23423",
+      "name": "Cultura Física y Deportiva",
+      "grupos_originales": 52,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "DISEÑO INDUSTRIAL",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS",
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "23427",
+      "name": "Taller de Lenguaje",
+      "grupos_originales": 31,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "DISEÑO INDUSTRIAL",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS",
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24948",
+      "name": "Vida y cultura universitaria",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "DISEÑO INDUSTRIAL",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "20253",
+      "name": "Cálculo II",
+      "grupos_originales": 38,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "DISEÑO INDUSTRIAL",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22109",
+      "name": "Ética Ciudadana",
+      "grupos_originales": 17,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "DISEÑO INDUSTRIAL",
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22950",
+      "name": "Física I",
+      "grupos_originales": 54,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "DISEÑO INDUSTRIAL",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22951",
+      "name": "Programación Orientada a Objetos",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22952",
+      "name": "Biología para Ingenieros",
+      "grupos_originales": 17,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "23424",
+      "name": "Inglés I",
+      "grupos_originales": 43,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "DISEÑO INDUSTRIAL",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "20254",
+      "name": "Cálculo III",
+      "grupos_originales": 25,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22953",
+      "name": "Física II",
+      "grupos_originales": 44,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22954",
+      "name": "Matemáticas discretas",
+      "grupos_originales": 5,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22955",
+      "name": "Estruc. de datos y análisis de alg.",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "23425",
+      "name": "Inglés II",
+      "grupos_originales": 41,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "DISEÑO INDUSTRIAL",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "20255",
+      "name": "Ecuaciones Diferenciales",
+      "grupos_originales": 31,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22956",
+      "name": "Física III",
+      "grupos_originales": 42,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22957",
+      "name": "Electricidad y Electrónica",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22958",
+      "name": "Autómatas y lenguajes formales",
+      "grupos_originales": 3,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22959",
+      "name": "Base de Datos I",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22960",
+      "name": "Base de Datos II",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22961",
+      "name": "Sistemas Digitales",
+      "grupos_originales": 5,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22962",
+      "name": "Análisis Númerico I",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22963",
+      "name": "Pensamiento sistémico y organizacional",
+      "grupos_originales": 5,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22964",
+      "name": "Dirección empresarial I",
+      "grupos_originales": 11,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "DISEÑO INDUSTRIAL",
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "21857",
+      "name": "Estadística I",
+      "grupos_originales": 5,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22965",
+      "name": "Redes de Computadores I",
+      "grupos_originales": 5,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22966",
+      "name": "Arquitectura de Computadores",
+      "grupos_originales": 5,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22967",
+      "name": "Programación en la Web",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22968",
+      "name": "Sistemas de Información",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "21858",
+      "name": "Estadística II",
+      "grupos_originales": 5,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22969",
+      "name": "Ingeniería del Software I",
+      "grupos_originales": 5,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22970",
+      "name": "Redes de Computadores II",
+      "grupos_originales": 6,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22971",
+      "name": "Inteligencia Artificial I",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22972",
+      "name": "Sistemas Operacionales",
+      "grupos_originales": 5,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22973",
+      "name": "Ingeniería del Software II",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22974",
+      "name": "Simulación Digital",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22975",
+      "name": "Trabajo de Grado I",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "DISEÑO INDUSTRIAL",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22976",
+      "name": "Ingeniería Económica",
+      "grupos_originales": 10,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22977",
+      "name": "Trabajo de Grado II",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "DISEÑO INDUSTRIAL",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS",
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22978",
+      "name": "Economía Empresarial",
+      "grupos_originales": 3,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "21870",
+      "name": "Gerencia de Informática I",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "22490",
+      "name": "Seguridad informática",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24542",
+      "name": "Entornos de programación",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24543",
+      "name": "Tratamiento de señales",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24544",
+      "name": "Sistemas discretos y continuos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24545",
+      "name": "Modelado estructural",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24546",
+      "name": "Microcontroladores I",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24548",
+      "name": "Auditoría de sistemas",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24549",
+      "name": "Investigación operacional",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24550",
+      "name": "Modelos a gran escala",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24551",
+      "name": "Gestión de redes empresariales",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24552",
+      "name": "Inteligencia artificial II",
+      "grupos_originales": 3,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24553",
+      "name": "Microcontroladores II",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24554",
+      "name": "Trabajo de investigación II",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24555",
+      "name": "Informática biomédica",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24556",
+      "name": "Sistemas distribuidos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24557",
+      "name": "Ingeniería de software III",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24558",
+      "name": "Inteligencia artificial III",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24560",
+      "name": "Programación distribuida",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24936",
+      "name": "Compiladores de lenguaje",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "27288",
+      "name": "Interacción Hombre Computador",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE SISTEMAS",
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "27571",
+      "name": "Procesamiento de imágenes digitales",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "27572",
+      "name": "Algoritmos I",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "27582",
+      "name": "Análisis de datos a gran escala",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "27586",
+      "name": "Trabajo de investigación I",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "27798",
+      "name": "Optimización convexa",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28091",
+      "name": "Principios y prácticas de desarrollo de software orientado a objetos",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28661",
+      "name": "Introducción a la computación paralela",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28664",
+      "name": "Innovación educativa en la sociedad de la información",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28665",
+      "name": "Modelos de negocios en la sociedad de la información",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "29058",
+      "name": "Visión por computador",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "29155",
+      "name": "Arquitectura Empresarial",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "29156",
+      "name": "Gestión del conocimiento",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE SISTEMAS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41419",
+      "name": "Pensamiento de Diseño I",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41420",
+      "name": "Comunicación Visual I",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41421",
+      "name": "Dibujo Paramétrico",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41422",
+      "name": "Matemática Aplicada I",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41423",
+      "name": "Pensamiento de Diseño II",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41424",
+      "name": "Comunicación Visual II",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41425",
+      "name": "Semiótica",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41426",
+      "name": "Introducción al Álgebra Lineal",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40555",
+      "name": "Inglés I",
+      "grupos_originales": 9,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO",
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41427",
+      "name": "Pensamiento de Diseño III",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41428",
+      "name": "Ciencia de los Materiales",
+      "grupos_originales": 3,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41429",
+      "name": "Ergonomía Física y Cognitiva",
+      "grupos_originales": 3,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41430",
+      "name": "Estática",
+      "grupos_originales": 4,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40556",
+      "name": "Inglés II",
+      "grupos_originales": 4,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO",
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41431",
+      "name": "Comunicación Visual III",
+      "grupos_originales": 3,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41432",
+      "name": "Ergonomía de Producto",
+      "grupos_originales": 3,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41433",
+      "name": "Historia del diseño",
+      "grupos_originales": 3,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41434",
+      "name": "Cultura Material",
+      "grupos_originales": 3,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41435",
+      "name": "Mecánica Sólidos",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40557",
+      "name": "Inglés III",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO",
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41436",
+      "name": "Diseño para la Sostenibilidad",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41437",
+      "name": "Diseño de la Información",
+      "grupos_originales": 3,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41438",
+      "name": "Cueros y Textiles",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41439",
+      "name": "UX y Diseño Interactivo",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41440",
+      "name": "Mecánica de Máquinas",
+      "grupos_originales": 1,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40558",
+      "name": "Inglés IV",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41441",
+      "name": "Diseño de Publicidad y Empaques",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41442",
+      "name": "Diseño Estratégico",
+      "grupos_originales": 1,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41443",
+      "name": "Maderas",
+      "grupos_originales": 1,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41444",
+      "name": "Investigación en Diseño",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41445",
+      "name": "Fundamentos de Diseño Mecatrónico",
+      "grupos_originales": 1,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41446",
+      "name": "Diseño para la Manufactura",
+      "grupos_originales": 2,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41447",
+      "name": "Gestión de Proyectos de Innovación",
+      "grupos_originales": 1,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41448",
+      "name": "Metales",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41449",
+      "name": "Diseño para la Innovación",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41450",
+      "name": "Emprendimiento y Plan de Negocios",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41451",
+      "name": "Polímeros",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41452",
+      "name": "Seminario Trabajo de Grado",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41453",
+      "name": "Diseño de Experiencias y Servicios",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24697",
+      "name": "Portafolio de Producto",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO",
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24698",
+      "name": "Diseño Digital",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO",
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24699",
+      "name": "Usabilidad",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO",
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24700",
+      "name": "Gerencia de Mercadeo",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO",
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24701",
+      "name": "Historia del Cambio Tecnológico",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO",
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24702",
+      "name": "Estadística",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO",
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "27100",
+      "name": "Experimentación en Diseño I",
+      "grupos_originales": 1,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "27716",
+      "name": "Diseño de Joyería",
+      "grupos_originales": 1,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28493",
+      "name": "Artefactos Basados en Plegado",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL NUEVO"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "23015",
+      "name": "Geometria Descriptiva",
+      "grupos_originales": 20,
+      "programas": [
+        "DISEÑO INDUSTRIAL",
+        "INGENIERIA CIVIL",
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24588",
+      "name": "Diseño i Creatividad",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24589",
+      "name": "Expresion i Bocetacion",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24590",
+      "name": "Diseño II Lenguaje Basico",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24591",
+      "name": "Dibujo Mecanico",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24592",
+      "name": "Metodologia del Diseño",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "20113",
+      "name": "Mecanica Analitica",
+      "grupos_originales": 7,
+      "programas": [
+        "DISEÑO INDUSTRIAL",
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24593",
+      "name": "Diseño III Configuracion",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24594",
+      "name": "Expresion II Tridimensional",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24595",
+      "name": "Ergonomia Fisica",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24596",
+      "name": "Semiotica",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24597",
+      "name": "Diseño IV Bioforma",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24598",
+      "name": "Expresion III Tecnicas - Color",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24599",
+      "name": "Ergonomia Cognitiva y Ambiental",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24600",
+      "name": "Materiales y Procesos I Madera",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24601",
+      "name": "Mecanica de Solidos",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "23025",
+      "name": "Mecanica de Maquinas",
+      "grupos_originales": 4,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24602",
+      "name": "Diseño V Objeto/Significado",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24603",
+      "name": "Ergonomia del Producto",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24604",
+      "name": "Historia del Diseño",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24605",
+      "name": "Materiales y Procesos II Polimeros",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24606",
+      "name": "Diseño VI Bioenergia",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24607",
+      "name": "Sociologia",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24608",
+      "name": "Materiales y Procesos III Metales",
+      "grupos_originales": 1,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24609",
+      "name": "Fundamentos del Diseño Mecatronico",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24610",
+      "name": "Diseño VII Producto",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24611",
+      "name": "Expresion IV Axonometria",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24612",
+      "name": "Ecodiseño",
+      "grupos_originales": 1,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24613",
+      "name": "Materiales y Procesos IV Cueros",
+      "grupos_originales": 0,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24614",
+      "name": "Diseño VIII Interdisciplina",
+      "grupos_originales": 1,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24615",
+      "name": "Expresion V Fotografia",
+      "grupos_originales": 1,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24616",
+      "name": "Materiales Y Procesos V Ceramicos/Vidrios",
+      "grupos_originales": 1,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24617",
+      "name": "Expresion VI Composicion y Edicion Digital",
+      "grupos_originales": 1,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24618",
+      "name": "Plan de Negocios",
+      "grupos_originales": 1,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24619",
+      "name": "Diseño de Empaques",
+      "grupos_originales": 1,
+      "programas": [
+        "DISEÑO INDUSTRIAL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41023",
+      "name": "Bioestadística",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41024",
+      "name": "Fenómenos de Transporte",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41025",
+      "name": "Fisiología II",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41026",
+      "name": "Circuitos Eléctricos y Electrónica Analógica",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41027",
+      "name": "Estructuras de Datos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41028",
+      "name": "Ciencia de los Materiales",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41029",
+      "name": "Gestión de Proyectos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41030",
+      "name": "Biomateriales",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41031",
+      "name": "Gestión Tecnológica Hospitalaria",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41032",
+      "name": "Diseño de Sistemas Digitales y Embebidos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41033",
+      "name": "Bases de Datos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41098",
+      "name": "Lengua Extranjera IV: Inglés",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA",
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41034",
+      "name": "Biomecánica",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41035",
+      "name": "Procesamiento de Señales Multidimensionales",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41036",
+      "name": "Inteligencia Artificial y Big Data",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41037",
+      "name": "Diseño en Ingeniería I",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41038",
+      "name": "Formación Empresarial",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41039",
+      "name": "Modelado de Sistemas Biomédicos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41040",
+      "name": "Gestión de Calidad y Acreditación en Sistemas de Salud",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41041",
+      "name": "Diseño en Ingeniería II",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA BIOMEDICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40935",
+      "name": "Cálculo de funciones en una Variable",
+      "grupos_originales": 8,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41330",
+      "name": "Química para Ingeniería",
+      "grupos_originales": 10,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41331",
+      "name": "Introducción a la Ingeniería en Ciencia de Datos",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41332",
+      "name": "Álgebra Lineal en Espacios Vectoriales Generales",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41333",
+      "name": "Algoritmos y Programación",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41334",
+      "name": "Matemáticas Discretas",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41335",
+      "name": "Sistemas Distribuidos",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41336",
+      "name": "Estructuras de Datos",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41337",
+      "name": "Estadística Descriptiva y Probabilidad",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41338",
+      "name": "Métodos Numéricos y Optimización",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41339",
+      "name": "Visualización y Representación de Datos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41340",
+      "name": "Programación Orientada a Objetos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41341",
+      "name": "Aprendizaje de Máquina",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41342",
+      "name": "Estadística Inferencial",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41343",
+      "name": "Gestión de Proyectos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41344",
+      "name": "Big Data",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41345",
+      "name": "Bases de Datos Relacionales",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41346",
+      "name": "Aprendizaje Profundo",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41347",
+      "name": "Métodos de Inferencia Bayesiana",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41348",
+      "name": "Diseño en Ingeniería I",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41349",
+      "name": "Infraestructura TI para la Ingeniería de Datos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41350",
+      "name": "Bases de Datos no Relacionales",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41351",
+      "name": "Aprendizaje no Supervisado",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41352",
+      "name": "Fundamentos de Simulación",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41353",
+      "name": "Ingeniería de Software",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41354",
+      "name": "Seguridad y Gobierno de Datos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41355",
+      "name": "Diseño en Ingeniería II",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "41356",
+      "name": "Inteligencia de Negocios",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA EN CIENCIA DE DATOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "23018",
+      "name": "Estática",
+      "grupos_originales": 7,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24090",
+      "name": "Topografía",
+      "grupos_originales": 9,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "23834",
+      "name": "Mecánica de Sólidos",
+      "grupos_originales": 3,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24091",
+      "name": "Geologia para Ingenieros",
+      "grupos_originales": 5,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24092",
+      "name": "Métodos Númericos",
+      "grupos_originales": 3,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24093",
+      "name": "Mecánica de Fluidos",
+      "grupos_originales": 15,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24094",
+      "name": "Análisis Estructural",
+      "grupos_originales": 10,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24095",
+      "name": "Estádistica Aplicada a la Ingeniería",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24096",
+      "name": "Caracterización de Materiales I",
+      "grupos_originales": 10,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24097",
+      "name": "Geomática",
+      "grupos_originales": 7,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24098",
+      "name": "Hidrología",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24099",
+      "name": "Materiales de Construcción",
+      "grupos_originales": 5,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24100",
+      "name": "Diseño de Hormigon Armado I",
+      "grupos_originales": 5,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24101",
+      "name": "Mecánica de Suelos I",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24102",
+      "name": "Caracterización de Materiales II",
+      "grupos_originales": 12,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24103",
+      "name": "Ingeniería de Tránsito",
+      "grupos_originales": 5,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24104",
+      "name": "Hidráulica",
+      "grupos_originales": 12,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24105",
+      "name": "Diseño de Hormigón Armado II",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24106",
+      "name": "Fundaciones I",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24107",
+      "name": "Ingeniería Económica",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24108",
+      "name": "Dinámica Estructural",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24109",
+      "name": "Acueductos y Alcantarillados",
+      "grupos_originales": 12,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24110",
+      "name": "Construcción",
+      "grupos_originales": 3,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24111",
+      "name": "Diseño de Estructura Metálicas",
+      "grupos_originales": 3,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24112",
+      "name": "Diseño Vial",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24113",
+      "name": "Diseño de Pavimentos",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "21586",
+      "name": "Proyectos de Ingeniería",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24114",
+      "name": "Diseño de Puentes",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24115",
+      "name": "Mecánica del Medio Continuo",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24116",
+      "name": "Análisis y Diseño Avanzado de Estructuras",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24117",
+      "name": "Diseño de Hormigón Preesforzado",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24118",
+      "name": "Estructuras de Cimentación y contención",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24119",
+      "name": "Industrialización de la Construcción",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24120",
+      "name": "Diseño de Estructuras Especiales",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24121",
+      "name": "Amenaza, Vulnerabilidad y Riesgo Sísmico",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24122",
+      "name": "Patologia y Rehabilitación de Estructuras de Concreto",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24123",
+      "name": "Ingeniería Sísmica",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24124",
+      "name": "Nuevos Materiales de Construcción",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24125",
+      "name": "Ingeniería del Agua Subterránea",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24126",
+      "name": "Mecánica de Acuíferos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24127",
+      "name": "Gestión de Hidrosistemas",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24128",
+      "name": "Ingeniería en Ríos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24129",
+      "name": "Hidrología Avanzada",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24130",
+      "name": "Modelado Avanzado de Hidrosistemas",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24131",
+      "name": "Diseño de Plantas de Tratamiento",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24132",
+      "name": "Diseño de Estructuras Hidráulicas",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24133",
+      "name": "Instalaciones Hidráulicas y Sanitarias",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24134",
+      "name": "Técnicas de Saneamiento Ambiental",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24135",
+      "name": "Flujo en la Zona Vadosa",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24136",
+      "name": "Evaluación de Impacto Ambiental",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24137",
+      "name": "Transporte de Solutos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24138",
+      "name": "Obras de Tierra",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24139",
+      "name": "Fundaciones II",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24140",
+      "name": "Geotecnia Avanzada",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24141",
+      "name": "Control de Erosión",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24142",
+      "name": "Estabilidad de Taludes",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24143",
+      "name": "Diseño Avanzado de Vías",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24144",
+      "name": "Mantenimiento de redes Viales",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24145",
+      "name": "Técnicas de Optimización I",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24146",
+      "name": "Programación y Costos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24147",
+      "name": "Legislación y Contratación",
+      "grupos_originales": 3,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "24148",
+      "name": "Transportes",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "29086",
+      "name": "Técnicas de Optimización I",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "29087",
+      "name": "Programación y Costos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "29088",
+      "name": "Métodos Estadísticos para seguimiento y control de sistemas y\r\n            proyectos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "29089",
+      "name": "Gestión del riesgo",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA CIVIL"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "20314",
+      "name": "Química I",
+      "grupos_originales": 9,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "23050",
+      "name": "Introducc.a.la.Ing.de Petroleos",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "23079",
+      "name": "Química II",
+      "grupos_originales": 8,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28035",
+      "name": "Geología general de hidrocarburos",
+      "grupos_originales": 3,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28036",
+      "name": "Sedimentología de hidrocarburos",
+      "grupos_originales": 3,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28037",
+      "name": "Balance y transferencia de masa y energía",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28038",
+      "name": "Geología estructural de hidrocarburos",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28039",
+      "name": "Análisis petrofísicos",
+      "grupos_originales": 4,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28040",
+      "name": "Métodos numéricos",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28041",
+      "name": "Termodinámica de hidrocarburos",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28042",
+      "name": "Lodos de perforación",
+      "grupos_originales": 5,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28043",
+      "name": "Fenómenos de transporte de hidrocarburos",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28044",
+      "name": "Estadística",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28045",
+      "name": "Ingeniería económica",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28046",
+      "name": "Propiedades de los fluidos",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28047",
+      "name": "Evaluación de formaciones",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28048",
+      "name": "Perforación de pozos",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "23183",
+      "name": "Laboratorio de fluidos",
+      "grupos_originales": 2,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28049",
+      "name": "Evaluación de proyectos",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28050",
+      "name": "Política petrolera",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28051",
+      "name": "Responsabilidad social",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28052",
+      "name": "Completamiento de pozos",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28053",
+      "name": "Ingeniería de yacimientos",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28054",
+      "name": "Gestión integral de la industria petrolera",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28055",
+      "name": "Análisis de presiones",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28056",
+      "name": "Métodos de producción",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28057",
+      "name": "Ingeniería del gas",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28058",
+      "name": "Simulación de yacimientos",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28059",
+      "name": "Facilidades de superficie",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28060",
+      "name": "Métodos de recobro",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "21458",
+      "name": "Corrosión y su control",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "21517",
+      "name": "Seguridad Industrial",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "23193",
+      "name": "Simulación avanzada de yacimientos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "23196",
+      "name": "Estadística Aplicada",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "23207",
+      "name": "Simulación de procesos hidrocarburos",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "23208",
+      "name": "Tecnología del gas",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "23209",
+      "name": "Estructura y propiedades de los materiales",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "26542",
+      "name": "Geomecánica y sus aplicaciones a la industria del petroleo",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "26579",
+      "name": "Medición de hidrocarburos",
+      "grupos_originales": 1,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "28422",
+      "name": "Operaciones costa afuera",
+      "grupos_originales": 0,
+      "programas": [
+        "INGENIERIA DE PETROLEOS"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40513",
+      "name": "FISICA I",
+      "grupos_originales": 6,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40514",
+      "name": "CALCULO I",
+      "grupos_originales": 3,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40515",
+      "name": "QUIMICA GENERAL I",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40516",
+      "name": "LAB QUIMICA GENERAL I",
+      "grupos_originales": 3,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40517",
+      "name": "FISICA II",
+      "grupos_originales": 4,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40518",
+      "name": "CALCULO II",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40519",
+      "name": "ALGEBRA LINEAL",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40520",
+      "name": "QUIMICA GENERAL II",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40521",
+      "name": "LAB QUIMICA GENERAL II",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40522",
+      "name": "FISICA III",
+      "grupos_originales": 4,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40523",
+      "name": "CALCULO III",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40524",
+      "name": "FISICOQUIMICA I",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40525",
+      "name": "QUIMICA ANALITICA I",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40526",
+      "name": "LAB QUIMICA ANALITICA I",
+      "grupos_originales": 3,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40527",
+      "name": "QUIMICA ORGANICA I",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40528",
+      "name": "ECUACIONES DIFERENCIALES",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40529",
+      "name": "FISICOQUIMICA II",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40530",
+      "name": "LABORATORIO DE FISICOQUIMICA I",
+      "grupos_originales": 4,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40531",
+      "name": "QUIMICA ANALITICA II",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40532",
+      "name": "QUIMICA ORGANICA II",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40533",
+      "name": "LAB.QIMICA ORGANICA I",
+      "grupos_originales": 3,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40534",
+      "name": "QUIMICA CUANTICA",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40535",
+      "name": "LAB.FISICOQUIMICA II",
+      "grupos_originales": 3,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40536",
+      "name": "LAB QUIMICA ANALITICA II",
+      "grupos_originales": 3,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40537",
+      "name": "QUIMICA ORGANICA III",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40538",
+      "name": "LAB QUIMICA ORGANICA II",
+      "grupos_originales": 3,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40539",
+      "name": "BIOQUIMICA I",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40540",
+      "name": "QUIMICA INORGANICA I",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40541",
+      "name": "QUIMICA ANALITICA III",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40542",
+      "name": "LAB.QUIMICA ANALITICA III",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40543",
+      "name": "DISEÑO DE EXPERIMENTOS",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40544",
+      "name": "BIOQUIMICA II",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40545",
+      "name": "LABORATORIO DE BIOQUIMICA",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40546",
+      "name": "QUIMICA INORGANICA II",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40547",
+      "name": "LAB QUIMICA INORGANICA I",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40548",
+      "name": "QUIMICA AMBIENTAL",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40549",
+      "name": "SEMINARIO",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40550",
+      "name": "QUIMICA INDUSTRIAL",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40551",
+      "name": "LAB.QUIMICA INDUSTRIAL",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40552",
+      "name": "LAB.QUIMICA INORGANICA II",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40562",
+      "name": "ELECTROQUIMICA",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40564",
+      "name": "CROMATOGRAFIA",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40570",
+      "name": "QUIMICA FORENSE",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40573",
+      "name": "DIFRACCION DE RAYOS X",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40577",
+      "name": "PROGRAMACION ORIENTADA A LA QUIMICA",
+      "grupos_originales": 2,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40579",
+      "name": "SINTESIS DE MATERIALES CERAMICOS",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    },
+    {
+      "sku": "40583",
+      "name": "ESTEROQUIMICA DE LOS COMPUESTOS ORGANICOS",
+      "grupos_originales": 1,
+      "programas": [
+        "QUIMICA"
+      ],
+      "razon": "SKU no encontrado en archivo de horarios"
+    }
+  ]
+}
