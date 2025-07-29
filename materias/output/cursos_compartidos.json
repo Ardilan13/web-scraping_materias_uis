@@ -1,712 +1,6481 @@
 [
   {
-    "codigo": "20252",
-    "nombre": "Cálculo I",
-    "creditos": 4,
-    "requisitos": [],
-    "nivel": 1,
-    "grupos": [],
+    "sku": "20252",
+    "name": "Cálculo I",
+    "credits": 4,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
-        "new_pensum": false
-      },
-      {
-        "name": "INGENIERIA CIVIL",
-        "Id": 21,
-        "new_pensum": false
-      },
-      {
-        "name": "INGENIERIA DE PETROLEOS",
-        "Id": 4,
-        "new_pensum": false
-      }
-    ]
-  },
-  {
-    "codigo": "22949",
-    "nombre": "Química Básica",
-    "creditos": 4,
-    "requisitos": [],
-    "nivel": 1,
-    "grupos": [],
-    "program": [
-      {
-        "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
-        "new_pensum": false
-      },
-      {
-        "name": "INGENIERIA CIVIL",
-        "Id": 21,
-        "new_pensum": false
-      }
-    ]
-  },
-  {
-    "codigo": "23423",
-    "nombre": "Cultura Física y Deportiva",
-    "creditos": 1,
-    "requisitos": [],
-    "nivel": 1,
-    "grupos": [],
-    "program": [
-      {
-        "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
-        "new_pensum": false
-      },
-      {
-        "name": "INGENIERIA CIVIL",
-        "Id": 21,
-        "new_pensum": false
-      },
-      {
-        "name": "INGENIERIA DE PETROLEOS",
-        "Id": 4,
-        "new_pensum": false
-      }
-    ]
-  },
-  {
-    "codigo": "23427",
-    "nombre": "Taller de Lenguaje",
-    "creditos": 3,
-    "requisitos": [],
-    "nivel": 1,
-    "grupos": [],
-    "program": [
-      {
-        "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
+        "id": 11,
         "new_pensum": false
       },
       {
         "name": "DISEÑO INDUSTRIAL",
-        "Id": 27,
+        "id": 27,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA CIVIL",
-        "Id": 21,
+        "id": 21,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA DE PETROLEOS",
-        "Id": 4,
+        "id": 4,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "24948",
-    "nombre": "Vida y cultura universitaria",
-    "creditos": 0,
-    "requisitos": [],
-    "nivel": 1,
-    "grupos": [],
+    "sku": "22948",
+    "name": "Fundamentos de Programación",
+    "credits": 4,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22949",
+    "name": "Química Básica",
+    "credits": 4,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22979",
+    "name": "Algebra Lineal I",
+    "credits": 4,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "23423",
+    "name": "Cultura Física y Deportiva",
+    "credits": 1,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
         "new_pensum": false
       },
       {
         "name": "DISEÑO INDUSTRIAL",
-        "Id": 27,
+        "id": 27,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA CIVIL",
-        "Id": 21,
+        "id": 21,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA DE PETROLEOS",
-        "Id": 4,
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "20253",
-    "nombre": "Cálculo II",
-    "creditos": 4,
-    "requisitos": [
+    "sku": "23427",
+    "name": "Taller de Lenguaje",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24948",
+    "name": "Vida y cultura universitaria",
+    "credits": 0,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "20253",
+    "name": "Cálculo II",
+    "credits": 4,
+    "requirements": [
       "20252"
     ],
-    "nivel": 2,
-    "grupos": [],
+    "level": 2,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA CIVIL",
-        "Id": 21,
+        "id": 21,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA DE PETROLEOS",
-        "Id": 4,
+        "id": 4,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "22109",
-    "nombre": "Ética Ciudadana",
-    "creditos": 3,
-    "requisitos": [],
-    "nivel": 2,
-    "grupos": [],
+    "sku": "22109",
+    "name": "Ética Ciudadana",
+    "credits": 3,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA CIVIL",
-        "Id": 21,
+        "id": 21,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "22950",
-    "nombre": "Física I",
-    "creditos": 4,
-    "requisitos": [],
-    "nivel": 2,
-    "grupos": [],
+    "sku": "22950",
+    "name": "Física I",
+    "credits": 4,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA CIVIL",
-        "Id": 21,
+        "id": 21,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA DE PETROLEOS",
-        "Id": 4,
+        "id": 4,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "22952",
-    "nombre": "Biología para Ingenieros",
-    "creditos": 2,
-    "requisitos": [
+    "sku": "22951",
+    "name": "Programación Orientada a Objetos",
+    "credits": 4,
+    "requirements": [
+      "22948"
+    ],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22952",
+    "name": "Biología para Ingenieros",
+    "credits": 2,
+    "requirements": [
       "22949"
     ],
-    "nivel": 2,
-    "grupos": [],
+    "level": 2,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
+        "id": 11,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA CIVIL",
-        "Id": 21,
+        "id": 21,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA DE PETROLEOS",
-        "Id": 4,
+        "id": 4,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "20254",
-    "nombre": "Cálculo III",
-    "creditos": 4,
-    "requisitos": [
-      "20253"
-    ],
-    "nivel": 3,
-    "grupos": [],
+    "sku": "23424",
+    "name": "Inglés I",
+    "credits": 4,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA CIVIL",
-        "Id": 21,
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "22953",
-    "nombre": "Física II",
-    "creditos": 4,
-    "requisitos": [
+    "sku": "20254",
+    "name": "Cálculo III",
+    "credits": 4,
+    "requirements": [
+      "20253"
+    ],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22953",
+    "name": "Física II",
+    "credits": 4,
+    "requirements": [
       "20252",
       "22950"
     ],
-    "nivel": 3,
-    "grupos": [],
+    "level": 3,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
+        "id": 11,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA CIVIL",
-        "Id": 21,
-        "new_pensum": false
-      }
-    ]
-  },
-  {
-    "codigo": "23425",
-    "nombre": "Inglés II",
-    "creditos": 4,
-    "requisitos": [
-      "23424"
-    ],
-    "nivel": 3,
-    "grupos": [],
-    "program": [
-      {
-        "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
-        "new_pensum": false
-      },
-      {
-        "name": "INGENIERIA CIVIL",
-        "Id": 21,
-        "new_pensum": false
-      }
-    ]
-  },
-  {
-    "codigo": "20255",
-    "nombre": "Ecuaciones Diferenciales",
-    "creditos": 4,
-    "requisitos": [
-      "20254"
-    ],
-    "nivel": 4,
-    "grupos": [],
-    "program": [
-      {
-        "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
-        "new_pensum": false
-      },
-      {
-        "name": "INGENIERIA CIVIL",
-        "Id": 21,
+        "id": 21,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA DE PETROLEOS",
-        "Id": 4,
+        "id": 4,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "22956",
-    "nombre": "Física III",
-    "creditos": 4,
-    "requisitos": [
+    "sku": "22954",
+    "name": "Matemáticas discretas",
+    "credits": 4,
+    "requirements": [
+      "22979"
+    ],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22955",
+    "name": "Estruc. de datos y análisis de alg.",
+    "credits": 4,
+    "requirements": [
+      "22951"
+    ],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "23425",
+    "name": "Inglés II",
+    "credits": 4,
+    "requirements": [
+      "23424"
+    ],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "20255",
+    "name": "Ecuaciones Diferenciales",
+    "credits": 4,
+    "requirements": [
+      "20254"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22956",
+    "name": "Física III",
+    "credits": 4,
+    "requirements": [
       "20253",
       "22953"
     ],
-    "nivel": 4,
-    "grupos": [],
+    "level": 4,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
+        "id": 11,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA CIVIL",
-        "Id": 21,
+        "id": 21,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA DE PETROLEOS",
-        "Id": 4,
+        "id": 4,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "22975",
-    "nombre": "Trabajo de Grado I",
-    "creditos": 3,
-    "requisitos": [
+    "sku": "22957",
+    "name": "Electricidad y Electrónica",
+    "credits": 4,
+    "requirements": [
+      "22953"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22958",
+    "name": "Autómatas y lenguajes formales",
+    "credits": 4,
+    "requirements": [
+      "22954"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22959",
+    "name": "Base de Datos I",
+    "credits": 4,
+    "requirements": [
+      "22955"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22960",
+    "name": "Base de Datos II",
+    "credits": 4,
+    "requirements": [
+      "22959"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22961",
+    "name": "Sistemas Digitales",
+    "credits": 4,
+    "requirements": [
+      "22957"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22962",
+    "name": "Análisis Númerico I",
+    "credits": 4,
+    "requirements": [
+      "20255"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22963",
+    "name": "Pensamiento sistémico y organizacional",
+    "credits": 4,
+    "requirements": [
+      "20255",
+      "22952"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22964",
+    "name": "Dirección empresarial I",
+    "credits": 3,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21857",
+    "name": "Estadística I",
+    "credits": 4,
+    "requirements": [
+      "20254",
+      "22954"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22965",
+    "name": "Redes de Computadores I",
+    "credits": 4,
+    "requirements": [
+      "22958"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22966",
+    "name": "Arquitectura de Computadores",
+    "credits": 4,
+    "requirements": [
+      "22961"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22967",
+    "name": "Programación en la Web",
+    "credits": 4,
+    "requirements": [
+      "22951"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22968",
+    "name": "Sistemas de Información",
+    "credits": 4,
+    "requirements": [
+      "22959",
+      "22964"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21858",
+    "name": "Estadística II",
+    "credits": 4,
+    "requirements": [
+      "21857"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22969",
+    "name": "Ingeniería del Software I",
+    "credits": 4,
+    "requirements": [
+      "22968"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22970",
+    "name": "Redes de Computadores II",
+    "credits": 4,
+    "requirements": [
+      "22965"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22971",
+    "name": "Inteligencia Artificial I",
+    "credits": 4,
+    "requirements": [
+      "22959"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22972",
+    "name": "Sistemas Operacionales",
+    "credits": 4,
+    "requirements": [
+      "22966"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22973",
+    "name": "Ingeniería del Software II",
+    "credits": 4,
+    "requirements": [
+      "22969"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22974",
+    "name": "Simulación Digital",
+    "credits": 4,
+    "requirements": [
+      "21857"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22975",
+    "name": "Trabajo de Grado I",
+    "credits": 3,
+    "requirements": [
       "CA: 150"
     ],
-    "nivel": 9,
-    "grupos": [],
+    "level": 9,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
+        "id": 11,
         "new_pensum": false
       },
       {
         "name": "DISEÑO INDUSTRIAL",
-        "Id": 27,
+        "id": 27,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA CIVIL",
-        "Id": 21,
+        "id": 21,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA DE PETROLEOS",
-        "Id": 4,
+        "id": 4,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "22977",
-    "nombre": "Trabajo de Grado II",
-    "creditos": 7,
-    "requisitos": [
+    "sku": "22976",
+    "name": "Ingeniería Económica",
+    "credits": 3,
+    "requirements": [
+      "20254"
+    ],
+    "level": 9,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22977",
+    "name": "Trabajo de Grado II",
+    "credits": 7,
+    "requirements": [
       "22975"
     ],
-    "nivel": 10,
-    "grupos": [],
+    "level": 10,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
+        "id": 11,
         "new_pensum": false
       },
       {
         "name": "DISEÑO INDUSTRIAL",
-        "Id": 27,
+        "id": 27,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA CIVIL",
-        "Id": 21,
+        "id": 21,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA DE PETROLEOS",
-        "Id": 4,
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "27288",
-    "nombre": "Interacción Hombre Computador",
-    "creditos": 4,
-    "requisitos": [],
-    "nivel": "Electivas",
-    "grupos": [],
-    "program": [
-      {
-        "name": "INGENIERIA DE SISTEMAS",
-        "Id": 11,
-        "new_pensum": false
-      },
-      {
-        "name": "DISEÑO INDUSTRIAL NUEVO",
-        "Id": 27,
-        "new_pensum": true
-      }
-    ]
-  },
-  {
-    "codigo": "29205",
-    "nombre": "Cátedra UIS",
-    "creditos": 1,
-    "requisitos": [],
-    "nivel": 1,
-    "grupos": [],
-    "program": [
-      {
-        "name": "DISEÑO INDUSTRIAL NUEVO",
-        "Id": 27,
-        "new_pensum": true
-      },
-      {
-        "name": "INGENIERIA BIOMEDICA",
-        "Id": 69,
-        "new_pensum": false
-      },
-      {
-        "name": "INGENIERIA EN CIENCIA DE DATOS",
-        "Id": 50,
-        "new_pensum": false
-      }
-    ]
-  },
-  {
-    "codigo": "40940",
-    "nombre": "Mecánica",
-    "creditos": 3,
-    "requisitos": [],
-    "nivel": 2,
-    "grupos": [],
-    "program": [
-      {
-        "name": "DISEÑO INDUSTRIAL NUEVO",
-        "Id": 27,
-        "new_pensum": true
-      },
-      {
-        "name": "INGENIERIA BIOMEDICA",
-        "Id": 69,
-        "new_pensum": false
-      },
-      {
-        "name": "INGENIERIA EN CIENCIA DE DATOS",
-        "Id": 50,
-        "new_pensum": false
-      }
-    ]
-  },
-  {
-    "codigo": "23424",
-    "nombre": "Ingles I",
-    "creditos": 4,
-    "requisitos": [],
-    "nivel": 6,
-    "grupos": [],
-    "program": [
-      {
-        "name": "DISEÑO INDUSTRIAL",
-        "Id": 27,
-        "new_pensum": false
-      },
-      {
-        "name": "INGENIERIA CIVIL",
-        "Id": 21,
-        "new_pensum": false
-      },
-      {
-        "name": "INGENIERIA DE PETROLEOS",
-        "Id": 4,
-        "new_pensum": false
-      }
-    ]
-  },
-  {
-    "codigo": "23425",
-    "nombre": "Ingles II",
-    "creditos": 4,
-    "requisitos": [
-      "23424"
+    "sku": "22978",
+    "name": "Economía Empresarial",
+    "credits": 4,
+    "requirements": [
+      "22968"
     ],
-    "nivel": 7,
-    "grupos": [],
+    "level": 10,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21870",
+    "name": "Gerencia de Informática I",
+    "credits": 4,
+    "requirements": [
+      "22968"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22490",
+    "name": "Seguridad informática",
+    "credits": 4,
+    "requirements": [
+      "22972"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24542",
+    "name": "Entornos de programación",
+    "credits": 4,
+    "requirements": [
+      "22959"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24543",
+    "name": "Tratamiento de señales",
+    "credits": 4,
+    "requirements": [
+      "20255"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24544",
+    "name": "Sistemas discretos y continuos",
+    "credits": 4,
+    "requirements": [
+      "20255"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24545",
+    "name": "Modelado estructural",
+    "credits": 4,
+    "requirements": [
+      "20255",
+      "22963"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24546",
+    "name": "Microcontroladores I",
+    "credits": 4,
+    "requirements": [
+      "22961"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24548",
+    "name": "Auditoría de sistemas",
+    "credits": 4,
+    "requirements": [
+      "22968"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24549",
+    "name": "Investigación operacional",
+    "credits": 4,
+    "requirements": [
+      "21857"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24550",
+    "name": "Modelos a gran escala",
+    "credits": 4,
+    "requirements": [
+      "21857"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24551",
+    "name": "Gestión de redes empresariales",
+    "credits": 4,
+    "requirements": [
+      "22970"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24552",
+    "name": "Inteligencia artificial II",
+    "credits": 4,
+    "requirements": [
+      "22971"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24553",
+    "name": "Microcontroladores II",
+    "credits": 4,
+    "requirements": [
+      "24546"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24554",
+    "name": "Trabajo de investigación II",
+    "credits": 2,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24555",
+    "name": "Informática biomédica",
+    "credits": 4,
+    "requirements": [
+      "22962"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24556",
+    "name": "Sistemas distribuidos",
+    "credits": 4,
+    "requirements": [
+      "22972"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24557",
+    "name": "Ingeniería de software III",
+    "credits": 4,
+    "requirements": [
+      "22973"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24558",
+    "name": "Inteligencia artificial III",
+    "credits": 4,
+    "requirements": [
+      "24552"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24560",
+    "name": "Programación distribuida",
+    "credits": 4,
+    "requirements": [
+      "22962"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24936",
+    "name": "Compiladores de lenguaje",
+    "credits": 4,
+    "requirements": [
+      "22958"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "27288",
+    "name": "Interacción Hombre Computador",
+    "credits": 4,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "27571",
+    "name": "Procesamiento de imágenes digitales",
+    "credits": 4,
+    "requirements": [
+      "22962"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "27572",
+    "name": "Algoritmos I",
+    "credits": 4,
+    "requirements": [
+      "22962"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "27582",
+    "name": "Análisis de datos a gran escala",
+    "credits": 4,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "27586",
+    "name": "Trabajo de investigación I",
+    "credits": 2,
+    "requirements": [
+      "CA: 90"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "27798",
+    "name": "Optimización convexa",
+    "credits": 4,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28091",
+    "name": "Principios y prácticas de desarrollo de software orientado a objetos",
+    "credits": 4,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28661",
+    "name": "Introducción a la computación paralela",
+    "credits": 4,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28664",
+    "name": "Innovación educativa en la sociedad de la información",
+    "credits": 4,
+    "requirements": [
+      "22968"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28665",
+    "name": "Modelos de negocios en la sociedad de la información",
+    "credits": 4,
+    "requirements": [
+      "22968"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "29058",
+    "name": "Visión por computador",
+    "credits": 4,
+    "requirements": [
+      "22979"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "29155",
+    "name": "Arquitectura Empresarial",
+    "credits": 4,
+    "requirements": [
+      "22968"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "29156",
+    "name": "Gestión del conocimiento",
+    "credits": 4,
+    "requirements": [
+      "22968"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "29205",
+    "name": "Cátedra UIS",
+    "credits": 1,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41419",
+    "name": "Pensamiento de Diseño I",
+    "credits": 5,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41420",
+    "name": "Comunicación Visual I",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41421",
+    "name": "Dibujo Paramétrico",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41422",
+    "name": "Matemática Aplicada I",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "40940",
+    "name": "Mecánica",
+    "credits": 3,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41423",
+    "name": "Pensamiento de Diseño II",
+    "credits": 5,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41424",
+    "name": "Comunicación Visual II",
+    "credits": 3,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41425",
+    "name": "Semiótica",
+    "credits": 2,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41426",
+    "name": "Introducción al Álgebra Lineal",
+    "credits": 3,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "40555",
+    "name": "Inglés I",
+    "credits": 2,
+    "requirements": [],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41427",
+    "name": "Pensamiento de Diseño III",
+    "credits": 5,
+    "requirements": [],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41428",
+    "name": "Ciencia de los Materiales",
+    "credits": 2,
+    "requirements": [],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41429",
+    "name": "Ergonomía Física y Cognitiva",
+    "credits": 3,
+    "requirements": [],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41430",
+    "name": "Estática",
+    "credits": 3,
+    "requirements": [],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "40556",
+    "name": "Inglés II",
+    "credits": 2,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41431",
+    "name": "Comunicación Visual III",
+    "credits": 3,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41432",
+    "name": "Ergonomía de Producto",
+    "credits": 3,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41433",
+    "name": "Historia del diseño",
+    "credits": 2,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41434",
+    "name": "Cultura Material",
+    "credits": 2,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41435",
+    "name": "Mecánica Sólidos",
+    "credits": 3,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "40557",
+    "name": "Inglés III",
+    "credits": 2,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41436",
+    "name": "Diseño para la Sostenibilidad",
+    "credits": 3,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41437",
+    "name": "Diseño de la Información",
+    "credits": 2,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41438",
+    "name": "Cueros y Textiles",
+    "credits": 2,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41439",
+    "name": "UX y Diseño Interactivo",
+    "credits": 3,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41440",
+    "name": "Mecánica de Máquinas",
+    "credits": 3,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "40558",
+    "name": "Inglés IV",
+    "credits": 2,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41441",
+    "name": "Diseño de Publicidad y Empaques",
+    "credits": 2,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41442",
+    "name": "Diseño Estratégico",
+    "credits": 5,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41443",
+    "name": "Maderas",
+    "credits": 2,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41444",
+    "name": "Investigación en Diseño",
+    "credits": 2,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41445",
+    "name": "Fundamentos de Diseño Mecatrónico",
+    "credits": 3,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41446",
+    "name": "Diseño para la Manufactura",
+    "credits": 5,
+    "requirements": [],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41447",
+    "name": "Gestión de Proyectos de Innovación",
+    "credits": 3,
+    "requirements": [],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41448",
+    "name": "Metales",
+    "credits": 2,
+    "requirements": [],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41449",
+    "name": "Diseño para la Innovación",
+    "credits": 5,
+    "requirements": [],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41450",
+    "name": "Emprendimiento y Plan de Negocios",
+    "credits": 3,
+    "requirements": [],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41451",
+    "name": "Polímeros",
+    "credits": 2,
+    "requirements": [],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41452",
+    "name": "Seminario Trabajo de Grado",
+    "credits": 5,
+    "requirements": [],
+    "level": 9,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41453",
+    "name": "Diseño de Experiencias y Servicios",
+    "credits": 3,
+    "requirements": [],
+    "level": 9,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "24697",
+    "name": "Portafolio de Producto",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24698",
+    "name": "Diseño Digital",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24699",
+    "name": "Usabilidad",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24700",
+    "name": "Gerencia de Mercadeo",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24701",
+    "name": "Historia del Cambio Tecnológico",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24702",
+    "name": "Estadística",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "27100",
+    "name": "Experimentación en Diseño I",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "27716",
+    "name": "Diseño de Joyería",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "28493",
+    "name": "Artefactos Basados en Plegado",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "23015",
+    "name": "Geometria Descriptiva",
+    "credits": 4,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
     "program": [
       {
         "name": "DISEÑO INDUSTRIAL",
-        "Id": 27,
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA DE PETROLEOS",
-        "Id": 4,
+        "id": 4,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "40936",
-    "nombre": "Introducción al Álgebra Lineal",
-    "creditos": 3,
-    "requisitos": [],
-    "nivel": 1,
-    "grupos": [],
+    "sku": "24588",
+    "name": "Diseño i Creatividad",
+    "credits": 5,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24589",
+    "name": "Expresion i Bocetacion",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24590",
+    "name": "Diseño II Lenguaje Basico",
+    "credits": 5,
+    "requirements": [
+      "24588"
+    ],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24591",
+    "name": "Dibujo Mecanico",
+    "credits": null,
+    "requirements": [
+      "23015"
+    ],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24592",
+    "name": "Metodologia del Diseño",
+    "credits": 3,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "20113",
+    "name": "Mecanica Analitica",
+    "credits": 4,
+    "requirements": [
+      "20253",
+      "22950"
+    ],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24593",
+    "name": "Diseño III Configuracion",
+    "credits": 5,
+    "requirements": [
+      "24590"
+    ],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24594",
+    "name": "Expresion II Tridimensional",
+    "credits": 3,
+    "requirements": [
+      "24589"
+    ],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24595",
+    "name": "Ergonomia Fisica",
+    "credits": 3,
+    "requirements": [],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24596",
+    "name": "Semiotica",
+    "credits": 3,
+    "requirements": [],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24597",
+    "name": "Diseño IV Bioforma",
+    "credits": 5,
+    "requirements": [
+      "24593"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24598",
+    "name": "Expresion III Tecnicas - Color",
+    "credits": 3,
+    "requirements": [
+      "24594"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24599",
+    "name": "Ergonomia Cognitiva y Ambiental",
+    "credits": 3,
+    "requirements": [
+      "24595"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24600",
+    "name": "Materiales y Procesos I Madera",
+    "credits": 4,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24601",
+    "name": "Mecanica de Solidos",
+    "credits": 4,
+    "requirements": [
+      "20113"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "23025",
+    "name": "Mecanica de Maquinas",
+    "credits": 4,
+    "requirements": [
+      "24601"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24602",
+    "name": "Diseño V Objeto/Significado",
+    "credits": 5,
+    "requirements": [
+      "24596"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24603",
+    "name": "Ergonomia del Producto",
+    "credits": 3,
+    "requirements": [
+      "24599"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24604",
+    "name": "Historia del Diseño",
+    "credits": 3,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24605",
+    "name": "Materiales y Procesos II Polimeros",
+    "credits": 4,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24606",
+    "name": "Diseño VI Bioenergia",
+    "credits": 5,
+    "requirements": [
+      "23025",
+      "24603"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24607",
+    "name": "Sociologia",
+    "credits": 3,
+    "requirements": [
+      "24596"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24608",
+    "name": "Materiales y Procesos III Metales",
+    "credits": 4,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24609",
+    "name": "Fundamentos del Diseño Mecatronico",
+    "credits": 4,
+    "requirements": [
+      "23025"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24610",
+    "name": "Diseño VII Producto",
+    "credits": 5,
+    "requirements": [
+      "24609"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24611",
+    "name": "Expresion IV Axonometria",
+    "credits": 3,
+    "requirements": [
+      "24598"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24612",
+    "name": "Ecodiseño",
+    "credits": 3,
+    "requirements": [],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24613",
+    "name": "Materiales y Procesos IV Cueros",
+    "credits": 4,
+    "requirements": [],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24614",
+    "name": "Diseño VIII Interdisciplina",
+    "credits": 5,
+    "requirements": [
+      "24609",
+      "24612"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24615",
+    "name": "Expresion V Fotografia",
+    "credits": 3,
+    "requirements": [
+      "24611"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24616",
+    "name": "Materiales Y Procesos V Ceramicos/Vidrios",
+    "credits": 4,
+    "requirements": [],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24617",
+    "name": "Expresion VI Composicion y Edicion Digital",
+    "credits": 3,
+    "requirements": [
+      "24615"
+    ],
+    "level": 9,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24618",
+    "name": "Plan de Negocios",
+    "credits": 3,
+    "requirements": [
+      "22964"
+    ],
+    "level": 9,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24619",
+    "name": "Diseño de Empaques",
+    "credits": 4,
+    "requirements": [
+      "24617"
+    ],
+    "level": 10,
+    "groups": [],
+    "program": [
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40936",
+    "name": "Introducción al Álgebra Lineal",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA BIOMEDICA",
-        "Id": 69,
+        "id": 69,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA EN CIENCIA DE DATOS",
-        "Id": 50,
+        "id": 50,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "41095",
-    "nombre": "Lengua Extranjera I: Inglés",
-    "creditos": 2,
-    "requisitos": [],
-    "nivel": 1,
-    "grupos": [],
+    "sku": "40937",
+    "name": "Bioquímica",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA BIOMEDICA",
-        "Id": 69,
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40938",
+    "name": "Introducción a la Ingeniería Biomédica",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41095",
+    "name": "Lengua Extranjera I: Inglés",
+    "credits": 2,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA EN CIENCIA DE DATOS",
-        "Id": 50,
+        "id": 50,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "40939",
-    "nombre": "Cálculo de Funciones en Varias Variables",
-    "creditos": 3,
-    "requisitos": [],
-    "nivel": 2,
-    "grupos": [],
+    "sku": "40939",
+    "name": "Cálculo de Funciones en Varias Variables",
+    "credits": 3,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA BIOMEDICA",
-        "Id": 69,
+        "id": 69,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA EN CIENCIA DE DATOS",
-        "Id": 50,
+        "id": 50,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "41096",
-    "nombre": "Lengua Extranjera II: Inglés",
-    "creditos": 2,
-    "requisitos": [],
-    "nivel": 2,
-    "grupos": [],
+    "sku": "40941",
+    "name": "Biología Celular y Molecular",
+    "credits": 3,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA BIOMEDICA",
-        "Id": 69,
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40942",
+    "name": "Modelado Asistido por Ordenador CAD",
+    "credits": 3,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41017",
+    "name": "Programación",
+    "credits": 2,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41096",
+    "name": "Lengua Extranjera II: Inglés",
+    "credits": 2,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA EN CIENCIA DE DATOS",
-        "Id": 50,
+        "id": 50,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "41018",
-    "nombre": "Ecuaciones Diferenciales",
-    "creditos": 3,
-    "requisitos": [],
-    "nivel": 3,
-    "grupos": [],
+    "sku": "41018",
+    "name": "Ecuaciones Diferenciales",
+    "credits": 3,
+    "requirements": [],
+    "level": 3,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA BIOMEDICA",
-        "Id": 69,
+        "id": 69,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA EN CIENCIA DE DATOS",
-        "Id": 50,
+        "id": 50,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "41019",
-    "nombre": "Laboratorio de Mecánica",
-    "creditos": 2,
-    "requisitos": [],
-    "nivel": 3,
-    "grupos": [],
+    "sku": "41019",
+    "name": "Laboratorio de Mecánica",
+    "credits": 2,
+    "requirements": [],
+    "level": 3,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA BIOMEDICA",
-        "Id": 69,
+        "id": 69,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA EN CIENCIA DE DATOS",
-        "Id": 50,
+        "id": 50,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "41097",
-    "nombre": "Lengua Extranjera III: Inglés",
-    "creditos": 2,
-    "requisitos": [],
-    "nivel": 3,
-    "grupos": [],
+    "sku": "41020",
+    "name": "Electromagnetismo",
+    "credits": 3,
+    "requirements": [],
+    "level": 3,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA BIOMEDICA",
-        "Id": 69,
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41021",
+    "name": "Fisiología I",
+    "credits": 3,
+    "requirements": [],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41022",
+    "name": "Biotecnología en Salud",
+    "credits": 3,
+    "requirements": [],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41097",
+    "name": "Lengua Extranjera III: Inglés",
+    "credits": 2,
+    "requirements": [],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA EN CIENCIA DE DATOS",
-        "Id": 50,
+        "id": 50,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "41098",
-    "nombre": "Lengua Extranjera IV: Inglés",
-    "creditos": 2,
-    "requisitos": [],
-    "nivel": 5,
-    "grupos": [],
+    "sku": "41023",
+    "name": "Bioestadística",
+    "credits": 3,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA BIOMEDICA",
-        "Id": 69,
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41024",
+    "name": "Fenómenos de Transporte",
+    "credits": 3,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41025",
+    "name": "Fisiología II",
+    "credits": 2,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41026",
+    "name": "Circuitos Eléctricos y Electrónica Analógica",
+    "credits": 4,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41027",
+    "name": "Estructuras de Datos",
+    "credits": 2,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41028",
+    "name": "Ciencia de los Materiales",
+    "credits": 2,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41029",
+    "name": "Gestión de Proyectos",
+    "credits": 3,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41030",
+    "name": "Biomateriales",
+    "credits": 2,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41031",
+    "name": "Gestión Tecnológica Hospitalaria",
+    "credits": 2,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41032",
+    "name": "Diseño de Sistemas Digitales y Embebidos",
+    "credits": 4,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41033",
+    "name": "Bases de Datos",
+    "credits": 3,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41098",
+    "name": "Lengua Extranjera IV: Inglés",
+    "credits": 2,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
         "new_pensum": false
       },
       {
         "name": "INGENIERIA EN CIENCIA DE DATOS",
-        "Id": 50,
+        "id": 50,
         "new_pensum": false
       }
     ]
   },
   {
-    "codigo": "23015",
-    "nombre": "Geometría Descriptiva",
-    "creditos": 4,
-    "requisitos": [],
-    "nivel": 1,
-    "grupos": [],
+    "sku": "41034",
+    "name": "Biomecánica",
+    "credits": 3,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41035",
+    "name": "Procesamiento de Señales Multidimensionales",
+    "credits": 4,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41036",
+    "name": "Inteligencia Artificial y Big Data",
+    "credits": 3,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41037",
+    "name": "Diseño en Ingeniería I",
+    "credits": 4,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41038",
+    "name": "Formación Empresarial",
+    "credits": 2,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41039",
+    "name": "Modelado de Sistemas Biomédicos",
+    "credits": 3,
+    "requirements": [],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41040",
+    "name": "Gestión de Calidad y Acreditación en Sistemas de Salud",
+    "credits": 2,
+    "requirements": [],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41041",
+    "name": "Diseño en Ingeniería II",
+    "credits": 4,
+    "requirements": [],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40935",
+    "name": "Cálculo de funciones en una Variable",
+    "credits": 4,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41330",
+    "name": "Química para Ingeniería",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41331",
+    "name": "Introducción a la Ingeniería en Ciencia de Datos",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41332",
+    "name": "Álgebra Lineal en Espacios Vectoriales Generales",
+    "credits": 3,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41333",
+    "name": "Algoritmos y Programación",
+    "credits": 3,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41334",
+    "name": "Matemáticas Discretas",
+    "credits": 2,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41335",
+    "name": "Sistemas Distribuidos",
+    "credits": 3,
+    "requirements": [],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41336",
+    "name": "Estructuras de Datos",
+    "credits": 3,
+    "requirements": [],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41337",
+    "name": "Estadística Descriptiva y Probabilidad",
+    "credits": 3,
+    "requirements": [],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41338",
+    "name": "Métodos Numéricos y Optimización",
+    "credits": 3,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41339",
+    "name": "Visualización y Representación de Datos",
+    "credits": 2,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41340",
+    "name": "Programación Orientada a Objetos",
+    "credits": 3,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41341",
+    "name": "Aprendizaje de Máquina",
+    "credits": 3,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41342",
+    "name": "Estadística Inferencial",
+    "credits": 3,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41343",
+    "name": "Gestión de Proyectos",
+    "credits": 3,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41344",
+    "name": "Big Data",
+    "credits": 3,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41345",
+    "name": "Bases de Datos Relacionales",
+    "credits": 3,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41346",
+    "name": "Aprendizaje Profundo",
+    "credits": 3,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41347",
+    "name": "Métodos de Inferencia Bayesiana",
+    "credits": 3,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41348",
+    "name": "Diseño en Ingeniería I",
+    "credits": 4,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41349",
+    "name": "Infraestructura TI para la Ingeniería de Datos",
+    "credits": 3,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41350",
+    "name": "Bases de Datos no Relacionales",
+    "credits": 3,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41351",
+    "name": "Aprendizaje no Supervisado",
+    "credits": 3,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41352",
+    "name": "Fundamentos de Simulación",
+    "credits": 3,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41353",
+    "name": "Ingeniería de Software",
+    "credits": 3,
+    "requirements": [],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41354",
+    "name": "Seguridad y Gobierno de Datos",
+    "credits": 3,
+    "requirements": [],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41355",
+    "name": "Diseño en Ingeniería II",
+    "credits": 4,
+    "requirements": [],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41356",
+    "name": "Inteligencia de Negocios",
+    "credits": 3,
+    "requirements": [],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "23018",
+    "name": "Estática",
+    "credits": 4,
+    "requirements": [
+      "20253",
+      "22950"
+    ],
+    "level": 3,
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA CIVIL",
-        "Id": 21,
+        "id": 21,
         "new_pensum": false
-      },
+      }
+    ]
+  },
+  {
+    "sku": "24090",
+    "name": "Topografía",
+    "credits": 4,
+    "requirements": [
+      "23015"
+    ],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "23834",
+    "name": "Mecánica de Sólidos",
+    "credits": 4,
+    "requirements": [
+      "20254",
+      "23018"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24091",
+    "name": "Geologia para Ingenieros",
+    "credits": 3,
+    "requirements": [
+      "24090"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24092",
+    "name": "Métodos Númericos",
+    "credits": 3,
+    "requirements": [
+      "20254"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24093",
+    "name": "Mecánica de Fluidos",
+    "credits": 5,
+    "requirements": [
+      "20255"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24094",
+    "name": "Análisis Estructural",
+    "credits": 5,
+    "requirements": [
+      "23834"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24095",
+    "name": "Estádistica Aplicada a la Ingeniería",
+    "credits": 3,
+    "requirements": [
+      "24092"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24096",
+    "name": "Caracterización de Materiales I",
+    "credits": 1,
+    "requirements": [
+      "23834"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24097",
+    "name": "Geomática",
+    "credits": 3,
+    "requirements": [
+      "24090"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24098",
+    "name": "Hidrología",
+    "credits": 3,
+    "requirements": [
+      "24093",
+      "24095"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24099",
+    "name": "Materiales de Construcción",
+    "credits": 2,
+    "requirements": [
+      "24096"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24100",
+    "name": "Diseño de Hormigon Armado I",
+    "credits": 4,
+    "requirements": [
+      "24094"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24101",
+    "name": "Mecánica de Suelos I",
+    "credits": 3,
+    "requirements": [
+      "23834",
+      "24091"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24102",
+    "name": "Caracterización de Materiales II",
+    "credits": 1,
+    "requirements": [
+      "24096"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24103",
+    "name": "Ingeniería de Tránsito",
+    "credits": 2,
+    "requirements": [
+      "24090"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24104",
+    "name": "Hidráulica",
+    "credits": 4,
+    "requirements": [
+      "24098"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24105",
+    "name": "Diseño de Hormigón Armado II",
+    "credits": 3,
+    "requirements": [
+      "24100"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24106",
+    "name": "Fundaciones I",
+    "credits": 3,
+    "requirements": [
+      "24101",
+      "24102"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24107",
+    "name": "Ingeniería Económica",
+    "credits": 3,
+    "requirements": [
+      "20254"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24108",
+    "name": "Dinámica Estructural",
+    "credits": 3,
+    "requirements": [
+      "24094"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24109",
+    "name": "Acueductos y Alcantarillados",
+    "credits": 4,
+    "requirements": [
+      "24104"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24110",
+    "name": "Construcción",
+    "credits": 3,
+    "requirements": [
+      "24105"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24111",
+    "name": "Diseño de Estructura Metálicas",
+    "credits": 3,
+    "requirements": [
+      "24094"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24112",
+    "name": "Diseño Vial",
+    "credits": 4,
+    "requirements": [
+      "24103"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24113",
+    "name": "Diseño de Pavimentos",
+    "credits": 3,
+    "requirements": [
+      "24106"
+    ],
+    "level": 9,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21586",
+    "name": "Proyectos de Ingeniería",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24114",
+    "name": "Diseño de Puentes",
+    "credits": 3,
+    "requirements": [
+      "24105"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24115",
+    "name": "Mecánica del Medio Continuo",
+    "credits": 3,
+    "requirements": [
+      "23834",
+      "24093"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24116",
+    "name": "Análisis y Diseño Avanzado de Estructuras",
+    "credits": 3,
+    "requirements": [
+      "24100"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24117",
+    "name": "Diseño de Hormigón Preesforzado",
+    "credits": 3,
+    "requirements": [
+      "24105"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24118",
+    "name": "Estructuras de Cimentación y contención",
+    "credits": 3,
+    "requirements": [
+      "24100",
+      "24106"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24119",
+    "name": "Industrialización de la Construcción",
+    "credits": 3,
+    "requirements": [
+      "24105"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24120",
+    "name": "Diseño de Estructuras Especiales",
+    "credits": 3,
+    "requirements": [
+      "24105"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24121",
+    "name": "Amenaza, Vulnerabilidad y Riesgo Sísmico",
+    "credits": 3,
+    "requirements": [
+      "24108"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24122",
+    "name": "Patologia y Rehabilitación de Estructuras de Concreto",
+    "credits": 3,
+    "requirements": [
+      "24105",
+      "24108"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24123",
+    "name": "Ingeniería Sísmica",
+    "credits": 3,
+    "requirements": [
+      "24108"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24124",
+    "name": "Nuevos Materiales de Construcción",
+    "credits": 3,
+    "requirements": [
+      "24105"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24125",
+    "name": "Ingeniería del Agua Subterránea",
+    "credits": 3,
+    "requirements": [
+      "24098",
+      "24101"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24126",
+    "name": "Mecánica de Acuíferos",
+    "credits": 3,
+    "requirements": [
+      "24098"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24127",
+    "name": "Gestión de Hidrosistemas",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24128",
+    "name": "Ingeniería en Ríos",
+    "credits": 3,
+    "requirements": [
+      "24104"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24129",
+    "name": "Hidrología Avanzada",
+    "credits": 3,
+    "requirements": [
+      "24098"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24130",
+    "name": "Modelado Avanzado de Hidrosistemas",
+    "credits": 3,
+    "requirements": [
+      "24098"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24131",
+    "name": "Diseño de Plantas de Tratamiento",
+    "credits": 3,
+    "requirements": [
+      "24109"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24132",
+    "name": "Diseño de Estructuras Hidráulicas",
+    "credits": 3,
+    "requirements": [
+      "24104"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24133",
+    "name": "Instalaciones Hidráulicas y Sanitarias",
+    "credits": 3,
+    "requirements": [
+      "24109"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24134",
+    "name": "Técnicas de Saneamiento Ambiental",
+    "credits": 3,
+    "requirements": [
+      "24109"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24135",
+    "name": "Flujo en la Zona Vadosa",
+    "credits": 3,
+    "requirements": [
+      "24104"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24136",
+    "name": "Evaluación de Impacto Ambiental",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24137",
+    "name": "Transporte de Solutos",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24138",
+    "name": "Obras de Tierra",
+    "credits": 3,
+    "requirements": [
+      "24106"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24139",
+    "name": "Fundaciones II",
+    "credits": 3,
+    "requirements": [
+      "24106"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24140",
+    "name": "Geotecnia Avanzada",
+    "credits": 3,
+    "requirements": [
+      "24101"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24141",
+    "name": "Control de Erosión",
+    "credits": 3,
+    "requirements": [
+      "24101"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24142",
+    "name": "Estabilidad de Taludes",
+    "credits": 3,
+    "requirements": [
+      "24101"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24143",
+    "name": "Diseño Avanzado de Vías",
+    "credits": 3,
+    "requirements": [
+      "24112"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24144",
+    "name": "Mantenimiento de redes Viales",
+    "credits": 3,
+    "requirements": [
+      "24104",
+      "24113"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24145",
+    "name": "Técnicas de Optimización I",
+    "credits": 3,
+    "requirements": [
+      "24110"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24146",
+    "name": "Programación y Costos",
+    "credits": 3,
+    "requirements": [
+      "24110"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24147",
+    "name": "Legislación y Contratación",
+    "credits": 3,
+    "requirements": [
+      "22964"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24148",
+    "name": "Transportes",
+    "credits": 3,
+    "requirements": [
+      "24112"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "29086",
+    "name": "Técnicas de Optimización I",
+    "credits": 3,
+    "requirements": [
+      "24095"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "29087",
+    "name": "Programación y Costos",
+    "credits": 3,
+    "requirements": [
+      "24110"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "29088",
+    "name": "Métodos Estadísticos para seguimiento y control de sistemas y\r\n            proyectos",
+    "credits": 3,
+    "requirements": [
+      "24095"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "29089",
+    "name": "Gestión del riesgo",
+    "credits": 3,
+    "requirements": [
+      "24095"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "20314",
+    "name": "Química I",
+    "credits": 4,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
       {
         "name": "INGENIERIA DE PETROLEOS",
-        "Id": 4,
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "23050",
+    "name": "Introducc.a.la.Ing.de Petroleos",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "23079",
+    "name": "Química II",
+    "credits": 4,
+    "requirements": [
+      "20314"
+    ],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28035",
+    "name": "Geología general de hidrocarburos",
+    "credits": 3,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28036",
+    "name": "Sedimentología de hidrocarburos",
+    "credits": 3,
+    "requirements": [
+      "28035"
+    ],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28037",
+    "name": "Balance y transferencia de masa y energía",
+    "credits": 3,
+    "requirements": [
+      "20254"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28038",
+    "name": "Geología estructural de hidrocarburos",
+    "credits": 3,
+    "requirements": [
+      "28036"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28039",
+    "name": "Análisis petrofísicos",
+    "credits": 3,
+    "requirements": [
+      "28036"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28040",
+    "name": "Métodos numéricos",
+    "credits": 4,
+    "requirements": [
+      "20255"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28041",
+    "name": "Termodinámica de hidrocarburos",
+    "credits": 3,
+    "requirements": [
+      "28037"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28042",
+    "name": "Lodos de perforación",
+    "credits": 3,
+    "requirements": [
+      "23172"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28043",
+    "name": "Fenómenos de transporte de hidrocarburos",
+    "credits": 3,
+    "requirements": [
+      "28037"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28044",
+    "name": "Estadística",
+    "credits": 3,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28045",
+    "name": "Ingeniería económica",
+    "credits": 3,
+    "requirements": [],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28046",
+    "name": "Propiedades de los fluidos",
+    "credits": 3,
+    "requirements": [
+      "28041"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28047",
+    "name": "Evaluación de formaciones",
+    "credits": 3,
+    "requirements": [
+      "28035"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28048",
+    "name": "Perforación de pozos",
+    "credits": 3,
+    "requirements": [
+      "28042"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "23183",
+    "name": "Laboratorio de fluidos",
+    "credits": 3,
+    "requirements": [
+      "28046"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28049",
+    "name": "Evaluación de proyectos",
+    "credits": 3,
+    "requirements": [
+      "28045"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28050",
+    "name": "Política petrolera",
+    "credits": 2,
+    "requirements": [],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28051",
+    "name": "Responsabilidad social",
+    "credits": 3,
+    "requirements": [
+      "28048"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28052",
+    "name": "Completamiento de pozos",
+    "credits": 3,
+    "requirements": [
+      "28048"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28053",
+    "name": "Ingeniería de yacimientos",
+    "credits": 3,
+    "requirements": [
+      "28046"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28054",
+    "name": "Gestión integral de la industria petrolera",
+    "credits": 3,
+    "requirements": [
+      "28051"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28055",
+    "name": "Análisis de presiones",
+    "credits": 3,
+    "requirements": [
+      "28053"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28056",
+    "name": "Métodos de producción",
+    "credits": 3,
+    "requirements": [
+      "28052"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28057",
+    "name": "Ingeniería del gas",
+    "credits": 3,
+    "requirements": [
+      "28056"
+    ],
+    "level": 9,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28058",
+    "name": "Simulación de yacimientos",
+    "credits": 4,
+    "requirements": [
+      "28055"
+    ],
+    "level": 9,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28059",
+    "name": "Facilidades de superficie",
+    "credits": 3,
+    "requirements": [
+      "28056"
+    ],
+    "level": 9,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28060",
+    "name": "Métodos de recobro",
+    "credits": 4,
+    "requirements": [
+      "28055"
+    ],
+    "level": 9,
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21458",
+    "name": "Corrosión y su control",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21517",
+    "name": "Seguridad Industrial",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "23193",
+    "name": "Simulación avanzada de yacimientos",
+    "credits": 3,
+    "requirements": [
+      "24177"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "23196",
+    "name": "Estadística Aplicada",
+    "credits": 3,
+    "requirements": [
+      "20254"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "23207",
+    "name": "Simulación de procesos hidrocarburos",
+    "credits": 3,
+    "requirements": [
+      "24177"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "23208",
+    "name": "Tecnología del gas",
+    "credits": 3,
+    "requirements": [
+      "23187"
+    ],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "23209",
+    "name": "Estructura y propiedades de los materiales",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "26542",
+    "name": "Geomecánica y sus aplicaciones a la industria del petroleo",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "26579",
+    "name": "Medición de hidrocarburos",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28422",
+    "name": "Operaciones costa afuera",
+    "credits": 3,
+    "requirements": [],
+    "level": "Electivas",
+    "groups": [],
+    "program": [
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40513",
+    "name": "FISICA I",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40514",
+    "name": "CALCULO I",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40515",
+    "name": "QUIMICA GENERAL I",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40516",
+    "name": "LAB QUIMICA GENERAL I",
+    "credits": 2,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40517",
+    "name": "FISICA II",
+    "credits": 3,
+    "requirements": [
+      "40513"
+    ],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40518",
+    "name": "CALCULO II",
+    "credits": 3,
+    "requirements": [
+      "40514"
+    ],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40519",
+    "name": "ALGEBRA LINEAL",
+    "credits": 3,
+    "requirements": [],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40520",
+    "name": "QUIMICA GENERAL II",
+    "credits": 3,
+    "requirements": [
+      "40515"
+    ],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40521",
+    "name": "LAB QUIMICA GENERAL II",
+    "credits": 1,
+    "requirements": [
+      "40516"
+    ],
+    "level": 2,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40522",
+    "name": "FISICA III",
+    "credits": 3,
+    "requirements": [
+      "40517"
+    ],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40523",
+    "name": "CALCULO III",
+    "credits": 4,
+    "requirements": [
+      "40518"
+    ],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40524",
+    "name": "FISICOQUIMICA I",
+    "credits": 3,
+    "requirements": [
+      "40518"
+    ],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40525",
+    "name": "QUIMICA ANALITICA I",
+    "credits": 3,
+    "requirements": [
+      "40520"
+    ],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40526",
+    "name": "LAB QUIMICA ANALITICA I",
+    "credits": 1,
+    "requirements": [
+      "40520"
+    ],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40527",
+    "name": "QUIMICA ORGANICA I",
+    "credits": 3,
+    "requirements": [],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40528",
+    "name": "ECUACIONES DIFERENCIALES",
+    "credits": 3,
+    "requirements": [
+      "40523"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40529",
+    "name": "FISICOQUIMICA II",
+    "credits": 3,
+    "requirements": [
+      "40524"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40530",
+    "name": "LABORATORIO DE FISICOQUIMICA I",
+    "credits": 1,
+    "requirements": [
+      "40524"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40531",
+    "name": "QUIMICA ANALITICA II",
+    "credits": 3,
+    "requirements": [
+      "40525"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40532",
+    "name": "QUIMICA ORGANICA II",
+    "credits": 3,
+    "requirements": [
+      "40527"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40533",
+    "name": "LAB.QIMICA ORGANICA I",
+    "credits": 1,
+    "requirements": [
+      "40527"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40534",
+    "name": "QUIMICA CUANTICA",
+    "credits": 3,
+    "requirements": [
+      "40528"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40535",
+    "name": "LAB.FISICOQUIMICA II",
+    "credits": 2,
+    "requirements": [
+      "40529"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40536",
+    "name": "LAB QUIMICA ANALITICA II",
+    "credits": 2,
+    "requirements": [
+      "40531"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40537",
+    "name": "QUIMICA ORGANICA III",
+    "credits": 3,
+    "requirements": [
+      "40532"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40538",
+    "name": "LAB QUIMICA ORGANICA II",
+    "credits": 2,
+    "requirements": [
+      "40532"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40539",
+    "name": "BIOQUIMICA I",
+    "credits": 3,
+    "requirements": [
+      "40533"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40540",
+    "name": "QUIMICA INORGANICA I",
+    "credits": 3,
+    "requirements": [],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40541",
+    "name": "QUIMICA ANALITICA III",
+    "credits": 3,
+    "requirements": [
+      "40536"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40542",
+    "name": "LAB.QUIMICA ANALITICA III",
+    "credits": 2,
+    "requirements": [
+      "40541"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40543",
+    "name": "DISEÑO DE EXPERIMENTOS",
+    "credits": 3,
+    "requirements": [],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40544",
+    "name": "BIOQUIMICA II",
+    "credits": 3,
+    "requirements": [
+      "40539"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40545",
+    "name": "LABORATORIO DE BIOQUIMICA",
+    "credits": 1,
+    "requirements": [
+      "40539"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40546",
+    "name": "QUIMICA INORGANICA II",
+    "credits": 3,
+    "requirements": [
+      "40540"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40547",
+    "name": "LAB QUIMICA INORGANICA I",
+    "credits": 2,
+    "requirements": [
+      "40540"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40548",
+    "name": "QUIMICA AMBIENTAL",
+    "credits": 3,
+    "requirements": [],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40549",
+    "name": "SEMINARIO",
+    "credits": 2,
+    "requirements": [],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40550",
+    "name": "QUIMICA INDUSTRIAL",
+    "credits": 4,
+    "requirements": [],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40551",
+    "name": "LAB.QUIMICA INDUSTRIAL",
+    "credits": 2,
+    "requirements": [],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40552",
+    "name": "LAB.QUIMICA INORGANICA II",
+    "credits": 2,
+    "requirements": [
+      "40532"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40562",
+    "name": "ELECTROQUIMICA",
+    "credits": 3,
+    "requirements": [
+      "40529"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40564",
+    "name": "CROMATOGRAFIA",
+    "credits": 3,
+    "requirements": [
+      "40531"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40570",
+    "name": "QUIMICA FORENSE",
+    "credits": 3,
+    "requirements": [
+      "40531"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40573",
+    "name": "DIFRACCION DE RAYOS X",
+    "credits": 3,
+    "requirements": [
+      "40540"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40577",
+    "name": "PROGRAMACION ORIENTADA A LA QUIMICA",
+    "credits": 3,
+    "requirements": [],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40579",
+    "name": "SINTESIS DE MATERIALES CERAMICOS",
+    "credits": 3,
+    "requirements": [
+      "40540"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40583",
+    "name": "ESTEROQUIMICA DE LOS COMPUESTOS ORGANICOS",
+    "credits": 3,
+    "requirements": [
+      "40537"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "QUIMICA",
+        "id": 14,
         "new_pensum": false
       }
     ]
