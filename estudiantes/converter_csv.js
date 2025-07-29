@@ -86,10 +86,6 @@ function transformToMongoFormat(data) {
       id: 21,
       name: "INGENIERIA CIVIL",
     },
-    24: {
-      id: 24,
-      name: "INGENIERIA MECANICA",
-    },
     32: {
       id: 32,
       name: "INGENIERIA DE PETROLEOS",
@@ -102,7 +98,6 @@ function transformToMongoFormat(data) {
   };
 
   if (data.plan == 14) {
-    console.log(data);
     program.new_pensum = true;
   }
 
@@ -122,6 +117,7 @@ function transformToMongoFormat(data) {
     lastname: fullLastname,
     username: data.email || "",
     identification: data.codigo_est || "",
+    level: data.nivel || null,
     kind: "STUDENT",
     password: "",
     verified: false,
