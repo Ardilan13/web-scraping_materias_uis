@@ -4,7 +4,7 @@ const path = require('path');
 class GroupsTransformer {
     constructor() {
         this.keyMappings = {
-            // Mapeos de nivel superior
+        
             'grupos': 'groups',
             
             // Mapeos de grupo
@@ -13,7 +13,6 @@ class GroupsTransformer {
             'matriculados': 'enrolled',
             'horario': 'schedule',
             
-            // Mapeos de horario
             'dia': 'day',
             'hora': 'time',
             'edificio': 'building',
@@ -22,9 +21,6 @@ class GroupsTransformer {
         };
     }
 
-    /**
-     * Transforma un objeto grupo individual
-     */
     transformGroup(grupo) {
         const transformedGroup = {
             sku: grupo.grupo,
@@ -33,7 +29,6 @@ class GroupsTransformer {
             schedule: []
         };
 
-        // Transformar horarios
         if (grupo.horario && Array.isArray(grupo.horario)) {
             transformedGroup.schedule = grupo.horario.map(horario => ({
                 day: horario.dia,
@@ -58,16 +53,12 @@ class GroupsTransformer {
         return grupos.map(grupo => this.transformGroup(grupo));
     }
 
-    /**
-     * Transforma una materia individual (objeto con código, nombre y grupos)
-     */
     transformMateria(materia) {
         const transformed = {
-            codigo: materia.codigo,
-            nombre: materia.nombre
+            sku: materia.codigo,
+            name: materia.nombre
         };
 
-        // Transformar grupos si existen
         if (materia.grupos && Array.isArray(materia.grupos)) {
             transformed.groups = this.transformGroups(materia.grupos);
         }
@@ -75,9 +66,6 @@ class GroupsTransformer {
         return transformed;
     }
 
-    /**
-     * Transforma un array de materias
-     */
     transformMaterias(materias) {
         if (!Array.isArray(materias)) {
             throw new Error('El parámetro debe ser un array de materias');
@@ -86,13 +74,9 @@ class GroupsTransformer {
         return materias.map(materia => this.transformMateria(materia));
     }
 
-    /**
-     * Transforma un objeto completo que contenga grupos
-     */
     transformObject(obj) {
         const transformed = { ...obj };
 
-        // Si el objeto tiene la propiedad 'grupos', transformarla a 'groups'
         if (obj.grupos) {
             transformed.groups = this.transformGroups(obj.grupos);
             delete transformed.grupos;
@@ -101,9 +85,6 @@ class GroupsTransformer {
         return transformed;
     }
 
-    /**
-     * Transforma un archivo JSON completo
-     */
     async transformFile(inputPath, outputPath) {
         try {
             // Leer archivo
@@ -112,36 +93,30 @@ class GroupsTransformer {
 
             let transformedData;
 
-            // Determinar el tipo de estructura
             if (Array.isArray(jsonData)) {
-                // Verificar si es array de materias (tienen código y nombre)
                 if (jsonData.length > 0 && jsonData[0].codigo && jsonData[0].nombre) {
                     transformedData = this.transformMaterias(jsonData);
                 } else {
-                    // Es un array de grupos directamente
                     transformedData = this.transformGroups(jsonData);
                 }
             } else if (jsonData.grupos) {
-                // Es un objeto que contiene grupos
                 transformedData = this.transformObject(jsonData);
             } else {
                 throw new Error('Estructura JSON no reconocida. Debe contener materias con grupos o grupos directamente.');
             }
 
-            // Crear directorio de salida si no existe
             const outputDir = path.dirname(outputPath);
             if (!fs.existsSync(outputDir)) {
                 fs.mkdirSync(outputDir, { recursive: true });
             }
 
-            // Escribir archivo transformado
+
             fs.writeFileSync(outputPath, JSON.stringify(transformedData, null, 2), 'utf8');
 
             console.log(`✅ Transformación completada:`);
             console.log(`   📁 Archivo original: ${inputPath}`);
             console.log(`   📁 Archivo transformado: ${outputPath}`);
             
-            // Mostrar estadísticas
             if (Array.isArray(transformedData)) {
                 console.log(`   📊 Materias procesadas: ${transformedData.length}`);
                 const totalGroups = transformedData.reduce((total, materia) => 
@@ -156,49 +131,7 @@ class GroupsTransformer {
             console.error(`❌ Error transformando archivo:`, error.message);
             throw error;
         }
-    }
-
-    /**
-     * Transforma múltiples archivos JSON
-     */
-    async transformMultipleFiles(inputDir, outputDir, filePattern = '*.json') {
-        try {
-            const files = fs.readdirSync(inputDir).filter(file => 
-                file.endsWith('.json') && fs.statSync(path.join(inputDir, file)).isFile()
-            );
-
-            if (files.length === 0) {
-                console.log('❌ No se encontraron archivos JSON en el directorio');
-                return;
-            }
-
-            const results = [];
-
-            for (const file of files) {
-                const inputPath = path.join(inputDir, file);
-                const outputPath = path.join(outputDir, file);
-                
-                try {
-                    const result = await this.transformFile(inputPath, outputPath);
-                    results.push({ file, success: true, result });
-                    console.log(`✅ ${file} transformado exitosamente`);
-                } catch (error) {
-                    results.push({ file, success: false, error: error.message });
-                    console.error(`❌ Error transformando ${file}:`, error.message);
-                }
-            }
-
-            console.log(`\n📊 Resumen de transformación:`);
-            console.log(`   • Archivos procesados: ${results.length}`);
-            console.log(`   • Exitosos: ${results.filter(r => r.success).length}`);
-            console.log(`   • Con errores: ${results.filter(r => !r.success).length}`);
-
-            return results;
-
-        } catch (error) {
-            console.error(`❌ Error procesando directorio:`, error.message);
-            throw error;
-        }
+    
     }
 }
 
@@ -282,7 +215,6 @@ module.exports = {
     transformFromJSON
 };
 
-// Ejecutar ejemplo si se ejecuta directamente
 if (require.main === module) {
     console.log('🚀 Ejecutando ejemplo de transformación...\n');
     example();
