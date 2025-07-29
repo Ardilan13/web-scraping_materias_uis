@@ -229,8 +229,8 @@ if (require.main === module) {
 
     const transformer = new GroupsTransformer();
 
-    const inputPath = path.join(__dirname, 'horarios', 'sistemas.json');
-    const outputPath = path.join(__dirname, 'horarios', 'sistemas_transformed.json');
+    const inputPath = path.join(__dirname, 'horarios', 'biomedica.json');
+    const outputPath = path.join(__dirname, 'horarios', 'biomedica_transformed.json');
 
     transformer.transformFile(inputPath, outputPath);
 }

@@ -3,12 +3,12 @@ const path = require('path');
 
 /**
  * Fusiona los archivos que se encuentran en la ruta materias\output\cursos_compartidos.json con el archivo materias\horarios\*_transformed.json
- * esto genera un archivo materias_fusionadas.json que contiene la información de las materias para ser exportadas
+ * esto genera sobre escribe en el archivo cursos_compartidos.json que contiene la información de las materias para ser exportadas
  * directamente a MongoDB.
  */
 
 // cambiar el archivo horariosPath de acuerdo a la carrera que se desea incluir los grupos
-const horariosPath = 'C:\\Users\\Juanr\\Documents\\GitHub\\web-scraping_materias_uis\\materias\\horarios\\sistemas_transformed.json';
+const horariosPath = 'C:\\Users\\Juanr\\Documents\\GitHub\\web-scraping_materias_uis\\materias\\horarios\\biomedica_transformed.json';
 const cursosCompartidosPath = 'C:\\Users\\Juanr\\Documents\\GitHub\\web-scraping_materias_uis\\materias\\output\\cursos_compartidos.json';
 
 async function fusionarGruposHorarios() {
