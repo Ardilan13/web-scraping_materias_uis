@@ -1,0 +1,8928 @@
+[{
+  "_id": {
+    "$oid": "6798411170f10b4f2e0c99b6"
+  },
+  "name": "Esteban",
+  "lastname": "David ",
+  "username": "esteban2191940@correo.uis.edu.co",
+  "identification": "2191940",
+  "kind": "STUDENT",
+  "password": "$2a$10$mcJH80AA6A09V6yZPAb7PO7GDoLZsfq1WYETthHfxdfjumZyKTCXy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-28T02:29:37.539Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-28T20:48:18.454Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67993c5e61feb7c51487a31e"
+  },
+  "name": "Laura",
+  "lastname": "Méndez",
+  "username": "laura2191951@correo.uis.edu.co",
+  "identification": "2191951",
+  "kind": "STUDENT",
+  "password": "$2a$10$eZCBlZZIQWgUYpojRuHSEOyekG5BMTpMhX8t0l.1CODuP5SaapNba",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-28T20:21:50.284Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-28T20:30:12.765Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679943d861feb7c51487a470"
+  },
+  "name": "Jhon ",
+  "lastname": "Amaya",
+  "username": "jhon2220092@correo.uis.edu.co",
+  "identification": "2220092",
+  "kind": "STUDENT",
+  "password": "$2a$10$U5H0j6Z8cPcgdQEJ3VZa0.rdjDGSIRE/hblwA7V2kJECQtDX43ewS",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-28T20:53:44.070Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-28T21:00:59.304Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "6799455161feb7c51487a49b"
+  },
+  "name": "Dilan ",
+  "lastname": "Corredor",
+  "username": "dilan2191976@correo.uis.edu.co",
+  "identification": "2191976",
+  "kind": "STUDENT",
+  "password": "$2a$10$Dd94Ugs3NPC3EiSqso/J9uEvJIHZ.3HBkHekjWzL/x49hb9jFeaVm",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-28T21:00:01.141Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T02:40:19.758Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "6799705961feb7c51487a776"
+  },
+  "name": "Santiago",
+  "lastname": "Quintero",
+  "username": "santiago2180445@correo.uis.edu.co",
+  "identification": "2180445",
+  "kind": "STUDENT",
+  "password": "$2a$10$d2a2BL4FzloLqO3mhVB23umT6uIzt7gwrN8gZAHu.JWeD0rvaogau",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T00:03:37.486Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T00:09:55.837Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679972ac61feb7c51487a7a8"
+  },
+  "name": "Cesar",
+  "lastname": "Hurtado Rodríguez",
+  "username": "cesar2191957@correo.uis.edu.co",
+  "identification": "2191957",
+  "kind": "STUDENT",
+  "password": "$2a$10$8PQPxsxT5rG2egdE.AaD/uxGA96JTvcU/PziT.WpP7Wkkx3zg2ph.",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T00:13:32.714Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T00:31:25.040Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "6799745a61feb7c51487a827"
+  },
+  "name": "Camilo Andrés",
+  "lastname": "Campos Gamboa",
+  "username": "camilo2220099@correo.uis.edu.co",
+  "identification": "2220099",
+  "kind": "STUDENT",
+  "password": "$2a$10$hS56b9bvqk2uhnjemNc0GOcMv5pc5BatBig4DGMRek/Mi6D0R2Gui",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T00:20:42.057Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T00:24:56.921Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679976a961feb7c51487a87d"
+  },
+  "name": "José Alejandro ",
+  "lastname": "Gómez Vargas ",
+  "username": "jose2220077@correo.uis.edu.co",
+  "identification": "2220077",
+  "kind": "STUDENT",
+  "password": "$2a$10$knL/i6pRpJxX0DMCfJ.HYurGQ2YzPskwP1vqyINEfbeEZ2K/jUr.a",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T00:30:33.073Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T00:34:50.635Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679987d761feb7c51487a95a"
+  },
+  "name": "Luis Alejandro",
+  "lastname": "Vecino Daza",
+  "username": "luis2220096@correo.uis.edu.co",
+  "identification": "2220096",
+  "kind": "STUDENT",
+  "password": "$2a$10$WXfpJ5ptVvn021w9ndRLoOhsv2m2evX.zvKdPz58m4whuL0/daXL2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T01:43:51.873Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T01:51:00.092Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67998a0461feb7c51487a976"
+  },
+  "name": "Brayan Julian",
+  "lastname": "Barrera Hernandez",
+  "username": "brayan2220097@correo.uis.edu.co",
+  "identification": "2220097",
+  "kind": "STUDENT",
+  "password": "$2a$10$zeD0Se7Zz/zWsmz1g6efvOZiH9Sqzzp2fhEyzUw5o.kbL7O7lzAAm",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T01:53:08.837Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T01:53:47.797Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "6799989c70dbe0c2367838d4"
+  },
+  "name": "Santiago",
+  "lastname": "Amaya",
+  "username": "santiago2230085@correo.uis.edu.co",
+  "identification": "2230085",
+  "kind": "STUDENT",
+  "password": "$2a$10$3I88K0FI2qGyujrYMO.l0.HsWHam.CLebUNOSdtUJHwflu98Pi2Je",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T02:55:24.680Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T02:57:23.749Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679999ed70dbe0c2367838ff"
+  },
+  "name": "Daniel Fernando ",
+  "lastname": "Leal Ayala ",
+  "username": "daniel2191430@correo.uis.edu.co",
+  "identification": "2191430",
+  "kind": "STUDENT",
+  "password": "$2a$10$n/.MKZ7ESDwR.P6DFdDt0Oy63C9xQ4qneqZYDXRoXM1NdR0sRiZvO",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T03:01:01.628Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T03:04:50.612Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "6799a03470dbe0c2367839ab"
+  },
+  "name": "Rafael",
+  "lastname": "Pinilla",
+  "username": "rafael2221929@correo.uis.edu.co",
+  "identification": "2221929",
+  "kind": "STUDENT",
+  "password": "$2a$10$wEDJPAsznVSBOgwYSDjtLOWjVUbO7UABnMnUyuD8vr/LnQiQHtA26",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T03:27:48.558Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T03:31:58.188Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "6799b1bf38c01005e322bc91"
+  },
+  "name": "Cristhian ",
+  "lastname": "Tristancho ",
+  "username": "cristhian2192532@correo.uis.edu.co",
+  "identification": "2192532",
+  "kind": "STUDENT",
+  "password": "$2a$10$47kl4E85XiGGGGj/CQ/kXenCOfptW.LB/wBS/24Gsv3AZ3EyCMvxO",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T04:42:39.912Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T04:47:39.357Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "6799b56b38c01005e322bca6"
+  },
+  "name": "Sebastian",
+  "lastname": "Alvarado",
+  "username": "sebastian2191969@correo.uis.edu.co",
+  "identification": "2191969",
+  "kind": "STUDENT",
+  "password": "$2a$10$sF.ezKMAms16QSotSALsR.rdH.t6FiyypDkke4Haq5KdfTfQXWe5i",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T04:58:19.024Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T05:00:42.412Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a1fd03ca5399117f80cb8"
+  },
+  "name": "Juan José ",
+  "lastname": "Rojas Vanegas ",
+  "username": "juan2180043@correo.uis.edu.co",
+  "identification": "2180043",
+  "kind": "STUDENT",
+  "password": "$2a$10$mF9RGlI1S8xGiJPf0EY/jO/IPSFq4qTdNI6jT/CLzeQnZQJLLDqUO",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T12:32:16.556Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T12:33:42.518Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5c5ac0255c237d0b783f"
+  },
+  "name": "Juan",
+  "lastname": "Manosalva ",
+  "username": "juan2220059@correo.uis.edu.co",
+  "identification": "2220059",
+  "kind": "STUDENT",
+  "password": "$2a$10$v941BM/nMWpBIgKA7qW.1u.L1/5Xj2r1eFrd9zRfj8K9oRG29HAXG",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T16:50:34.100Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T16:52:28.714Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5cf9c0255c237d0b785e"
+  },
+  "name": "carlos alejandro",
+  "lastname": "amaya cepeda",
+  "username": "carlos2202011@correo.uis.edu.co",
+  "identification": "2202011",
+  "kind": "STUDENT",
+  "password": "$2a$10$s9/Q6yMUixrD0Jqci6Qrteg5RTGr216XZRLVLZdSyn/e4irBVaYaa",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T16:53:13.073Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T16:54:11.913Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5e6cc0255c237d0b78be"
+  },
+  "name": "Juan Sebastian ",
+  "lastname": "Alvarez Mesa",
+  "username": "juan2220074@correo.uis.edu.co",
+  "identification": "2220074",
+  "kind": "STUDENT",
+  "password": "$2a$10$KTJM5LdDF25glxVhMAPR2uuu7fWn3L5xKMAtjXj5z/NS016.At.X2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T16:59:24.946Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:01:42.300Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5e6dc0255c237d0b78c1"
+  },
+  "name": "Juan Camilo ",
+  "lastname": "Robayo Giraldo",
+  "username": "juan2214005@correo.uis.edu.co",
+  "identification": "2214005",
+  "kind": "STUDENT",
+  "password": "$2a$10$F5auJRVZCzcwCJFWwrqvpelwtmbXVZFCMiDfZGdEDh6GzS6hgw3Wu",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T16:59:25.943Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T13:33:10.678Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5e8bc0255c237d0b78c8"
+  },
+  "name": "Decire",
+  "lastname": "Jaimes",
+  "username": "decire2211835@correo.uis.edu.co",
+  "identification": "2211835",
+  "kind": "STUDENT",
+  "password": "$2a$10$YP6wMAqUIL8sUTo/DzkgHOw63Vd1a59od5K9/B7wWXYzcMDLwFPIm",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T16:59:55.969Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:01:15.356Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5e9ec0255c237d0b78e0"
+  },
+  "name": "Andrea Fernanda",
+  "lastname": "Bernal Forero",
+  "username": "andrea2201827@correo.uis.edu.co",
+  "identification": "2201827",
+  "kind": "STUDENT",
+  "password": "$2a$10$y0im2uk6HtmcKz1.Du6TnuY3dKvTXtgIglAfKKZXuL4q1xyMGBS1S",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:00:14.724Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:02:04.305Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5eaac0255c237d0b78f2"
+  },
+  "name": "Camilo ",
+  "lastname": "Molina",
+  "username": "camilo2200188@correo.uis.edu.co",
+  "identification": "2200188",
+  "kind": "STUDENT",
+  "password": "$2a$10$SBY19MjnfLlZzsXBvSws0.8mPl73f6sl78rRuGK14TmiDsy3lNqTW",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:00:26.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T19:38:44.443Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5eabc0255c237d0b78f5"
+  },
+  "name": "Juan Alonso",
+  "lastname": "Ballesteros Cardenas",
+  "username": "juan2200625@correo.uis.edu.co",
+  "identification": "2200625",
+  "kind": "STUDENT",
+  "password": "$2a$10$UGb0LjefEMjQt0f/gyIMq..zQRdx4YpcywWxSJD83gbzi3NKpfoCC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:00:27.388Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:02:56.283Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5ec7c0255c237d0b7901"
+  },
+  "name": "Alejandra",
+  "lastname": "Ortiz",
+  "username": "alejandra2201999@correo.uis.edu.co",
+  "identification": "2201999",
+  "kind": "STUDENT",
+  "password": "$2a$10$iQF.HQYl9mbRpaMa7i5vAetqUAXRjUAhM1x5x.To7saMHzuwNCtXG",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:00:55.161Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:09:25.227Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5ee3c0255c237d0b791a"
+  },
+  "name": "David",
+  "lastname": "Barajas",
+  "username": "david2230087@correo.uis.edu.co",
+  "identification": "2230087",
+  "kind": "STUDENT",
+  "password": "$2a$10$pf1GjFe1cmG1FLBbLgXADOIdlmRUCqtlxKXt5.wCjAvfY6LXtb9SK",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:01:23.054Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:02:28.786Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5f06c0255c237d0b7939"
+  },
+  "name": "Daniel Camilo",
+  "lastname": "Barrera Perez",
+  "username": "daniel2205562@correo.uis.edu.co",
+  "identification": "2205562",
+  "kind": "STUDENT",
+  "password": "$2a$10$D/5DSjYUzojmkLMo6kuPN.AM3GQF26iDUCYfoKCs.0x/c7EnYkPra",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:01:58.780Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:04:17.645Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5f25c0255c237d0b7969"
+  },
+  "name": "Eisner Andrey ",
+  "lastname": "Vera Garces ",
+  "username": "eisner2201188@correo.uis.edu.co",
+  "identification": "2201188",
+  "kind": "STUDENT",
+  "password": "$2a$10$SUsyi.NkUsTf0m7JnlD0GuBlBYv6d1z/voYezmUaaOjBviXaNkg9a",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:02:29.470Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:03:22.384Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5f9ac0255c237d0b7a09"
+  },
+  "name": "Jaider Santiago ",
+  "lastname": "Peña Basto",
+  "username": "jaider2205082@correo.uis.edu.co",
+  "identification": "2205082",
+  "kind": "STUDENT",
+  "password": "$2a$10$jZHuFRQpXYC6hlQ5aR6ofuHF5SIor89dulOLU2G9IuthoS.wpr9dy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:04:26.273Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:06:56.374Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5fa2c0255c237d0b7a1c"
+  },
+  "name": "Adrian Steven",
+  "lastname": "Barajas Villamizar",
+  "username": "adrian2230057@correo.uis.edu.co",
+  "identification": "2230057",
+  "kind": "STUDENT",
+  "password": "$2a$10$dFMIrmSVC/S6oMz.W8r66esYOGos5nlmDUvWRPUt1iSoVJEy47D2W",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:04:34.035Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:06:30.884Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5fa5c0255c237d0b7a29"
+  },
+  "name": "Sergio ",
+  "lastname": "Mariño",
+  "username": "sergio2205086@correo.uis.edu.co",
+  "identification": "2205086",
+  "kind": "STUDENT",
+  "password": "$2a$10$pU95/VEqnuA0QZHzCt.GKe/kiposnoTFU6jU9ZEUU0mBcx/L0QgtO",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:04:37.409Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:08:53.771Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5fa7c0255c237d0b7a2f"
+  },
+  "name": "Juan David ",
+  "lastname": "Barrera Corredor",
+  "username": "juan2221897@correo.uis.edu.co",
+  "identification": "2221897",
+  "kind": "STUDENT",
+  "password": "$2a$10$gZB9H411Nt2/eRfkfN/n7u//TcQOnJa7KaN0nZWlnRnjNY6HVJ7TK",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:04:39.560Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:51:47.944Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5fbfc0255c237d0b7a3d"
+  },
+  "name": "Miguel Daniel",
+  "lastname": "Velandia Pinilla",
+  "username": "miguel2182073@correo.uis.edu.co",
+  "identification": "2182073",
+  "kind": "STUDENT",
+  "password": "$2a$10$RoAdUXBWfwyVhp.ucFZlQeidQrmsMpCPg/08IJw27kuSNUW.UX/EW",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:05:03.079Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:09:04.439Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a5fe4c0255c237d0b7a5c"
+  },
+  "name": "Brainer ",
+  "lastname": "Lopez",
+  "username": "brainer2225505@correo.uis.edu.co",
+  "identification": "2225505",
+  "kind": "STUDENT",
+  "password": "$2a$10$5kTV7MwG6taNDRWZhqM2TuvU4mU4vLMnbv9miaEG3WEwOVLPmYQY2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:05:40.053Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:13:39.556Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6012c0255c237d0b7aa7"
+  },
+  "name": "Michael Alexander",
+  "lastname": "Ortiz Lozada",
+  "username": "michael2191316@correo.uis.edu.co",
+  "identification": "2191316",
+  "kind": "STUDENT",
+  "password": "$2a$10$c7PVEblARroxnig.z8YWNuj2RZcqBH3RT9C0qQ4aJzR39BEAurTDy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:06:26.161Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:07:24.113Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6017c0255c237d0b7abc"
+  },
+  "name": "Fran",
+  "lastname": "Santamaria",
+  "username": "fran2211862@correo.uis.edu.co",
+  "identification": "2211862",
+  "kind": "STUDENT",
+  "password": "$2a$10$nOCmNCbfJNEDDCAj2JP0uO7bwuS0ySSx6BpKyJq0HTEh8IrBVsLle",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:06:31.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:10:30.887Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a604ec0255c237d0b7b19"
+  },
+  "name": "Cesar",
+  "lastname": "Amaya",
+  "username": "cesar2195554@correo.uis.edu.co",
+  "identification": "2195554",
+  "kind": "STUDENT",
+  "password": "$2a$10$De08MZbbcEbon6WTmRM3oujQO4kQAev4CbfChE/Fo/g8ShjnZC/pS",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:07:26.470Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T22:45:58.934Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a607ac0255c237d0b7b2f"
+  },
+  "name": "Juan Camilo",
+  "lastname": "Velandia Amortegui",
+  "username": "juan2211878@correo.uis.edu.co",
+  "identification": "2211878",
+  "kind": "STUDENT",
+  "password": "$2a$10$BJ.znG0QPj8z8MsGyBnL4Ov4reRb043pqoQjDyJDbG.Jy2uxlB5uq",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:08:10.376Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:25:03.771Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a60a4c0255c237d0b7b5f"
+  },
+  "name": "Juan Sebastian",
+  "lastname": "Espinosa Espinosa",
+  "username": "juan2183184@correo.uis.edu.co",
+  "identification": "2183184",
+  "kind": "STUDENT",
+  "password": "$2a$10$Jvnb47Nx/lA64YKQQxsQrOc24HveO6hUaHLa.kVTTcJ40N55.So3u",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:08:52.439Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:11:50.526Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a60bac0255c237d0b7b84"
+  },
+  "name": "Miguel",
+  "lastname": "Pineda",
+  "username": "miguel2231867@correo.uis.edu.co",
+  "identification": "2231867",
+  "kind": "STUDENT",
+  "password": "$2a$10$2F45/KffyGwHcW/Jav1KfuugY5/Q08iOcDnqhjQFL5aZxRMuKVCfW",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:09:14.362Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:10:57.733Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a62c0c0255c237d0b7ddb"
+  },
+  "name": "Andres",
+  "lastname": "Gomez",
+  "username": "andres2230067@correo.uis.edu.co",
+  "identification": "2230067",
+  "kind": "STUDENT",
+  "password": "$2a$10$JSPxGpn5vqBmlqtU6mbLlOl9VSofL2A2rYcJsy.uMbBjRMTJhXiaS",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:17:52.324Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:18:59.186Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6370c0255c237d0b7e3d"
+  },
+  "name": "Steven",
+  "lastname": "Lascarro",
+  "username": "steven2204003@correo.uis.edu.co",
+  "identification": "2204003",
+  "kind": "STUDENT",
+  "password": "$2a$10$ulpbeoxy3/BuyE2NiMEm4O55wi6PCzV7/DnWYUN8v1z9tL00idgD2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:20:48.776Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:23:27.144Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6452c0255c237d0b7eda"
+  },
+  "name": "juan daniel ",
+  "lastname": "suarez jaimes",
+  "username": "juan2182043@correo.uis.edu.co",
+  "identification": "2182043",
+  "kind": "STUDENT",
+  "password": "$2a$10$xn4HTyouFRlFgQOaeguateEj5kd6UUZtcD7pFa1x3OZEJHevD8iFq",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:24:34.487Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:26:12.191Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6546c0255c237d0b801d"
+  },
+  "name": "Jefferson ",
+  "lastname": "Holguin",
+  "username": "jefferson2215502@correo.uis.edu.co",
+  "identification": "2215502",
+  "kind": "STUDENT",
+  "password": "$2a$10$uP8v02GPhj/Pxk12pj.4J.CazUYrqvEKuKUIQeTu9wC0/nJSS.AJS",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:28:38.137Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:30:31.023Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a672399d5ac07093bb2f6"
+  },
+  "name": "Jose",
+  "lastname": "Silva",
+  "username": "jose2210070@correo.uis.edu.co",
+  "identification": "2210070",
+  "kind": "STUDENT",
+  "password": "$2a$10$ZgveYFfvcehCjT2oOiet0uzEdK.MERYG.l1x/DsW0B06RIqJYafai",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:36:35.068Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:42:41.359Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a672a99d5ac07093bb2ff"
+  },
+  "name": "Yeison Fabian",
+  "lastname": "Mayorga Gamboa",
+  "username": "yeison2210044@correo.uis.edu.co",
+  "identification": "2210044",
+  "kind": "STUDENT",
+  "password": "$2a$10$3YOxysilIU5.1vhaXJ0Z7.TuH2dg8Ssg8YblX6WoLSDDI0PwIvDfG",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:36:42.740Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:38:18.247Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a674599d5ac07093bb309"
+  },
+  "name": "Jesus",
+  "lastname": "Ortiz",
+  "username": "jesus2211902@correo.uis.edu.co",
+  "identification": "2211902",
+  "kind": "STUDENT",
+  "password": "$2a$10$i1iVxQpONIsc/s8FjSTx2uRz3mMhSQTzJRtrBbBqc1I/rKXvhMQFS",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:37:09.824Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:38:23.460Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a683999d5ac07093bb3c2"
+  },
+  "name": "Miguel Angel",
+  "lastname": "Plata Rodríguez",
+  "username": "miguel2190050@correo.uis.edu.co",
+  "identification": "2190050",
+  "kind": "STUDENT",
+  "password": "$2a$10$sf1RdyWhaaSXlT8NpWesOOMTjJTCmXzh2kYsuPo3JbLLStYtTJycC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:41:13.383Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:42:39.117Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a68de99d5ac07093bb474"
+  },
+  "name": "Juan Felipe ",
+  "lastname": "Rojas De La Hoz",
+  "username": "juan2220070@correo.uis.edu.co",
+  "identification": "2220070",
+  "kind": "STUDENT",
+  "password": "$2a$10$auXXRt3MFfVJYJUrcw0r2uGmYSmIh2oL6hlyHI2rJgkMT2U5hQxjS",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:43:58.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:45:24.828Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a69a799d5ac07093bb5b8"
+  },
+  "name": "Cristhian Rafael",
+  "lastname": "Lizcano Arenas",
+  "username": "cristhian2191050@correo.uis.edu.co",
+  "identification": "2191050",
+  "kind": "STUDENT",
+  "password": "$2a$10$gHI15mwvzPE58Xl3RIr5Z.Ge0jftIeGwbQspHYZq1K9cgmYzk1Q3i",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:47:19.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:49:02.437Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a69ab99d5ac07093bb5bd"
+  },
+  "name": "Oscar",
+  "lastname": "Rondon",
+  "username": "oscar2211854@correo.uis.edu.co",
+  "identification": "2211854",
+  "kind": "STUDENT",
+  "password": "$2a$10$2yqnt3/VxqVx4Lbx7mNPdOo3d/1JZ6/gCOCR3lkQ8XVN4QSyY2gki",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:47:23.392Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:48:29.713Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a69ed99d5ac07093bb60a"
+  },
+  "name": "Marco ",
+  "lastname": "Pinzon",
+  "username": "marco2200153@correo.uis.edu.co",
+  "identification": "2200153",
+  "kind": "STUDENT",
+  "password": "$2a$10$QdIy9nVHorlle.eX3EtE2.FP49ZlGM7YLBJyHJo0q5APUSHDAodf6",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:48:29.709Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:01:24.024Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6a5399d5ac07093bb66f"
+  },
+  "name": "Juan Sebastian ",
+  "lastname": "Suarez",
+  "username": "juan2201993@correo.uis.edu.co",
+  "identification": "2201993",
+  "kind": "STUDENT",
+  "password": "$2a$10$jZx2nADcU8mwF02ml7rQhO66BwVMKpoYoPjfwSUCJN80Yc0zja2CS",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:50:11.813Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:51:28.538Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6a8a99d5ac07093bb6a0"
+  },
+  "name": "Fabiana",
+  "lastname": "Acuña",
+  "username": "fabiana2210079@correo.uis.edu.co",
+  "identification": "2210079",
+  "kind": "STUDENT",
+  "password": "$2a$10$ErGYmamQw/.IKyqteWLxcOOe7zJmr52908JIDRWdPvAmTBFEdLcpq",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:51:06.994Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:52:00.597Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6aff99d5ac07093bb769"
+  },
+  "name": "Edinson Giovanny",
+  "lastname": "Ojeda Ortega",
+  "username": "edinson2210061@correo.uis.edu.co",
+  "identification": "2210061",
+  "kind": "STUDENT",
+  "password": "$2a$10$kuux0rXjMZDjFzdFF9tBDemtyMScI1XwMtIaOk92bDjf40GuPJtKu",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:53:03.500Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:57:34.929Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6b0b99d5ac07093bb79f"
+  },
+  "name": "Mateo ",
+  "lastname": "Salazar Serrano",
+  "username": "mateo2200135@correo.uis.edu.co",
+  "identification": "2200135",
+  "kind": "STUDENT",
+  "password": "$2a$10$BOZh9ZhnVUogZPVlGp/wJuswC0sB0je8zDY9IcOHhdnf35rxdxXAK",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:53:15.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:54:11.808Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6b1299d5ac07093bb7a5"
+  },
+  "name": "Cristian Jacob",
+  "lastname": "Quintero Portilla",
+  "username": "cristian2230052@correo.uis.edu.co",
+  "identification": "2230052",
+  "kind": "STUDENT",
+  "password": "$2a$10$FBTlcO30gqRLaqTdnQ1MCOxgmgTpmbXQh.9p8ORkI3E4CckrkPwU6",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:53:22.018Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:54:15.192Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6b6699d5ac07093bb80e"
+  },
+  "name": "Jose David",
+  "lastname": "Ramirez Cacua",
+  "username": "jose2231849@correo.uis.edu.co",
+  "identification": "2231849",
+  "kind": "STUDENT",
+  "password": "$2a$10$zB79L8jcvu84yqh6NXGrR.c6ofkcxqGhT2U8Tu/eKWuS8NWlIX5Vy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:54:46.707Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:56:34.488Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6b7499d5ac07093bb828"
+  },
+  "name": "Karen Juliana",
+  "lastname": "Mora Jaimes",
+  "username": "karen2202027@correo.uis.edu.co",
+  "identification": "2202027",
+  "kind": "STUDENT",
+  "password": "$2a$10$cpibsrlDs6uZzONd34LdyuovDiMZ2R7PNmucEhf/yRRbIS8Ygd0ei",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:55:00.790Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:55:50.090Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6bdf99d5ac07093bb8ab"
+  },
+  "name": "Zamir Francisco ",
+  "lastname": "Granados Peñaloza",
+  "username": "zamir2211888@correo.uis.edu.co",
+  "identification": "2211888",
+  "kind": "STUDENT",
+  "password": "$2a$10$4K2lb6jL0Vk1BSHUFOcpfOL3ClEty2ZAPejyQl2yxfFnMPASHoNPu",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:56:47.916Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:59:22.775Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6bf899d5ac07093bb8c7"
+  },
+  "name": "Juan Pablo",
+  "lastname": "Pineda Florez",
+  "username": "juan2230042@correo.uis.edu.co",
+  "identification": "2230042",
+  "kind": "STUDENT",
+  "password": "$2a$10$R0MJf40PfX9TLnp4zQgxzuR6Dyz2A6xD7WdYpJgwZ6TPG2xjf2Qtq",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T17:57:12.604Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T17:58:22.059Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6cd599d5ac07093bb9dc"
+  },
+  "name": "Oscar Julian",
+  "lastname": "Rey Jaimes",
+  "username": "oscar2202032@correo.uis.edu.co",
+  "identification": "2202032",
+  "kind": "STUDENT",
+  "password": "$2a$10$3nnya12Mjnf5JBvqaovRHuBffk86JXvLyUYM.LfXe00jzyh2tl6ay",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:00:53.103Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:01:58.309Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6ce999d5ac07093bb9e7"
+  },
+  "name": "Miguel Angel",
+  "lastname": "Angulo Duarte",
+  "username": "miguel2170812@correo.uis.edu.co",
+  "identification": "2170812",
+  "kind": "STUDENT",
+  "password": "$2a$10$el00l6ludE0oGklxE7dLyO/ARqeFK55Di54tMIbDtR0JhYWQ0CiS6",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:01:13.907Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:02:28.944Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6de899d5ac07093bbb97"
+  },
+  "name": "Jose David",
+  "lastname": "Rueda Bonilla",
+  "username": "jose2211903@correo.uis.edu.co",
+  "identification": "2211903",
+  "kind": "STUDENT",
+  "password": "$2a$10$FGCo5A.kElmTAa9U4iYNBeMmaFpywjoAyRtcmcrjV5XXhwLRkZyuu",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:05:28.119Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:11:34.362Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6e1f99d5ac07093bbbe9"
+  },
+  "name": "Carlos Esteban ",
+  "lastname": "Garcia Ortiz ",
+  "username": "carlos2210074@correo.uis.edu.co",
+  "identification": "2210074",
+  "kind": "STUDENT",
+  "password": "$2a$10$3GmMHViI6hVUarq4hQjf7.oy68DqnH4CQtPIDhW.97l6xv3qdRiMa",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:06:23.940Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:12:30.958Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6e4699d5ac07093bbbfb"
+  },
+  "name": "Cristian",
+  "lastname": "Chavez",
+  "username": "cristian2182190@correo.uis.edu.co",
+  "identification": "2182190",
+  "kind": "STUDENT",
+  "password": "$2a$10$Wg6A.xcLOf8FVQ2ZJ6aP4e100DtBwFJVVVWJwx3Hc22Op0b57pGoO",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:07:02.962Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:09:27.775Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a6fde99d5ac07093bbe9d"
+  },
+  "name": "Jhon",
+  "lastname": "Jaimes",
+  "username": "jhon2231858@correo.uis.edu.co",
+  "identification": "2231858",
+  "kind": "STUDENT",
+  "password": "$2a$10$Qjx/amgLwqJCTZ7HzqkzbefW3QELX37P0BH/H9sN9PTI5xiOsrrzO",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:13:50.966Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:15:45.853Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a703299d5ac07093bbeed"
+  },
+  "name": "Santiago",
+  "lastname": "Florez Santamaria ",
+  "username": "santiago2230096@correo.uis.edu.co",
+  "identification": "2230096",
+  "kind": "STUDENT",
+  "password": "$2a$10$jqcl7UibqoeJ3mTD19Ucm.BNi6vV8ZzDyml5zUhGN9NvRRkcT4lp6",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:15:14.454Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:16:41.416Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a706599d5ac07093bbf18"
+  },
+  "name": "Leider Yesid",
+  "lastname": "Gomez Giraldo",
+  "username": "leider2232503@correo.uis.edu.co",
+  "identification": "2232503",
+  "kind": "STUDENT",
+  "password": "$2a$10$TcMC.kIiIm5HxBb.cIBuWuy2Hi2JygyASKIx0XKmzjL94miJLsGaC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:16:05.171Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:39:10.106Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a708a99d5ac07093bbf31"
+  },
+  "name": "Thomas Alejandro",
+  "lastname": "Perez Rojas",
+  "username": "thomas2221906@correo.uis.edu.co",
+  "identification": "2221906",
+  "kind": "STUDENT",
+  "password": "$2a$10$mcg2vhlVEB5c4s5uxlvrY.UnxDMGtf2i7r2/TxcuKbawOpT3mRy5.",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:16:42.432Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:17:09.010Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a70ef99d5ac07093bbfa7"
+  },
+  "name": "jhon",
+  "lastname": "velandia",
+  "username": "jhon2220028@correo.uis.edu.co",
+  "identification": "2220028",
+  "kind": "STUDENT",
+  "password": "$2a$10$JdFIHxxygWB2iQnbVuSg2eiteGCBetKs2YlTvMQOAcGxstRdWE1AG",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:18:23.301Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:29:37.474Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a70f399d5ac07093bbfb0"
+  },
+  "name": "Juan",
+  "lastname": "Bermudez",
+  "username": "juan2200182@correo.uis.edu.co",
+  "identification": "2200182",
+  "kind": "STUDENT",
+  "password": "$2a$10$MaDqCOFi29xOamFZ8.R4JOUWOfCde8gyu96sDIxjg6cMddqEggAZa",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:18:27.188Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:19:35.065Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a713c99d5ac07093bc01d"
+  },
+  "name": "Adrian",
+  "lastname": "Bernal",
+  "username": "adrian2235009@correo.uis.edu.co",
+  "identification": "2235009",
+  "kind": "STUDENT",
+  "password": "$2a$10$AlUeQkOapCq/tWzQzgV23enl2cX0NE/.66FQuIXHfIZ4WeLTNEVum",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:19:40.223Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:29:00.165Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a717899d5ac07093bc077"
+  },
+  "name": "Karoll Melissa",
+  "lastname": "Resarte Celis",
+  "username": "karoll2230049@correo.uis.edu.co",
+  "identification": "2230049",
+  "kind": "STUDENT",
+  "password": "$2a$10$2Rxho9JbjNKWcJ1TI4pIGejJSD2igXuizGwjXjQ8qhwPHVKT10lHy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:20:40.999Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:22:28.953Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a718899d5ac07093bc0be"
+  },
+  "name": "Diego Andres",
+  "lastname": "Barragan Ruiz",
+  "username": "diego2211827@correo.uis.edu.co",
+  "identification": "2211827",
+  "kind": "STUDENT",
+  "password": "$2a$10$0TLBIb5IT7Fv3Pf7uZfOhez50eQt1zSBHCJjnNzXLHEwA3rSsKQCC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:20:56.592Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:21:34.769Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a718999d5ac07093bc0c1"
+  },
+  "name": "Juan Sebastián",
+  "lastname": "Mantilla Serrano",
+  "username": "juan2211919@correo.uis.edu.co",
+  "identification": "2211919",
+  "kind": "STUDENT",
+  "password": "$2a$10$gY3IFntyw5sBtJ3jhWVj5e.A.mvZhXkkvDLmLFRI31i6e/G3ycOVK",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:20:57.957Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:22:53.848Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a72a099d5ac07093bc24c"
+  },
+  "name": "John Anderson",
+  "lastname": "Sotelo Rueda",
+  "username": "john2224769@correo.uis.edu.co",
+  "identification": "2224769",
+  "kind": "STUDENT",
+  "password": "$2a$10$pUPL41bcquYbwlO15nMk8.OTkOC8bwPbiuDp4I01oDMukCInWx3B2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:25:36.518Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:28:13.049Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a72bd99d5ac07093bc27f"
+  },
+  "name": "Jeferson ",
+  "lastname": "Acevedo",
+  "username": "jeferson2221790@correo.uis.edu.co",
+  "identification": "2221790",
+  "kind": "STUDENT",
+  "password": "$2a$10$jNjqYwFXZ8fVU0eOMmFewuP4i5dvOZQ7cmCBj4QofjEj9N5r5L/ku",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:26:05.490Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:31:36.248Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a72e499d5ac07093bc2b1"
+  },
+  "name": "juan josé",
+  "lastname": "rangel garcia",
+  "username": "juan2224658@correo.uis.edu.co",
+  "identification": "2224658",
+  "kind": "STUDENT",
+  "password": "$2a$10$L5gIopQbX0lRArFDlHzNIOtAA5i1FVATpJmdLESdnnocFp4FStvIO",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:26:44.337Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:27:54.033Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a733799d5ac07093bc35c"
+  },
+  "name": "Danie Esteban ",
+  "lastname": "Yaruro Contreras",
+  "username": "daniel2220088@correo.uis.edu.co",
+  "identification": "2220088",
+  "kind": "STUDENT",
+  "password": "$2a$10$pXvza5dVk5G.UkEsojFFouSETUAemMWk57EJSoxAbeUYJFVtk6aAa",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:28:07.465Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:28:42.882Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a739299d5ac07093bc44f"
+  },
+  "name": "Jose Miguel ",
+  "lastname": "Pardo Diaz ",
+  "username": "jose2202004@correo.uis.edu.co",
+  "identification": "2202004",
+  "kind": "STUDENT",
+  "password": "$2a$10$nm0al9Kr1woBflQewp0uGe.sLyl3Mjv9/aTgqKC0Bcuk7ovhNJjPK",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:29:38.258Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:30:37.710Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a73e399d5ac07093bc4d3"
+  },
+  "name": "Juan Pablo ",
+  "lastname": "Ramirez Ortega",
+  "username": "juan2201740@correo.uis.edu.co",
+  "identification": "2201740",
+  "kind": "STUDENT",
+  "password": "$2a$10$N/v5zE8kAE4Y4SIs.s2KNOnT4TT.gzKc4g1knro649Y60elciexIG",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:30:59.877Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:31:47.952Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a745599d5ac07093bc5aa"
+  },
+  "name": "Alejandra",
+  "lastname": "Rodriguez",
+  "username": "alejandra2211923@correo.uis.edu.co",
+  "identification": "2211923",
+  "kind": "STUDENT",
+  "password": "$2a$10$AE5mkN6CAXTItOnSfVuqVu9ryouvgt5ie05SR.FwHbezTdYSBzQAC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:32:53.624Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:35:20.225Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a747a99d5ac07093bc5e3"
+  },
+  "name": "Sergio",
+  "lastname": "Uribe",
+  "username": "sergio2240029@correo.uis.edu.co",
+  "identification": "2240029",
+  "kind": "STUDENT",
+  "password": "$2a$10$o/QG/HD5UCbB6cfjcs62h.fN9x/7p79Lbl40QtGgTwq0kZ10Q3PS.",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:33:30.784Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:34:46.177Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a751499d5ac07093bc6fa"
+  },
+  "name": "David Steven",
+  "lastname": "Anaya Gonzalez",
+  "username": "david2211714@correo.uis.edu.co",
+  "identification": "2211714",
+  "kind": "STUDENT",
+  "password": "$2a$10$GmUEG5WgTeS/Ech4L1fttuo82qh9/IX4xUntPb2S5c724BMfOM3Ou",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:36:04.012Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:39:48.663Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a755799d5ac07093bc72c"
+  },
+  "name": "Jonk Keyler",
+  "lastname": "Sanchez Pabon",
+  "username": "jonk2221551@correo.uis.edu.co",
+  "identification": "2221551",
+  "kind": "STUDENT",
+  "password": "$2a$10$BAwED2EFa.n/aJZ6ouXS9uxMHxrk4/ncsr6XnlPFpgTD4tmyFG9X.",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:37:11.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:41:27.887Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a756099d5ac07093bc735"
+  },
+  "name": "Leyson ",
+  "lastname": "Celis",
+  "username": "leyson2225002@correo.uis.edu.co",
+  "identification": "2225002",
+  "kind": "STUDENT",
+  "password": "$2a$10$vI2kpk8M3MpRAuwejjcs1.sQnhl52Prlu7YITt4F9Q0mNkHJl0Uaq",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:37:20.678Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:39:40.274Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a764999d5ac07093bc880"
+  },
+  "name": "Alejandro",
+  "lastname": "Moreno Cortes",
+  "username": "alejandro2221916@correo.uis.edu.co",
+  "identification": "2221916",
+  "kind": "STUDENT",
+  "password": "$2a$10$m4tcH0GNlFEEnJe/UIjd1.CuXRXDwoOJT5jITsnrsHVyr1Zuz94Zy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:41:13.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:43:27.963Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a767999d5ac07093bc8c5"
+  },
+  "name": "Jesus David",
+  "lastname": "Parada Palencia ",
+  "username": "jesus2240090@correo.uis.edu.co",
+  "identification": "2240090",
+  "kind": "STUDENT",
+  "password": "$2a$10$lrFDs2caetl.QIgnFgpp6eWMwqsgvvjI9ZWRAGThqy6ipc1UdKWqy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:42:01.685Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:44:25.799Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a777c99d5ac07093bc9c7"
+  },
+  "name": "Yiber",
+  "lastname": "Romero",
+  "username": "yiber2221835@correo.uis.edu.co",
+  "identification": "2221835",
+  "kind": "STUDENT",
+  "password": "$2a$10$YRBkBvyJgnij9JOqync99u2OsphOL6qIoXanHMmIEGzBkwhYOpAby",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:46:20.173Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:49:02.675Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a777f99d5ac07093bc9ce"
+  },
+  "name": "Juan ",
+  "lastname": "Mena",
+  "username": "juan2221886@correo.uis.edu.co",
+  "identification": "2221886",
+  "kind": "STUDENT",
+  "password": "$2a$10$f1P/CN4vyQwEJyK6YfPD2eYfq0PdxcNMha7Qt2pI7tPnrhPY2cJrG",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:46:23.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:48:30.695Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a778299d5ac07093bc9d1"
+  },
+  "name": "Mateo",
+  "lastname": "Vera",
+  "username": "carlos2220027@correo.uis.edu.co",
+  "identification": "2220027",
+  "kind": "STUDENT",
+  "password": "$2a$10$VJz.GL7rIhjwJ40ODljPL.ys9O1/12TYwygy7I9QHuC/ikrI6lA/2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:46:26.745Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:48:50.005Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a778f99d5ac07093bc9d9"
+  },
+  "name": "Daniel",
+  "lastname": "González",
+  "username": "daniel2181932@correo.uis.edu.co",
+  "identification": "2181932",
+  "kind": "STUDENT",
+  "password": "$2a$10$cE7RZJECruKGkN0MfJHC/e6h4wDcU2SvYHAXrAu6dCoHGH0RhUJc.",
+  "verified": false,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:46:39.217Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:46:39.217Z"
+  },
+  "__v": 0,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a77a099d5ac07093bc9e6"
+  },
+  "name": "Andrés Felipe",
+  "lastname": "Rodríguez ",
+  "username": "andres2235008@correo.uis.edu.co",
+  "identification": "2235008",
+  "kind": "STUDENT",
+  "password": "$2a$10$s7ExgxQj78vzEZLIQr.OAeO2jxIB91v8JXcFYems4DEY5tJyucVKy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:46:56.664Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:49:18.557Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a781299d5ac07093bca6c"
+  },
+  "name": "Andrés",
+  "lastname": "Olivar",
+  "username": "andres2211556@correo.uis.edu.co",
+  "identification": "2211556",
+  "kind": "STUDENT",
+  "password": "$2a$10$fTl4r/g.jvXX4afrFI7ofuyAITrsI.IvLk8fJ.LybkcpddInCUR5a",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T18:48:50.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T18:50:59.523Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a7abc92c7dd2418cd0d54"
+  },
+  "name": "Mario",
+  "lastname": "Calambás",
+  "username": "mario2181443@correo.uis.edu.co",
+  "identification": "2181443",
+  "kind": "STUDENT",
+  "password": "$2a$10$rbfe6W31Q9A2L8u3WjD09.clCjfoBh/yEK68AeB9uoO3XXPSAQv7e",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:00:12.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:02:56.436Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a7ad492c7dd2418cd0d68"
+  },
+  "name": "Cristian Manuel",
+  "lastname": "Hernández Delgado",
+  "username": "cristian2210059@correo.uis.edu.co",
+  "identification": "2210059",
+  "kind": "STUDENT",
+  "password": "$2a$10$iyWy0XEDLDFyD8B.mIZ0gukuaR3gioCg5fQktjQBPDHmp0IcthkfW",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:00:36.195Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:01:32.513Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a7b6592c7dd2418cd0e72"
+  },
+  "name": "Ibeth",
+  "lastname": "Ruiz",
+  "username": "ibeth2241441@correo.uis.edu.co",
+  "identification": "2241441",
+  "kind": "STUDENT",
+  "password": "$2a$10$UhrLG5ruhgWpcqDaeVXtp.SD7n4Zf2I2erFY6pX08QO4hKEkaxFNa",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:03:01.937Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T22:13:22.476Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a7bc892c7dd2418cd0f09"
+  },
+  "name": "Luigi",
+  "lastname": "Garcia",
+  "username": "luigi2180029@correo.uis.edu.co",
+  "identification": "2180029",
+  "kind": "STUDENT",
+  "password": "$2a$10$QVjgbGcm3gTBpB0tlfI3I.DzwyTuRemXRPu9BuE.YCpazcnsL1QQ.",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:04:40.701Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:06:47.866Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a7c3692c7dd2418cd0f59"
+  },
+  "name": "Juan Felipe",
+  "lastname": "Mora Bejarano",
+  "username": "juan2241754@correo.uis.edu.co",
+  "identification": "2241754",
+  "kind": "STUDENT",
+  "password": "$2a$10$TKQvHaA1tt5lzqume6YjAewKgZ3b2KjOqUmfeT/MJFL3WyWMYbMzS",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:06:30.905Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:07:51.398Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a7d0192c7dd2418cd1019"
+  },
+  "name": "Jonnier",
+  "lastname": "Corzo",
+  "username": "jonnier2225609@correo.uis.edu.co",
+  "identification": "2225609",
+  "kind": "STUDENT",
+  "password": "$2a$10$zV6BQ87M66unBbLLx85dCOaizjZeW2pL3tdjQWw9oW5q6ngdlaU9q",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:09:53.438Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:12:32.301Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a7f3392c7dd2418cd1298"
+  },
+  "name": "Alex",
+  "lastname": "Lopez Solano",
+  "username": "alex2242040@correo.uis.edu.co",
+  "identification": "2242040",
+  "kind": "STUDENT",
+  "password": "$2a$10$NYoBeGzxo39A21m.OJN6weIRXlXT2WMe7YQ/o/rgv63N9cnXKyNCC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:19:15.040Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:24:59.117Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a804f92c7dd2418cd1360"
+  },
+  "name": "Juan Diego",
+  "lastname": "Castro Sánchez",
+  "username": "juan2242019@correo.uis.edu.co",
+  "identification": "2242019",
+  "kind": "STUDENT",
+  "password": "$2a$10$PYy.ozM5VIZPRgqjr0dKOep2jxyn.uufDUIGUKrOykyerV5tgh7ni",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:23:59.381Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:31:14.332Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a80f992c7dd2418cd146f"
+  },
+  "name": "Jairo Armando ",
+  "lastname": "Cardozo Mendoza",
+  "username": "jairo2224637@correo.uis.edu.co",
+  "identification": "2224637",
+  "kind": "STUDENT",
+  "password": "$2a$10$VpxGnnDPz.FmviBrEXGtye5wUGIn7qW6113Xc977/kf.3Eb5bT.V.",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:26:49.377Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:27:43.204Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a811a92c7dd2418cd1484"
+  },
+  "name": "Kevin Farith",
+  "lastname": "Garcia Chaparro",
+  "username": "kevin2204078@correo.uis.edu.co",
+  "identification": "2204078",
+  "kind": "STUDENT",
+  "password": "$2a$10$m2I.Oux0DIW7gQakrFB5iej2KD0b7qTuhu02qylcJVLmL7k7L6ekG",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:27:22.448Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:28:50.574Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a822592c7dd2418cd15cf"
+  },
+  "name": "Minerva Sofía",
+  "lastname": " Pinilla Díaz",
+  "username": "minerva2215607@correo.uis.edu.co",
+  "identification": "2215607",
+  "kind": "STUDENT",
+  "password": "$2a$10$Y3S6pHzmcPWnnN34hxyLPOGPKUEtx0GqfDXDbgKnzM7ZpR4N92IZ6",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:31:49.669Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:32:49.386Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a827592c7dd2418cd1656"
+  },
+  "name": "Mateo",
+  "lastname": "Ortiz",
+  "username": "mateo2201778@correo.uis.edu.co",
+  "identification": "2201778",
+  "kind": "STUDENT",
+  "password": "$2a$10$ef3Mi0R3ZYOR1MvrViMDq.z9UDfBqK51xGKS5wDyJm2gAjTdk2oFy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:33:09.829Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:35:03.779Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a833c92c7dd2418cd179f"
+  },
+  "name": "mauro",
+  "lastname": "romero",
+  "username": "mauro2214006@correo.uis.edu.co",
+  "identification": "2214006",
+  "kind": "STUDENT",
+  "password": "$2a$10$IbVeeCa5TalOAsEgj./YXOWpzf7NPzGhzfATtz0N.L5sFeJKBt/Lu",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:36:28.570Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:45:22.443Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a835292c7dd2418cd17b0"
+  },
+  "name": "Kevin Andres",
+  "lastname": "Gallardo Robles",
+  "username": "kevin2191918@correo.uis.edu.co",
+  "identification": "2191918",
+  "kind": "STUDENT",
+  "password": "$2a$10$AgWksj5MQJFqr2Iz5Nyk7egFE4mqvIvErHs8JEB6HShwGfe0RUqpS",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:36:50.817Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:39:39.045Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a835892c7dd2418cd17ba"
+  },
+  "name": "Fabián ",
+  "lastname": "Remolina ",
+  "username": "fabian2241976@correo.uis.edu.co",
+  "identification": "2241976",
+  "kind": "STUDENT",
+  "password": "$2a$10$18nlwMzyXvGuvLCSF3OaW.5OUp8dAlPWDvW6MTWFNzt4frAc/OB9e",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:36:56.104Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:39:01.770Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a84ba92c7dd2418cd19ba"
+  },
+  "name": "Ivan Ramiro",
+  "lastname": "Suarez Díaz",
+  "username": "ivan2224654@correo.uis.edu.co",
+  "identification": "2224654",
+  "kind": "STUDENT",
+  "password": "$2a$10$Ec1K4eMODBnHfI0HMVeHZ.0.72oR.ea6ZYb/mXIq17PKq2u9vC9sy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:42:50.731Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:48:35.941Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a84ee92c7dd2418cd1a40"
+  },
+  "name": "Miguel Enrique ",
+  "lastname": "Quintero Suarez",
+  "username": "miguel2190932@correo.uis.edu.co",
+  "identification": "2190932",
+  "kind": "STUDENT",
+  "password": "$2a$10$QTwWPKKBUYp/Ln3edb4PRuw8aaKRHHERjHRv9xzpbLFkzuxCPtABO",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:43:42.871Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:44:40.444Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a86b292c7dd2418cd1cd8"
+  },
+  "name": "Ana ",
+  "lastname": "Hernández ",
+  "username": "ana2220091@correo.uis.edu.co",
+  "identification": "2220091",
+  "kind": "STUDENT",
+  "password": "$2a$10$33WOHdLmuLOij/iZWAALOuE4t4EovMOT5jrpJCf.YafRQKxvKtsAC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T19:51:14.859Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T19:52:05.268Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a88cb92c7dd2418cd1f8e"
+  },
+  "name": "Sebastian",
+  "lastname": "Galvis",
+  "username": "johan2211904@correo.uis.edu.co",
+  "identification": "2211904",
+  "kind": "STUDENT",
+  "password": "$2a$10$7VmgpUpYPTuzgri2hqPAsO7mcXj7eu3.CDWdzwH7dbMtlyC08pS0.",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:00:11.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:01:07.619Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a891e92c7dd2418cd1fdd"
+  },
+  "name": "Valentina",
+  "lastname": "Pérez",
+  "username": "valentina2220505@correo.uis.edu.co",
+  "identification": "2220505",
+  "kind": "STUDENT",
+  "password": "$2a$10$tozHsq9RUSCW824UrqRNHeJ3231SCe8Gc87Wju911T3nn/br0Yxrq",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:01:34.456Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:02:35.161Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a8a6792c7dd2418cd210a"
+  },
+  "name": "Jhair",
+  "lastname": "Sánchez",
+  "username": "jhair2221893@correo.uis.edu.co",
+  "identification": "2221893",
+  "kind": "STUDENT",
+  "password": "$2a$10$BZoPIghlDDN5SMaMd6ZbNO/Sw.yyF.5.hcIa330ZlVA4AxNneqcR2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:07:03.287Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T21:03:45.889Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a8b1e92c7dd2418cd21ba"
+  },
+  "name": "Sebastian",
+  "lastname": "Sandoval",
+  "username": "sebastian2211853@correo.uis.edu.co",
+  "identification": "2211853",
+  "kind": "STUDENT",
+  "password": "$2a$10$J1pJDAMmPtw1iVZCXY3hMeN8HirOnxjaOo3Ber.HhG9aemeOiUaNC",
+  "verified": false,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:10:06.850Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:10:06.850Z"
+  },
+  "__v": 0,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a8b7092c7dd2418cd2205"
+  },
+  "name": "Luis ",
+  "lastname": "Lemus",
+  "username": "luis2210035@correo.uis.edu.co",
+  "identification": "2210035",
+  "kind": "STUDENT",
+  "password": "$2a$10$toNxrwgFpFFJwLURAenyyuDYeUcRAQJlikbIxJmnBKqQR35UCavzS",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:11:28.985Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:25:07.277Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a8c3292c7dd2418cd299c"
+  },
+  "name": "Julián David ",
+  "lastname": "Vargas Gómez",
+  "username": "julian2221885@correo.uis.edu.co",
+  "identification": "2221885",
+  "kind": "STUDENT",
+  "password": "$2a$10$kV.hXveH96B71l.UAnws2O4uQcIqGgFp/wTUBIvbwLhtOlLMVCc9O",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:14:42.122Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:15:31.284Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a8cf292c7dd2418cd5a53"
+  },
+  "name": "Arlex Stiven",
+  "lastname": "Rodriguez Barrera",
+  "username": "arlex2230066@correo.uis.edu.co",
+  "identification": "2230066",
+  "kind": "STUDENT",
+  "password": "$2a$10$E7kMn5uW6cOz21xAZv1gk.DibkQ5ppsfnPcOV5eQ0Rtpnms86GL76",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:17:54.714Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:19:36.144Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a8d1c92c7dd2418cd67d7"
+  },
+  "name": "Reinaldo",
+  "lastname": "Cárdenas Tirado",
+  "username": "reinaldo2190201@correo.uis.edu.co",
+  "identification": "2190201",
+  "kind": "STUDENT",
+  "password": "$2a$10$5Lk5blfNoQVuI9VrA3Y3hOunfk3aZPHNA20eM4fSAsj3JZm7K7ac2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:18:36.011Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:19:40.265Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a8d5292c7dd2418cd7c2a"
+  },
+  "name": "Andres Martinez",
+  "lastname": "Martinez",
+  "username": "andres2225112@correo.uis.edu.co",
+  "identification": "2225112",
+  "kind": "STUDENT",
+  "password": "$2a$10$NUEKvHJOEYvsgmVI.ivsOuARvyuWrV90OYAgBS/B8ZIvwtan.yivK",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:19:30.233Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:20:22.095Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a8e6992c7dd2418cdeceb"
+  },
+  "name": "Laura ",
+  "lastname": "Trejos",
+  "username": "laura2231535@correo.uis.edu.co",
+  "identification": "2231535",
+  "kind": "STUDENT",
+  "password": "$2a$10$gI/VMS/m2/SwJx.0MbiCWeyXhpTOwzGQ85oiEvy6rV12MWgxD8r1q",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:24:09.907Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:26:42.313Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a8e9392c7dd2418cdfe1a"
+  },
+  "name": "Michael Andrey ",
+  "lastname": "Maldonado Areniz",
+  "username": "michael2200148@correo.uis.edu.co",
+  "identification": "2200148",
+  "kind": "STUDENT",
+  "password": "$2a$10$qDXMHFAizYzKaAgjfZ0W9.5PJTcP/oJBEZ5aKRtMm..8ha0sx/YN.",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:24:51.867Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:28:22.451Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a8ea592c7dd2418ce055f"
+  },
+  "name": "Octavio",
+  "lastname": "Barrera",
+  "username": "octavio2221125@correo.uis.edu.co",
+  "identification": "2221125",
+  "kind": "STUDENT",
+  "password": "$2a$10$CYKnzE6cYLTVbeE/EBCVbuX6nV9uPFIowrmy5IKNveJ8Pcx/3iEUC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:25:09.552Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:28:18.543Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a8f5692c7dd2418ce4e4c"
+  },
+  "name": "fabian enrique ",
+  "lastname": "londoño florez",
+  "username": "fabian2182027@correo.uis.edu.co",
+  "identification": "2182027",
+  "kind": "STUDENT",
+  "password": "$2a$10$ALe/2KOOI.yYgzSMUD98MOQ9E0QmbU3PT1fyXobdpjV/P5NVKwsUe",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:28:06.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:29:01.453Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a8fe192c7dd2418ce8779"
+  },
+  "name": "Juan Sebastian",
+  "lastname": "Landinez Arenales",
+  "username": "juan2211898@correo.uis.edu.co",
+  "identification": "2211898",
+  "kind": "STUDENT",
+  "password": "$2a$10$NeXEKVfdIS3VLo5RxvfW5uuM1SYP1c1PVpyFuYD54e57nyEvJZBS6",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:30:25.052Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:31:36.289Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a8fe792c7dd2418ce8a0b"
+  },
+  "name": "Naren",
+  "lastname": "Martinez ",
+  "username": "naren2230535@correo.uis.edu.co",
+  "identification": "2230535",
+  "kind": "STUDENT",
+  "password": "$2a$10$uHgB0ZnUFeb/0lsJKXqQUe7lMw6Q.Xx3LA.koP605e5HyHuj.ubSu",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:30:31.470Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:33:16.524Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a903a4f6312124b8681fa"
+  },
+  "name": "Nicolás ",
+  "lastname": "Rodríguez ",
+  "username": "nicolas2211897@correo.uis.edu.co",
+  "identification": "2211897",
+  "kind": "STUDENT",
+  "password": "$2a$10$BfwWGtR/4rB7c9/itynq/Ojo4eNaDyvA02EX8Y21yi0TzkuYagW3K",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:31:54.054Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:32:52.734Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a90844f6312124b868d7b"
+  },
+  "name": "Julian Javier",
+  "lastname": "Lizcano Villarreal",
+  "username": "julian2224647@correo.uis.edu.co",
+  "identification": "2224647",
+  "kind": "STUDENT",
+  "password": "$2a$10$BERnTaHFOkVuZOjFR5AzIOe1h2PcVq7/zgrhMKDIj9wF/K3NLcP6m",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:33:08.455Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:40:25.889Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a90d24f6312124b869b0e"
+  },
+  "name": "Estefania ",
+  "lastname": "Osma Llanes",
+  "username": "estefania2202028@correo.uis.edu.co",
+  "identification": "2202028",
+  "kind": "STUDENT",
+  "password": "$2a$10$DkskVDHhSq4C0GU414oDSOU0zO3qc/TZ3ap2ZekE1n0w9pkgRTb2e",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:34:26.398Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:36:41.443Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a91db4f6312124b86e04e"
+  },
+  "name": "Diego ",
+  "lastname": "Guerrero",
+  "username": "diego2211895@correo.uis.edu.co",
+  "identification": "2211895",
+  "kind": "STUDENT",
+  "password": "$2a$10$XDj0LimKKIlJU9NM9eqFLeYotA2gizdaoofGRdy1wIMp5gshfOCGe",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:38:51.582Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:40:05.030Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a92bb4f6312124b871a71"
+  },
+  "name": "Esneyder ",
+  "lastname": "Mora",
+  "username": "esneyder2191913@correo.uis.edu.co",
+  "identification": "2191913",
+  "kind": "STUDENT",
+  "password": "$2a$10$Fk2H7klgz6Kl.UQIupe2Cek.g/xybvyjXtGM/BTAGJIbL2TUhUuR2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:42:35.449Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:45:31.678Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a94164f6312124b877718"
+  },
+  "name": "Jerson ",
+  "lastname": "Mantilla ",
+  "username": "jerson2211849@correo.uis.edu.co",
+  "identification": "2211849",
+  "kind": "STUDENT",
+  "password": "$2a$10$0UesMpAQ7uDEedc/SZZJOuli/urQa1FVnGYfSCg/LCfnsFjzQ6UOO",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:48:22.159Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:49:35.369Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a956d4f6312124b87ee44"
+  },
+  "name": "Farid Camilo",
+  "lastname": "Rojas Vargas",
+  "username": "farid2220051@correo.uis.edu.co",
+  "identification": "2220051",
+  "kind": "STUDENT",
+  "password": "$2a$10$9WqBlwMA8jYI5vahKdNn3.RQO5QgUWy4esaNm3S251STmw31L82NG",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:54:05.783Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T21:02:42.684Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a95b94f6312124b880c49"
+  },
+  "name": "Marcos Duvan",
+  "lastname": "Nitola Rodríguez",
+  "username": "marcos2200146@correo.uis.edu.co",
+  "identification": "2200146",
+  "kind": "STUDENT",
+  "password": "$2a$10$evis9mnyMqV/W00q5Y.N.uGByYLgkUmGNQMlJnNL6LMkc3BdgmKZW",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:55:21.786Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:56:13.542Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a95c34f6312124b880ff9"
+  },
+  "name": "Luis Tarazona",
+  "lastname": "Tarazona",
+  "username": "luis2201988@correo.uis.edu.co",
+  "identification": "2201988",
+  "kind": "STUDENT",
+  "password": "$2a$10$ur7x2r1uU.EjHWpyI95el.PJVEPPNi56kSn9BOdjyMLwuYZYkF3hq",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T20:55:31.209Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T20:58:19.707Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a97d2453ff5a727f5ef24"
+  },
+  "name": "Juan David",
+  "lastname": "Paipa Jaimes",
+  "username": "juan2220062@correo.uis.edu.co",
+  "identification": "2220062",
+  "kind": "STUDENT",
+  "password": "$2a$10$BzOIkuWRcw44OIp6.iK0XeaN6dQIzFYoRtbZkrz.1.DjGLVofEwMG",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T21:04:18.566Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T21:07:08.952Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a98eda3ee27803e610eb4"
+  },
+  "name": "Miguel ",
+  "lastname": "Aguilar ",
+  "username": "miguel2240030@correo.uis.edu.co",
+  "identification": "2240030",
+  "kind": "STUDENT",
+  "password": "$2a$10$czyvSMkAM4A62r2VvGHib.wDhw/csqZFfCymNySAh2ljc0/bUrsQC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T21:09:01.802Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T21:09:49.379Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a9993a3ee27803e611397"
+  },
+  "name": "sebastian ",
+  "lastname": "laguna funes",
+  "username": "sebastian2211911@correo.uis.edu.co",
+  "identification": "2211911",
+  "kind": "STUDENT",
+  "password": "$2a$10$1nYusADlYQmSSfqkUk2A4..v6iEFBvIAkxnOWAhCwhM6Ab17uquuC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T21:11:47.156Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T21:13:39.611Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a9ad7a3ee27803e6123a1"
+  },
+  "name": "johan stivent",
+  "lastname": "peñaranda basto",
+  "username": "johan2205084@correo.uis.edu.co",
+  "identification": "2205084",
+  "kind": "STUDENT",
+  "password": "$2a$10$hYtaw8IeP64aMFaux9AkWeJZfXj4LqJqBe/RKoT2wIMQkeqVnYwNy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T21:17:11.347Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T21:18:52.623Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a9c5a087594bf2bce3854"
+  },
+  "name": "Andrés Sebastián ",
+  "lastname": "Pinzón Gutiérrez ",
+  "username": "andres2221887@correo.uis.edu.co",
+  "identification": "2221887",
+  "kind": "STUDENT",
+  "password": "$2a$10$OKumNs5iwTNWkyWKxjHvC.0AkSYqhIIUpWH9CiDwNR1H.NIxHcGDK",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T21:23:38.041Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T21:24:29.424Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679a9e12087594bf2bce42ef"
+  },
+  "name": "Juan",
+  "lastname": "Mantilla",
+  "username": "juan2202050@correo.uis.edu.co",
+  "identification": "2202050",
+  "kind": "STUDENT",
+  "password": "$2a$10$nw40dFmhxmr3OHkcqE9xoOnczIMXx0dO/PC6PObXjzMRoHqWF0T..",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T21:30:58.757Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T21:33:57.088Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aa024087594bf2bce4568"
+  },
+  "name": "Juan Esteban ",
+  "lastname": "Hernández Velandia ",
+  "username": "juan2240045@correo.uis.edu.co",
+  "identification": "2240045",
+  "kind": "STUDENT",
+  "password": "$2a$10$8GewtkeoiqRgUgEhJOayteYus4sRcjCVPvPuX.P4K7K3wS7O7dLGq",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T21:39:48.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T21:46:19.188Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aa084087594bf2bce45ff"
+  },
+  "name": "Angélica María ",
+  "lastname": "Sanabria Florez ",
+  "username": "angelica2205564@correo.uis.edu.co",
+  "identification": "2205564",
+  "kind": "STUDENT",
+  "password": "$2a$10$IFmKILnSc4aOVEP76J72z.4qBNcRvVvbDG2cNLxb/wSrKKV4LBGOa",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T21:41:24.758Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T21:43:39.520Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aa107087594bf2bce466a"
+  },
+  "name": "Diego Fabian",
+  "lastname": "Sepulveda Duran",
+  "username": "diego2210063@correo.uis.edu.co",
+  "identification": "2210063",
+  "kind": "STUDENT",
+  "password": "$2a$10$J1GWWW3QCNh5n.7/dYpeNunDyVUwMIfFo5m4246JV1NDEFbgEbJvi",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T21:43:35.283Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T21:44:39.199Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aa258087594bf2bce481a"
+  },
+  "name": "georsan",
+  "lastname": "sandoval",
+  "username": "jorge2182028@correo.uis.edu.co",
+  "identification": "2182028",
+  "kind": "STUDENT",
+  "password": "$2a$10$BeQPa2iX1R0lRlIT3QjSa.GQPopBO0ojw2ijwWZp/hmvn.PvI1ww2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T21:49:12.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T21:51:59.547Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aa299087594bf2bce489c"
+  },
+  "name": "Samuel",
+  "lastname": "Cáceres",
+  "username": "samuel2232984@correo.uis.edu.co",
+  "identification": "2232984",
+  "kind": "STUDENT",
+  "password": "$2a$10$gFz0RTRPGdJMm2xm19RY7eKT.KXV2kKbjkbsvSfKRQrwgy6FJIrge",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T21:50:17.556Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T21:53:08.887Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aa38e087594bf2bce49bc"
+  },
+  "name": "Neider",
+  "lastname": "Piza",
+  "username": "neider2225613@correo.uis.edu.co",
+  "identification": "2225613",
+  "kind": "STUDENT",
+  "password": "$2a$10$vXWKOa6utehUlRL8xBPMsuQeb6bF9/xYsC14NKHvUtcNnpcf3Bt4C",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T21:54:22.700Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T21:56:01.216Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aa464087594bf2bce4e57"
+  },
+  "name": "Santiago Andrés ",
+  "lastname": "Alvarez",
+  "username": "Santiago2235002@correo.uis.edu.co",
+  "identification": "2235002",
+  "kind": "STUDENT",
+  "password": "$2a$10$oeHGA6NdMQ.n9dRuuVjzFOQS.i2O4vpp9cPFmizEjv0Wl/JkmYUX6",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T21:57:56.194Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T22:07:41.365Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aa4f0087594bf2bce5048"
+  },
+  "name": "Juan Sebastián",
+  "lastname": "Otero Vega",
+  "username": "juan2220053@correo.uis.edu.co",
+  "identification": "2220053",
+  "kind": "STUDENT",
+  "password": "$2a$10$U9mTQ37OfXkmypmuJ90cQuz79RF8CmrY467.1ZPg/ACYcVrWCe13u",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T22:00:16.314Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T22:02:33.872Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aa50e087594bf2bce5063"
+  },
+  "name": "Nicolas",
+  "lastname": "Rivera Leon",
+  "username": "nicolas2221918@correo.uis.edu.co",
+  "identification": "2221918",
+  "kind": "STUDENT",
+  "password": "$2a$10$f13s7twIJOXqkkGAsVGSwu/YyNWDn7Zq0/nTLbgdy5gxnDjF8zBhG",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T22:00:46.033Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T22:07:05.179Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aa522087594bf2bce507e"
+  },
+  "name": "Johan Sebastian",
+  "lastname": "Diaz Meza",
+  "username": "johan2221905@correo.uis.edu.co",
+  "identification": "2221905",
+  "kind": "STUDENT",
+  "password": "$2a$10$win1Pj31kQBYXKJBVxgrN.X/Gq7wyiBN9OjSX.C5OqPZy2GotXYKK",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T22:01:06.990Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T22:06:38.873Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aa6a3087594bf2bce52c7"
+  },
+  "name": "Mateo Andres ",
+  "lastname": "Delgado Fonseca",
+  "username": "mateo2221907@correo.uis.edu.co",
+  "identification": "2221907",
+  "kind": "STUDENT",
+  "password": "$2a$10$aRWORP6kncxfuB8LgfZBuOtEZG7GkiUkiul03BSZSCXyQC63i9mam",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T22:07:31.196Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T22:10:47.538Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aa6f2087594bf2bce5336"
+  },
+  "name": "Kevin",
+  "lastname": "Guzman",
+  "username": "kevin2211875@correo.uis.edu.co",
+  "identification": "2211875",
+  "kind": "STUDENT",
+  "password": "$2a$10$lB4UJBBsOqduBeVpQY/cn.t7lUXicEOOL46b948qOtwJzeq2Rg89q",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T22:08:50.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T22:10:05.176Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aa846087594bf2bce552a"
+  },
+  "name": "Juan Daniel",
+  "lastname": "Sandoval Mateus",
+  "username": "juan2221902@correo.uis.edu.co",
+  "identification": "2221902",
+  "kind": "STUDENT",
+  "password": "$2a$10$Rr4JuDZOpa42njZg.O3d5uXU/XUxz7t4yiPdCTRtWJ0GnQpKXRE0O",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T22:14:30.454Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:48:02.731Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aa869087594bf2bce555b"
+  },
+  "name": "Roger",
+  "lastname": "Hernandez ",
+  "username": "roger2220065@correo.uis.edu.co",
+  "identification": "2220065",
+  "kind": "STUDENT",
+  "password": "$2a$10$emy8P3AuPPTaVrd7xSb14.Kug.HofL94SUKH05Vq5wl51Dk.d/b06",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T22:15:05.896Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T22:17:24.998Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aa978087594bf2bce56b7"
+  },
+  "name": "Juan David",
+  "lastname": "Marin Barragan",
+  "username": "juan2200157@correo.uis.edu.co",
+  "identification": "2200157",
+  "kind": "STUDENT",
+  "password": "$2a$10$SFzjnHsdPd6fedbnlbsFzOw8y/ylPJkISJLJ1H0NKo5dw/AiaWfhq",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T22:19:36.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T22:21:26.847Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aaaa0087594bf2bce5802"
+  },
+  "name": "David Santiago",
+  "lastname": "Urrea Tapiero",
+  "username": "david2242041@correo.uis.edu.co",
+  "identification": "2242041",
+  "kind": "STUDENT",
+  "password": "$2a$10$XwqsHRNqtpFy9y5rErq92eymh4Eb1FvZjb5OqLOg.1QDM7Ryr0aIK",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T22:24:32.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T22:26:33.792Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aac6b087594bf2bce5977"
+  },
+  "name": "CESAR",
+  "lastname": "VANEGAS OVIEDO",
+  "username": "cesar2220040@correo.uis.edu.co",
+  "identification": "2220040",
+  "kind": "STUDENT",
+  "password": "$2a$10$smkqQrJpQQ7AR6IYBuHCleHxhz37t9XwMzZRSutv8dDE93IYu5cDe",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T22:32:11.868Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T22:33:59.123Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aadd7087594bf2bce5a4d"
+  },
+  "name": "Kevin Andres",
+  "lastname": "Villegas Torres",
+  "username": "kevin2211396@correo.uis.edu.co",
+  "identification": "2211396",
+  "kind": "STUDENT",
+  "password": "$2a$10$x0JiZDu2eQArG9MGqAIYPuHtKlDyLemY.H2ZHMoyG8submWu/AIhm",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T22:38:15.734Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T22:39:53.914Z"
+  },
+  "__v": 0,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ab2106cbde029e0fb1ec7"
+  },
+  "name": "Sebastian",
+  "lastname": "Castellanos Prada",
+  "username": "sebastian2240037@correo.uis.edu.co",
+  "identification": "2240037",
+  "kind": "STUDENT",
+  "password": "$2a$10$IUlNLyHzG50qljxhj8jF3Oz73CQhg3eN28D6jT4Z0tqvMvjyGugnm",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T22:56:16.281Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T22:58:27.871Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ab7b16cbde029e0fb2269"
+  },
+  "name": "Gabriela",
+  "lastname": "Patiño",
+  "username": "gabriela2242044@correo.uis.edu.co",
+  "identification": "2242044",
+  "kind": "STUDENT",
+  "password": "$2a$10$idcYAXLP3GWWfLtMgvtvTObQad6JNa4kMdLmq.Ug6eVc3sbbI7LPG",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T23:20:17.373Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T23:22:14.478Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ab7fd6cbde029e0fb22bf"
+  },
+  "name": "Juan",
+  "lastname": "Mejía",
+  "username": "juan2240085@correo.uis.edu.co",
+  "identification": "2240085",
+  "kind": "STUDENT",
+  "password": "$2a$10$a8IyreQQaonpabYOXibGa.M3HPEWQz9xiEYHLERNddNeUwPn4ZujO",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T23:21:33.925Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T15:49:37.804Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679abeba105660490f34a1fa"
+  },
+  "name": "Tomas Alejandro ",
+  "lastname": "Castro Villarreal",
+  "username": "tomas2224508@correo.uis.edu.co",
+  "identification": "2224508",
+  "kind": "STUDENT",
+  "password": "$2a$10$c4zunlwEqRPFsQNkzrbsYOSubBxpwZnRXTe46FIGWy.1Wsn6S3FGK",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T23:50:18.330Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T23:52:06.897Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ac1f6105660490f34a35e"
+  },
+  "name": "Jonathan Steven ",
+  "lastname": "Paez Monsalve ",
+  "username": "jonathan2230038@correo.uis.edu.co",
+  "identification": "2230038",
+  "kind": "STUDENT",
+  "password": "$2a$10$OwlJLTqLaUDvX1BHxlgXD.9/C6WzUdr7uP..eL4B7d5H7iwCoCfJS",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T00:04:06.989Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T12:56:52.715Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ac979105660490f34a7fb"
+  },
+  "name": "Ricardo Sneyder",
+  "lastname": "Rincon Gamboa",
+  "username": "ricardo2210639@correo.uis.edu.co",
+  "identification": "2210639",
+  "kind": "STUDENT",
+  "password": "$2a$10$W0eNYImRFtQBsvpxPfUExenS5eGx2K0QBy5lGNyFfIrZVkLcMPIhG",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T00:36:09.829Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T01:06:09.197Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aca8c105660490f34a883"
+  },
+  "name": "Kevin Daniel",
+  "lastname": "Gómez Pabón",
+  "username": "kevin2230043@correo.uis.edu.co",
+  "identification": "2230043",
+  "kind": "STUDENT",
+  "password": "$2a$10$PN3WB5tBARLekj9lozXJFuz9OdgzLn7dOdpg1P27dUKJ8BVgZJmvC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T00:40:44.734Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T00:41:38.496Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679acc86105660490f34aa35"
+  },
+  "name": "Ana María ",
+  "lastname": "Fernández Zapata",
+  "username": "ana2240059@correo.uis.edu.co",
+  "identification": "2240059",
+  "kind": "STUDENT",
+  "password": "$2a$10$l/xdWoyG6//9Zf/Nux1cmeqVvJsAGfInnUTw7QRAPOjElAJQqJQ3K",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T00:49:10.910Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T15:11:38.108Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679acd7c105660490f34ab08"
+  },
+  "name": "Diego",
+  "lastname": "Fonseca",
+  "username": "diego2203090@correo.uis.edu.co",
+  "identification": "2203090",
+  "kind": "STUDENT",
+  "password": "$2a$10$UOuNuo..vSyF9wrMFh1ma.zfbr1UM1kZT8ZR7D4k.UqEtuuNMhBda",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T00:53:16.711Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T00:53:52.091Z"
+  },
+  "__v": 0,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ad389105660490f34aed8"
+  },
+  "name": "Daniel Fernando",
+  "lastname": "Arias Rivero",
+  "username": "daniel2240078@correo.uis.edu.co",
+  "identification": "2240078",
+  "kind": "STUDENT",
+  "password": "$2a$10$4vQeDoYu6LyBVuRYXffIq.wz9mrIuSpdQDblX8EWqdUD7fxlUL39.",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T01:19:05.411Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T01:20:21.269Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ad58a105660490f34af5a"
+  },
+  "name": "Juan David",
+  "lastname": "Cabrera",
+  "username": "juan2230071@correo.uis.edu.co",
+  "identification": "2230071",
+  "kind": "STUDENT",
+  "password": "$2a$10$Vh9dGBacOZepCnK0QAFFpe7HuXqhLUEEeTqkbGEDvcwvSjKSCDEOK",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T01:27:38.693Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T01:30:25.607Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ad70a105660490f34aff8"
+  },
+  "name": "DAVID ESTEBAN",
+  "lastname": "SUAREZ LOZANO",
+  "username": "david2221909@correo.uis.edu.co",
+  "identification": "2221909",
+  "kind": "STUDENT",
+  "password": "$2a$10$md3PIgg.PA9xxbTdFCPF9.YMCN0QlOQuJ4q.8MSqdzhltfZt5ScDC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T01:34:02.174Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T02:30:49.606Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ad70a105660490f34affa"
+  },
+  "name": "Heydan Ricardo",
+  "lastname": "Calderón Villamizar",
+  "username": "heydan2240077@correo.uis.edu.co",
+  "identification": "2240077",
+  "kind": "STUDENT",
+  "password": "$2a$10$aOlwEdB.ttNOtDv62Qxyw.qMBcjJKq/GQBNJ/1LTZ62KqKmLCtOY6",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T01:34:02.337Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T16:44:29.991Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ad717105660490f34affe"
+  },
+  "name": "Edgar Camilo",
+  "lastname": "Ramirez Rueda",
+  "username": "edgar2220101@correo.uis.edu.co",
+  "identification": "2220101",
+  "kind": "STUDENT",
+  "password": "$2a$10$.3Q1Ir0669hVzqeJOrwUAOFRUqiv8afJa2e6aRc3.G9yCkvTYYwz.",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T01:34:15.465Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T12:44:34.085Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ad860105660490f34b061"
+  },
+  "name": "Juan Diego",
+  "lastname": "Roa Porras",
+  "username": "juan2210086@correo.uis.edu.co",
+  "identification": "2210086",
+  "kind": "STUDENT",
+  "password": "$2a$10$YPY4EYpdPwFT.gmWPr9fEuadbTFjzqVOnOsN9X/2mmmf7l5hYzaIi",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T01:39:44.297Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T12:09:32.131Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ad86a105660490f34b065"
+  },
+  "name": "Yulieth Valentina",
+  "lastname": "Portilla Jaimes",
+  "username": "yulieth2221136@correo.uis.edu.co",
+  "identification": "2221136",
+  "kind": "STUDENT",
+  "password": "$2a$10$3epl6bF8A4UpGrbM/S6xKOOD8v9BzHSKutlGo5b9LqgCaJB3TmUJe",
+  "verified": false,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T01:39:54.275Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T01:39:54.275Z"
+  },
+  "__v": 0,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ada86105660490f34b146"
+  },
+  "name": "juan carlos",
+  "lastname": "elizalde padilla",
+  "username": "juan2230028@correo.uis.edu.co",
+  "identification": "2230028",
+  "kind": "STUDENT",
+  "password": "$2a$10$HH2NV9D6jFiD3JsTaaLz6uYbNnO9.L/qoktKOCoHDOufbFUFyi0yu",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T01:48:54.864Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T05:48:00.363Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679add8c105660490f34b213"
+  },
+  "name": "Juan ",
+  "lastname": "Beleño",
+  "username": "juan2204656@correo.uis.edu.co",
+  "identification": "2204656",
+  "kind": "STUDENT",
+  "password": "$2a$10$38b1qA3gkpa.bAtWAJBqVePVRW3LcsuYLUGcyquYSF2OMZ/bc4/r2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T02:01:48.884Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T04:28:47.260Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ade83105660490f34b25d"
+  },
+  "name": "Joseph Emanuel",
+  "lastname": "Sanchez Sierra",
+  "username": "joseph2240959@correo.uis.edu.co",
+  "identification": "2240959",
+  "kind": "STUDENT",
+  "password": "$2a$10$UOFq1Tzs/nZEzThjCM/4Q.daxp3tcJYdxG1.Va/iCKViqbVh68wCm",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T02:05:55.173Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T04:44:14.206Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ae08a105660490f34b28e"
+  },
+  "name": "Sergio Andrés ",
+  "lastname": "Pinzón Castellanos",
+  "username": "sergio2202006@correo.uis.edu.co",
+  "identification": "2202006",
+  "kind": "STUDENT",
+  "password": "$2a$10$UtmKBD7iX.JqPmEPZS3L5.BM3ViPHiqCpj.x20oHK9UAWYlM0zvqy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T02:14:34.433Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:12:15.475Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ae716105660490f34b422"
+  },
+  "name": "Andrey Felipe",
+  "lastname": "Leguizamo Cespedes",
+  "username": "andrey2201998@correo.uis.edu.co",
+  "identification": "2201998",
+  "kind": "STUDENT",
+  "password": "$2a$10$oAb9rJvEgrYzuC.5LxJPf.S3gPyvq/BYjiCvU8kp8brY31VjkBC4G",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T02:42:30.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:02:10.223Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ae80e105660490f34b46a"
+  },
+  "name": "Salomé ",
+  "lastname": "González Peñaranda ",
+  "username": "salome2242238@correo.uis.edu.co",
+  "identification": "2242238",
+  "kind": "STUDENT",
+  "password": "$2a$10$SYJV/7YgdTRxMv2BSl38v..RxhV15ohzs1TY5FvzskIdzmVYH3qEi",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T02:46:38.359Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T05:17:31.069Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ae9df105660490f34b4cc"
+  },
+  "name": "Camilo Andres",
+  "lastname": "Bracho Rueda",
+  "username": "camilo2231517@correo.uis.edu.co",
+  "identification": "2231517",
+  "kind": "STUDENT",
+  "password": "$2a$10$xUV7UFQOi8BloItSMXbVE.pgO1GjG9lyq8FlfCOTk0KJMHNr0lg2u",
+  "verified": false,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T02:54:23.710Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T02:54:23.710Z"
+  },
+  "__v": 0,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679aec61105660490f34b57b"
+  },
+  "name": "Williangel ",
+  "lastname": "Quevedo",
+  "username": "williangel2232957@correo.uis.edu.co",
+  "identification": "2232957",
+  "kind": "STUDENT",
+  "password": "$2a$10$QsMWfgHjJ7USMqxsg5cWje/MOkvdguzRp12Y.dfDeE/eSz9fn385i",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T03:05:05.372Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T03:38:54.199Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b02afd75e68d686e1a85b"
+  },
+  "name": "Jose Augusto",
+  "lastname": "Quintero Lobo",
+  "username": "jose2202348@correo.uis.edu.co",
+  "identification": "2202348",
+  "kind": "STUDENT",
+  "password": "$2a$10$FXkDPtckPVWIB9V4mmmaZO0U9CHwDAhF35Nnq/npPOunZ9DXyDRzS",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T04:40:15.018Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T04:41:09.045Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b02ffaa2d5faa130c1308"
+  },
+  "name": "Isnardo Andrés Felipe ",
+  "lastname": "Alfonso Viviescas ",
+  "username": "ISNARDO.ALFONSO@correo.uis.edu.co",
+  "identification": "2162063",
+  "kind": "STUDENT",
+  "password": "$2a$10$mM/aHkpy0LiP3IJg4pky7.kfF26ya6tfZaUMsYl5YteD5YJC9sk1i",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T04:41:35.889Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T11:35:12.275Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b069dd75e68d686e1a8e6"
+  },
+  "name": "Juan",
+  "lastname": "Herrera",
+  "username": "juan2224512@correo.uis.edu.co",
+  "identification": "2224512",
+  "kind": "STUDENT",
+  "password": "$2a$10$QB9Pugoc9DtRbMcT6ix0KeDGj1DoEJwQ73ZLTezOcO.h5uxH6WJD2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T04:57:01.569Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T05:07:17.289Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b076dd75e68d686e1a910"
+  },
+  "name": "CARLOS",
+  "lastname": "SANJUAN",
+  "username": "carlos2171998@correo.uis.edu.co",
+  "identification": "2171998",
+  "kind": "STUDENT",
+  "password": "$2a$10$U/FQ4RD/k6g5kA0t9ALzpex3V6OX65tFiimqsgO4RjqsaOHp9ixt2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T05:00:29.281Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T05:00:56.832Z"
+  },
+  "__v": 0,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b14aa3c8c65509351e8c7"
+  },
+  "name": "Johan Sebastian",
+  "lastname": "Villamizar Ortega",
+  "username": "johan2162643@correo.uis.edu.co",
+  "identification": "2162643",
+  "kind": "STUDENT",
+  "password": "$2a$10$wniY38vr2owOJZXTiHp77ua4Su2CXSaeJPiA/4Z0RRhC2p8YbBXcC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T05:56:58.947Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T05:59:13.652Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b4a623c8c65509351e9a0"
+  },
+  "name": "Estefany",
+  "lastname": "Caceres",
+  "username": "estefany2230053@correo.uis.edu.co",
+  "identification": "2230053",
+  "kind": "STUDENT",
+  "password": "$2a$10$VQzalcb5H.3mzDqMXAFg9eLroNCYH5jd.fNuwQauwgiwvKNeg1eiC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T09:46:10.135Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T09:49:23.461Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b60fd3c8c65509351eab0"
+  },
+  "name": "Marisol",
+  "lastname": "Osma Llanes",
+  "username": "marisol2211466@correo.uis.edu.co",
+  "identification": "2211466",
+  "kind": "STUDENT",
+  "password": "$2a$10$n4TiOdWdLVvBiYnxBPXeyOGpF8z2OCT4DwTetmFBD.pdJhQPJIazG",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T11:22:37.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T11:24:18.926Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b6d793c8c65509351ed17"
+  },
+  "name": "Juan Diego",
+  "lastname": "Sepulveda Herrera",
+  "username": "juan2202033@correo.uis.edu.co",
+  "identification": "2202033",
+  "kind": "STUDENT",
+  "password": "$2a$10$GTnes/cwIebKLrd/YrcGhueJ0GSrtW3V58neAgqFMa5ziErc9r/Gq",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T12:15:53.855Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T12:17:06.830Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b6ff23c8c65509351ee97"
+  },
+  "name": "Juan ",
+  "lastname": "Vides",
+  "username": "juan2202040@correo.uis.edu.co",
+  "identification": "2202040",
+  "kind": "STUDENT",
+  "password": "$2a$10$s2gfswfBQHzKGcZnT46RxunjyH7OdZp9AE0LAEZnZ8QgG5sn.bL3a",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T12:26:26.996Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T12:28:34.659Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b75fa3c8c65509351f1f8"
+  },
+  "name": "Diego Andrés",
+  "lastname": "Rojas Robles",
+  "username": "diego2241691@correo.uis.edu.co",
+  "identification": "2241691",
+  "kind": "STUDENT",
+  "password": "$2a$10$ijGEEu4p1T9D29PsN0dHpePSaLsmKpT.mQX.7DZ5SkDX77CSH8tbe",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T12:52:10.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T12:54:09.672Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b79093c8c65509351f4fa"
+  },
+  "name": "Thomas Alejandro",
+  "lastname": "Rincón Valencia",
+  "username": "thomas2221915@correo.uis.edu.co",
+  "identification": "2221915",
+  "kind": "STUDENT",
+  "password": "$2a$10$pciBoXgReabxS1AH3kd0C.Nbhpv7fUhLC1UvcFS9yWklE3oVQUES.",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:05:13.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:06:38.230Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b79ce3c8c65509351f5a6"
+  },
+  "name": "Oscar Mauricio  ",
+  "lastname": "Mongui Piñeros ",
+  "username": "oscar2215104@correo.uis.edu.co",
+  "identification": "2215104",
+  "kind": "STUDENT",
+  "password": "$2a$10$hWcWygOIh8Rwsw/jlFYO5.nCIeRtdbVKBGQAyaaC5DknYhXS.JeJy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:08:30.794Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:10:10.490Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b7a683c8c65509351f687"
+  },
+  "name": "Diego Andrés",
+  "lastname": "Duque Meza",
+  "username": "diego2220031@correo.uis.edu.co",
+  "identification": "2220031",
+  "kind": "STUDENT",
+  "password": "$2a$10$o3c.NEZcZGbHEqcnwSM.HeYmVxs2wcPZLE.o2VP7xTRAbzem1hX2a",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:11:04.895Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:12:32.602Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b7a773c8c65509351f69e"
+  },
+  "name": "Janer",
+  "lastname": "Vega",
+  "username": "janer2210048@correo.uis.edu.co",
+  "identification": "2210048",
+  "kind": "STUDENT",
+  "password": "$2a$10$V9LUi5XKtnRm7mvIo0fvF.MLDl8M55tkQDB2gXL.z7fuLlZifGEka",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:11:19.883Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:12:31.925Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b7b7b3c8c65509351f7c7"
+  },
+  "name": "Ivan Alejandro ",
+  "lastname": "Barrera Rodríguez ",
+  "username": "ivan2221119@correo.uis.edu.co",
+  "identification": "2221119",
+  "kind": "STUDENT",
+  "password": "$2a$10$E6RQs0FIBa4r7qLkOq6tEesmv8DiLPT5Xv7sFvbHt7un5TS8M.PKW",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:15:39.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:18:21.646Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b7be13c8c65509351f888"
+  },
+  "name": "Maidy Alexandra ",
+  "lastname": "Ronderos Gómez ",
+  "username": "maidy2234507@correo.uis.edu.co",
+  "identification": "2234507",
+  "kind": "STUDENT",
+  "password": "$2a$10$PsXkzL7nmOuPzfy.5.RMiel8.kdbJzYHOte3boWY0unqXSZsCjDES",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:17:21.108Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:19:05.446Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b7bee3c8c65509351f89f"
+  },
+  "name": "JORGE DANIEL ",
+  "lastname": "ROBLES ARDILA",
+  "username": "jorge2210065@correo.uis.edu.co",
+  "identification": "2210065",
+  "kind": "STUDENT",
+  "password": "$2a$10$kB6Cq0Q9WQrZ1EBum2s1..I2Kgm1nNjoi0.dUVj6FGTSbwPiUQpS2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:17:34.343Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:18:23.642Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b7f193c8c65509351fe8e"
+  },
+  "name": "Jaime Stiven",
+  "lastname": "Caballero Rodriguez",
+  "username": "jaime2221892@correo.uis.edu.co",
+  "identification": "2221892",
+  "kind": "STUDENT",
+  "password": "$2a$10$UpRfJOzQ8mIogFA.QQSnT.z1ZIdVgUvuB4uW2ghh/HR1Wy/rurSxu",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:31:05.295Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:33:29.767Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b8057efbfc933a02daa0a"
+  },
+  "name": "Hugo Andres",
+  "lastname": "Arciniegas",
+  "username": "hugo2230095@correo.uis.edu.co",
+  "identification": "2230095",
+  "kind": "STUDENT",
+  "password": "$2a$10$wEjcvKI.4H6dnjXevqp2PuUgrHSN14VC/POAkz2LBWFa4D.KmRjxu",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:36:23.351Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:40:12.318Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b8074efbfc933a02daa3c"
+  },
+  "name": "Bryan",
+  "lastname": "Silva",
+  "username": "bryan2221102@correo.uis.edu.co",
+  "identification": "2221102",
+  "kind": "STUDENT",
+  "password": "$2a$10$B2IUcgonvtR4f9t2HEFjYejSqzy6AKaP/rYyIW2repnW94IKRcXKm",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:36:52.591Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:38:03.550Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b8117efbfc933a02dab86"
+  },
+  "name": "Cristian",
+  "lastname": "Ruedq",
+  "username": "cristian2172916@correo.uis.edu.co",
+  "identification": "2172916",
+  "kind": "STUDENT",
+  "password": "$2a$10$XstkpbYY.MDwOchxm83EIeUzUPx.F1pQInw16lf2Cs0iHpURyefCu",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:39:35.714Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:55:21.751Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b8184efbfc933a02dac48"
+  },
+  "name": "Diego ",
+  "lastname": "Medina ",
+  "username": "diego2171879@correo.uis.edu.co",
+  "identification": "2171879",
+  "kind": "STUDENT",
+  "password": "$2a$10$7c7XaRAwB3jcyXjkug5Wsu70pEGpwZP3k7VBDUJlQJlW7SHuqG54K",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:41:24.377Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T15:56:33.053Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b8190efbfc933a02dac5b"
+  },
+  "name": "Juan Pablo",
+  "lastname": "Galvis Perez",
+  "username": "juan2202044@correo.uis.edu.co",
+  "identification": "2202044",
+  "kind": "STUDENT",
+  "password": "$2a$10$pN4qcNByPK/zDbZwP0JM.umAI4B04goDWEwV7w0hUM5l6C8U5BKOK",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:41:36.189Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:56:04.757Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b83c3efbfc933a02db0b7"
+  },
+  "name": "Juan Esteban ",
+  "lastname": "Gómez Ayala",
+  "username": "juan2243465@correo.uis.edu.co",
+  "identification": "2243465",
+  "kind": "STUDENT",
+  "password": "$2a$10$25k3sKOMPWfAtsFXOjrUGeUqEm6UARuU..t4j5UaUrOhFEi1zlE6K",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:50:59.692Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:52:04.794Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b83f5efbfc933a02db119"
+  },
+  "name": "Dairo Alexander",
+  "lastname": "Lobo Moreno",
+  "username": "dairo2221123@correo.uis.edu.co",
+  "identification": "2221123",
+  "kind": "STUDENT",
+  "password": "$2a$10$vuAas05FRCISEpsI5fzJZu/pOOdTvvqS0XEywl2oqwI9P0sD31t/2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:51:49.245Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:52:41.107Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b841eefbfc933a02db197"
+  },
+  "name": "Daniel Eduardo ",
+  "lastname": "Rincon Arias",
+  "username": "daniel2202316@correo.uis.edu.co",
+  "identification": "2202316",
+  "kind": "STUDENT",
+  "password": "$2a$10$Occ.gfeabW6GShPxmr7axulHprRdHIZ7VfwS2lTPuDkEolO5mGx2K",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:52:30.520Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T15:49:05.095Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b8519efbfc933a02db2ce"
+  },
+  "name": "Vanesa Alexandra",
+  "lastname": "Corredor Cepeda",
+  "username": "vanesa2205139@correo.uis.edu.co",
+  "identification": "2205139",
+  "kind": "STUDENT",
+  "password": "$2a$10$lfg.lVauhuSwaO1bRupfU.D/jJVAgrUmdG1jY8hbJ5jihCDpivkJy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:56:41.060Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:03:11.435Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b857eefbfc933a02db363"
+  },
+  "name": "Lina María ",
+  "lastname": "Maldonado Maldonado",
+  "username": "lina2240043@correo.uis.edu.co",
+  "identification": "2240043",
+  "kind": "STUDENT",
+  "password": "$2a$10$tg4UMFZPTqDNdOFyHDzLRehzzwqOSsWh0k90AuVvOKX.TZyAoI.Xq",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:58:22.509Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:59:27.924Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b8600efbfc933a02db43d"
+  },
+  "name": "Jesus",
+  "lastname": "Santodomingo",
+  "username": "jesus2221922@correo.uis.edu.co",
+  "identification": "2221922",
+  "kind": "STUDENT",
+  "password": "$2a$10$orQ3aDFTbAjFb7h3dCW3mu72dY9UoJotHvFk4rrkZK2mtpcpf9h3O",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:00:32.430Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:02:31.551Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b864cefbfc933a02db4fd"
+  },
+  "name": "Jesus ",
+  "lastname": "Ramirez ",
+  "username": "jesus2211593@correo.uis.edu.co",
+  "identification": "2211593",
+  "kind": "STUDENT",
+  "password": "$2a$10$kSy8haAgQSN9huPXXGDbBu0aWZDbxWm6Za380rpPT4QyZfbZwZBja",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:01:48.386Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:02:40.970Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b8694efbfc933a02db57b"
+  },
+  "name": "Juan ",
+  "lastname": "Herrera",
+  "username": "juan2230051@correo.uis.edu.co",
+  "identification": "2230051",
+  "kind": "STUDENT",
+  "password": "$2a$10$NkQGPqusoZiB4nTTjBl1.On1FOfxhIXsK33J7zFHmf5vLsqPBIY6W",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:03:00.215Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:05:17.751Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b86deefbfc933a02db5da"
+  },
+  "name": "Cristian Alberto",
+  "lastname": "Solano",
+  "username": "cristian2211906@correo.uis.edu.co",
+  "identification": "2211906",
+  "kind": "STUDENT",
+  "password": "$2a$10$DZRC39Q10nVZTbfvBeh1LOhTJEbBiACZhJcHdNYoa/g2ZpKNKklZC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:04:14.558Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:06:01.471Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b8745efbfc933a02db6c3"
+  },
+  "name": "Lennyn",
+  "lastname": "Ortiz",
+  "username": "lennyn2241798@correo.uis.edu.co",
+  "identification": "2241798",
+  "kind": "STUDENT",
+  "password": "$2a$10$Ijm.1sYsNVLe2.WJMc8P8upqvHt.N4IBU25lo.tiXYPqFJ00zjIq.",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:05:57.656Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:07:45.014Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b87f2efbfc933a02db84d"
+  },
+  "name": "María José ",
+  "lastname": "Correa",
+  "username": "mariajose2231862@correo.uis.edu.co",
+  "identification": "2231862",
+  "kind": "STUDENT",
+  "password": "$2a$10$Z4hx/aPEJoD4Z7tFwYQZWOi8e8kNHyfuW/9IF1RhX0nal9RoEx3F6",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:08:50.535Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:12:55.550Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b8897efbfc933a02db922"
+  },
+  "name": "Esteban",
+  "lastname": "Prada Ramirez",
+  "username": "esteban2231871@correo.uis.edu.co",
+  "identification": "2231871",
+  "kind": "STUDENT",
+  "password": "$2a$10$ggf2oNA7lmKoPq5Y3IDQ3ed3zUEUwJKCCq7O8q93MWYF/ONv/fdDy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:11:35.605Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:12:22.076Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b88b2efbfc933a02db93f"
+  },
+  "name": "Iván ",
+  "lastname": "Camargo",
+  "username": "ivan2230033@correo.uis.edu.co",
+  "identification": "2230033",
+  "kind": "STUDENT",
+  "password": "$2a$10$x4qX45IB3PxWS6cOsSzSfOfmMju.QMfJ0OIaURNa05XtsQjgcLgZC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:12:02.286Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:13:13.679Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b89a7830844954163d199"
+  },
+  "name": "Hector Alirio",
+  "lastname": "Valdeleon Millan",
+  "username": "hector2230063@correo.uis.edu.co",
+  "identification": "2230063",
+  "kind": "STUDENT",
+  "password": "$2a$10$xgWhboKucMAR/bFGzUVDae6T7STfEai.dzacV9F/.CT37iuYzoomC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:16:07.845Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:17:32.359Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b8c42830844954163d652"
+  },
+  "name": "Jorge Andrés",
+  "lastname": "Sepúlveda Ballesteros",
+  "username": "jorge2242003@correo.uis.edu.co",
+  "identification": "2242003",
+  "kind": "STUDENT",
+  "password": "$2a$10$j8uQ/s8J9.MqddRB21WP6.dBgEKaJRIT2hcUbXS/fiykDj3x2/7aG",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:27:14.572Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:28:43.923Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b8ce7830844954163d7eb"
+  },
+  "name": "Yovani",
+  "lastname": "Tarazona",
+  "username": "yovani2221881@correo.uis.edu.co",
+  "identification": "2221881",
+  "kind": "STUDENT",
+  "password": "$2a$10$w3Ex8uL39O/aq0YlI0pnDe0bz1NQe.4XIqK0d89wdXROp0ozgj976",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:29:59.299Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T15:32:32.383Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b8ef4830844954163dbac"
+  },
+  "name": "Santiago",
+  "lastname": "Ardila Lagos",
+  "username": "santiago2230086@correo.uis.edu.co",
+  "identification": "2230086",
+  "kind": "STUDENT",
+  "password": "$2a$10$clSjsD1Rpbz1WynzGIMj2u7jF4girfBAm1IOAlcyEPII.cIo0zQIS",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:38:44.441Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:41:25.771Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b903e830844954163dd5c"
+  },
+  "name": "DANIEL ",
+  "lastname": "AGUILAR NAVAS",
+  "username": "daniel2230034@correo.uis.edu.co",
+  "identification": "2230034",
+  "kind": "STUDENT",
+  "password": "$2a$10$FoYUUxQtAl2AnXh8AS.nY.pQYaEdCCpBDeEm8RH7OlcsDMNfUaC4.",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:44:14.901Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:45:20.895Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b9113830844954163dedb"
+  },
+  "name": "samuel ",
+  "lastname": "heredia ",
+  "username": "samuel2232464@correo.uis.edu.co",
+  "identification": "2232464",
+  "kind": "STUDENT",
+  "password": "$2a$10$NK.dYgDvaCIGIJ1Bo1Bv2eukrhwyKbp1XodaSfTtxaUbuhrHu3E7C",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:47:47.740Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:49:22.725Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b9154830844954163df85"
+  },
+  "name": "Juan Sebastian ",
+  "lastname": "Pinto Ojeda",
+  "username": "juan2232732@correo.uis.edu.co",
+  "identification": "2232732",
+  "kind": "STUDENT",
+  "password": "$2a$10$3.6hyYFDp2c5H60Bep7Mpe2OL94aeKUUL6UEYRoNOpV2iv8vwaaju",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:48:52.496Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T04:58:09.535Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b922e830844954163e14a"
+  },
+  "name": "Juan Sebastian",
+  "lastname": "Puerto Sanchez",
+  "username": "juan2224511@correo.uis.edu.co",
+  "identification": "2224511",
+  "kind": "STUDENT",
+  "password": "$2a$10$oHnTmPsMWqmjVdlOhsH9ruYTPWz06EryOQ6VK1eL022ddH4Bqmgte",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:52:30.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:53:37.279Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b92ba830844954163e2d8"
+  },
+  "name": "Jenifer karina",
+  "lastname": "Alfonso carreño",
+  "username": "jenifer2215109@correo.uis.edu.co",
+  "identification": "2215109",
+  "kind": "STUDENT",
+  "password": "$2a$10$5O20QVe5n3.feCmB9Qrgg.iImGPUJNgtBL035pVvZ2GOc6PS4JQ4e",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:54:50.576Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:59:02.658Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b92cc830844954163e310"
+  },
+  "name": "Samuel ",
+  "lastname": "Noriega ",
+  "username": "samuel2220098@correo.uis.edu.co",
+  "identification": "2220098",
+  "kind": "STUDENT",
+  "password": "$2a$10$vFJJUaml.XC4qBkhI1SrYOw3BzfPZ3xmhgJZrkTqbV4o.lon2eQzW",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:55:08.167Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:56:15.451Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b92e8830844954163e327"
+  },
+  "name": "Michael Andres",
+  "lastname": "Fabre Beltran",
+  "username": "michael2191119@correo.uis.edu.co",
+  "identification": "2191119",
+  "kind": "STUDENT",
+  "password": "$2a$10$edQ/hY60F7f/YwtG07MH3eUIAAo.WxtIMCN/IR0nMxCecTg5E2Lki",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T14:55:36.784Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:59:11.137Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b9426830844954163e5c6"
+  },
+  "name": "Jonathan David",
+  "lastname": "Hernandez Martinez",
+  "username": "jhonatan2201492@correo.uis.edu.co",
+  "identification": "2201492",
+  "kind": "STUDENT",
+  "password": "$2a$10$xqIpsHxjNvFu4ws51FNvYeunfektoadCf/inup.pTAM9CseQMs.OW",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T15:00:54.171Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T15:03:30.548Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b94e8830844954163e714"
+  },
+  "name": "Juan Jose",
+  "lastname": "Cantillo Moscote",
+  "username": "juan2241444@correo.uis.edu.co",
+  "identification": "2241444",
+  "kind": "STUDENT",
+  "password": "$2a$10$zxkJE1HLxYPzL3BZzeEMV.GhEt9RW3.mT1UWBlk0x/Z1PEWfbRwEe",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T15:04:08.103Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T15:07:33.449Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b9522830844954163e790"
+  },
+  "name": "Juan",
+  "lastname": "Tellez",
+  "username": "juan2234511@correo.uis.edu.co",
+  "identification": "2234511",
+  "kind": "STUDENT",
+  "password": "$2a$10$4f6xxOt6aDEqEXZFY6YPD.kmXsCsbyT5TXfTJZYiLEuoa3JD9UtwS",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T15:05:06.927Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T15:11:57.997Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679b97cb830844954163ed05"
+  },
+  "name": "Oscar Miguel",
+  "lastname": "Ortega Lozano",
+  "username": "oscar2220528@correo.uis.edu.co",
+  "identification": "2220528",
+  "kind": "STUDENT",
+  "password": "$2a$10$oYxg0jhgJLrmspCbufLmTOpDwA/iS6UwRCKiqjp4QfnbHK9R2oQVG",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T15:16:27.561Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T15:17:46.132Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ba4fe83084495416400a8"
+  },
+  "name": "Johan Santiago ",
+  "lastname": "Rojas Naranjo ",
+  "username": "johan2225005@correo.uis.edu.co",
+  "identification": "2225005",
+  "kind": "STUDENT",
+  "password": "$2a$10$em1.BT4y5ZWoFhEYn8oZi.EOFR40/p3GdneF2MKjqrUOKfzB09b/e",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T16:12:46.550Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T16:36:05.706Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ba79383084495416403fe"
+  },
+  "name": "Alejandro",
+  "lastname": "Velandia Gelvez",
+  "username": "alejandro2221552@correo.uis.edu.co",
+  "identification": "2221552",
+  "kind": "STUDENT",
+  "password": "$2a$10$xuw7OLFcvN52iUKmvBMlLuhPdN9cnYfQG6uwqj0JbT6VE9stujoo6",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T16:23:47.068Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T16:26:48.807Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ba867830844954164059b"
+  },
+  "name": "Hassan Emmanuel",
+  "lastname": "Becerra Medina",
+  "username": "hassan2240038@correo.uis.edu.co",
+  "identification": "2240038",
+  "kind": "STUDENT",
+  "password": "$2a$10$28Jw3J0mLVKaX04mCTZ9BOs6sygy0pIcGJf95/M85M8Q8y09b22v2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T16:27:19.469Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T16:28:45.017Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679bb0518308449541641010"
+  },
+  "name": "Luis Fernando",
+  "lastname": "Becerra",
+  "username": "luis2243283@correo.uis.edu.co",
+  "identification": "2243283",
+  "kind": "STUDENT",
+  "password": "$2a$10$WCR.9O0hf.s8NKX8YQ4szuhKI/sqlV8CbGzJTLhUQHH4Kk0/1Lvtq",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T17:01:05.535Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T17:02:22.667Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679bb31383084495416413f5"
+  },
+  "name": "Alejandro",
+  "lastname": "Nuñez",
+  "username": "alejandro2191947@correo.uis.edu.co",
+  "identification": "2191947",
+  "kind": "STUDENT",
+  "password": "$2a$10$DEXEUjYh3mceiywv7Cq8wOKuG3Rewso.Ed1F/Agog489brUm134Ii",
+  "verified": false,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T17:12:51.269Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T17:12:51.269Z"
+  },
+  "__v": 0,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679bc2598308449541641ec3"
+  },
+  "name": "Nicolas Esteban ",
+  "lastname": "Garcia Tamayo",
+  "username": "nicolas2211233@correo.uis.edu.co",
+  "identification": "2211233",
+  "kind": "STUDENT",
+  "password": "$2a$10$SfPOaIsdjT1uZ6y.enOY2eoaKLU9fvNq2F11H6D.3TlpmDpeq264.",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T18:18:01.117Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T18:18:48.671Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679bc4cd8308449541642088"
+  },
+  "name": "Edwin David",
+  "lastname": "Gutierrez Olarte",
+  "username": "edwin2222890@correo.uis.edu.co",
+  "identification": "2222890",
+  "kind": "STUDENT",
+  "password": "$2a$10$iujfva7x8CL1NU7ewiuwAuiHye6A7N0BloD754AsgscmZBlMS75Em",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T18:28:29.629Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T18:30:13.149Z"
+  },
+  "__v": 0,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679bcc3d20d4ad4921d77288"
+  },
+  "name": "Arnold Steven",
+  "lastname": "Navarro Becerra",
+  "username": "arnold2232729@correo.uis.edu.co",
+  "identification": "2232729",
+  "kind": "STUDENT",
+  "password": "$2a$10$.FNBIpAGkTAb0wx79Ue5u.7yw31p8DlOE7a8BrQI5QFFSHUzcxNtC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T19:00:13.781Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T19:00:58.957Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679be8a6b3fd93a7603911ff"
+  },
+  "name": "César",
+  "lastname": "Ascencio",
+  "username": "cesar2235003@correo.uis.edu.co",
+  "identification": "2235003",
+  "kind": "STUDENT",
+  "password": "$2a$10$.ZTBht4z1c8DHZcAdH85tOq2Mg0eXtqecy0MpNH7Ozvs5FTZaFa.6",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T21:01:26.889Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T21:16:21.466Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679bed0354f471d7891e1edd"
+  },
+  "name": "Maria",
+  "lastname": "Pinto",
+  "username": "maria2232736@correo.uis.edu.co",
+  "identification": "2232736",
+  "kind": "STUDENT",
+  "password": "$2a$10$9t0ptguhHib7XTRftnPlk./oCs.3wuljRVqdZTuMVRqcM322JO9Ra",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T21:20:03.419Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T21:27:14.848Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679bf12cb3fd93a76039145e"
+  },
+  "name": "Andrés David",
+  "lastname": "García Hernández",
+  "username": "andres2230089@correo.uis.edu.co",
+  "identification": "2230089",
+  "kind": "STUDENT",
+  "password": "$2a$10$pnINSM8jRSgkvPSC1lvdqeMoBAzi8XVuyVS76jbgtp97RMc1.Lt1m",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T21:37:48.278Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T21:39:08.615Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679bfefcb3fd93a760391899"
+  },
+  "name": "jhon alexander",
+  "lastname": "calderon muñoz",
+  "username": "jhon2234570@correo.uis.edu.co",
+  "identification": "2234570",
+  "kind": "STUDENT",
+  "password": "$2a$10$uZUNfJ.l64d6ejYoakzbDedNfzuOtcbFjZxc8fRyayTOf.C3mUsfG",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T22:36:44.118Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T22:37:17.224Z"
+  },
+  "__v": 0,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679bff90b3fd93a7603918e8"
+  },
+  "name": "David ",
+  "lastname": "Galvis",
+  "username": "david2232522@correo.uis.edu.co",
+  "identification": "2232522",
+  "kind": "STUDENT",
+  "password": "$2a$10$VEcwFFWaIGqqscbTE/aUcOjSMgHPpjDNUsBBCmVtl9OVfjH2nYzFC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T22:39:12.104Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T22:43:17.477Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679c04b920d4ad4921d7822e"
+  },
+  "name": "Laura Natalia",
+  "lastname": "Ballesteros Gualdrón",
+  "username": "laura2221650@correo.uis.edu.co",
+  "identification": "2221650",
+  "kind": "STUDENT",
+  "password": "$2a$10$tOHJ.Ippz5CwyfQETPHPQe.S6T5YJVnoRtBZRXSREYJmpB/ZnwDYu",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T23:01:13.576Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T23:03:57.863Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679c0b8954f471d7891e25d6"
+  },
+  "name": "David Alberto ",
+  "lastname": "Chaparro Gil",
+  "username": "david2221939@correo.uis.edu.co",
+  "identification": "2221939",
+  "kind": "STUDENT",
+  "password": "$2a$10$0sZjl7CTpY7570JM54BiVOPe753Z50NvNqTL8vWdl2p/7up0bwE1K",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T23:30:17.385Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T23:44:54.840Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679c0c3520d4ad4921d782ef"
+  },
+  "name": "Marcelo ",
+  "lastname": "Gómez",
+  "username": "marcelo2210045@correo.uis.edu.co",
+  "identification": "2210045",
+  "kind": "STUDENT",
+  "password": "$2a$10$Q2F3CRiSLQmPYZ3FzgrZy.xphiJtRwiTIxPc.o4VZkWF2zu.6FXt6",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T23:33:09.677Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T23:36:36.768Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679c19c420d4ad4921d7857b"
+  },
+  "name": "Juan José ",
+  "lastname": "Ardila",
+  "username": "juan2230035@correo.uis.edu.co",
+  "identification": "2230035",
+  "kind": "STUDENT",
+  "password": "$2a$10$9d0FJAwLb5zJWjhBZVX74O2iME6GiNkpa2DZ7riuJ7K1SJRNj8OTC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-31T00:31:00.285Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T00:35:43.020Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679c286020d4ad4921d7864f"
+  },
+  "name": "Samuel",
+  "lastname": "PENILLA",
+  "username": "samuel2231893@correo.uis.edu.co",
+  "identification": "2231893",
+  "kind": "STUDENT",
+  "password": "$2a$10$58dsYBtQcL5ZJJJ51nRY8ORUh.zWH694k/gKFttFtIRslSENLFw8O",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-31T01:33:20.103Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T01:39:53.950Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679cc77d20d4ad4921d78952"
+  },
+  "name": "Andres Felipe",
+  "lastname": "Lopez Pinto",
+  "username": "andres2224501@correo.uis.edu.co",
+  "identification": "2224501",
+  "kind": "STUDENT",
+  "password": "$2a$10$U2m2YEmFrpXCAv7vsOnZNuzMQ078HTfKCPhk0NNWr1M7F8xpjVTfC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-31T12:52:13.235Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T12:54:13.381Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ccd89b3fd93a76039211e"
+  },
+  "name": "Edgaf",
+  "lastname": "Ariza",
+  "username": "edgar2211881@correo.uis.edu.co",
+  "identification": "2211881",
+  "kind": "STUDENT",
+  "password": "$2a$10$2JWAAp9ApMQ.fKxEr48YWuu9Q0j5iGu74e3WbLcaB1GOLTqMAepI6",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-31T13:18:01.577Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T13:19:50.004Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679cec9db723f18c2bfac9d7"
+  },
+  "name": "Daniel santiago rafael",
+  "lastname": "Borrero garcia",
+  "username": "daniel2221917@correo.uis.edu.co",
+  "identification": "2221917",
+  "kind": "STUDENT",
+  "password": "$2a$10$IdQTiVDmt8vlSB1ySWYFG.jbdShhLp/JKlFlUYfSXwlrahx3m2RsC",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-31T15:30:37.584Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T16:10:39.274Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679cf64a67c9bad0f759e8bb"
+  },
+  "name": "Josué Fernando",
+  "lastname": "Rodríguez de la Rosa",
+  "username": "josue2200166@correo.uis.edu.co",
+  "identification": "2200166",
+  "kind": "STUDENT",
+  "password": "$2a$10$.fzyXcnpzLHAK6bzejJSIeuKlzfybuFGLrsW0o3PNeeRuiHr8.WHy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-31T16:11:54.189Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T22:10:22.144Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679d01edb723f18c2bfacd9a"
+  },
+  "name": "David",
+  "lastname": "Naranjo",
+  "username": "david2220046@correo.uis.edu.co",
+  "identification": "2220046",
+  "kind": "STUDENT",
+  "password": "$2a$10$h0veqO6W58IiCauGxrM2Jexr36r7D.Sd2/QI0aiSJ4aAJXvhN6sC2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-31T17:01:33.567Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T17:03:50.693Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679d089bb723f18c2bfad044"
+  },
+  "name": "Felipe",
+  "lastname": "Vargas García",
+  "username": "felipe2230090@correo.uis.edu.co",
+  "identification": "2230090",
+  "kind": "STUDENT",
+  "password": "$2a$10$J77J81zq9mJwA2bq4U5h1e9AaNMx8hUSriDYVhRnZ7wCb5o2vYtBy",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-31T17:30:03.994Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T17:31:06.187Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679d2d3ab723f18c2bfad560"
+  },
+  "name": "Jhon Alexander",
+  "lastname": "Hernández Caicedo",
+  "username": "jhon2191919@correo.uis.edu.co",
+  "identification": "2191919",
+  "kind": "STUDENT",
+  "password": "$2a$10$AL9QHK8VmhfBrSIxd2ScEOKUeGz0qpbAVZwZ8j6W1g2urLNBt9lJW",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-31T20:06:18.985Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T20:09:25.978Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679d3a2d9335e313dad219ac"
+  },
+  "name": "Heyner",
+  "lastname": "Marquez",
+  "username": "heyner2210040@correo.uis.edu.co",
+  "identification": "2210040",
+  "kind": "STUDENT",
+  "password": "$2a$10$.i8IBcaTsm2mHLCk0Q0My.kRzJzB7FykxW1PFFzb5p5GXhoJWFLMu",
+  "verified": false,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-31T21:01:33.947Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T21:01:33.947Z"
+  },
+  "__v": 0,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679d3cad9335e313dad21a23"
+  },
+  "name": "Natalia",
+  "lastname": "Montaño",
+  "username": "eimy2231881@correo.uis.edu.co",
+  "identification": "2231881",
+  "kind": "STUDENT",
+  "password": "$2a$10$.T6XQhEZW.cEtLwPRDU.lu2MwharMxXHgj8uDT/SbHlDf6jTdSDru",
+  "verified": false,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-31T21:12:13.081Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T21:12:13.081Z"
+  },
+  "__v": 0,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "679d3f399335e313dad21a7b"
+  },
+  "name": "Marlon ",
+  "lastname": "Osorio",
+  "username": "marlon2215617@correo.uis.edu.co",
+  "identification": "2215617",
+  "kind": "STUDENT",
+  "password": "$2a$10$tS7gnx3zYcfMwU07BhCAu.C2JcNHdJxDVHQ7LsYjSy.OJPgtmblY2",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-01-31T21:23:05.973Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T22:12:13.364Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a14d45077ed1741d3131f2"
+  },
+  "name": "Jaider",
+  "lastname": "Gonzalez",
+  "username": "jaider2205563@correo.uis.edu.co",
+  "identification": "2205563",
+  "kind": "STUDENT",
+  "password": "$2a$10$N.61mB5FeY6GZF.OpWbAOOUMwYdYTsYQ/iTnAL42b.tFzDGIX8o/.",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-02-03T23:12:05.841Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T23:28:31.021Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a23d28bedc38a7bfddd1a7"
+  },
+  "name": "david",
+  "lastname": "Ortiz",
+  "username": "david2163074@correo.uis.edu.co",
+  "identification": "2163074",
+  "kind": "STUDENT",
+  "password": "$2a$10$XfQkMSNpqWZQEYBjTUjaiuvZIyTv.UH2JoO3e5jge9ig7IV42mzg6",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-02-04T16:15:36.776Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T16:19:03.141Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a254d34e4f3d9724a0c6db"
+  },
+  "name": "Christian Isnardo",
+  "lastname": "Orduz Picon",
+  "username": "christian.orduz@correo.uis.edu.co",
+  "identification": "2152104",
+  "kind": "STUDENT",
+  "password": "$2a$10$iuExwcTBqXOo2ox0JuCFxuPZy5xtu2oGqROMzQ5ubyf5e.gS6Ec/.",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-02-04T17:56:35.871Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T18:23:43.947Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a27a1bbedc38a7bfddd311"
+  },
+  "name": "Sergio",
+  "lastname": "Martinez",
+  "username": "sergio2225111@correo.uis.edu.co",
+  "identification": "2225111",
+  "kind": "STUDENT",
+  "password": "$2a$10$sd.B07Ie7adfnf3IzWLuaOK0wTnd5QXjZ.brrjgCs4ImdEzflQGRi",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-02-04T20:35:39.862Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T20:36:52.687Z"
+  },
+  "__v": 0,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67abcc5ed2abf2fbf3132c50"
+  },
+  "name": "Anderson",
+  "lastname": "Galan",
+  "username": "anderson2202025@correo.uis.edu.co",
+  "identification": "2202025",
+  "kind": "STUDENT",
+  "password": "$2a$10$U2DLxdQY62xHShwApmyy8ua35aibJPyvu3Zfq8RZH.Bwo6pnju3kq",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T22:17:02.225Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T22:18:03.346Z"
+  },
+  "__v": 0,
+  "shift": null,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ca1931f5d069daae2638dc"
+  },
+  "name": "Andrés Felipe",
+  "lastname": "Gómez",
+  "username": "andres2240076@correo.uis.edu.co",
+  "identification": "2240076",
+  "kind": "STUDENT",
+  "password": "$2a$10$S39srPzF6tMeQy54uFE21OuS2YLbXLiRSJEGA0/FsMxozg5OT7/5W",
+  "verified": true,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "createdAt": {
+    "$date": "2025-03-06T21:52:49.050Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-06T21:53:45.881Z"
+  },
+  "__v": 0,
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "684312d94d31966aa8291bab"
+  },
+  "name": "John",
+  "lastname": "Doe",
+  "username": "john.doe@correo.uis.edu.co",
+  "identification": "2191940",
+  "kind": "STUDENT",
+  "password": "$2a$10$BIWs4lt12Tgo2iULVYtLa.Wdd1w.0liQGAPkjIMzyIWtlpn.qX0BG",
+  "verified": false,
+  "permissions": [
+    "read:schedule",
+    "write:schedule",
+    "delete:schedule",
+    "write:appeal",
+    "read:appeal",
+    "delete:appeal",
+    "read:subject"
+  ],
+  "program": {
+    "id": 11,
+    "name": "INGENIERIA DE SISTEMAS"
+  },
+  "createdAt": {
+    "$date": "2025-06-06T16:10:01.655Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-06T16:10:01.655Z"
+  },
+  "__v": 0
+}]
