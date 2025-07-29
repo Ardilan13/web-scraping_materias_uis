@@ -4,7 +4,7 @@
     "lastname": "ACEROS GARCIA",
     "username": "maria2220838@correo.uis.edu.co",
     "identification": "2220838",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -27,7 +27,7 @@
     "lastname": "ACEROS GUZMAN",
     "username": "maria2250054@correo.uis.edu.co",
     "identification": "2250054",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -42,7 +42,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -50,7 +51,7 @@
     "lastname": "ACEVEDO GIRON",
     "username": "mary2211622@correo.uis.edu.co",
     "identification": "2211622",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -73,7 +74,7 @@
     "lastname": "ACEVEDO PEDRAZA",
     "username": "maria2241957@correo.uis.edu.co",
     "identification": "2241957",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -88,7 +89,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -96,7 +98,7 @@
     "lastname": "ADARME DAVILA",
     "username": "jefferson2210968@correo.uis.edu.co",
     "identification": "2210968",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -119,7 +121,7 @@
     "lastname": "AGUAZACO ARENAS",
     "username": "daniel2230867@correo.uis.edu.co",
     "identification": "2230867",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -142,7 +144,7 @@
     "lastname": "AGUILAR CORTES",
     "username": "oscar2221702@correo.uis.edu.co",
     "identification": "2221702",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -165,7 +167,7 @@
     "lastname": "AGUIRRE CURE",
     "username": "paula2240867@correo.uis.edu.co",
     "identification": "2240867",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -188,7 +190,7 @@
     "lastname": "AGUIRRE RINCON",
     "username": "paula2231402@correo.uis.edu.co",
     "identification": "2231402",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -211,7 +213,7 @@
     "lastname": "ALEMAN CALDERON",
     "username": "zhareth2241151@correo.uis.edu.co",
     "identification": "2241151",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -234,7 +236,7 @@
     "lastname": "ALMEIDA CASTRO",
     "username": "diego2231403@correo.uis.edu.co",
     "identification": "2231403",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -257,7 +259,7 @@
     "lastname": "ALVARADO OSORIO",
     "username": "maria2231823@correo.uis.edu.co",
     "identification": "2231823",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -280,7 +282,7 @@
     "lastname": "ALVAREZ BETANCOURT",
     "username": "jennifer2250042@correo.uis.edu.co",
     "identification": "2250042",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -295,7 +297,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -303,7 +306,7 @@
     "lastname": "ALVAREZ MEDINA",
     "username": "valentina2211154@correo.uis.edu.co",
     "identification": "2211154",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -326,7 +329,7 @@
     "lastname": "AMOROCHO RIVERO",
     "username": "sofia2231404@correo.uis.edu.co",
     "identification": "2231404",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -349,7 +352,7 @@
     "lastname": "ANDRADE GALVIS",
     "username": "maria2251042@correo.uis.edu.co",
     "identification": "2251042",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -364,7 +367,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -372,7 +376,7 @@
     "lastname": "ANGARITA LADINO",
     "username": "angelica2241952@correo.uis.edu.co",
     "identification": "2241952",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -387,7 +391,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -395,7 +400,7 @@
     "lastname": "ANGARITA SANTOS",
     "username": "luis2250079@correo.uis.edu.co",
     "identification": "2250079",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -410,7 +415,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -418,7 +424,7 @@
     "lastname": "ARCHILA ACEVEDO",
     "username": "ana2211817@correo.uis.edu.co",
     "identification": "2211817",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -441,7 +447,7 @@
     "lastname": "ARCINIEGAS FIALLO",
     "username": "fabiana2231273@correo.uis.edu.co",
     "identification": "2231273",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -464,7 +470,7 @@
     "lastname": "ARDILA FORERO",
     "username": "danna2211146@correo.uis.edu.co",
     "identification": "2211146",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -487,7 +493,7 @@
     "lastname": "ARDILA HERRERA",
     "username": "silvia2181936@correo.uis.edu.co",
     "identification": "2181936",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -510,7 +516,7 @@
     "lastname": "ARDILA ROJAS",
     "username": "leidy2221190@correo.uis.edu.co",
     "identification": "2221190",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -525,7 +531,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -533,7 +540,7 @@
     "lastname": "ARDILA VALENCIA",
     "username": "laura2241347@correo.uis.edu.co",
     "identification": "2241347",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -556,7 +563,7 @@
     "lastname": "AREVALO QUINTERO",
     "username": "maria2250022@correo.uis.edu.co",
     "identification": "2250022",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -571,7 +578,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -579,7 +587,7 @@
     "lastname": "ARGUELLO PERTUZ",
     "username": "camila2241423@correo.uis.edu.co",
     "identification": "2241423",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -602,7 +610,7 @@
     "lastname": "ARIAS BAEZ",
     "username": "dahiana2211683@correo.uis.edu.co",
     "identification": "2211683",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -625,7 +633,7 @@
     "lastname": "ARIAS OSUNA",
     "username": "dahiana2221441@correo.uis.edu.co",
     "identification": "2221441",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -648,7 +656,7 @@
     "lastname": "AVELLA MARTINEZ",
     "username": "maria2221504@correo.uis.edu.co",
     "identification": "2221504",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -671,7 +679,7 @@
     "lastname": "AYALA VELASQUEZ",
     "username": "diego2211167@correo.uis.edu.co",
     "identification": "2211167",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -694,7 +702,7 @@
     "lastname": "BADILLO CIFUENTES",
     "username": "andres2211530@correo.uis.edu.co",
     "identification": "2211530",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -717,7 +725,7 @@
     "lastname": "BALCUCHO PARRA",
     "username": "jose2241601@correo.uis.edu.co",
     "identification": "2241601",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -732,7 +740,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -740,7 +749,7 @@
     "lastname": "BARAJAS GAMBOA",
     "username": "luis2201568@correo.uis.edu.co",
     "identification": "2201568",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -763,7 +772,7 @@
     "lastname": "BARBOSA MORENO",
     "username": "dana2211447@correo.uis.edu.co",
     "identification": "2211447",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -786,7 +795,7 @@
     "lastname": "BARRERA ALVAREZ",
     "username": "maria2231286@correo.uis.edu.co",
     "identification": "2231286",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -809,7 +818,7 @@
     "lastname": "BARRERA ARISMENDI",
     "username": "sandra2221541@correo.uis.edu.co",
     "identification": "2221541",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -832,7 +841,7 @@
     "lastname": "BARROS MACIAS",
     "username": "paula2211159@correo.uis.edu.co",
     "identification": "2211159",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -855,7 +864,7 @@
     "lastname": "BAUTISTA VASQUEZ",
     "username": "kevin2251044@correo.uis.edu.co",
     "identification": "2251044",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -870,7 +879,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -878,7 +888,7 @@
     "lastname": "BECERRA TORRES",
     "username": "zharick2231491@correo.uis.edu.co",
     "identification": "2231491",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -901,7 +911,7 @@
     "lastname": "BERMUDEZ CALA",
     "username": "gabriela2200996@correo.uis.edu.co",
     "identification": "2200996",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -924,7 +934,7 @@
     "lastname": "BLANCO ARIZA",
     "username": "juan2230860@correo.uis.edu.co",
     "identification": "2230860",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -947,7 +957,7 @@
     "lastname": "BLANCO GELVEZ",
     "username": "vianny2241947@correo.uis.edu.co",
     "identification": "2241947",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -962,7 +972,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -970,7 +981,7 @@
     "lastname": "BOHORQUEZ GONZALEZ",
     "username": "nicolle2250066@correo.uis.edu.co",
     "identification": "2250066",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -985,7 +996,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -993,7 +1005,7 @@
     "lastname": "BOLIVAR GUZMAN",
     "username": "sara2221828@correo.uis.edu.co",
     "identification": "2221828",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1016,7 +1028,7 @@
     "lastname": "CABALLERO MELO",
     "username": "maira2221077@correo.uis.edu.co",
     "identification": "2221077",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1039,7 +1051,7 @@
     "lastname": "CALA GONZALEZ",
     "username": "silvia2221417@correo.uis.edu.co",
     "identification": "2221417",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1062,7 +1074,7 @@
     "lastname": "CALDERON ABELLA",
     "username": "esneyder2250084@correo.uis.edu.co",
     "identification": "2250084",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1077,7 +1089,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -1085,7 +1098,7 @@
     "lastname": "CAPACHO TORRES",
     "username": "julian2230856@correo.uis.edu.co",
     "identification": "2230856",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1108,7 +1121,7 @@
     "lastname": "CARDENAS MARIN",
     "username": "carlos2251557@correo.uis.edu.co",
     "identification": "2251557",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1123,7 +1136,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -1131,7 +1145,7 @@
     "lastname": "CARO JEREZ",
     "username": "luis2231408@correo.uis.edu.co",
     "identification": "2231408",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1151,10 +1165,10 @@
   },
   {
     "name": "SANTIAGO",
-    "lastname": "CARREÑO GUTIERREZ",
+    "lastname": "CARREï¿½O GUTIERREZ",
     "username": "santiago2210971@correo.uis.edu.co",
     "identification": "2210971",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1174,10 +1188,10 @@
   },
   {
     "name": "SOFIA",
-    "lastname": "CARREÑO ORTIZ",
+    "lastname": "CARREï¿½O ORTIZ",
     "username": "sofia2251039@correo.uis.edu.co",
     "identification": "2251039",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1192,7 +1206,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -1200,7 +1215,7 @@
     "lastname": "CASAS CARVAJAL",
     "username": "paula2210976@correo.uis.edu.co",
     "identification": "2210976",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1220,10 +1235,10 @@
   },
   {
     "name": "LAURA CAMILA",
-    "lastname": "CASTAÑEDA QUINTERO",
+    "lastname": "CASTAï¿½EDA QUINTERO",
     "username": "laura2231789@correo.uis.edu.co",
     "identification": "2231789",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1246,7 +1261,7 @@
     "lastname": "CASTELLANOS MORENO",
     "username": "gabriela2230859@correo.uis.edu.co",
     "identification": "2230859",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1269,7 +1284,7 @@
     "lastname": "CASTILLO ANGARITA",
     "username": "juan2211183@correo.uis.edu.co",
     "identification": "2211183",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1292,7 +1307,7 @@
     "lastname": "CASTRILLON SOTO",
     "username": "angela2211261@correo.uis.edu.co",
     "identification": "2211261",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1315,7 +1330,7 @@
     "lastname": "CASTRO CASTRO",
     "username": "brayan2241909@correo.uis.edu.co",
     "identification": "2241909",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1330,7 +1345,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -1338,7 +1354,7 @@
     "lastname": "CASTRO MARTINEZ",
     "username": "paula2231565@correo.uis.edu.co",
     "identification": "2231565",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1361,7 +1377,7 @@
     "lastname": "CEDIEL GUTIERREZ",
     "username": "danna2241396@correo.uis.edu.co",
     "identification": "2241396",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1376,7 +1392,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -1384,7 +1401,7 @@
     "lastname": "CEPEDA JEREZ",
     "username": "isabela2231396@correo.uis.edu.co",
     "identification": "2231396",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1407,7 +1424,7 @@
     "lastname": "CEPEDA MARIN",
     "username": "zulay2220834@correo.uis.edu.co",
     "identification": "2220834",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1430,7 +1447,7 @@
     "lastname": "CHAPARRO DELGADO",
     "username": "juan2191341@correo.uis.edu.co",
     "identification": "2191341",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1453,7 +1470,7 @@
     "lastname": "CHARRIA SILVA",
     "username": "nayuth2231279@correo.uis.edu.co",
     "identification": "2231279",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1476,7 +1493,7 @@
     "lastname": "CHINCHILLA ANAYA",
     "username": "nicolas2200691@correo.uis.edu.co",
     "identification": "2200691",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1499,7 +1516,7 @@
     "lastname": "CLAVIJO DAZA",
     "username": "juan2220842@correo.uis.edu.co",
     "identification": "2220842",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1522,7 +1539,7 @@
     "lastname": "CONTRERAS BUENO",
     "username": "lizeth2241393@correo.uis.edu.co",
     "identification": "2241393",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1545,7 +1562,7 @@
     "lastname": "CORREA ZALABATA",
     "username": "kwanekun2200983@correo.uis.edu.co",
     "identification": "2200983",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1568,7 +1585,7 @@
     "lastname": "CRISPIN TAPIAS",
     "username": "sarah2221703@correo.uis.edu.co",
     "identification": "2221703",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1591,7 +1608,7 @@
     "lastname": "CRUZ CUBIDES",
     "username": "faydi2251050@correo.uis.edu.co",
     "identification": "2251050",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1606,7 +1623,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -1614,7 +1632,7 @@
     "lastname": "CRUZ VARGAS",
     "username": "juan2241611@correo.uis.edu.co",
     "identification": "2241611",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1629,7 +1647,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -1637,7 +1656,7 @@
     "lastname": "DE FEX ROBLES",
     "username": "stefany2251051@correo.uis.edu.co",
     "identification": "2251051",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1652,7 +1671,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -1660,7 +1680,7 @@
     "lastname": "DELGADO MARTINEZ",
     "username": "juliana2241577@correo.uis.edu.co",
     "identification": "2241577",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1683,7 +1703,7 @@
     "lastname": "DIAZ ARENAS",
     "username": "xiomara2211152@correo.uis.edu.co",
     "identification": "2211152",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1706,7 +1726,7 @@
     "lastname": "DIAZ AVILA",
     "username": "maria2200667@correo.uis.edu.co",
     "identification": "2200667",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1729,7 +1749,7 @@
     "lastname": "DIAZ CORENA",
     "username": "jesus2231465@correo.uis.edu.co",
     "identification": "2231465",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1752,7 +1772,7 @@
     "lastname": "DIAZ GUARIN",
     "username": "carolay2241430@correo.uis.edu.co",
     "identification": "2241430",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1767,7 +1787,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -1775,7 +1796,7 @@
     "lastname": "DIAZ JAIMES",
     "username": "karla2182305@correo.uis.edu.co",
     "identification": "2182305",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1798,7 +1819,7 @@
     "lastname": "DIAZ PEREZ",
     "username": "michell2230853@correo.uis.edu.co",
     "identification": "2230853",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1821,7 +1842,7 @@
     "lastname": "DIAZ PRADA",
     "username": "paula2251864@correo.uis.edu.co",
     "identification": "2251864",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1836,7 +1857,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -1844,7 +1866,7 @@
     "lastname": "DUARTE LACHE",
     "username": "mariana2232642@correo.uis.edu.co",
     "identification": "2232642",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1859,15 +1881,16 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
     "name": "MARIA ISABEL",
-    "lastname": "DUEÑAS VILLAMIZAR",
+    "lastname": "DUEï¿½AS VILLAMIZAR",
     "username": "maria2251556@correo.uis.edu.co",
     "identification": "2251556",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1882,7 +1905,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -1890,7 +1914,7 @@
     "lastname": "DURAN SERRANO",
     "username": "nataly2211647@correo.uis.edu.co",
     "identification": "2211647",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1910,10 +1934,10 @@
   },
   {
     "name": "BRENDA ALEYSIA",
-    "lastname": "ESTRADA CAMPAÑA",
+    "lastname": "ESTRADA CAMPAï¿½A",
     "username": "brenda2221505@correo.uis.edu.co",
     "identification": "2221505",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1933,10 +1957,10 @@
   },
   {
     "name": "SURY JULIANA",
-    "lastname": "ESTUPIÑAN CALDERON",
+    "lastname": "ESTUPIï¿½AN CALDERON",
     "username": "sury2250048@correo.uis.edu.co",
     "identification": "2250048",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1951,7 +1975,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -1959,7 +1984,7 @@
     "lastname": "FERNANDEZ RUEDA",
     "username": "karen2190940@correo.uis.edu.co",
     "identification": "2190940",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -1982,7 +2007,7 @@
     "lastname": "FLOREZ TORRES",
     "username": "julian2221850@correo.uis.edu.co",
     "identification": "2221850",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2005,7 +2030,7 @@
     "lastname": "GALVIS JAIMES",
     "username": "danna2251561@correo.uis.edu.co",
     "identification": "2251561",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2020,7 +2045,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -2028,7 +2054,7 @@
     "lastname": "GALVIS ROMERO",
     "username": "saira2241484@correo.uis.edu.co",
     "identification": "2241484",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2043,7 +2069,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -2051,7 +2078,7 @@
     "lastname": "GALVIS SANGUINO",
     "username": "danna2240864@correo.uis.edu.co",
     "identification": "2240864",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2074,7 +2101,7 @@
     "lastname": "GAMBOA HERNANDEZ",
     "username": "sara2221829@correo.uis.edu.co",
     "identification": "2221829",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2097,7 +2124,7 @@
     "lastname": "GARCIA AREVALO",
     "username": "andrea2220836@correo.uis.edu.co",
     "identification": "2220836",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2120,7 +2147,7 @@
     "lastname": "GARCIA BERMUDEZ",
     "username": "jemima2231557@correo.uis.edu.co",
     "identification": "2231557",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2143,7 +2170,7 @@
     "lastname": "GARCIA CAMARGO",
     "username": "karol2231600@correo.uis.edu.co",
     "identification": "2231600",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2166,7 +2193,7 @@
     "lastname": "GARCIA CASTILLO",
     "username": "daniel2211819@correo.uis.edu.co",
     "identification": "2211819",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2189,7 +2216,7 @@
     "lastname": "GARCIA CORDOBA",
     "username": "diana2210977@correo.uis.edu.co",
     "identification": "2210977",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2212,7 +2239,7 @@
     "lastname": "GARCIA PABON",
     "username": "andrea2240861@correo.uis.edu.co",
     "identification": "2240861",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2227,7 +2254,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -2235,7 +2263,7 @@
     "lastname": "GARCIA PINTO",
     "username": "maria2240863@correo.uis.edu.co",
     "identification": "2240863",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2250,7 +2278,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -2258,7 +2287,7 @@
     "lastname": "GARCIA PINZON",
     "username": "cristian2220128@correo.uis.edu.co",
     "identification": "2220128",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2273,7 +2302,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -2281,7 +2311,7 @@
     "lastname": "GELVEZ BARROSO",
     "username": "angelys2230864@correo.uis.edu.co",
     "identification": "2230864",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2304,7 +2334,7 @@
     "lastname": "GOMEZ AMADO",
     "username": "jose2240973@correo.uis.edu.co",
     "identification": "2240973",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2327,7 +2357,7 @@
     "lastname": "GOMEZ FABRA",
     "username": "jhonattan2251566@correo.uis.edu.co",
     "identification": "2251566",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2342,7 +2372,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -2350,7 +2381,7 @@
     "lastname": "GOMEZ SUAREZ",
     "username": "zharick2250040@correo.uis.edu.co",
     "identification": "2250040",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2365,7 +2396,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -2373,7 +2405,7 @@
     "lastname": "GONZALEZ GUTIERREZ",
     "username": "laura2250076@correo.uis.edu.co",
     "identification": "2250076",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2388,15 +2420,16 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
     "name": "XIMENA",
-    "lastname": "GRANADOS MUÑOZ",
+    "lastname": "GRANADOS MUï¿½OZ",
     "username": "ximena2211738@correo.uis.edu.co",
     "identification": "2211738",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2419,7 +2452,7 @@
     "lastname": "GUALDRON OLARTE",
     "username": "jhoan2251047@correo.uis.edu.co",
     "identification": "2251047",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2434,7 +2467,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -2442,7 +2476,7 @@
     "lastname": "GUECHA CASTELLANOS",
     "username": "mariana2220591@correo.uis.edu.co",
     "identification": "2220591",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2465,7 +2499,7 @@
     "lastname": "GUTIERREZ LOPEZ",
     "username": "ana2231646@correo.uis.edu.co",
     "identification": "2231646",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2488,7 +2522,7 @@
     "lastname": "GUTIERREZ PORTILLA",
     "username": "sara2220608@correo.uis.edu.co",
     "identification": "2220608",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2511,7 +2545,7 @@
     "lastname": "GUTIERREZ ROJAS",
     "username": "santiago2221076@correo.uis.edu.co",
     "identification": "2221076",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2534,7 +2568,7 @@
     "lastname": "HENRIQUEZ CACERES",
     "username": "angely2230855@correo.uis.edu.co",
     "identification": "2230855",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2557,7 +2591,7 @@
     "lastname": "HERNANDEZ ACEVEDO",
     "username": "lenner2221454@correo.uis.edu.co",
     "identification": "2221454",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2580,7 +2614,7 @@
     "lastname": "HERNANDEZ AGUILAR",
     "username": "dana2241934@correo.uis.edu.co",
     "identification": "2241934",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2595,7 +2629,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -2603,7 +2638,7 @@
     "lastname": "HERNANDEZ FLORIAN",
     "username": "andres2250006@correo.uis.edu.co",
     "identification": "2250006",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2618,7 +2653,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -2626,7 +2662,7 @@
     "lastname": "HERNANDEZ MONSALVE",
     "username": "nathalie2210967@correo.uis.edu.co",
     "identification": "2210967",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2649,7 +2685,7 @@
     "lastname": "HERNANDEZ OCHOA",
     "username": "yarith2201312@correo.uis.edu.co",
     "identification": "2201312",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2672,7 +2708,7 @@
     "lastname": "HERNANDEZ PRADA",
     "username": "sebastian2241566@correo.uis.edu.co",
     "identification": "2241566",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2695,7 +2731,7 @@
     "lastname": "HERNANDEZ VARGAS",
     "username": "eileen2241622@correo.uis.edu.co",
     "identification": "2241622",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2710,7 +2746,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -2718,7 +2755,7 @@
     "lastname": "HERRERA BALLESTEROS",
     "username": "johan2180957@correo.uis.edu.co",
     "identification": "2180957",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2738,10 +2775,10 @@
   },
   {
     "name": "JUAN ESTEBAN",
-    "lastname": "IBAÑEZ JAIMES",
+    "lastname": "IBAï¿½EZ JAIMES",
     "username": "juan2231399@correo.uis.edu.co",
     "identification": "2231399",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2764,7 +2801,7 @@
     "lastname": "JAIMES ANDRADE",
     "username": "maria2220846@correo.uis.edu.co",
     "identification": "2220846",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2787,7 +2824,7 @@
     "lastname": "JAIMES JIMENEZ",
     "username": "silvia2221453@correo.uis.edu.co",
     "identification": "2221453",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2810,7 +2847,7 @@
     "lastname": "JUEZ GONZALEZ",
     "username": "juan2210123@correo.uis.edu.co",
     "identification": "2210123",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2825,7 +2862,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -2833,7 +2871,7 @@
     "lastname": "LARGO RODRIGUEZ",
     "username": "juan2231281@correo.uis.edu.co",
     "identification": "2231281",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2853,10 +2891,10 @@
   },
   {
     "name": "JOHAN STEVEN",
-    "lastname": "LEON IBAÑEZ",
+    "lastname": "LEON IBAï¿½EZ",
     "username": "johan2211820@correo.uis.edu.co",
     "identification": "2211820",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2879,7 +2917,7 @@
     "lastname": "LEON OCHOA",
     "username": "beimy2200681@correo.uis.edu.co",
     "identification": "2200681",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2902,7 +2940,7 @@
     "lastname": "LEON PERALTA",
     "username": "maria2241568@correo.uis.edu.co",
     "identification": "2241568",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2925,7 +2963,7 @@
     "lastname": "LINARES GUERRERO",
     "username": "valeria2231645@correo.uis.edu.co",
     "identification": "2231645",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2948,7 +2986,7 @@
     "lastname": "LIZ TORRES",
     "username": "misael2230953@correo.uis.edu.co",
     "identification": "2230953",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2971,7 +3009,7 @@
     "lastname": "LIZCANO GALLO",
     "username": "maria2241282@correo.uis.edu.co",
     "identification": "2241282",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -2991,10 +3029,10 @@
   },
   {
     "name": "JULIAN DAVID",
-    "lastname": "LOPEZ ACUÑA",
+    "lastname": "LOPEZ ACUï¿½A",
     "username": "julian2201756@correo.uis.edu.co",
     "identification": "2201756",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3017,7 +3055,7 @@
     "lastname": "LOPEZ ROMERO",
     "username": "johan2210969@correo.uis.edu.co",
     "identification": "2210969",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3040,7 +3078,7 @@
     "lastname": "LOZANO ORTIZ",
     "username": "angelica2210975@correo.uis.edu.co",
     "identification": "2210975",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3063,7 +3101,7 @@
     "lastname": "MADARRIAGA QUINTERO",
     "username": "lizbeth2240860@correo.uis.edu.co",
     "identification": "2240860",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3086,7 +3124,7 @@
     "lastname": "MALDONADO SALCEDO",
     "username": "anamaria2251562@correo.uis.edu.co",
     "identification": "2251562",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3101,7 +3139,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3109,7 +3148,7 @@
     "lastname": "MANRIQUE MORALES",
     "username": "juan2230852@correo.uis.edu.co",
     "identification": "2230852",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3132,7 +3171,7 @@
     "lastname": "MANTILLA ARIAS",
     "username": "laura2220835@correo.uis.edu.co",
     "identification": "2220835",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3155,7 +3194,7 @@
     "lastname": "MANTILLA OTERO",
     "username": "fabian2241575@correo.uis.edu.co",
     "identification": "2241575",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3170,7 +3209,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3178,7 +3218,7 @@
     "lastname": "MARTINEZ ACOSTA",
     "username": "nathaly2251563@correo.uis.edu.co",
     "identification": "2251563",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3193,7 +3233,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3201,7 +3242,7 @@
     "lastname": "MARTINEZ RINCON",
     "username": "eduard2231395@correo.uis.edu.co",
     "identification": "2231395",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3224,7 +3265,7 @@
     "lastname": "MARTINEZ SANCHEZ",
     "username": "maria2251038@correo.uis.edu.co",
     "identification": "2251038",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3239,7 +3280,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3247,7 +3289,7 @@
     "lastname": "MEDINA PRADA",
     "username": "maria2251048@correo.uis.edu.co",
     "identification": "2251048",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3262,7 +3304,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3270,7 +3313,7 @@
     "lastname": "MEJIA CALA",
     "username": "valentina2241422@correo.uis.edu.co",
     "identification": "2241422",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3285,7 +3328,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3293,7 +3337,7 @@
     "lastname": "MENDOZA PEDRAZA",
     "username": "santiago2220601@correo.uis.edu.co",
     "identification": "2220601",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3316,7 +3360,7 @@
     "lastname": "MENESES CRUZ",
     "username": "ana2251796@correo.uis.edu.co",
     "identification": "2251796",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3331,7 +3375,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3339,7 +3384,7 @@
     "lastname": "MIRANDA PARRA",
     "username": "dana2251913@correo.uis.edu.co",
     "identification": "2251913",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3354,7 +3399,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3362,7 +3408,7 @@
     "lastname": "MOLINA HERNANDEZ",
     "username": "santiago2240862@correo.uis.edu.co",
     "identification": "2240862",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3377,7 +3423,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3385,7 +3432,7 @@
     "lastname": "MONSALVE QUINTERO",
     "username": "sergio2241598@correo.uis.edu.co",
     "identification": "2241598",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3405,7 +3452,7 @@
   },
   {
     "name": "SCARLET SAIRE",
-    "lastname": "MONTIEL NUÑEZ",
+    "lastname": "MONTIEL NUï¿½EZ",
     "username": "scarlet2201798@correo.uis.edu.co",
     "identification": "2201798",
     "level": null,
@@ -3431,7 +3478,7 @@
     "lastname": "MORA SUAREZ",
     "username": "sofia2230954@correo.uis.edu.co",
     "identification": "2230954",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3454,7 +3501,7 @@
     "lastname": "MORALES VILLAMIZAR",
     "username": "eduar2221402@correo.uis.edu.co",
     "identification": "2221402",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3477,7 +3524,7 @@
     "lastname": "MORENO GOMEZ",
     "username": "karol2230865@correo.uis.edu.co",
     "identification": "2230865",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3500,7 +3547,7 @@
     "lastname": "MORENO VALENCIA",
     "username": "jhon2221854@correo.uis.edu.co",
     "identification": "2221854",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3515,7 +3562,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3523,7 +3571,7 @@
     "lastname": "NARANJO OCHOA",
     "username": "luis2221082@correo.uis.edu.co",
     "identification": "2221082",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3543,10 +3591,10 @@
   },
   {
     "name": "ANDRES FELIPE",
-    "lastname": "NIÑO MACIAS",
+    "lastname": "NIï¿½O MACIAS",
     "username": "andres2202994@correo.uis.edu.co",
     "identification": "2202994",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3566,10 +3614,10 @@
   },
   {
     "name": "BRAYAN CAMILO",
-    "lastname": "NIÑO QUINTANILLA",
+    "lastname": "NIï¿½O QUINTANILLA",
     "username": "brayan2191686@correo.uis.edu.co",
     "identification": "2191686",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3592,7 +3640,7 @@
     "lastname": "NOBLE ARIZA",
     "username": "jenniffer2221756@correo.uis.edu.co",
     "identification": "2221756",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3615,7 +3663,7 @@
     "lastname": "OCHOA URBINA",
     "username": "breyner2241683@correo.uis.edu.co",
     "identification": "2241683",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3630,7 +3678,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3638,7 +3687,7 @@
     "lastname": "OJEDA ORTIZ",
     "username": "maria2211829@correo.uis.edu.co",
     "identification": "2211829",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3658,10 +3707,10 @@
   },
   {
     "name": "DANIEL SANTIAGO",
-    "lastname": "ORDOÑEZ NAVAS",
+    "lastname": "ORDOï¿½EZ NAVAS",
     "username": "daniel2251716@correo.uis.edu.co",
     "identification": "2251716",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3676,7 +3725,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3684,7 +3734,7 @@
     "lastname": "OROZCO MELENDEZ",
     "username": "mahalia2252097@correo.uis.edu.co",
     "identification": "2252097",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3699,7 +3749,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3707,7 +3758,7 @@
     "lastname": "ORTEGA BAYONA",
     "username": "valery2241522@correo.uis.edu.co",
     "identification": "2241522",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3730,7 +3781,7 @@
     "lastname": "ORTEGA MENDOZA",
     "username": "luis2241741@correo.uis.edu.co",
     "identification": "2241741",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3745,7 +3796,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3753,7 +3805,7 @@
     "lastname": "ORTEGA PINTO",
     "username": "juan2241602@correo.uis.edu.co",
     "identification": "2241602",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3768,7 +3820,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3776,7 +3829,7 @@
     "lastname": "ORTIZ VERGEL",
     "username": "sara2241360@correo.uis.edu.co",
     "identification": "2241360",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3791,7 +3844,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3799,7 +3853,7 @@
     "lastname": "OSMA RODRIGUEZ",
     "username": "brayan2251708@correo.uis.edu.co",
     "identification": "2251708",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3814,7 +3868,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3822,7 +3877,7 @@
     "lastname": "OSORIO VILLAMIZAR",
     "username": "johan2182001@correo.uis.edu.co",
     "identification": "2182001",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3845,7 +3900,7 @@
     "lastname": "OVIEDO ARCHILA",
     "username": "sarai2251043@correo.uis.edu.co",
     "identification": "2251043",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3860,7 +3915,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3868,7 +3924,7 @@
     "lastname": "PABON FUENTES",
     "username": "juan2241600@correo.uis.edu.co",
     "identification": "2241600",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3891,7 +3947,7 @@
     "lastname": "PABON ROMERO",
     "username": "camilo2211173@correo.uis.edu.co",
     "identification": "2211173",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3914,7 +3970,7 @@
     "lastname": "PACHON MORENO",
     "username": "samuel2251046@correo.uis.edu.co",
     "identification": "2251046",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3929,7 +3985,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3937,7 +3994,7 @@
     "lastname": "PAEZ RAMIREZ",
     "username": "mariana2251040@correo.uis.edu.co",
     "identification": "2251040",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3952,7 +4009,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -3960,7 +4018,7 @@
     "lastname": "PARDO MEDINA",
     "username": "danna2231283@correo.uis.edu.co",
     "identification": "2231283",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -3983,7 +4041,7 @@
     "lastname": "PARDO RODRIGUEZ",
     "username": "brayan2211072@correo.uis.edu.co",
     "identification": "2211072",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4003,10 +4061,10 @@
   },
   {
     "name": "SARA SOFIA",
-    "lastname": "PATIÑO LAMUS",
+    "lastname": "PATIï¿½O LAMUS",
     "username": "sara2241654@correo.uis.edu.co",
     "identification": "2241654",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4021,7 +4079,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -4029,7 +4088,7 @@
     "lastname": "PEDRAZA ALVEAR",
     "username": "angie2251929@correo.uis.edu.co",
     "identification": "2251929",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4044,7 +4103,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -4052,7 +4112,7 @@
     "lastname": "PEDRAZA CORONADO",
     "username": "lenin2251045@correo.uis.edu.co",
     "identification": "2251045",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4067,7 +4127,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -4075,7 +4136,7 @@
     "lastname": "PEDRAZA SALCEDO",
     "username": "valentina2220845@correo.uis.edu.co",
     "identification": "2220845",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4098,7 +4159,7 @@
     "lastname": "PEREZ GARCIA",
     "username": "luisa2251567@correo.uis.edu.co",
     "identification": "2251567",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4113,7 +4174,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -4121,7 +4183,7 @@
     "lastname": "PEREZ JIMENEZ",
     "username": "maria2240869@correo.uis.edu.co",
     "identification": "2240869",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4144,7 +4206,7 @@
     "lastname": "PICO BARAJAS",
     "username": "brian2230951@correo.uis.edu.co",
     "identification": "2230951",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4167,7 +4229,7 @@
     "lastname": "PINILLA GALVIS",
     "username": "karen2202079@correo.uis.edu.co",
     "identification": "2202079",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4190,7 +4252,7 @@
     "lastname": "PINTO ARENAS",
     "username": "yeffrey2211158@correo.uis.edu.co",
     "identification": "2211158",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4213,7 +4275,7 @@
     "lastname": "PINTO MORALES",
     "username": "julyn2210837@correo.uis.edu.co",
     "identification": "2210837",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4228,7 +4290,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -4236,7 +4299,7 @@
     "lastname": "PLATA BALLESTEROS",
     "username": "juan2210966@correo.uis.edu.co",
     "identification": "2210966",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4259,7 +4322,7 @@
     "lastname": "PLATA HERNANDEZ",
     "username": "anghela2241739@correo.uis.edu.co",
     "identification": "2241739",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4274,7 +4337,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -4282,7 +4346,7 @@
     "lastname": "PORRAS MARTINEZ",
     "username": "danna2221012@correo.uis.edu.co",
     "identification": "2221012",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4305,7 +4369,7 @@
     "lastname": "PORTILLA GARCIA",
     "username": "carlos2250083@correo.uis.edu.co",
     "identification": "2250083",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4320,7 +4384,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -4328,7 +4393,7 @@
     "lastname": "PULIDO PIRACON",
     "username": "dana2252066@correo.uis.edu.co",
     "identification": "2252066",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4343,7 +4408,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -4351,7 +4417,7 @@
     "lastname": "QUINTANA QUINTANA",
     "username": "hernan2201690@correo.uis.edu.co",
     "identification": "2201690",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4397,7 +4463,7 @@
     "lastname": "QUINTERO GUERRERO",
     "username": "gabriela2251672@correo.uis.edu.co",
     "identification": "2251672",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4412,15 +4478,16 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
     "name": "JOAN SEBASTIAN",
-    "lastname": "QUINTERO NIÑO",
+    "lastname": "QUINTERO NIï¿½O",
     "username": "joan2200988@correo.uis.edu.co",
     "identification": "2200988",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4443,7 +4510,7 @@
     "lastname": "QUINTERO ORTIZ",
     "username": "alejandra2211564@correo.uis.edu.co",
     "identification": "2211564",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4458,7 +4525,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -4466,7 +4534,7 @@
     "lastname": "QUINTERO SERRANO",
     "username": "carlos2251554@correo.uis.edu.co",
     "identification": "2251554",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4481,7 +4549,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -4489,7 +4558,7 @@
     "lastname": "RAMIREZ LEON",
     "username": "diana2220841@correo.uis.edu.co",
     "identification": "2220841",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4512,7 +4581,7 @@
     "lastname": "RAMIREZ MARTINEZ",
     "username": "maria2220606@correo.uis.edu.co",
     "identification": "2220606",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4535,7 +4604,7 @@
     "lastname": "RAMIREZ REMOLINA",
     "username": "santiago2211813@correo.uis.edu.co",
     "identification": "2211813",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4558,7 +4627,7 @@
     "lastname": "RAMIREZ SUAREZ",
     "username": "laura2211162@correo.uis.edu.co",
     "identification": "2211162",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4581,7 +4650,7 @@
     "lastname": "REYES GORDILLO",
     "username": "maria2191855@correo.uis.edu.co",
     "identification": "2191855",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4604,7 +4673,7 @@
     "lastname": "REYES HERNANDEZ",
     "username": "leily2221782@correo.uis.edu.co",
     "identification": "2221782",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4627,7 +4696,7 @@
     "lastname": "REYES VARGAS",
     "username": "heidi2230952@correo.uis.edu.co",
     "identification": "2230952",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4673,7 +4742,7 @@
     "lastname": "RINCON RODRIGUEZ",
     "username": "santiago2221791@correo.uis.edu.co",
     "identification": "2221791",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4696,7 +4765,7 @@
     "lastname": "RIOS APARICIO",
     "username": "oscar2241432@correo.uis.edu.co",
     "identification": "2241432",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4719,7 +4788,7 @@
     "lastname": "RIVEROS VILLAMIZAR",
     "username": "eduardo2220602@correo.uis.edu.co",
     "identification": "2220602",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4742,7 +4811,7 @@
     "lastname": "ROCHA CAMPOS",
     "username": "ana2211741@correo.uis.edu.co",
     "identification": "2211741",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4765,7 +4834,7 @@
     "lastname": "RODRIGUEZ AMADO",
     "username": "wilmar2230557@correo.uis.edu.co",
     "identification": "2230557",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4780,7 +4849,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -4788,7 +4858,7 @@
     "lastname": "RODRIGUEZ MORENO",
     "username": "maria2241775@correo.uis.edu.co",
     "identification": "2241775",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4803,7 +4873,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -4811,7 +4882,7 @@
     "lastname": "RODRIGUEZ ORTIZ",
     "username": "alejandro2201703@correo.uis.edu.co",
     "identification": "2201703",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4834,7 +4905,7 @@
     "lastname": "RODRIGUEZ RONDON",
     "username": "catherine2221851@correo.uis.edu.co",
     "identification": "2221851",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4854,10 +4925,10 @@
   },
   {
     "name": "JUAN SEBASTIAN",
-    "lastname": "RODRIGUEZ UMAÑA",
+    "lastname": "RODRIGUEZ UMAï¿½A",
     "username": "juan2251555@correo.uis.edu.co",
     "identification": "2251555",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4872,7 +4943,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -4880,7 +4952,7 @@
     "lastname": "ROJAS RAMIREZ",
     "username": "wendy2211607@correo.uis.edu.co",
     "identification": "2211607",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4903,7 +4975,7 @@
     "lastname": "ROJAS ROJAS",
     "username": "danna2231278@correo.uis.edu.co",
     "identification": "2231278",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4926,7 +4998,7 @@
     "lastname": "ROZO FERNANDEZ",
     "username": "andres2231264@correo.uis.edu.co",
     "identification": "2231264",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4949,7 +5021,7 @@
     "lastname": "RUEDA LOPEZ",
     "username": "delia2210980@correo.uis.edu.co",
     "identification": "2210980",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4972,7 +5044,7 @@
     "lastname": "RUEDA PINEDA",
     "username": "leidy2241793@correo.uis.edu.co",
     "identification": "2241793",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -4995,7 +5067,7 @@
     "lastname": "RUIZ ABAUNZA",
     "username": "jurleth2252058@correo.uis.edu.co",
     "identification": "2252058",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5010,15 +5082,16 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
     "name": "GISELLE VANESSA",
-    "lastname": "RUIZ LONDOÑO",
+    "lastname": "RUIZ LONDOï¿½O",
     "username": "giselle2221458@correo.uis.edu.co",
     "identification": "2221458",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5041,7 +5114,7 @@
     "lastname": "RUIZ VERA",
     "username": "gabriela2181988@correo.uis.edu.co",
     "identification": "2181988",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5064,7 +5137,7 @@
     "lastname": "SAENZ GELVES",
     "username": "maria2251198@correo.uis.edu.co",
     "identification": "2251198",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5079,15 +5152,16 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
     "name": "JUAN ESTEBAN",
-    "lastname": "SANCHEZ DUEÑAS",
+    "lastname": "SANCHEZ DUEï¿½AS",
     "username": "juan2212398@correo.uis.edu.co",
     "identification": "2212398",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5110,7 +5184,7 @@
     "lastname": "SANCHEZ FRANCO",
     "username": "zulay2221464@correo.uis.edu.co",
     "identification": "2221464",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5133,7 +5207,7 @@
     "lastname": "SANCHEZ JAIME",
     "username": "yelitza2222623@correo.uis.edu.co",
     "identification": "2222623",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5156,7 +5230,7 @@
     "lastname": "SANCHEZ SANTOS",
     "username": "juan2251935@correo.uis.edu.co",
     "identification": "2251935",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5171,7 +5245,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -5179,7 +5254,7 @@
     "lastname": "SANDOVAL HERNANDEZ",
     "username": "paula2250082@correo.uis.edu.co",
     "identification": "2250082",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5194,7 +5269,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -5202,7 +5278,7 @@
     "lastname": "SANMIGUEL TORRES",
     "username": "angela2211165@correo.uis.edu.co",
     "identification": "2211165",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5225,7 +5301,7 @@
     "lastname": "SANMIGUEL URREA",
     "username": "andrea2220595@correo.uis.edu.co",
     "identification": "2220595",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5248,7 +5324,7 @@
     "lastname": "SANTOS MESA",
     "username": "paula2211841@correo.uis.edu.co",
     "identification": "2211841",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5294,7 +5370,7 @@
     "lastname": "SARMIENTO SANMIGUEL",
     "username": "danna2220609@correo.uis.edu.co",
     "identification": "2220609",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5317,7 +5393,7 @@
     "lastname": "SEPULVEDA GARZON",
     "username": "elias2211815@correo.uis.edu.co",
     "identification": "2211815",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5340,7 +5416,7 @@
     "lastname": "SERRANO GARCIA",
     "username": "wilber2230862@correo.uis.edu.co",
     "identification": "2230862",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5363,7 +5439,7 @@
     "lastname": "SERRANO PALACIO",
     "username": "danna2241526@correo.uis.edu.co",
     "identification": "2241526",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5378,7 +5454,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -5386,7 +5463,7 @@
     "lastname": "SERRANO VASQUEZ",
     "username": "carlos2210973@correo.uis.edu.co",
     "identification": "2210973",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5409,7 +5486,7 @@
     "lastname": "SEVILLA SOLANO",
     "username": "omar2221529@correo.uis.edu.co",
     "identification": "2221529",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5432,7 +5509,7 @@
     "lastname": "SIERRA MENESES",
     "username": "david2231289@correo.uis.edu.co",
     "identification": "2231289",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5455,7 +5532,7 @@
     "lastname": "SILVA GAIDOS",
     "username": "heidy2221443@correo.uis.edu.co",
     "identification": "2221443",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5478,7 +5555,7 @@
     "lastname": "SILVA HERRERA",
     "username": "danna2211170@correo.uis.edu.co",
     "identification": "2211170",
-    "level": null,
+    "level": "9",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5501,7 +5578,7 @@
     "lastname": "SILVA SEPULVEDA",
     "username": "jonathan2221780@correo.uis.edu.co",
     "identification": "2221780",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5524,7 +5601,7 @@
     "lastname": "SOTO BALAGUERA",
     "username": "joan2241429@correo.uis.edu.co",
     "identification": "2241429",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5539,7 +5616,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -5547,7 +5625,7 @@
     "lastname": "SUAREZ AFANADOR",
     "username": "luna2220597@correo.uis.edu.co",
     "identification": "2220597",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5570,7 +5648,7 @@
     "lastname": "SUAREZ CABALLERO",
     "username": "mario2200082@correo.uis.edu.co",
     "identification": "2200082",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5593,7 +5671,7 @@
     "lastname": "SUAREZ DIAZ",
     "username": "yurley2211579@correo.uis.edu.co",
     "identification": "2211579",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5616,7 +5694,7 @@
     "lastname": "SUAREZ DUARTE",
     "username": "iveth2231694@correo.uis.edu.co",
     "identification": "2231694",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5639,7 +5717,7 @@
     "lastname": "SUAREZ MONROY",
     "username": "josman2221400@correo.uis.edu.co",
     "identification": "2221400",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5659,10 +5737,10 @@
   },
   {
     "name": "NICOLAS",
-    "lastname": "SUAREZ PEÑA",
+    "lastname": "SUAREZ PEï¿½A",
     "username": "nicolas2211611@correo.uis.edu.co",
     "identification": "2211611",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5685,7 +5763,7 @@
     "lastname": "TABOADA RIVERA",
     "username": "hans2220082@correo.uis.edu.co",
     "identification": "2220082",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5700,7 +5778,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -5708,7 +5787,7 @@
     "lastname": "TAMAYO GARCIA",
     "username": "silvia2241406@correo.uis.edu.co",
     "identification": "2241406",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5731,7 +5810,7 @@
     "lastname": "TARAZONA BOHORQUEZ",
     "username": "jose2241763@correo.uis.edu.co",
     "identification": "2241763",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5746,7 +5825,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -5754,7 +5834,7 @@
     "lastname": "TASCO PARRA",
     "username": "joseph2251049@correo.uis.edu.co",
     "identification": "2251049",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5769,7 +5849,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -5777,7 +5858,7 @@
     "lastname": "TATAKI SANTOS",
     "username": "maria2231556@correo.uis.edu.co",
     "identification": "2231556",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5800,7 +5881,7 @@
     "lastname": "THOMAS CUELLAR",
     "username": "keithsy2241514@correo.uis.edu.co",
     "identification": "2241514",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5815,7 +5896,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -5823,7 +5905,7 @@
     "lastname": "TORO FLOREZ",
     "username": "shirly2240857@correo.uis.edu.co",
     "identification": "2240857",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5846,7 +5928,7 @@
     "lastname": "URIBE MOSQUERA",
     "username": "maria2221405@correo.uis.edu.co",
     "identification": "2221405",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5869,7 +5951,7 @@
     "lastname": "URINTIVE CARRILLO",
     "username": "ricardo2230858@correo.uis.edu.co",
     "identification": "2230858",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5892,7 +5974,7 @@
     "lastname": "VALDIVIESO ORTEGA",
     "username": "jhesei2200079@correo.uis.edu.co",
     "identification": "2200079",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5915,7 +5997,7 @@
     "lastname": "VALENZUELA GUTIERREZ",
     "username": "helen2231671@correo.uis.edu.co",
     "identification": "2231671",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5938,7 +6020,7 @@
     "lastname": "VALLEJO RINCON",
     "username": "manuel2252095@correo.uis.edu.co",
     "identification": "2252095",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5953,7 +6035,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -5961,7 +6044,7 @@
     "lastname": "VANEGAS ANTOLINEZ",
     "username": "katherin2250063@correo.uis.edu.co",
     "identification": "2250063",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -5976,7 +6059,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -5984,7 +6068,7 @@
     "lastname": "VARGAS ORTIZ",
     "username": "manuela2230995@correo.uis.edu.co",
     "identification": "2230995",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -6007,7 +6091,7 @@
     "lastname": "VARGAS QUNTERO",
     "username": "diego2221408@correo.uis.edu.co",
     "identification": "2221408",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -6030,7 +6114,7 @@
     "lastname": "VASCO DUARTE",
     "username": "gabriela2240866@correo.uis.edu.co",
     "identification": "2240866",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -6053,7 +6137,7 @@
     "lastname": "VEGA GAONA",
     "username": "laura2250085@correo.uis.edu.co",
     "identification": "2250085",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -6068,7 +6152,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -6076,7 +6161,7 @@
     "lastname": "VEGA PORRAS",
     "username": "juan2221700@correo.uis.edu.co",
     "identification": "2221700",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -6099,7 +6184,7 @@
     "lastname": "VELASCO RODRIGUEZ",
     "username": "edsonn2251882@correo.uis.edu.co",
     "identification": "2251882",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -6114,7 +6199,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -6122,7 +6208,7 @@
     "lastname": "VELASQUEZ RIBERO",
     "username": "maria2171508@correo.uis.edu.co",
     "identification": "2171508",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -6145,7 +6231,7 @@
     "lastname": "VERJEL ALBARRACIN",
     "username": "ana2221961@correo.uis.edu.co",
     "identification": "2221961",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -6168,7 +6254,7 @@
     "lastname": "VILLA GALINDRES",
     "username": "leidy2221503@correo.uis.edu.co",
     "identification": "2221503",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -6191,7 +6277,7 @@
     "lastname": "VILLABONA CASTELLANOS",
     "username": "maria2241970@correo.uis.edu.co",
     "identification": "2241970",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -6214,7 +6300,7 @@
     "lastname": "VILLABONA PINTO",
     "username": "valentina2190005@correo.uis.edu.co",
     "identification": "2190005",
-    "level": null,
+    "level": "6",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -6237,7 +6323,7 @@
     "lastname": "VILLALBA AMEZQUITA",
     "username": "ana2220839@correo.uis.edu.co",
     "identification": "2220839",
-    "level": null,
+    "level": "8",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -6260,7 +6346,7 @@
     "lastname": "VILLAMIZAR SILVA",
     "username": "sandra2181201@correo.uis.edu.co",
     "identification": "2181201",
-    "level": null,
+    "level": "10",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -6283,7 +6369,7 @@
     "lastname": "VILLAMIZAR URIBE",
     "username": "isabella2241695@correo.uis.edu.co",
     "identification": "2241695",
-    "level": null,
+    "level": "4",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -6298,7 +6384,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   },
   {
@@ -6306,7 +6393,7 @@
     "lastname": "VILLAMIZAR VILLAMIZAR",
     "username": "heiddy2251289@correo.uis.edu.co",
     "identification": "2251289",
-    "level": null,
+    "level": "2",
     "kind": "STUDENT",
     "password": "",
     "verified": false,
@@ -6321,7 +6408,8 @@
     ],
     "program": {
       "id": 58,
-      "name": "MICROBIOLOGIA"
+      "name": "MICROBIOLOGIA",
+      "new_pensum": true
     }
   }
 ]
