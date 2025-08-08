@@ -97,7 +97,7 @@ function transformToMongoFormat(data) {
     name: "PROGRAMA DESCONOCIDO",
   };
 
-  if (data.plan == 14) {
+  if (data.plan == 14 || data.plan == "Nuevo") {
     program.new_pensum = true;
   }
 

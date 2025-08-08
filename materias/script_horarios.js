@@ -34,9 +34,9 @@ async function procesarMateria(codigoMateria) {
 
   const rows = tableDiv.querySelectorAll("tbody tr");
   const materiaInfo = {
-    codigo: codigoMateria,
-    nombre: "",
-    grupos: [],
+    sku: codigoMateria,
+    name: "",
+    groups: [],
   };
 
   for (let i = 0; i < rows.length; i++) {
@@ -44,11 +44,11 @@ async function procesarMateria(codigoMateria) {
     const columns = row.querySelectorAll("td div");
 
     if (i === 0) {
-      materiaInfo.nombre = columns[1]?.textContent.trim();
+      materiaInfo.name = columns[1]?.textContent.trim();
     }
 
     const grupoInfo = {
-      grupo: columns[2]?.textContent.trim(),
+      sku: columns[2]?.textContent.trim(),
       capacidad: parseInt(columns[3]?.textContent.trim(), 10),
       matriculados: parseInt(columns[4]?.textContent.trim(), 10),
       horario: [],
