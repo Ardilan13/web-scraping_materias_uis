@@ -398,7 +398,7 @@
       {
         "sku": "PB1",
         "capacity": 30,
-        "enrolled": 27,
+        "enrolled": 30,
         "schedule": [
           {
             "day": "LUNES",
@@ -426,7 +426,7 @@
       {
         "sku": "PB2",
         "capacity": 29,
-        "enrolled": 28,
+        "enrolled": 29,
         "schedule": [
           {
             "day": "LUNES",
@@ -1439,7 +1439,7 @@
       {
         "sku": "PE1",
         "capacity": 30,
-        "enrolled": 28,
+        "enrolled": 29,
         "schedule": [
           {
             "day": "MARTES",
@@ -1579,7 +1579,7 @@
       {
         "sku": "PF2",
         "capacity": 30,
-        "enrolled": 27,
+        "enrolled": 30,
         "schedule": [
           {
             "day": "MARTES",
@@ -1670,21 +1670,21 @@
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LADY JOHANNA SIERRA PRADA"
           },
           {
             "day": "JUEVES",
             "time": "16:00 - 17:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LADY JOHANNA SIERRA PRADA"
           },
           {
             "day": "VIERNES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LADY JOHANNA SIERRA PRADA"
           }
         ]
       }
@@ -1949,7 +1949,7 @@
       {
         "sku": "PC1",
         "capacity": 29,
-        "enrolled": 28,
+        "enrolled": 29,
         "schedule": [
           {
             "day": "LUNES",
@@ -2313,7 +2313,7 @@
       {
         "sku": "PE7",
         "capacity": 30,
-        "enrolled": 26,
+        "enrolled": 28,
         "schedule": [
           {
             "day": "MARTES",
@@ -3480,7 +3480,7 @@
       {
         "sku": "PF5",
         "capacity": 29,
-        "enrolled": 28,
+        "enrolled": 29,
         "schedule": [
           {
             "day": "LUNES",
@@ -3648,7 +3648,7 @@
       {
         "sku": "PFD",
         "capacity": 25,
-        "enrolled": 19,
+        "enrolled": 20,
         "schedule": [
           {
             "day": "LUNES",
@@ -3738,7 +3738,7 @@
       {
         "sku": "PB3",
         "capacity": 29,
-        "enrolled": 28,
+        "enrolled": 29,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -4521,7 +4521,7 @@
       {
         "sku": "B5",
         "capacity": 30,
-        "enrolled": 29,
+        "enrolled": 30,
         "schedule": [
           {
             "day": "MARTES",
@@ -5262,7 +5262,7 @@
             "time": "16:00 - 19:00",
             "building": "CIENCIAS HUMANAS II",
             "room": "506",
-            "professor": ""
+            "professor": "JORGE DIAZ GIL"
           }
         ]
       },
@@ -5422,7 +5422,7 @@
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "JUAN DAVID SANCHEZ FONTECHA"
           },
           {
             "day": "JUEVES",
@@ -5457,7 +5457,7 @@
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "JUAN DAVID SANCHEZ FONTECHA"
           },
           {
             "day": "JUEVES",
@@ -5485,7 +5485,7 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "LIZETH DANIELA JAIMES GONZALEZ"
           },
           {
             "day": "MIERCOLES",
@@ -5520,7 +5520,7 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "LIZETH DANIELA JAIMES GONZALEZ"
           },
           {
             "day": "MIERCOLES",
@@ -5562,7 +5562,7 @@
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "ERWING MAURICIO NIÑO FERRO"
           },
           {
             "day": "VIERNES",
@@ -5597,7 +5597,7 @@
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "ERWING MAURICIO NIÑO FERRO"
           },
           {
             "day": "VIERNES",
@@ -5611,28 +5611,28 @@
       {
         "sku": "A4A",
         "capacity": 14,
-        "enrolled": 14,
+        "enrolled": 13,
         "schedule": [
           {
             "day": "MIERCOLES",
             "time": "6:00 - 8:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JADER ENRIQUE GONZALEZ CUJIA"
           },
           {
             "day": "VIERNES",
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "MELBA JOHANNA SANCHEZ SOLEDAD"
           },
           {
             "day": "SABADO",
             "time": "9:00 - 12:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JADER ENRIQUE GONZALEZ CUJIA"
           }
         ]
       },
@@ -5646,21 +5646,21 @@
             "time": "6:00 - 8:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JADER ENRIQUE GONZALEZ CUJIA"
           },
           {
             "day": "VIERNES",
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "MELBA JOHANNA SANCHEZ SOLEDAD"
           },
           {
             "day": "SABADO",
             "time": "9:00 - 12:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JADER ENRIQUE GONZALEZ CUJIA"
           }
         ]
       },
@@ -5674,28 +5674,28 @@
             "time": "8:00 - 10:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           },
           {
             "day": "MARTES",
             "time": "6:00 - 8:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           },
           {
             "day": "MIERCOLES",
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "ERWING MAURICIO NIÑO FERRO"
           },
           {
             "day": "JUEVES",
             "time": "6:00 - 8:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           }
         ]
       },
@@ -5709,28 +5709,28 @@
             "time": "8:00 - 10:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           },
           {
             "day": "MARTES",
             "time": "6:00 - 8:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           },
           {
             "day": "MIERCOLES",
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "ERWING MAURICIO NIÑO FERRO"
           },
           {
             "day": "JUEVES",
             "time": "6:00 - 8:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           }
         ]
       },
@@ -5765,7 +5765,7 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "JUAN GUILLERMO TREJOS FORERO"
           }
         ]
       },
@@ -5800,7 +5800,7 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "JUAN GUILLERMO TREJOS FORERO"
           }
         ]
       },
@@ -5814,7 +5814,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "DENNIS KATHERINE VIVEROS SANABRIA"
           },
           {
             "day": "MIERCOLES",
@@ -5849,7 +5849,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "DENNIS KATHERINE VIVEROS SANABRIA"
           },
           {
             "day": "MIERCOLES",
@@ -5884,28 +5884,28 @@
             "time": "8:00 - 10:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "NICOLAS HERNANDEZ BELTRAN"
           },
           {
             "day": "JUEVES",
             "time": "9:00 - 10:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "NICOLAS HERNANDEZ BELTRAN"
           },
           {
             "day": "JUEVES",
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "CARLOS ALBEIRO CARRENO BARRERA"
           },
           {
             "day": "VIERNES",
             "time": "8:00 - 10:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "NICOLAS HERNANDEZ BELTRAN"
           }
         ]
       },
@@ -5919,28 +5919,28 @@
             "time": "8:00 - 10:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "NICOLAS HERNANDEZ BELTRAN"
           },
           {
             "day": "JUEVES",
             "time": "9:00 - 10:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "NICOLAS HERNANDEZ BELTRAN"
           },
           {
             "day": "JUEVES",
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "CARLOS ALBEIRO CARRENO BARRERA"
           },
           {
             "day": "VIERNES",
             "time": "8:00 - 10:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "NICOLAS HERNANDEZ BELTRAN"
           }
         ]
       },
@@ -5968,7 +5968,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "JORGE ENRIQUE OSORIO VARGAS"
           },
           {
             "day": "JUEVES",
@@ -6003,7 +6003,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "JORGE ENRIQUE OSORIO VARGAS"
           },
           {
             "day": "JUEVES",
@@ -6024,28 +6024,28 @@
             "time": "10:00 - 12:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JENNYFER CAMILA ACEVEDO MUÑOZ"
           },
           {
             "day": "MARTES",
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "DENNIS KATHERINE VIVEROS SANABRIA"
           },
           {
             "day": "MIERCOLES",
             "time": "10:00 - 11:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JENNYFER CAMILA ACEVEDO MUÑOZ"
           },
           {
             "day": "JUEVES",
             "time": "10:00 - 12:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JENNYFER CAMILA ACEVEDO MUÑOZ"
           }
         ]
       },
@@ -6059,28 +6059,28 @@
             "time": "10:00 - 12:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JENNYFER CAMILA ACEVEDO MUÑOZ"
           },
           {
             "day": "MARTES",
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "DENNIS KATHERINE VIVEROS SANABRIA"
           },
           {
             "day": "MIERCOLES",
             "time": "10:00 - 11:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JENNYFER CAMILA ACEVEDO MUÑOZ"
           },
           {
             "day": "JUEVES",
             "time": "10:00 - 12:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JENNYFER CAMILA ACEVEDO MUÑOZ"
           }
         ]
       },
@@ -6136,7 +6136,7 @@
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "SANDRA PATRICIA CORZO MANTILLA"
           },
           {
             "day": "JUEVES",
@@ -6171,7 +6171,7 @@
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "JORGE ENRIQUE OSORIO VARGAS"
           },
           {
             "day": "MIERCOLES",
@@ -6199,7 +6199,7 @@
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "JORGE ENRIQUE OSORIO VARGAS"
           },
           {
             "day": "MIERCOLES",
@@ -6234,7 +6234,7 @@
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "ANGIE MILENA SANCHEZ MENDEZ"
           }
         ]
       },
@@ -6262,7 +6262,7 @@
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "ANGIE MILENA SANCHEZ MENDEZ"
           }
         ]
       },
@@ -6276,7 +6276,7 @@
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "ANGIE MILENA SANCHEZ MENDEZ"
           },
           {
             "day": "LUNES",
@@ -6311,7 +6311,7 @@
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "ANGIE MILENA SANCHEZ MENDEZ"
           },
           {
             "day": "LUNES",
@@ -6360,7 +6360,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "ANGIE MILENA SANCHEZ MENDEZ"
           },
           {
             "day": "VIERNES",
@@ -6395,7 +6395,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "ANGIE MILENA SANCHEZ MENDEZ"
           },
           {
             "day": "VIERNES",
@@ -6408,6 +6408,34 @@
       },
       {
         "sku": "C8A",
+        "capacity": 14,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "LABORATORIOS LIVIANOS",
+            "room": "310",
+            "professor": "JUAN GUILLERMO TREJOS FORERO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 13:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "C8B",
         "capacity": 14,
         "enrolled": 12,
         "schedule": [
@@ -6423,35 +6451,7 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
-          },
-          {
-            "day": "VIERNES",
-            "time": "10:00 - 13:00",
-            "building": "",
-            "room": "",
-            "professor": ""
-          }
-        ]
-      },
-      {
-        "sku": "C8B",
-        "capacity": 14,
-        "enrolled": 11,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
-            "professor": ""
-          },
-          {
-            "day": "JUEVES",
-            "time": "10:00 - 12:00",
-            "building": "LABORATORIOS LIVIANOS",
-            "room": "310",
-            "professor": ""
+            "professor": "JUAN GUILLERMO TREJOS FORERO"
           },
           {
             "day": "VIERNES",
@@ -6493,7 +6493,7 @@
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "HELMER ANDRES ARENAS NAVAS"
           }
         ]
       },
@@ -6528,7 +6528,7 @@
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "HELMER ANDRES ARENAS NAVAS"
           }
         ]
       },
@@ -6556,7 +6556,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "MELBA JOHANNA SANCHEZ SOLEDAD"
           }
         ]
       },
@@ -6584,7 +6584,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "MELBA JOHANNA SANCHEZ SOLEDAD"
           }
         ]
       },
@@ -6619,7 +6619,7 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "DANIEL MAURICIO CELIS MANTILLA"
           }
         ]
       },
@@ -6654,7 +6654,7 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "DANIEL MAURICIO CELIS MANTILLA"
           }
         ]
       },
@@ -6668,28 +6668,28 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "JORGE ENRIQUE OSORIO VARGAS"
           },
           {
             "day": "MARTES",
             "time": "16:00 - 17:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "SERGIO FELIPE MEJIA CAMPOS"
           },
           {
             "day": "MARTES",
             "time": "17:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "SERGIO FELIPE MEJIA CAMPOS"
           },
           {
             "day": "SABADO",
             "time": "8:00 - 11:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "SERGIO FELIPE MEJIA CAMPOS"
           }
         ]
       },
@@ -6703,28 +6703,28 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "JORGE ENRIQUE OSORIO VARGAS"
           },
           {
             "day": "MARTES",
             "time": "16:00 - 17:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "SERGIO FELIPE MEJIA CAMPOS"
           },
           {
             "day": "MARTES",
             "time": "17:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "SERGIO FELIPE MEJIA CAMPOS"
           },
           {
             "day": "SABADO",
             "time": "8:00 - 11:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "SERGIO FELIPE MEJIA CAMPOS"
           }
         ]
       },
@@ -6738,28 +6738,28 @@
             "time": "8:00 - 10:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "YEISON FABIAN SANTOS"
           },
           {
             "day": "MARTES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "YEISON FABIAN SANTOS"
           },
           {
             "day": "VIERNES",
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "CARLOS ALBEIRO CARRENO BARRERA"
           },
           {
             "day": "VIERNES",
             "time": "17:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "YEISON FABIAN SANTOS"
           }
         ]
       },
@@ -6773,28 +6773,28 @@
             "time": "8:00 - 10:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "YEISON FABIAN SANTOS"
           },
           {
             "day": "MARTES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "YEISON FABIAN SANTOS"
           },
           {
             "day": "VIERNES",
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "CARLOS ALBEIRO CARRENO BARRERA"
           },
           {
             "day": "VIERNES",
             "time": "17:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "YEISON FABIAN SANTOS"
           }
         ]
       },
@@ -6808,28 +6808,28 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "ERWING MAURICIO NIÑO FERRO"
           },
           {
             "day": "MARTES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "ALVARO ARNULFO INSTAN BALLESTEROS"
           },
           {
             "day": "MIERCOLES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "ALVARO ARNULFO INSTAN BALLESTEROS"
           },
           {
             "day": "VIERNES",
             "time": "17:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "ALVARO ARNULFO INSTAN BALLESTEROS"
           }
         ]
       },
@@ -6843,28 +6843,28 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "ERWING MAURICIO NIÑO FERRO"
           },
           {
             "day": "MARTES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "ALVARO ARNULFO INSTAN BALLESTEROS"
           },
           {
             "day": "MIERCOLES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "ALVARO ARNULFO INSTAN BALLESTEROS"
           },
           {
             "day": "VIERNES",
             "time": "17:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "ALVARO ARNULFO INSTAN BALLESTEROS"
           }
         ]
       },
@@ -6892,7 +6892,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "JUAN DAVID SANCHEZ FONTECHA"
           }
         ]
       },
@@ -6920,7 +6920,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "JUAN DAVID SANCHEZ FONTECHA"
           }
         ]
       },
@@ -6948,7 +6948,7 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "DANIEL MAURICIO CELIS MANTILLA"
           },
           {
             "day": "JUEVES",
@@ -6983,7 +6983,7 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "DANIEL MAURICIO CELIS MANTILLA"
           },
           {
             "day": "JUEVES",
@@ -7004,28 +7004,28 @@
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "MIGUEL JAFERT SERRANO MANTILLA"
           },
           {
             "day": "MARTES",
             "time": "18:00 - 19:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "MIGUEL JAFERT SERRANO MANTILLA"
           },
           {
             "day": "MIERCOLES",
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "MIGUEL JAFERT SERRANO MANTILLA"
           },
           {
             "day": "JUEVES",
             "time": "18:00 - 20:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "MELBA JOHANNA SANCHEZ SOLEDAD"
           }
         ]
       },
@@ -7039,28 +7039,28 @@
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "MIGUEL JAFERT SERRANO MANTILLA"
           },
           {
             "day": "MARTES",
             "time": "18:00 - 19:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "MIGUEL JAFERT SERRANO MANTILLA"
           },
           {
             "day": "MIERCOLES",
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "MIGUEL JAFERT SERRANO MANTILLA"
           },
           {
             "day": "JUEVES",
             "time": "18:00 - 20:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "MELBA JOHANNA SANCHEZ SOLEDAD"
           }
         ]
       },
@@ -7074,28 +7074,28 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "JENNYFER CAMILA ACEVEDO MUÑOZ"
           },
           {
             "day": "MARTES",
             "time": "18:00 - 19:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JORGE ENRIQUE OSORIO VARGAS"
           },
           {
             "day": "JUEVES",
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JORGE ENRIQUE OSORIO VARGAS"
           },
           {
             "day": "SABADO",
             "time": "10:00 - 12:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JORGE ENRIQUE OSORIO VARGAS"
           }
         ]
       },
@@ -7109,28 +7109,28 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "310",
-            "professor": ""
+            "professor": "JENNYFER CAMILA ACEVEDO MUÑOZ"
           },
           {
             "day": "MARTES",
             "time": "18:00 - 19:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JORGE ENRIQUE OSORIO VARGAS"
           },
           {
             "day": "JUEVES",
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JORGE ENRIQUE OSORIO VARGAS"
           },
           {
             "day": "SABADO",
             "time": "10:00 - 12:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JORGE ENRIQUE OSORIO VARGAS"
           }
         ]
       },
@@ -7144,28 +7144,28 @@
             "time": "18:00 - 19:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "ALVARO ARNULFO INSTAN BALLESTEROS"
           },
           {
             "day": "MIERCOLES",
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "ALVARO ARNULFO INSTAN BALLESTEROS"
           },
           {
             "day": "VIERNES",
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "JORGE ENRIQUE OSORIO VARGAS"
           },
           {
             "day": "VIERNES",
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "ALVARO ARNULFO INSTAN BALLESTEROS"
           }
         ]
       },
@@ -7179,28 +7179,28 @@
             "time": "18:00 - 19:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "ALVARO ARNULFO INSTAN BALLESTEROS"
           },
           {
             "day": "MIERCOLES",
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "ALVARO ARNULFO INSTAN BALLESTEROS"
           },
           {
             "day": "VIERNES",
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "311",
-            "professor": ""
+            "professor": "JORGE ENRIQUE OSORIO VARGAS"
           },
           {
             "day": "VIERNES",
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "ALVARO ARNULFO INSTAN BALLESTEROS"
           }
         ]
       }
@@ -7401,7 +7401,7 @@
       {
         "sku": "A15",
         "capacity": 25,
-        "enrolled": 25,
+        "enrolled": 24,
         "schedule": [
           {
             "day": "VIERNES",
@@ -8436,7 +8436,7 @@
       {
         "sku": "PC1",
         "capacity": 30,
-        "enrolled": 26,
+        "enrolled": 28,
         "schedule": [
           {
             "day": "MARTES",
@@ -8534,7 +8534,7 @@
       {
         "sku": "PE3",
         "capacity": 20,
-        "enrolled": 16,
+        "enrolled": 18,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -9023,7 +9023,7 @@
       {
         "sku": "F1",
         "capacity": 28,
-        "enrolled": 28,
+        "enrolled": 27,
         "schedule": [
           {
             "day": "LUNES",
@@ -9344,7 +9344,7 @@
             "time": "6:00 - 8:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "ABELARDO EFRAIN RUEDA MURILLO"
           },
           {
             "day": "MIERCOLES",
@@ -9379,7 +9379,7 @@
             "time": "6:00 - 8:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "ABELARDO EFRAIN RUEDA MURILLO"
           },
           {
             "day": "MIERCOLES",
@@ -9561,7 +9561,7 @@
             "time": "18:00 - 20:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "ABELARDO EFRAIN RUEDA MURILLO"
           },
           {
             "day": "JUEVES",
@@ -9596,7 +9596,7 @@
             "time": "18:00 - 20:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "ABELARDO EFRAIN RUEDA MURILLO"
           },
           {
             "day": "JUEVES",
@@ -9624,7 +9624,7 @@
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "KAREN LORENA CRISTIANO RODRIGUEZ"
           },
           {
             "day": "MIERCOLES",
@@ -9659,7 +9659,7 @@
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "KAREN LORENA CRISTIANO RODRIGUEZ"
           },
           {
             "day": "MIERCOLES",
@@ -9708,7 +9708,7 @@
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "STEPHANY PAOLA VEGA ORTEGA"
           }
         ]
       },
@@ -9743,7 +9743,7 @@
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "STEPHANY PAOLA VEGA ORTEGA"
           }
         ]
       },
@@ -9778,7 +9778,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "STEPHANY PAOLA VEGA ORTEGA"
           }
         ]
       },
@@ -9813,7 +9813,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "STEPHANY PAOLA VEGA ORTEGA"
           }
         ]
       },
@@ -9841,7 +9841,7 @@
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "WILLIAM ANDRES JAIMES ESPINDOLA"
           }
         ]
       },
@@ -9869,7 +9869,7 @@
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "WILLIAM ANDRES JAIMES ESPINDOLA"
           }
         ]
       },
@@ -9897,7 +9897,7 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "LIZETH DANIELA JAIMES GONZALEZ"
           },
           {
             "day": "VIERNES",
@@ -9932,7 +9932,7 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "LIZETH DANIELA JAIMES GONZALEZ"
           },
           {
             "day": "VIERNES",
@@ -9960,7 +9960,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "WILLIAM ANDRES JAIMES ESPINDOLA"
           },
           {
             "day": "JUEVES",
@@ -9988,7 +9988,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "WILLIAM ANDRES JAIMES ESPINDOLA"
           },
           {
             "day": "JUEVES",
@@ -10023,7 +10023,7 @@
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "KAREN LORENA CRISTIANO RODRIGUEZ"
           },
           {
             "day": "JUEVES",
@@ -10058,7 +10058,7 @@
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "KAREN LORENA CRISTIANO RODRIGUEZ"
           },
           {
             "day": "JUEVES",
@@ -10093,7 +10093,7 @@
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "KAREN LORENA CRISTIANO RODRIGUEZ"
           },
           {
             "day": "VIERNES",
@@ -10128,7 +10128,7 @@
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "KAREN LORENA CRISTIANO RODRIGUEZ"
           },
           {
             "day": "VIERNES",
@@ -10240,7 +10240,7 @@
             "time": "6:00 - 8:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "ABELARDO EFRAIN RUEDA MURILLO"
           }
         ]
       },
@@ -10275,7 +10275,7 @@
             "time": "6:00 - 8:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "ABELARDO EFRAIN RUEDA MURILLO"
           }
         ]
       },
@@ -10289,7 +10289,7 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "JHAN NICOLAS MARTINEZ LOBO"
           },
           {
             "day": "LUNES",
@@ -10324,7 +10324,7 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "JHAN NICOLAS MARTINEZ LOBO"
           },
           {
             "day": "LUNES",
@@ -10380,7 +10380,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "JHAN NICOLAS MARTINEZ LOBO"
           }
         ]
       },
@@ -10415,7 +10415,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "JHAN NICOLAS MARTINEZ LOBO"
           }
         ]
       },
@@ -10583,7 +10583,7 @@
             "time": "18:00 - 20:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "ABELARDO EFRAIN RUEDA MURILLO"
           },
           {
             "day": "JUEVES",
@@ -10618,7 +10618,7 @@
             "time": "18:00 - 20:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "ABELARDO EFRAIN RUEDA MURILLO"
           },
           {
             "day": "JUEVES",
@@ -10646,7 +10646,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "ABELARDO EFRAIN RUEDA MURILLO"
           },
           {
             "day": "MIERCOLES",
@@ -10681,7 +10681,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "ABELARDO EFRAIN RUEDA MURILLO"
           },
           {
             "day": "MIERCOLES",
@@ -10716,7 +10716,7 @@
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "JHAN NICOLAS MARTINEZ LOBO"
           },
           {
             "day": "MARTES",
@@ -10751,7 +10751,7 @@
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "409",
-            "professor": ""
+            "professor": "JHAN NICOLAS MARTINEZ LOBO"
           },
           {
             "day": "MARTES",
@@ -12483,7 +12483,7 @@
       {
         "sku": "E1",
         "capacity": 30,
-        "enrolled": 29,
+        "enrolled": 30,
         "schedule": [
           {
             "day": "MARTES",
@@ -12804,7 +12804,7 @@
             "time": "18:00 - 20:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "ZAYDA PAOLA REYES QUIJANO"
           },
           {
             "day": "JUEVES",
@@ -12839,7 +12839,7 @@
             "time": "18:00 - 20:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "ZAYDA PAOLA REYES QUIJANO"
           },
           {
             "day": "JUEVES",
@@ -13021,7 +13021,7 @@
             "time": "18:00 - 20:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "ZAYDA PAOLA REYES QUIJANO"
           }
         ]
       },
@@ -13056,7 +13056,7 @@
             "time": "18:00 - 20:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "ZAYDA PAOLA REYES QUIJANO"
           }
         ]
       },
@@ -13147,7 +13147,7 @@
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "WILLIAM ANDRES JAIMES ESPINDOLA"
           },
           {
             "day": "MIERCOLES",
@@ -13182,7 +13182,7 @@
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "WILLIAM ANDRES JAIMES ESPINDOLA"
           },
           {
             "day": "MIERCOLES",
@@ -13280,7 +13280,7 @@
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "YUBER ALEJANDRO GALEANO TRASLAVIÑA"
           },
           {
             "day": "MARTES",
@@ -13315,7 +13315,7 @@
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "YUBER ALEJANDRO GALEANO TRASLAVIÑA"
           },
           {
             "day": "MARTES",
@@ -13357,7 +13357,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "JULIAN ANDRES JAIMES SANTAMARIA"
           },
           {
             "day": "MIERCOLES",
@@ -13392,7 +13392,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "JULIAN ANDRES JAIMES SANTAMARIA"
           },
           {
             "day": "MIERCOLES",
@@ -13427,21 +13427,21 @@
             "time": "14:00 - 16:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "YUBER ALEJANDRO GALEANO TRASLAVIÑA"
           },
           {
             "day": "JUEVES",
             "time": "14:00 - 15:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "YUBER ALEJANDRO GALEANO TRASLAVIÑA"
           },
           {
             "day": "VIERNES",
             "time": "14:00 - 16:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "YUBER ALEJANDRO GALEANO TRASLAVIÑA"
           }
         ]
       },
@@ -13462,21 +13462,21 @@
             "time": "14:00 - 16:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "YUBER ALEJANDRO GALEANO TRASLAVIÑA"
           },
           {
             "day": "JUEVES",
             "time": "14:00 - 15:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "YUBER ALEJANDRO GALEANO TRASLAVIÑA"
           },
           {
             "day": "VIERNES",
             "time": "14:00 - 16:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "YUBER ALEJANDRO GALEANO TRASLAVIÑA"
           }
         ]
       },
@@ -13504,7 +13504,7 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "YUBER ALEJANDRO GALEANO TRASLAVIÑA"
           },
           {
             "day": "JUEVES",
@@ -13539,7 +13539,7 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "YUBER ALEJANDRO GALEANO TRASLAVIÑA"
           },
           {
             "day": "JUEVES",
@@ -13581,7 +13581,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "ZAYDA PAOLA REYES QUIJANO"
           }
         ]
       },
@@ -13616,7 +13616,7 @@
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "ZAYDA PAOLA REYES QUIJANO"
           }
         ]
       },
@@ -13700,28 +13700,28 @@
             "time": "16:00 - 17:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LIKIDCEN FRAMSOL LOPEZ SUSPES"
           },
           {
             "day": "MIERCOLES",
             "time": "14:00 - 16:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LIKIDCEN FRAMSOL LOPEZ SUSPES"
           },
           {
             "day": "JUEVES",
             "time": "6:00 - 8:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "JULIAN ANDRES JAIMES SANTAMARIA"
           },
           {
             "day": "VIERNES",
             "time": "14:00 - 16:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LIKIDCEN FRAMSOL LOPEZ SUSPES"
           }
         ]
       },
@@ -13735,28 +13735,28 @@
             "time": "16:00 - 17:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LIKIDCEN FRAMSOL LOPEZ SUSPES"
           },
           {
             "day": "MIERCOLES",
             "time": "14:00 - 16:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LIKIDCEN FRAMSOL LOPEZ SUSPES"
           },
           {
             "day": "JUEVES",
             "time": "6:00 - 8:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "JULIAN ANDRES JAIMES SANTAMARIA"
           },
           {
             "day": "VIERNES",
             "time": "14:00 - 16:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LIKIDCEN FRAMSOL LOPEZ SUSPES"
           }
         ]
       },
@@ -13770,28 +13770,28 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "JULIAN ANDRES JAIMES SANTAMARIA"
           },
           {
             "day": "LUNES",
             "time": "17:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LIKIDCEN FRAMSOL LOPEZ SUSPES"
           },
           {
             "day": "MIERCOLES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LIKIDCEN FRAMSOL LOPEZ SUSPES"
           },
           {
             "day": "VIERNES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LIKIDCEN FRAMSOL LOPEZ SUSPES"
           }
         ]
       },
@@ -13805,28 +13805,28 @@
             "time": "10:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "JULIAN ANDRES JAIMES SANTAMARIA"
           },
           {
             "day": "LUNES",
             "time": "17:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LIKIDCEN FRAMSOL LOPEZ SUSPES"
           },
           {
             "day": "MIERCOLES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LIKIDCEN FRAMSOL LOPEZ SUSPES"
           },
           {
             "day": "VIERNES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LIKIDCEN FRAMSOL LOPEZ SUSPES"
           }
         ]
       },
@@ -13854,7 +13854,7 @@
             "time": "14:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "JANETH FERNANDEZ PINTO"
           },
           {
             "day": "VIERNES",
@@ -13917,7 +13917,7 @@
             "time": "18:00 - 20:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "ZAYDA PAOLA REYES QUIJANO"
           },
           {
             "day": "MIERCOLES",
@@ -13952,7 +13952,7 @@
             "time": "18:00 - 20:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "ZAYDA PAOLA REYES QUIJANO"
           },
           {
             "day": "MIERCOLES",
@@ -13980,28 +13980,28 @@
             "time": "16:00 - 17:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "HECTOR ENRIQUE RAGO ALBUJAS"
           },
           {
             "day": "MIERCOLES",
             "time": "6:00 - 8:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "JULIAN ANDRES JAIMES SANTAMARIA"
           },
           {
             "day": "MIERCOLES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "HECTOR ENRIQUE RAGO ALBUJAS"
           },
           {
             "day": "VIERNES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "HECTOR ENRIQUE RAGO ALBUJAS"
           }
         ]
       },
@@ -14015,28 +14015,28 @@
             "time": "16:00 - 17:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "HECTOR ENRIQUE RAGO ALBUJAS"
           },
           {
             "day": "MIERCOLES",
             "time": "6:00 - 8:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "JULIAN ANDRES JAIMES SANTAMARIA"
           },
           {
             "day": "MIERCOLES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "HECTOR ENRIQUE RAGO ALBUJAS"
           },
           {
             "day": "VIERNES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "HECTOR ENRIQUE RAGO ALBUJAS"
           }
         ]
       },
@@ -14120,28 +14120,28 @@
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JERSON IVAN REINA MEDRANO"
           },
           {
             "day": "JUEVES",
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JERSON IVAN REINA MEDRANO"
           },
           {
             "day": "VIERNES",
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "WILLIAM ANDRES JAIMES ESPINDOLA"
           },
           {
             "day": "VIERNES",
             "time": "16:00 - 17:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JERSON IVAN REINA MEDRANO"
           }
         ]
       },
@@ -14155,28 +14155,28 @@
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JERSON IVAN REINA MEDRANO"
           },
           {
             "day": "JUEVES",
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JERSON IVAN REINA MEDRANO"
           },
           {
             "day": "VIERNES",
             "time": "8:00 - 10:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "404",
-            "professor": ""
+            "professor": "WILLIAM ANDRES JAIMES ESPINDOLA"
           },
           {
             "day": "VIERNES",
             "time": "16:00 - 17:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JERSON IVAN REINA MEDRANO"
           }
         ]
       },
@@ -14190,7 +14190,7 @@
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JERSON IVAN REINA MEDRANO"
           },
           {
             "day": "MARTES",
@@ -14204,14 +14204,14 @@
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JERSON IVAN REINA MEDRANO"
           },
           {
             "day": "VIERNES",
             "time": "17:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JERSON IVAN REINA MEDRANO"
           }
         ]
       },
@@ -14225,7 +14225,7 @@
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JERSON IVAN REINA MEDRANO"
           },
           {
             "day": "MARTES",
@@ -14239,14 +14239,14 @@
             "time": "18:00 - 20:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JERSON IVAN REINA MEDRANO"
           },
           {
             "day": "VIERNES",
             "time": "17:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "JERSON IVAN REINA MEDRANO"
           }
         ]
       }
@@ -15189,7 +15189,7 @@
       {
         "sku": "E2",
         "capacity": 21,
-        "enrolled": 21,
+        "enrolled": 20,
         "schedule": [
           {
             "day": "MARTES",
@@ -15199,7 +15199,7 @@
             "professor": "HOOVER FABIAN RUEDA CHACON"
           },
           {
-            "day": "VIERNES",
+            "day": "JUEVES",
             "time": "14:00 - 16:00",
             "building": "",
             "room": "",
@@ -15238,14 +15238,14 @@
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": "ELIANA MARTHA BONALDE MARCANO"
+            "professor": "ANDRÉS LEONARDO GONZÁLEZ GÓMEZ"
           },
           {
             "day": "JUEVES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": "ELIANA MARTHA BONALDE MARCANO"
+            "professor": "ANDRÉS LEONARDO GONZÁLEZ GÓMEZ"
           }
         ]
       }

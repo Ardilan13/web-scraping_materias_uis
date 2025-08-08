@@ -1,0 +1,347 @@
+{
+  "materias": [
+    {
+      "codigo": "41058",
+      "nombre": "Matemáticas I",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "41059",
+      "nombre": "Química I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "41060",
+      "nombre": "Biología general",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "41061",
+      "nombre": "Física",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23427",
+      "nombre": "Taller de lenguaje",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "24988",
+      "nombre": "Bioética",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "29205",
+      "nombre": "Cátedra UIS",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "41062",
+      "nombre": "Matemáticas II",
+      "creditos": 2,
+      "requisitos": ["41058"],
+      "nivel": 2
+    },
+    {
+      "codigo": "41063",
+      "nombre": "Química II",
+      "creditos": 4,
+      "requisitos": ["41059"],
+      "nivel": 2
+    },
+    {
+      "codigo": "41064",
+      "nombre": "Microbiología general",
+      "creditos": 3,
+      "requisitos": ["41060"],
+      "nivel": 2
+    },
+    {
+      "codigo": "41065",
+      "nombre": "Morfofisiología",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "40555",
+      "nombre": "Lengua extranjera I: Inglés",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "41066",
+      "nombre": "Bioestadística",
+      "creditos": 3,
+      "requisitos": ["41062"],
+      "nivel": 3
+    },
+    {
+      "codigo": "41067",
+      "nombre": "Bioquímica I",
+      "creditos": 3,
+      "requisitos": ["41063"],
+      "nivel": 3
+    },
+    {
+      "codigo": "41068",
+      "nombre": "Inmunología",
+      "creditos": 3,
+      "requisitos": ["41060"],
+      "nivel": 3
+    },
+    {
+      "codigo": "24982",
+      "nombre": "Administración general",
+      "creditos": 2,
+      "requisitos": ["41058"],
+      "nivel": 3
+    },
+    {
+      "codigo": "40556",
+      "nombre": "Lengua extranjera II: Inglés",
+      "creditos": 2,
+      "requisitos": ["40555"],
+      "nivel": 3
+    },
+    {
+      "codigo": "23423",
+      "nombre": "Cultura física y deportiva",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41069",
+      "nombre": "Parasitología",
+      "creditos": 4,
+      "requisitos": ["41064"],
+      "nivel": 4
+    },
+    {
+      "codigo": "41070",
+      "nombre": "Fisiología microbiana",
+      "creditos": 3,
+      "requisitos": ["41067"],
+      "nivel": 4
+    },
+    {
+      "codigo": "41071",
+      "nombre": "Micología",
+      "creditos": 3,
+      "requisitos": ["41064"],
+      "nivel": 4
+    },
+    {
+      "codigo": "41072",
+      "nombre": "Biología molecular",
+      "creditos": 3,
+      "requisitos": ["41067"],
+      "nivel": 4
+    },
+    {
+      "codigo": "40557",
+      "nombre": "Lengua extranjera III: Inglés",
+      "creditos": 2,
+      "requisitos": ["40556"],
+      "nivel": 4
+    },
+    {
+      "codigo": "41073",
+      "nombre": "Bacteriología determinativa",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41074",
+      "nombre": "Bioquímica II",
+      "creditos": 3,
+      "requisitos": ["41070"],
+      "nivel": 5
+    },
+    {
+      "codigo": "41075",
+      "nombre": "Virología",
+      "creditos": 3,
+      "requisitos": ["41068"],
+      "nivel": 5
+    },
+    {
+      "codigo": "41076",
+      "nombre": "Genética",
+      "creditos": 3,
+      "requisitos": ["41072"],
+      "nivel": 5
+    },
+    {
+      "codigo": "24983",
+      "nombre": "Epidemiología",
+      "creditos": 2,
+      "requisitos": ["41066"],
+      "nivel": 5
+    },
+    {
+      "codigo": "40558",
+      "nombre": "Lengua extranjera IV: Inglés",
+      "creditos": 2,
+      "requisitos": ["40557"],
+      "nivel": 5
+    },
+    {
+      "codigo": "41077",
+      "nombre": "Hematología I",
+      "creditos": 4,
+      "requisitos": ["41068"],
+      "nivel": 6
+    },
+    {
+      "codigo": "41078",
+      "nombre": "Química clínica",
+      "creditos": 4,
+      "requisitos": ["41074"],
+      "nivel": 6
+    },
+    {
+      "codigo": "41079",
+      "nombre": "Microbiología de alimentos",
+      "creditos": 3,
+      "requisitos": ["41073"],
+      "nivel": 6
+    },
+    {
+      "codigo": "24987",
+      "nombre": "Salud pública",
+      "creditos": 2,
+      "requisitos": ["24983"],
+      "nivel": 6
+    },
+    {
+      "codigo": "41080",
+      "nombre": "Hematología II",
+      "creditos": 2,
+      "requisitos": ["41077"],
+      "nivel": 7
+    },
+    {
+      "codigo": "41081",
+      "nombre": "Biotecnología",
+      "creditos": 3,
+      "requisitos": ["41072"],
+      "nivel": 7
+    },
+    {
+      "codigo": "41082",
+      "nombre": "Microbiología Industrial",
+      "creditos": 3,
+      "requisitos": ["41079"],
+      "nivel": 7
+    },
+    {
+      "codigo": "41083",
+      "nombre": "Fitopatología",
+      "creditos": 3,
+      "requisitos": ["41071"],
+      "nivel": 7
+    },
+    {
+      "codigo": "41084",
+      "nombre": "Gestión y Garantía de la Calidad en Laboratorios",
+      "creditos": 2,
+      "requisitos": ["24982"],
+      "nivel": 8
+    },
+    {
+      "codigo": "41085",
+      "nombre": "Toxicología",
+      "creditos": 3,
+      "requisitos": ["41078"],
+      "nivel": 8
+    },
+    {
+      "codigo": "41086",
+      "nombre": "Microbiología ambiental",
+      "creditos": 3,
+      "requisitos": ["41081"],
+      "nivel": 8
+    },
+    {
+      "codigo": "24989",
+      "nombre": "Metodología de la investigación",
+      "creditos": 2,
+      "requisitos": ["24987"],
+      "nivel": 8
+    },
+    {
+      "codigo": "41087",
+      "nombre": "Práctica Profesional I",
+      "creditos": 17,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "41088",
+      "nombre": "Práctica Profesional II",
+      "creditos": 17,
+      "requisitos": ["41087"],
+      "nivel": 10
+    },
+    {
+      "codigo": "41089",
+      "nombre": "Microbiología clínica e infectología",
+      "creditos": 3,
+      "requisitos": ["41073"],
+      "nivel": null
+    },
+    {
+      "codigo": "41090",
+      "nombre": "Patología y citología",
+      "creditos": 3,
+      "requisitos": ["41065"],
+      "nivel": null
+    },
+    {
+      "codigo": "41091",
+      "nombre": "Toxicología ambiental",
+      "creditos": 3,
+      "requisitos": ["41074"],
+      "nivel": null
+    },
+    {
+      "codigo": "41092",
+      "nombre": "Primeros auxilios",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": null
+    },
+    {
+      "codigo": "41093",
+      "nombre": "Bioinformática",
+      "creditos": 3,
+      "requisitos": ["41072"],
+      "nivel": null
+    },
+    {
+      "codigo": "41094",
+      "nombre": "Parasitología humana y veterinaria",
+      "creditos": 3,
+      "requisitos": ["41069"],
+      "nivel": null
+    }
+  ]
+}

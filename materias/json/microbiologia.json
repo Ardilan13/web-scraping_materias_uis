@@ -1,0 +1,130 @@
+{
+  "materias": [
+    {
+      "codigo": "24979",
+      "nombre": "Biestadística",
+      "creditos": null,
+      "requisitos": ["24969"],
+      "nivel": 4
+    },
+    {
+      "codigo": "24980",
+      "nombre": "Bioquímica I",
+      "creditos": null,
+      "requisitos": ["24976"],
+      "nivel": 4
+    },
+    {
+      "codigo": "24981",
+      "nombre": "Bacteriología Determinativa",
+      "creditos": null,
+      "requisitos": ["24977"],
+      "nivel": 4
+    },
+    {
+      "codigo": "24982",
+      "nombre": "Admnistración general",
+      "creditos": null,
+      "requisitos": ["24969"],
+      "nivel": 4
+    },
+    {
+      "codigo": "24991",
+      "nombre": "Hematología I",
+      "creditos": null,
+      "requisitos": ["24978", "24984"],
+      "nivel": 4
+    },
+    {
+      "codigo": "24989",
+      "nombre": "Metodología de la investigación",
+      "creditos": null,
+      "requisitos": ["24979"],
+      "nivel": 4
+    },
+    {
+      "codigo": "24990",
+      "nombre": "Parasitología",
+      "creditos": null,
+      "requisitos": ["24977", "24984"],
+      "nivel": 4
+    },
+    {
+      "codigo": "28101",
+      "nombre": "Primeros auxilios",
+      "creditos": null,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "25003",
+      "nombre": "Microbiología Ambiental",
+      "creditos": null,
+      "requisitos": ["24977"],
+      "nivel": 4
+    },
+    {
+      "codigo": "25001",
+      "nombre": "Fitopatologia",
+      "creditos": null,
+      "requisitos": ["24985"],
+      "nivel": 4
+    },
+    {
+      "codigo": "24999",
+      "nombre": "Administración y gestión de la calidad",
+      "creditos": null,
+      "requisitos": ["24982"],
+      "nivel": 4
+    },
+    {
+      "codigo": "24997",
+      "nombre": "Introducción a la Practica",
+      "creditos": null,
+      "requisitos": ["24969"],
+      "nivel": 4
+    },
+    {
+      "codigo": "24998",
+      "nombre": "Microbiología Industrial",
+      "creditos": null,
+      "requisitos": ["24976"],
+      "nivel": 4
+    },
+    {
+      "codigo": "25002",
+      "nombre": "Microbiología clínica e infectología",
+      "creditos": null,
+      "requisitos": ["24993"],
+      "nivel": 4
+    },
+    {
+      "codigo": "28101",
+      "nombre": "Primeros auxilios",
+      "creditos": null,
+      "requisitos": ["24977"],
+      "nivel": 4
+    },
+    {
+      "codigo": "25003",
+      "nombre": "Microbiología Ambiental",
+      "creditos": null,
+      "requisitos": ["24977"],
+      "nivel": 4
+    },
+    {
+      "codigo": "25001",
+      "nombre": "Fitopatologia",
+      "creditos": null,
+      "requisitos": ["24985"],
+      "nivel": 4
+    },
+    {
+      "codigo": "24999",
+      "nombre": "Administración y gestión de la calidad",
+      "creditos": null,
+      "requisitos": ["24982"],
+      "nivel": 4
+    }
+  ]
+}

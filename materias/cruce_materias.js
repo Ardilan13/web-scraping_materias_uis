@@ -12,14 +12,16 @@ class SharedCoursesAnalyzer {
             { name: "INGENIERIA EN CIENCIA DE DATOS", id: 50, file: "datos.json" },
             { name: "INGENIERIA CIVIL", id: 21, file: "civil.json" },
             { name: "INGENIERIA DE PETROLEOS", id: 4, file: "petroleos.json" },
-            { name: "QUIMICA", id: 14, file: "quimica.json" }
+            { name: "QUIMICA", id: 14, file: "quimica.json" },
+            { name: "MICROBIOLOGIA NUEVO", id: 58, file: "microbiologia_nuevo.json" },
+            { name: "MICROBIOLOGIA", id: 58, file: "microbiologia.json" },
         ];
     }
 
     validateNewPensum(program) {
         return {
             ...program,
-            new_pensum: program.name === "DISEÑO INDUSTRIAL NUEVO"
+            new_pensum: program.name === "DISEÑO INDUSTRIAL NUEVO" || program.name === "MICROBIOLOGIA NUEVO"
         };
     }
 

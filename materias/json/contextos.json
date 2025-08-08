@@ -1,0 +1,256 @@
+{
+  "materias": [
+    {
+      "codigo": "25315",
+      "nombre": "LENGUA DE SEÑAS",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "21280",
+      "nombre": "BALONCESTO (MASCULINO)",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "21281",
+      "nombre": "NATACION",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "21281",
+      "nombre": "NATACION",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "21282",
+      "nombre": "GIMNASIA ESTETICA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "21283",
+      "nombre": "GIMNASIA FORMATIVA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "21285",
+      "nombre": "ATLETISMO",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "21286",
+      "nombre": "EVENTOS DEPORTIVOS",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "21275",
+      "nombre": "EL DEPORTE EN EL NUEVO MILENIO",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "21277",
+      "nombre": "FUTBOL",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+     {
+      "codigo": "24464",
+      "nombre": "FUTBOL SALA (MASCULINO)",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "24463",
+      "nombre": "FUTBOL SALA (FEMENINO)",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "23211",
+      "nombre": "TENIS DE MESA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "21268",
+      "nombre": "VOLEIBOL (MASCULINO)",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "23425",
+      "nombre": "INGLES II",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "23424",
+      "nombre": "INGLES I",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "40494",
+      "nombre": "FUNDAMENTOS DE EDICION ACADEMICA Y LITERARIA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "28634",
+      "nombre": "TALLER DE CREACION LITERARIA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "28635",
+      "nombre": "CINE Y LITERATURA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "28595",
+      "nombre": "TRADUCCION DE TEXTOS I",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "28596",
+      "nombre": "TRADUCCION DE TEXTOS II",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "28596",
+      "nombre": "TRADUCCION DE TEXTOS II",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "28597",
+      "nombre": "LENGUAS DE SEÑAS",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "28599",
+      "nombre": "LA DISCAPACIDAD VISUAL EN EL AULA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "28602",
+      "nombre": "ESPAÑOL COMO LENGUA EXTRANJERA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "21043",
+      "nombre": "SEMINARIO DE TOPI.ESPCIALES I",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "20189",
+      "nombre": "ASTRONOMIA PLANETARIA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "23670",
+      "nombre": "PRIMEROS AUXILIOS",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "21936",
+      "nombre": "EDUCACION SEXUAL",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "22334",
+      "nombre": "PREVENCION DE DESASTRES",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "27007",
+      "nombre": "CINE, ECONOMIA Y SOCIEDAD",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "22109",
+      "nombre": "ETICA CIUDADANA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "26230",
+      "nombre": "DERECHO AMBIENTAL",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "40503",
+      "nombre": "DERECHO ANIMAL NO HUMANO Y SOCIEDAD",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "20521",
+      "nombre": "HISTORIA Y APRECIACION MUSICA I",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    },
+    {
+      "codigo": "25091",
+      "nombre": "EXPRESION CORPORAL",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 0
+    }
+]
+}

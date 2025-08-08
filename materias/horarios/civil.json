@@ -398,7 +398,7 @@
             {
                 "grupo": "PB1",
                 "capacidad": 30,
-                "matriculados": 29,
+                "matriculados": 30,
                 "horario": [
                     {
                         "dia": "LUNES",
@@ -426,7 +426,7 @@
             {
                 "grupo": "PB2",
                 "capacidad": 29,
-                "matriculados": 28,
+                "matriculados": 29,
                 "horario": [
                     {
                         "dia": "LUNES",
@@ -1349,7 +1349,7 @@
             {
                 "grupo": "PE1",
                 "capacidad": 30,
-                "matriculados": 28,
+                "matriculados": 29,
                 "horario": [
                     {
                         "dia": "MARTES",
@@ -1489,7 +1489,7 @@
             {
                 "grupo": "PF2",
                 "capacidad": 30,
-                "matriculados": 29,
+                "matriculados": 30,
                 "horario": [
                     {
                         "dia": "MARTES",
@@ -1580,21 +1580,21 @@
                         "hora": "16:00 - 18:00",
                         "edificio": "",
                         "aula": "",
-                        "profesor": ""
+                        "profesor": "LADY JOHANNA SIERRA PRADA"
                     },
                     {
                         "dia": "JUEVES",
                         "hora": "16:00 - 17:00",
                         "edificio": "",
                         "aula": "",
-                        "profesor": ""
+                        "profesor": "LADY JOHANNA SIERRA PRADA"
                     },
                     {
                         "dia": "VIERNES",
                         "hora": "16:00 - 18:00",
                         "edificio": "",
                         "aula": "",
-                        "profesor": ""
+                        "profesor": "LADY JOHANNA SIERRA PRADA"
                     }
                 ]
             }
@@ -2223,7 +2223,7 @@
             {
                 "grupo": "PE7",
                 "capacidad": 30,
-                "matriculados": 27,
+                "matriculados": 28,
                 "horario": [
                     {
                         "dia": "MARTES",
@@ -2520,16 +2520,16 @@
                     {
                         "dia": "MIERCOLES",
                         "hora": "7:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
+                        "edificio": "FEDERICO MAMITZA BAYER",
+                        "aula": "102",
+                        "profesor": "MARTIN JULIAN GODOY ROJAS"
                     },
                     {
                         "dia": "VIERNES",
                         "hora": "7:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
+                        "edificio": "FEDERICO MAMITZA BAYER",
+                        "aula": "102",
+                        "profesor": "MARTIN JULIAN GODOY ROJAS"
                     }
                 ]
             },
@@ -2667,16 +2667,16 @@
                     {
                         "dia": "MIERCOLES",
                         "hora": "10:00 - 13:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
+                        "edificio": "FEDERICO MAMITZA BAYER",
+                        "aula": "101",
+                        "profesor": "JORGE ALBERTO SARMIENTO OMEARA"
                     },
                     {
                         "dia": "JUEVES",
                         "hora": "10:00 - 13:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
+                        "edificio": "FEDERICO MAMITZA BAYER",
+                        "aula": "102",
+                        "profesor": "JORGE ALBERTO SARMIENTO OMEARA"
                     }
                 ]
             },
@@ -2751,15 +2751,15 @@
                     {
                         "dia": "MARTES",
                         "hora": "14:00 - 17:00",
-                        "edificio": "",
-                        "aula": "",
+                        "edificio": "FEDERICO MAMITZA BAYER",
+                        "aula": "103",
                         "profesor": ""
                     },
                     {
                         "dia": "JUEVES",
                         "hora": "14:00 - 17:00",
-                        "edificio": "",
-                        "aula": "",
+                        "edificio": "FEDERICO MAMITZA BAYER",
+                        "aula": "103",
                         "profesor": ""
                     }
                 ]
@@ -3046,7 +3046,7 @@
             {
                 "grupo": "PB3",
                 "capacidad": 29,
-                "matriculados": 28,
+                "matriculados": 29,
                 "horario": [
                     {
                         "dia": "MIERCOLES",
@@ -3892,7 +3892,7 @@
             {
                 "grupo": "C2",
                 "capacidad": 30,
-                "matriculados": 29,
+                "matriculados": 30,
                 "horario": [
                     {
                         "dia": "MARTES",
@@ -5501,7 +5501,7 @@
             {
                 "grupo": "C8B",
                 "capacidad": 14,
-                "matriculados": 11,
+                "matriculados": 12,
                 "horario": [
                     {
                         "dia": "MIERCOLES",
@@ -8501,7 +8501,7 @@
             {
                 "grupo": "PC1",
                 "capacidad": 30,
-                "matriculados": 27,
+                "matriculados": 28,
                 "horario": [
                     {
                         "dia": "MARTES",
