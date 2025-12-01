@@ -11,7 +11,7 @@ class SharedCoursesAnalyzer {
             { name: "INGENIERIA BIOMEDICA", id: 69, file: "biomedica.json" },
             { name: "INGENIERIA EN CIENCIA DE DATOS", id: 50, file: "datos.json" },
             { name: "INGENIERIA CIVIL", id: 21, file: "civil.json" },
-            { name: "INGENIERIA DE PETROLEOS", id: 4, file: "petroleos.json" },
+            { name: "INGENIERIA DE PETROLEOS", id: 32, file: "petroleos.json" },
             { name: "QUIMICA", id: 14, file: "quimica.json" }
         ];
     }

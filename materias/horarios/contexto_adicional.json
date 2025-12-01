@@ -1,0 +1,49 @@
+[
+  {
+    "codigo": 41665,
+    "nombre": "CATEDRA PAZ.PARTIC.POLITICA JUVENIL CIUDADANIA LIDERAZGO",
+    "grupos": [
+      {
+        "grupo": "A",
+        "capacidad": 252,
+        "matriculados": 252,
+        "horario": [
+          {
+            "dia": "VIERNES",
+            "hora": "14:00 - 17:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "LUIS ALEJANDRO PALACIO GARCIA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 23535,
+    "nombre": "FINANZAS CORPORATIVAS",
+    "grupos": [
+      {
+        "grupo": "H1",
+        "capacidad": 30,
+        "matriculados": 21,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "14:00 - 16:00",
+            "edificio": "INGENIERIA INDUSTRIAL",
+            "aula": "201",
+            "profesor": "CARLOS ENRIQUE VECINO ARENAS"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "14:00 - 16:00",
+            "edificio": "INGENIERIA INDUSTRIAL",
+            "aula": "201",
+            "profesor": "CARLOS ENRIQUE VECINO ARENAS"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -222,15 +222,15 @@ if (require.main === module) {
     // Ejemplo específico para transformar el archivo sistemas.json
     console.log('\n📁 Para transformar tu archivo sistemas.json, ejecuta:');
     console.log('const transformer = new GroupsTransformer();');
-    console.log('transformer.transformFile("materias/horarios/sistemas.json", "materias/horarios/sistemas_transformed.json");');
+    console.log('transformer.transformFile("materias/horarios/horario_biomedica.json", "materias/horarios/biomedica_transformed.json");');
     
     if (require.main === module) {
     console.log('🚀 Ejecutando transformación del archivo sistemas.json...\n');
 
     const transformer = new GroupsTransformer();
 
-    const inputPath = path.join(__dirname, 'horarios', 'biomedica.json');
-    const outputPath = path.join(__dirname, 'horarios', 'biomedica_transformed.json');
+    const inputPath = path.join(__dirname, 'horarios', 'horario_biomedica.json');
+    const outputPath = path.join(__dirname, 'horarios', 'horario_biomedica_transformed.json');
 
     transformer.transformFile(inputPath, outputPath);
 }

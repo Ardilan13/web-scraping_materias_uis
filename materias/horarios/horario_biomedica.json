@@ -1,0 +1,1531 @@
+[
+  {
+    "codigo": "29205",
+    "nombre": "CATEDRA UIS",
+    "grupos": [
+      {
+        "grupo": "A1",
+        "capacidad": 20,
+        "matriculados": 20,
+        "horario": []
+      },
+      {
+        "grupo": "PC1",
+        "capacidad": 1000,
+        "matriculados": 837,
+        "horario": [
+          {
+            "dia": "LUNES",
+            "hora": "10:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          }
+        ]
+      },
+      {
+        "grupo": "PE1",
+        "capacidad": 1000,
+        "matriculados": 663,
+        "horario": [
+          {
+            "dia": "LUNES",
+            "hora": "14:00 - 16:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "40936",
+    "nombre": "INTRODUCCION AL ALGEBRA LINEAL",
+    "grupos": [
+      {
+        "grupo": "E1",
+        "capacidad": 26,
+        "matriculados": 13,
+        "horario": [
+          {
+            "dia": "JUEVES",
+            "hora": "14:00 - 16:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "IVAN ALFREDO SAAVEDRA TORRES"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "14:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "IVAN ALFREDO SAAVEDRA TORRES"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "15:00 - 16:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "IVAN ALFREDO SAAVEDRA TORRES"
+          }
+        ]
+      },
+      {
+        "grupo": "PB1",
+        "capacidad": 32,
+        "matriculados": 32,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "8:00 - 9:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "JENNY PAOLA MILLAN HERNANDEZ"
+          },
+          {
+            "dia": "MARTES",
+            "hora": "9:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "JENNY PAOLA MILLAN HERNANDEZ"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "7:00 - 9:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "JENNY PAOLA MILLAN HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "grupo": "PB2",
+        "capacidad": 32,
+        "matriculados": 32,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "10:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "10:00 - 11:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "11:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          }
+        ]
+      },
+      {
+        "grupo": "PB3",
+        "capacidad": 20,
+        "matriculados": 20,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "8:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "8:00 - 9:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "9:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          }
+        ]
+      },
+      {
+        "grupo": "PB4",
+        "capacidad": 20,
+        "matriculados": 20,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "8:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "8:00 - 9:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "9:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          }
+        ]
+      },
+      {
+        "grupo": "PE1",
+        "capacidad": 32,
+        "matriculados": 31,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "15:00 - 16:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "JORGE ANDRES ROJAS GOMEZ"
+          },
+          {
+            "dia": "MARTES",
+            "hora": "16:00 - 17:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "JORGE ANDRES ROJAS GOMEZ"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "JORGE ANDRES ROJAS GOMEZ"
+          }
+        ]
+      },
+      {
+        "grupo": "PE2",
+        "capacidad": 32,
+        "matriculados": 32,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "17:00 - 19:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ALVARO JAVIER ANDRADE DURAN"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "13:00 - 14:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ALVARO JAVIER ANDRADE DURAN"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "14:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ALVARO JAVIER ANDRADE DURAN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "40937",
+    "nombre": "BIOQUIMICA",
+    "grupos": [
+      {
+        "grupo": "PB1",
+        "capacidad": 16,
+        "matriculados": 16,
+        "horario": [
+          {
+            "dia": "LUNES",
+            "hora": "8:00 - 9:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "LADY JOHANNA SIERRA PRADA"
+          },
+          {
+            "dia": "MARTES",
+            "hora": "11:00 - 13:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "STELIA CAROLINA MENDEZ SANCHEZ"
+          }
+        ]
+      },
+      {
+        "grupo": "PB2",
+        "capacidad": 16,
+        "matriculados": 16,
+        "horario": [
+          {
+            "dia": "LUNES",
+            "hora": "9:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "LADY JOHANNA SIERRA PRADA"
+          },
+          {
+            "dia": "MARTES",
+            "hora": "11:00 - 13:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "STELIA CAROLINA MENDEZ SANCHEZ"
+          }
+        ]
+      },
+      {
+        "grupo": "PF1",
+        "capacidad": 17,
+        "matriculados": 17,
+        "horario": [
+          {
+            "dia": "LUNES",
+            "hora": "16:00 - 17:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "LADY JOHANNA SIERRA PRADA"
+          },
+          {
+            "dia": "MARTES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "LADY JOHANNA SIERRA PRADA"
+          }
+        ]
+      },
+      {
+        "grupo": "PF2",
+        "capacidad": 16,
+        "matriculados": 16,
+        "horario": [
+          {
+            "dia": "LUNES",
+            "hora": "17:00 - 18:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "LADY JOHANNA SIERRA PRADA"
+          },
+          {
+            "dia": "MARTES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "LADY JOHANNA SIERRA PRADA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "40938",
+    "nombre": "INTRODUCCION A LA INGENIERIA BIOMEDICA",
+    "grupos": [
+      {
+        "grupo": "PC1",
+        "capacidad": 32,
+        "matriculados": 32,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "7:00 - 9:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "LOLA XIOMARA BAUTISTA ROZO"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "7:00 - 9:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "LOLA XIOMARA BAUTISTA ROZO"
+          }
+        ]
+      },
+      {
+        "grupo": "PE1",
+        "capacidad": 32,
+        "matriculados": 31,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "LOLA XIOMARA BAUTISTA ROZO"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "LOLA XIOMARA BAUTISTA ROZO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "41095",
+    "nombre": "LENGUA EXTRANJERA I: INGLES",
+    "grupos": [
+      {
+        "grupo": "E02",
+        "capacidad": 25,
+        "matriculados": 11,
+        "horario": [
+          {
+            "dia": "LUNES",
+            "hora": "14:00 - 16:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ENZON OSWALDO BRAND CANDELA"
+          },
+          {
+            "dia": "MIERCOLES",
+            "hora": "14:00 - 16:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ENZON OSWALDO BRAND CANDELA"
+          }
+        ]
+      },
+      {
+        "grupo": "G01",
+        "capacidad": 25,
+        "matriculados": 12,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "18:00 - 20:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "TATIANA MIKHAILOVA"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "16:00 - 18:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "TATIANA MIKHAILOVA"
+          }
+        ]
+      },
+      {
+        "grupo": "PB1",
+        "capacidad": 32,
+        "matriculados": 2,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "8:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "DANIELA ALEXANDRA MORENO CALDERON"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "8:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "DANIELA ALEXANDRA MORENO CALDERON"
+          }
+        ]
+      },
+      {
+        "grupo": "PC1",
+        "capacidad": 32,
+        "matriculados": 0,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "14:00 - 16:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "DANIEL EDUARDO CARRASCAL MANTILLA"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "14:00 - 16:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "DANIEL EDUARDO CARRASCAL MANTILLA"
+          }
+        ]
+      },
+      {
+        "grupo": "PD1",
+        "capacidad": 32,
+        "matriculados": 0,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "8:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "NELSON EDUARDO DORADO LUJAN"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "8:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "NELSON EDUARDO DORADO LUJAN"
+          }
+        ]
+      },
+      {
+        "grupo": "PE1",
+        "capacidad": 32,
+        "matriculados": 0,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "14:00 - 16:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "TATIANA MIKHAILOVA"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "14:00 - 16:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "TATIANA MIKHAILOVA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "40939",
+    "nombre": "CALCULO DE FUNCIONES EN VARIAS VARIABLES",
+    "grupos": [
+      {
+        "grupo": "A1",
+        "capacidad": 31,
+        "matriculados": 31,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "6:00 - 8:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "JENNY PAOLA MILLAN HERNANDEZ"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "6:00 - 8:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "JENNY PAOLA MILLAN HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "grupo": "C1",
+        "capacidad": 30,
+        "matriculados": 30,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "10:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "8:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          }
+        ]
+      },
+      {
+        "grupo": "E1",
+        "capacidad": 26,
+        "matriculados": 19,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "15:00 - 17:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "15:00 - 17:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          }
+        ]
+      },
+      {
+        "grupo": "F1",
+        "capacidad": 26,
+        "matriculados": 25,
+        "horario": [
+          {
+            "dia": "JUEVES",
+            "hora": "17:00 - 19:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ALVARO JAVIER ANDRADE DURAN"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "17:00 - 19:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ALVARO JAVIER ANDRADE DURAN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "40940",
+    "nombre": "MECANICA",
+    "grupos": [
+      {
+        "grupo": "B1",
+        "capacidad": 30,
+        "matriculados": 30,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "8:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "8:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
+          }
+        ]
+      },
+      {
+        "grupo": "B2",
+        "capacidad": 29,
+        "matriculados": 29,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "8:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ELBER RODRIGUEZ MORENO"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "8:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ELBER RODRIGUEZ MORENO"
+          }
+        ]
+      },
+      {
+        "grupo": "C2",
+        "capacidad": 28,
+        "matriculados": 19,
+        "horario": [
+          {
+            "dia": "LUNES",
+            "hora": "10:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "10:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
+          }
+        ]
+      },
+      {
+        "grupo": "C3",
+        "capacidad": 28,
+        "matriculados": 18,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "10:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ELBER RODRIGUEZ MORENO"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "10:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ELBER RODRIGUEZ MORENO"
+          }
+        ]
+      },
+      {
+        "grupo": "D1",
+        "capacidad": 28,
+        "matriculados": 28,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
+          }
+        ]
+      },
+      {
+        "grupo": "D2",
+        "capacidad": 27,
+        "matriculados": 25,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ELBER RODRIGUEZ MORENO"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ELBER RODRIGUEZ MORENO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "40941",
+    "nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+    "grupos": [
+      {
+        "grupo": "B1",
+        "capacidad": 16,
+        "matriculados": 16,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ELBER RODRIGUEZ MORENO"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ELBER RODRIGUEZ MORENO"
+          }
+        ]
+      },
+      {
+        "grupo": "B2",
+        "capacidad": 16,
+        "matriculados": 10,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ELBER RODRIGUEZ MORENO"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ELBER RODRIGUEZ MORENO"
+          }
+        ]
+      },
+      {
+        "grupo": "C1",
+        "capacidad": 18,
+        "matriculados": 18,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ELBER RODRIGUEZ MORENO"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ELBER RODRIGUEZ MORENO"
+          }
+        ]
+      },
+      {
+        "grupo": "C2",
+        "capacidad": 18,
+        "matriculados": 18,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ELBER RODRIGUEZ MORENO"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "13:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ELBER RODRIGUEZ MORENO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "40942",
+    "nombre": "MODELADO ASISTIDO POR ORDENADOR CAD",
+    "grupos": [
+      {
+        "grupo": "A1",
+        "capacidad": 26,
+        "matriculados": 26,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "7:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "JESUS ALEXIS MACHUCA GELVEZ"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "7:00 - 9:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "JESUS ALEXIS MACHUCA GELVEZ"
+          }
+        ]
+      },
+      {
+        "grupo": "G1",
+        "capacidad": 36,
+        "matriculados": 36,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "18:00 - 20:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "JUAN ALEXIS MEJÍA IGUARAN"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "12:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "JUAN ALEXIS MEJÍA IGUARAN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "41017",
+    "nombre": "PROGRAMACION",
+    "grupos": [
+      {
+        "grupo": "B1",
+        "capacidad": 35,
+        "matriculados": 35,
+        "horario": [
+          {
+            "dia": "JUEVES",
+            "hora": "9:00 - 11:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "NYDIA PAOLA RONDON VILLARREAL"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "11:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "NYDIA PAOLA RONDON VILLARREAL"
+          }
+        ]
+      },
+      {
+        "grupo": "F1",
+        "capacidad": 35,
+        "matriculados": 27,
+        "horario": [
+          {
+            "dia": "JUEVES",
+            "hora": "17:00 - 19:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ROSAURA GUTIERREZ ALMEYDA"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "19:00 - 20:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ROSAURA GUTIERREZ ALMEYDA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "41096",
+    "nombre": "LENGUA EXTRANJERA II: INGLES",
+    "grupos": [
+      {
+        "grupo": "C01",
+        "capacidad": 25,
+        "matriculados": 25,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "10:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "LUZ DAYANARA SALDAÑA SARMIENTO"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "10:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "LUZ DAYANARA SALDAÑA SARMIENTO"
+          }
+        ]
+      },
+      {
+        "grupo": "C02",
+        "capacidad": 25,
+        "matriculados": 25,
+        "horario": [
+          {
+            "dia": "JUEVES",
+            "hora": "10:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "NELSON EDUARDO DORADO LUJAN"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "10:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "NELSON EDUARDO DORADO LUJAN"
+          }
+        ]
+      },
+      {
+        "grupo": "C03",
+        "capacidad": 25,
+        "matriculados": 25,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "10:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "DANIELA ALEXANDRA MORENO CALDERON"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "10:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "DANIELA ALEXANDRA MORENO CALDERON"
+          }
+        ]
+      },
+      {
+        "grupo": "F01",
+        "capacidad": 25,
+        "matriculados": 10,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "16:00 - 18:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "DANIEL EDUARDO CARRASCAL MANTILLA"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "16:00 - 18:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "DANIEL EDUARDO CARRASCAL MANTILLA"
+          }
+        ]
+      },
+      {
+        "grupo": "F02",
+        "capacidad": 25,
+        "matriculados": 12,
+        "horario": [
+          {
+            "dia": "LUNES",
+            "hora": "16:00 - 18:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "NELSON EDUARDO DORADO LUJAN"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "16:00 - 18:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "NELSON EDUARDO DORADO LUJAN"
+          }
+        ]
+      },
+      {
+        "grupo": "F03",
+        "capacidad": 25,
+        "matriculados": 6,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "16:00 - 18:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ENZON OSWALDO BRAND CANDELA"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "16:00 - 18:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ENZON OSWALDO BRAND CANDELA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "41018",
+    "nombre": "ECUACIONES DIFERENCIALES",
+    "grupos": [
+      {
+        "grupo": "A1",
+        "capacidad": 19,
+        "matriculados": 12,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "7:00 - 9:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "LUIS ANGEL PEREZ FERNANDEZ"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "7:00 - 9:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "LUIS ANGEL PEREZ FERNANDEZ"
+          }
+        ]
+      },
+      {
+        "grupo": "B1",
+        "capacidad": 30,
+        "matriculados": 0,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "9:00 - 11:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "9:00 - 11:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          }
+        ]
+      },
+      {
+        "grupo": "E1",
+        "capacidad": 20,
+        "matriculados": 20,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "14:00 - 16:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ALVARO JAVIER ANDRADE DURAN"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "14:00 - 16:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ALVARO JAVIER ANDRADE DURAN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "41019",
+    "nombre": "LABORATORIO DE MECANICA",
+    "grupos": [
+      {
+        "grupo": "B1",
+        "capacidad": 14,
+        "matriculados": 14,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "8:00 - 10:00",
+            "edificio": "LABORATORIOS LIVIANOS",
+            "aula": "310",
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
+          },
+          {
+            "dia": "MARTES",
+            "hora": "10:00 - 11:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
+          }
+        ]
+      },
+      {
+        "grupo": "B2",
+        "capacidad": 14,
+        "matriculados": 14,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "8:00 - 10:00",
+            "edificio": "LABORATORIOS LIVIANOS",
+            "aula": "310",
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
+          },
+          {
+            "dia": "MIERCOLES",
+            "hora": "10:00 - 11:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
+          }
+        ]
+      },
+      {
+        "grupo": "C1",
+        "capacidad": 13,
+        "matriculados": 11,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "10:00 - 12:00",
+            "edificio": "LABORATORIOS LIVIANOS",
+            "aula": "310",
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
+          },
+          {
+            "dia": "MARTES",
+            "hora": "12:00 - 13:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
+          }
+        ]
+      },
+      {
+        "grupo": "C2",
+        "capacidad": 14,
+        "matriculados": 14,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "10:00 - 12:00",
+            "edificio": "LABORATORIOS LIVIANOS",
+            "aula": "310",
+            "profesor": "ROGELIO OSPINA OSPINA"
+          },
+          {
+            "dia": "MIERCOLES",
+            "hora": "12:00 - 13:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ROGELIO OSPINA OSPINA"
+          }
+        ]
+      },
+      {
+        "grupo": "E1",
+        "capacidad": 13,
+        "matriculados": 5,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "14:00 - 16:00",
+            "edificio": "LABORATORIOS LIVIANOS",
+            "aula": "310",
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
+          },
+          {
+            "dia": "MARTES",
+            "hora": "16:00 - 17:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
+          }
+        ]
+      },
+      {
+        "grupo": "F1",
+        "capacidad": 14,
+        "matriculados": 14,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "16:00 - 18:00",
+            "edificio": "LABORATORIOS LIVIANOS",
+            "aula": "310",
+            "profesor": "ROGELIO OSPINA OSPINA"
+          },
+          {
+            "dia": "MARTES",
+            "hora": "18:00 - 19:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ROGELIO OSPINA OSPINA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "41020",
+    "nombre": "ELECTROMAGNETISMO",
+    "grupos": [
+      {
+        "grupo": "B1",
+        "capacidad": 24,
+        "matriculados": 24,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "9:00 - 11:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "FREDY FABIAN PARADA BECERRA"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "9:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "FREDY FABIAN PARADA BECERRA"
+          }
+        ]
+      },
+      {
+        "grupo": "F1",
+        "capacidad": 23,
+        "matriculados": 19,
+        "horario": [
+          {
+            "dia": "MIERCOLES",
+            "hora": "16:00 - 18:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "FREDY FABIAN PARADA BECERRA"
+          },
+          {
+            "dia": "VIERNES",
+            "hora": "16:00 - 19:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "FREDY FABIAN PARADA BECERRA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "41021",
+    "nombre": "FISIOLOGIA I",
+    "grupos": [
+      {
+        "grupo": "A",
+        "capacidad": 30,
+        "matriculados": 19,
+        "horario": [
+          {
+            "dia": "LUNES",
+            "hora": "14:00 - 15:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "6:00 - 7:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "7:00 - 8:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          }
+        ]
+      },
+      {
+        "grupo": "B",
+        "capacidad": 30,
+        "matriculados": 19,
+        "horario": [
+          {
+            "dia": "LUNES",
+            "hora": "15:00 - 16:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "6:00 - 7:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "7:00 - 8:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          }
+        ]
+      },
+      {
+        "grupo": "C",
+        "capacidad": 30,
+        "matriculados": 0,
+        "horario": [
+          {
+            "dia": "LUNES",
+            "hora": "16:00 - 17:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ANGIE SIDNEY NARANJO GARCIA"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "6:00 - 7:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "7:00 - 8:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          }
+        ]
+      },
+      {
+        "grupo": "D",
+        "capacidad": 30,
+        "matriculados": 0,
+        "horario": [
+          {
+            "dia": "LUNES",
+            "hora": "17:00 - 18:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ANGIE SIDNEY NARANJO GARCIA"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "6:00 - 7:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "7:00 - 8:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "41022",
+    "nombre": "BIOTECNOLOGIA EN SALUD",
+    "grupos": [
+      {
+        "grupo": "B1",
+        "capacidad": 21,
+        "matriculados": 21,
+        "horario": [
+          {
+            "dia": "LUNES",
+            "hora": "7:00 - 8:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ADRIANA LUCIA MANOSALVA CORTES"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "10:00 - 12:00",
+            "edificio": "FISOCOMECANICAS",
+            "aula": "104",
+            "profesor": "ADRIANA LUCIA MANOSALVA CORTES"
+          }
+        ]
+      },
+      {
+        "grupo": "B2",
+        "capacidad": 21,
+        "matriculados": 17,
+        "horario": [
+          {
+            "dia": "LUNES",
+            "hora": "8:00 - 9:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "ADRIANA LUCIA MANOSALVA CORTES"
+          },
+          {
+            "dia": "JUEVES",
+            "hora": "10:00 - 12:00",
+            "edificio": "FISOCOMECANICAS",
+            "aula": "104",
+            "profesor": "ADRIANA LUCIA MANOSALVA CORTES"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "41097",
+    "nombre": "LENGUA EXTRANJERA III: INGLES",
+    "grupos": [
+      {
+        "grupo": "A01",
+        "capacidad": 25,
+        "matriculados": 22,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "7:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "NELSON EDUARDO DORADO LUJAN"
+          }
+        ]
+      },
+      {
+        "grupo": "B01",
+        "capacidad": 25,
+        "matriculados": 4,
+        "horario": [
+          {
+            "dia": "JUEVES",
+            "hora": "9:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "DANIELA ALEXANDRA MORENO CALDERON"
+          }
+        ]
+      },
+      {
+        "grupo": "E01",
+        "capacidad": 25,
+        "matriculados": 4,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "14:00 - 17:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "NELSON EDUARDO DORADO LUJAN"
+          }
+        ]
+      },
+      {
+        "grupo": "E02",
+        "capacidad": 25,
+        "matriculados": 25,
+        "horario": [
+          {
+            "dia": "JUEVES",
+            "hora": "15:00 - 18:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "NELSON EDUARDO DORADO LUJAN"
+          }
+        ]
+      }
+    ]
+  }
+]

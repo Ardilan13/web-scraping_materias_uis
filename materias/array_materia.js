@@ -49,7 +49,7 @@ function guardarResultado(codigos, archivoSalida = "codigos.json") {
 
 // EJECUCIÓN PRINCIPAL
 (function () {
-  const rutaCarpeta = process.argv[2] || "./";
+  const rutaCarpeta = process.argv[2] || "./json/bio";
   const codigosUnicos = leerTodosLosCodigosUnicos(rutaCarpeta);
   guardarResultado(codigosUnicos);
 })();
