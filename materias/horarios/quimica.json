@@ -255,7 +255,7 @@
       {
         "sku": "PC1",
         "capacity": 1000,
-        "enrolled": 821,
+        "enrolled": 822,
         "schedule": [
           {
             "day": "LUNES",
@@ -269,7 +269,7 @@
       {
         "sku": "PE1",
         "capacity": 1000,
-        "enrolled": 662,
+        "enrolled": 664,
         "schedule": [
           {
             "day": "LUNES",
@@ -294,15 +294,15 @@
           {
             "day": "MIERCOLES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "MARKUS HANS OLIVER DOERR"
           },
           {
             "day": "VIERNES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "MARKUS HANS OLIVER DOERR"
           }
         ]
@@ -315,15 +315,15 @@
           {
             "day": "MIERCOLES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "LEONARDO MUÑOZ RUGELES"
           },
           {
             "day": "VIERNES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "LEONARDO MUÑOZ RUGELES"
           }
         ]
@@ -344,7 +344,7 @@
             "time": "14:00 - 17:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "215",
-            "professor": "ANGIE NATHALIA PINZON SARMIENTO"
+            "professor": "GERALDINE ALVAREZ GONZALEZ"
           }
         ]
       },
@@ -358,7 +358,7 @@
             "time": "14:00 - 17:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "215",
-            "professor": ""
+            "professor": "ANGIE NATHALIA PINZON SARMIENTO"
           }
         ]
       },
@@ -1518,7 +1518,7 @@
       {
         "sku": "PB3",
         "capacity": 29,
-        "enrolled": 28,
+        "enrolled": 29,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -2352,15 +2352,15 @@
           {
             "day": "MARTES",
             "time": "6:00 - 8:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "DANIEL RICARDO MOLINA VELASCO"
           },
           {
             "day": "JUEVES",
             "time": "6:00 - 8:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "DANIEL RICARDO MOLINA VELASCO"
           }
         ]
@@ -2373,15 +2373,15 @@
           {
             "day": "MIERCOLES",
             "time": "14:00 - 16:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "LILI DAHIANA BECERRA GARCIA"
           },
           {
             "day": "VIERNES",
             "time": "14:00 - 16:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "LILI DAHIANA BECERRA GARCIA"
           }
         ]
@@ -2795,15 +2795,15 @@
           {
             "day": "LUNES",
             "time": "10:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "206",
             "professor": "FERNANDO MARTINEZ ORTEGA"
           },
           {
             "day": "MIERCOLES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "206",
             "professor": "FERNANDO MARTINEZ ORTEGA"
           }
         ]
@@ -2816,15 +2816,15 @@
           {
             "day": "LUNES",
             "time": "11:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "206",
             "professor": "FERNANDO MARTINEZ ORTEGA"
           },
           {
             "day": "VIERNES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "206",
             "professor": "FERNANDO MARTINEZ ORTEGA"
           }
         ]
@@ -2843,15 +2843,15 @@
           {
             "day": "MARTES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "JOHN JAIRO CASTILLO LEON"
           },
           {
             "day": "JUEVES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "JOHN JAIRO CASTILLO LEON"
           }
         ]
@@ -2864,15 +2864,15 @@
           {
             "day": "MIERCOLES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "JOHN JAIRO CASTILLO LEON"
           },
           {
             "day": "VIERNES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "JOHN JAIRO CASTILLO LEON"
           }
         ]
@@ -2907,7 +2907,7 @@
             "time": "14:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "216",
-            "professor": ""
+            "professor": "JHOAN SEBASTIAN ORTEGA RODRIGUEZ"
           }
         ]
       },
@@ -2921,7 +2921,7 @@
             "time": "14:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "216",
-            "professor": ""
+            "professor": "JHOAN SEBASTIAN ORTEGA RODRIGUEZ"
           }
         ]
       }
@@ -3029,22 +3029,22 @@
           {
             "day": "MARTES",
             "time": "10:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "JUAN MANUEL URBINA GONZALEZ"
           },
           {
             "day": "MIERCOLES",
             "time": "10:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "JUAN MANUEL URBINA GONZALEZ"
           },
           {
             "day": "JUEVES",
             "time": "10:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "JUAN MANUEL URBINA GONZALEZ"
           }
         ]
@@ -3057,22 +3057,22 @@
           {
             "day": "MARTES",
             "time": "11:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "JUAN MANUEL URBINA GONZALEZ"
           },
           {
             "day": "MIERCOLES",
             "time": "11:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "JUAN MANUEL URBINA GONZALEZ"
           },
           {
             "day": "JUEVES",
             "time": "11:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "JUAN MANUEL URBINA GONZALEZ"
           }
         ]
@@ -3139,15 +3139,15 @@
           {
             "day": "MIERCOLES",
             "time": "7:00 - 8:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "ENRIQUE MEJIA OSPINO"
           },
           {
             "day": "VIERNES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "ENRIQUE MEJIA OSPINO"
           }
         ]
@@ -3160,15 +3160,15 @@
           {
             "day": "MIERCOLES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "ENRIQUE MEJIA OSPINO"
           },
           {
             "day": "VIERNES",
             "time": "7:00 - 8:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "ENRIQUE MEJIA OSPINO"
           }
         ]
@@ -3263,15 +3263,15 @@
           {
             "day": "LUNES",
             "time": "10:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "205",
             "professor": "MARIANNY YAJAIRA COMBARIZA MONTAÑEZ"
           },
           {
             "day": "MARTES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "205",
             "professor": "MARIANNY YAJAIRA COMBARIZA MONTAÑEZ"
           }
         ]
@@ -3338,15 +3338,15 @@
           {
             "day": "MARTES",
             "time": "10:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "202",
             "professor": "ALIRIO PALMA RODRIGUEZ"
           },
           {
             "day": "JUEVES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "202",
             "professor": "ALIRIO PALMA RODRIGUEZ"
           }
         ]
@@ -3359,15 +3359,15 @@
           {
             "day": "MARTES",
             "time": "11:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "202",
             "professor": "ALIRIO PALMA RODRIGUEZ"
           },
           {
             "day": "VIERNES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "202",
             "professor": "ALIRIO PALMA RODRIGUEZ"
           }
         ]
@@ -3388,7 +3388,7 @@
             "time": "14:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "219",
-            "professor": ""
+            "professor": "DIANA MARCELA ARDILA RODRIGUEZ"
           }
         ]
       },
@@ -3416,7 +3416,7 @@
             "time": "14:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "220",
-            "professor": ""
+            "professor": "GERALDINE ALVAREZ GONZALEZ"
           }
         ]
       }
@@ -3434,15 +3434,15 @@
           {
             "day": "MARTES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "MARKUS HANS OLIVER DOERR"
           },
           {
             "day": "JUEVES",
             "time": "8:00 - 9:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": ""
           }
         ]
@@ -3477,7 +3477,7 @@
             "time": "8:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "213",
-            "professor": ""
+            "professor": "LADY JOHANNA SIERRA PRADA"
           }
         ]
       },
@@ -3557,15 +3557,15 @@
           {
             "day": "LUNES",
             "time": "10:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "204",
             "professor": "ARNOLD RAFAEL ROMERO BOHORQUEZ"
           },
           {
             "day": "MARTES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "204",
             "professor": "ARNOLD RAFAEL ROMERO BOHORQUEZ"
           }
         ]
@@ -3578,15 +3578,15 @@
           {
             "day": "LUNES",
             "time": "11:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "204",
             "professor": "ARNOLD RAFAEL ROMERO BOHORQUEZ"
           },
           {
             "day": "JUEVES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "204",
             "professor": "ARNOLD RAFAEL ROMERO BOHORQUEZ"
           }
         ]
@@ -3628,14 +3628,14 @@
             "time": "13:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "220",
-            "professor": ""
+            "professor": "DIANA ROCIO VERA ALARCON"
           },
           {
             "day": "JUEVES",
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "220",
-            "professor": ""
+            "professor": "DIANA ROCIO VERA ALARCON"
           }
         ]
       },
@@ -3649,14 +3649,14 @@
             "time": "13:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "220",
-            "professor": ""
+            "professor": "DIANA MARCELA ARDILA RODRIGUEZ"
           },
           {
             "day": "LUNES",
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "220",
-            "professor": ""
+            "professor": "DIANA MARCELA ARDILA RODRIGUEZ"
           }
         ]
       }
@@ -3674,15 +3674,15 @@
           {
             "day": "MARTES",
             "time": "8:00 - 9:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "HERMINSUL DE JESUS CANO CALLE"
           },
           {
             "day": "JUEVES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "HERMINSUL DE JESUS CANO CALLE"
           }
         ]
@@ -3701,8 +3701,8 @@
           {
             "day": "VIERNES",
             "time": "8:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "204",
             "professor": "JOSE ANTONIO HENAO MARTINEZ"
           }
         ]
@@ -3715,15 +3715,15 @@
           {
             "day": "MARTES",
             "time": "12:00 - 13:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "VERONICA GARCIA ROJAS"
           },
           {
             "day": "VIERNES",
             "time": "12:00 - 14:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "VERONICA GARCIA ROJAS"
           }
         ]
@@ -3838,15 +3838,15 @@
           {
             "day": "MIERCOLES",
             "time": "16:00 - 18:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "JAIRO RENE MARTINEZ MORALES"
           },
           {
             "day": "VIERNES",
             "time": "11:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "JAIRO RENE MARTINEZ MORALES"
           }
         ]
@@ -3865,15 +3865,15 @@
           {
             "day": "MIERCOLES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "508",
             "professor": ""
           },
           {
             "day": "VIERNES",
             "time": "10:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "508",
             "professor": "STELIA CAROLINA MENDEZ SANCHEZ"
           }
         ]
@@ -3933,15 +3933,15 @@
           {
             "day": "LUNES",
             "time": "12:00 - 13:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "JHON FREDY PEREZ TORRES"
           },
           {
             "day": "MIERCOLES",
             "time": "12:00 - 14:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "VERONICA GARCIA ROJAS"
           }
         ]
@@ -3954,15 +3954,15 @@
           {
             "day": "LUNES",
             "time": "13:00 - 14:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "JHON FREDY PEREZ TORRES"
           },
           {
             "day": "VIERNES",
             "time": "12:00 - 14:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "JHON FREDY PEREZ TORRES"
           }
         ]
@@ -4015,15 +4015,15 @@
           {
             "day": "LUNES",
             "time": "14:00 - 16:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "508",
             "professor": "DROCHSS PETTRY VALENCIA OCHOA"
           },
           {
             "day": "MIERCOLES",
             "time": "15:00 - 16:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "508",
             "professor": ""
           }
         ]
@@ -4042,15 +4042,15 @@
           {
             "day": "JUEVES",
             "time": "7:00 - 8:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "205",
             "professor": ""
           },
           {
             "day": "JUEVES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "205",
             "professor": "JUAN CARLOS POVEDA JARAMILLO"
           }
         ]
@@ -4069,15 +4069,15 @@
           {
             "day": "LUNES",
             "time": "18:00 - 20:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "DUBAN FABIAN GARCIA NAVAS"
           },
           {
             "day": "MIERCOLES",
             "time": "18:00 - 19:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": ""
           }
         ]

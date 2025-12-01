@@ -401,7 +401,7 @@
       {
         "sku": "PB1",
         "capacity": 30,
-        "enrolled": 29,
+        "enrolled": 30,
         "schedule": [
           {
             "day": "LUNES",
@@ -429,7 +429,7 @@
       {
         "sku": "PB2",
         "capacity": 29,
-        "enrolled": 28,
+        "enrolled": 29,
         "schedule": [
           {
             "day": "LUNES",
@@ -1477,7 +1477,7 @@
       {
         "sku": "PE1",
         "capacity": 30,
-        "enrolled": 28,
+        "enrolled": 29,
         "schedule": [
           {
             "day": "MARTES",
@@ -1617,7 +1617,7 @@
       {
         "sku": "PF2",
         "capacity": 30,
-        "enrolled": 29,
+        "enrolled": 30,
         "schedule": [
           {
             "day": "MARTES",
@@ -1708,21 +1708,21 @@
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LADY JOHANNA SIERRA PRADA"
           },
           {
             "day": "JUEVES",
             "time": "16:00 - 17:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LADY JOHANNA SIERRA PRADA"
           },
           {
             "day": "VIERNES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "LADY JOHANNA SIERRA PRADA"
           }
         ]
       }
@@ -2366,7 +2366,7 @@
       {
         "sku": "PE7",
         "capacity": 30,
-        "enrolled": 27,
+        "enrolled": 28,
         "schedule": [
           {
             "day": "MARTES",
@@ -3786,6 +3786,11 @@
         "name": "QUIMICA",
         "id": 14,
         "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
       }
     ]
   },
@@ -3841,7 +3846,7 @@
       {
         "sku": "PB3",
         "capacity": 29,
-        "enrolled": 28,
+        "enrolled": 29,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -4473,6 +4478,11 @@
         "name": "QUIMICA",
         "id": 14,
         "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
       }
     ]
   },
@@ -4749,7 +4759,7 @@
       {
         "sku": "C2",
         "capacity": 30,
-        "enrolled": 29,
+        "enrolled": 30,
         "schedule": [
           {
             "day": "MARTES",
@@ -5597,6 +5607,41 @@
       {
         "name": "INGENIERIA CIVIL",
         "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
         "new_pensum": false
       }
     ]
@@ -6647,7 +6692,7 @@
       {
         "sku": "C8B",
         "capacity": 14,
-        "enrolled": 11,
+        "enrolled": 12,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -8705,7 +8750,7 @@
       {
         "sku": "PC1",
         "capacity": 30,
-        "enrolled": 27,
+        "enrolled": 28,
         "schedule": [
           {
             "day": "MARTES",
@@ -9009,6 +9054,36 @@
       {
         "name": "INGENIERIA DE PETROLEOS",
         "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
         "new_pensum": false
       }
     ]
@@ -12503,6 +12578,36 @@
         "name": "INGENIERIA DE PETROLEOS",
         "id": 4,
         "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
       }
     ]
   },
@@ -15732,7 +15837,7 @@
       {
         "sku": "E2",
         "capacity": 21,
-        "enrolled": 21,
+        "enrolled": 20,
         "schedule": [
           {
             "day": "MARTES",
@@ -15742,7 +15847,7 @@
             "professor": "HOOVER FABIAN RUEDA CHACON"
           },
           {
-            "day": "VIERNES",
+            "day": "JUEVES",
             "time": "14:00 - 16:00",
             "building": "",
             "room": "",
@@ -15781,14 +15886,14 @@
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": "ELIANA MARTHA BONALDE MARCANO"
+            "professor": "ANDRÉS LEONARDO GONZÁLEZ GÓMEZ"
           },
           {
             "day": "JUEVES",
             "time": "16:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": "ELIANA MARTHA BONALDE MARCANO"
+            "professor": "ANDRÉS LEONARDO GONZÁLEZ GÓMEZ"
           }
         ]
       }
@@ -17471,29 +17576,7 @@
       "22968"
     ],
     "level": "Electivas",
-    "groups": [
-      {
-        "sku": "E1",
-        "capacity": 30,
-        "enrolled": 25,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "14:00 - 16:00",
-            "building": "LABORATORIOS PESADOS",
-            "room": "104",
-            "professor": "JUAN MANUEL DURAN MARIN"
-          },
-          {
-            "day": "JUEVES",
-            "time": "14:00 - 16:00",
-            "building": "LABORATORIOS PESADOS",
-            "room": "104",
-            "professor": "JUAN MANUEL DURAN MARIN"
-          }
-        ]
-      }
-    ],
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA DE SISTEMAS",
@@ -18223,29 +18306,7 @@
       "22968"
     ],
     "level": "Electivas",
-    "groups": [
-      {
-        "sku": "B1",
-        "capacity": 30,
-        "enrolled": 30,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "8:00 - 10:00",
-            "building": "LABORATORIOS PESADOS",
-            "room": "104",
-            "professor": "SONIA CRISTINA GAMBOA SARMIENTO"
-          },
-          {
-            "day": "VIERNES",
-            "time": "8:00 - 10:00",
-            "building": "LABORATORIOS PESADOS",
-            "room": "104",
-            "professor": "SONIA CRISTINA GAMBOA SARMIENTO"
-          }
-        ]
-      }
-    ],
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA DE SISTEMAS",
@@ -18425,7 +18486,7 @@
       {
         "sku": "PC1",
         "capacity": 1000,
-        "enrolled": 821,
+        "enrolled": 822,
         "schedule": [
           {
             "day": "LUNES",
@@ -18439,7 +18500,7 @@
       {
         "sku": "PE1",
         "capacity": 1000,
-        "enrolled": 662,
+        "enrolled": 664,
         "schedule": [
           {
             "day": "LUNES",
@@ -18471,6 +18532,11 @@
         "name": "QUIMICA",
         "id": 14,
         "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
       }
     ]
   },
@@ -19255,6 +19321,11 @@
         "name": "QUIMICA",
         "id": 14,
         "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
       }
     ]
   },
@@ -19655,6 +19726,11 @@
         "name": "QUIMICA",
         "id": 14,
         "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
       }
     ]
   },
@@ -20036,6 +20112,11 @@
         "name": "QUIMICA",
         "id": 14,
         "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
       }
     ]
   },
@@ -20162,6 +20243,27 @@
     "requirements": [],
     "level": 5,
     "groups": [
+      {
+        "sku": "A1",
+        "capacity": 20,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "MARTES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
       {
         "sku": "C1",
         "capacity": 20,
@@ -20305,6 +20407,11 @@
       {
         "name": "DISEÑO INDUSTRIAL NUEVO",
         "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
         "new_pensum": true
       }
     ]
@@ -20910,16 +21017,16 @@
           {
             "day": "MIERCOLES",
             "time": "7:00 - 10:00",
-            "building": "",
-            "room": "",
-            "professor": ""
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "MARTIN JULIAN GODOY ROJAS"
           },
           {
             "day": "VIERNES",
             "time": "7:00 - 10:00",
-            "building": "",
-            "room": "",
-            "professor": ""
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "MARTIN JULIAN GODOY ROJAS"
           }
         ]
       },
@@ -21057,16 +21164,16 @@
           {
             "day": "MIERCOLES",
             "time": "10:00 - 13:00",
-            "building": "",
-            "room": "",
-            "professor": ""
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "JORGE ALBERTO SARMIENTO OMEARA"
           },
           {
             "day": "JUEVES",
             "time": "10:00 - 13:00",
-            "building": "",
-            "room": "",
-            "professor": ""
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "JORGE ALBERTO SARMIENTO OMEARA"
           }
         ]
       },
@@ -21141,15 +21248,15 @@
           {
             "day": "MARTES",
             "time": "14:00 - 17:00",
-            "building": "",
-            "room": "",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
             "professor": ""
           },
           {
             "day": "JUEVES",
             "time": "14:00 - 17:00",
-            "building": "",
-            "room": "",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
             "professor": ""
           }
         ]
@@ -22490,7 +22597,7 @@
       {
         "sku": "PE1",
         "capacity": 32,
-        "enrolled": 30,
+        "enrolled": 31,
         "schedule": [
           {
             "day": "MARTES",
@@ -22563,92 +22670,7 @@
     "credits": 3,
     "requirements": [],
     "level": 1,
-    "groups": [
-      {
-        "sku": "PB1",
-        "capacity": 16,
-        "enrolled": 16,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "8:00 - 9:00",
-            "building": "",
-            "room": "",
-            "professor": "LADY JOHANNA SIERRA PRADA"
-          },
-          {
-            "day": "MARTES",
-            "time": "11:00 - 13:00",
-            "building": "",
-            "room": "",
-            "professor": "STELIA CAROLINA MENDEZ SANCHEZ"
-          }
-        ]
-      },
-      {
-        "sku": "PB2",
-        "capacity": 16,
-        "enrolled": 16,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "9:00 - 10:00",
-            "building": "",
-            "room": "",
-            "professor": "LADY JOHANNA SIERRA PRADA"
-          },
-          {
-            "day": "MARTES",
-            "time": "11:00 - 13:00",
-            "building": "",
-            "room": "",
-            "professor": "STELIA CAROLINA MENDEZ SANCHEZ"
-          }
-        ]
-      },
-      {
-        "sku": "PF1",
-        "capacity": 16,
-        "enrolled": 16,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "16:00 - 17:00",
-            "building": "",
-            "room": "",
-            "professor": "LADY JOHANNA SIERRA PRADA"
-          },
-          {
-            "day": "MARTES",
-            "time": "13:00 - 15:00",
-            "building": "",
-            "room": "",
-            "professor": "LADY JOHANNA SIERRA PRADA"
-          }
-        ]
-      },
-      {
-        "sku": "PF2",
-        "capacity": 16,
-        "enrolled": 16,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "17:00 - 18:00",
-            "building": "",
-            "room": "",
-            "professor": "LADY JOHANNA SIERRA PRADA"
-          },
-          {
-            "day": "MARTES",
-            "time": "13:00 - 15:00",
-            "building": "",
-            "room": "",
-            "professor": "LADY JOHANNA SIERRA PRADA"
-          }
-        ]
-      }
-    ],
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA BIOMEDICA",
@@ -22663,50 +22685,7 @@
     "credits": 3,
     "requirements": [],
     "level": 1,
-    "groups": [
-      {
-        "sku": "PC1",
-        "capacity": 32,
-        "enrolled": 32,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "7:00 - 9:00",
-            "building": "",
-            "room": "",
-            "professor": "LOLA XIOMARA BAUTISTA ROZO"
-          },
-          {
-            "day": "VIERNES",
-            "time": "7:00 - 9:00",
-            "building": "",
-            "room": "",
-            "professor": "LOLA XIOMARA BAUTISTA ROZO"
-          }
-        ]
-      },
-      {
-        "sku": "PE1",
-        "capacity": 32,
-        "enrolled": 30,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "13:00 - 15:00",
-            "building": "",
-            "room": "",
-            "professor": "LOLA XIOMARA BAUTISTA ROZO"
-          },
-          {
-            "day": "VIERNES",
-            "time": "13:00 - 15:00",
-            "building": "",
-            "room": "",
-            "professor": "LOLA XIOMARA BAUTISTA ROZO"
-          }
-        ]
-      }
-    ],
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA BIOMEDICA",
@@ -22973,92 +22952,7 @@
     "credits": 3,
     "requirements": [],
     "level": 2,
-    "groups": [
-      {
-        "sku": "B1",
-        "capacity": 16,
-        "enrolled": 16,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "13:00 - 15:00",
-            "building": "",
-            "room": "",
-            "professor": "ELBER RODRIGUEZ MORENO"
-          },
-          {
-            "day": "VIERNES",
-            "time": "13:00 - 15:00",
-            "building": "",
-            "room": "",
-            "professor": "ELBER RODRIGUEZ MORENO"
-          }
-        ]
-      },
-      {
-        "sku": "B2",
-        "capacity": 16,
-        "enrolled": 10,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "13:00 - 15:00",
-            "building": "",
-            "room": "",
-            "professor": "ELBER RODRIGUEZ MORENO"
-          },
-          {
-            "day": "VIERNES",
-            "time": "13:00 - 15:00",
-            "building": "",
-            "room": "",
-            "professor": "ELBER RODRIGUEZ MORENO"
-          }
-        ]
-      },
-      {
-        "sku": "C1",
-        "capacity": 16,
-        "enrolled": 16,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "13:00 - 15:00",
-            "building": "",
-            "room": "",
-            "professor": "ELBER RODRIGUEZ MORENO"
-          },
-          {
-            "day": "VIERNES",
-            "time": "13:00 - 15:00",
-            "building": "",
-            "room": "",
-            "professor": "ELBER RODRIGUEZ MORENO"
-          }
-        ]
-      },
-      {
-        "sku": "C2",
-        "capacity": 16,
-        "enrolled": 16,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "13:00 - 15:00",
-            "building": "",
-            "room": "",
-            "professor": "ELBER RODRIGUEZ MORENO"
-          },
-          {
-            "day": "VIERNES",
-            "time": "13:00 - 15:00",
-            "building": "",
-            "room": "",
-            "professor": "ELBER RODRIGUEZ MORENO"
-          }
-        ]
-      }
-    ],
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA BIOMEDICA",
@@ -23073,50 +22967,7 @@
     "credits": 3,
     "requirements": [],
     "level": 2,
-    "groups": [
-      {
-        "sku": "A1",
-        "capacity": 25,
-        "enrolled": 25,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "7:00 - 10:00",
-            "building": "",
-            "room": "",
-            "professor": "JESUS ALEXIS MACHUCA GELVEZ"
-          },
-          {
-            "day": "JUEVES",
-            "time": "7:00 - 9:00",
-            "building": "",
-            "room": "",
-            "professor": "JESUS ALEXIS MACHUCA GELVEZ"
-          }
-        ]
-      },
-      {
-        "sku": "G1",
-        "capacity": 36,
-        "enrolled": 35,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "18:00 - 20:00",
-            "building": "",
-            "room": "",
-            "professor": "JUAN ALEXIS MEJÍA IGUARAN"
-          },
-          {
-            "day": "JUEVES",
-            "time": "12:00 - 15:00",
-            "building": "",
-            "room": "",
-            "professor": "JUAN ALEXIS MEJÍA IGUARAN"
-          }
-        ]
-      }
-    ],
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA BIOMEDICA",
@@ -23131,50 +22982,7 @@
     "credits": 2,
     "requirements": [],
     "level": 2,
-    "groups": [
-      {
-        "sku": "B1",
-        "capacity": 35,
-        "enrolled": 34,
-        "schedule": [
-          {
-            "day": "JUEVES",
-            "time": "9:00 - 11:00",
-            "building": "",
-            "room": "",
-            "professor": "NYDIA PAOLA RONDON VILLARREAL"
-          },
-          {
-            "day": "JUEVES",
-            "time": "11:00 - 12:00",
-            "building": "",
-            "room": "",
-            "professor": "NYDIA PAOLA RONDON VILLARREAL"
-          }
-        ]
-      },
-      {
-        "sku": "F1",
-        "capacity": 35,
-        "enrolled": 26,
-        "schedule": [
-          {
-            "day": "JUEVES",
-            "time": "17:00 - 19:00",
-            "building": "",
-            "room": "",
-            "professor": "ROSAURA GUTIERREZ ALMEYDA"
-          },
-          {
-            "day": "JUEVES",
-            "time": "19:00 - 20:00",
-            "building": "",
-            "room": "",
-            "professor": "ROSAURA GUTIERREZ ALMEYDA"
-          }
-        ]
-      }
-    ],
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA BIOMEDICA",
@@ -23567,50 +23375,7 @@
     "credits": 3,
     "requirements": [],
     "level": 3,
-    "groups": [
-      {
-        "sku": "B1",
-        "capacity": 23,
-        "enrolled": 23,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "9:00 - 11:00",
-            "building": "",
-            "room": "",
-            "professor": "FREDY FABIAN PARADA BECERRA"
-          },
-          {
-            "day": "VIERNES",
-            "time": "9:00 - 12:00",
-            "building": "",
-            "room": "",
-            "professor": "FREDY FABIAN PARADA BECERRA"
-          }
-        ]
-      },
-      {
-        "sku": "F1",
-        "capacity": 23,
-        "enrolled": 20,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "16:00 - 18:00",
-            "building": "",
-            "room": "",
-            "professor": "FREDY FABIAN PARADA BECERRA"
-          },
-          {
-            "day": "VIERNES",
-            "time": "16:00 - 19:00",
-            "building": "",
-            "room": "",
-            "professor": "FREDY FABIAN PARADA BECERRA"
-          }
-        ]
-      }
-    ],
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA BIOMEDICA",
@@ -23625,120 +23390,7 @@
     "credits": 3,
     "requirements": [],
     "level": 3,
-    "groups": [
-      {
-        "sku": "A",
-        "capacity": 30,
-        "enrolled": 0,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "14:00 - 15:00",
-            "building": "",
-            "room": "",
-            "professor": ""
-          },
-          {
-            "day": "JUEVES",
-            "time": "6:00 - 7:00",
-            "building": "",
-            "room": "",
-            "professor": ""
-          },
-          {
-            "day": "JUEVES",
-            "time": "7:00 - 8:00",
-            "building": "",
-            "room": "",
-            "professor": ""
-          }
-        ]
-      },
-      {
-        "sku": "B",
-        "capacity": 30,
-        "enrolled": 0,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "15:00 - 16:00",
-            "building": "",
-            "room": "",
-            "professor": ""
-          },
-          {
-            "day": "JUEVES",
-            "time": "6:00 - 7:00",
-            "building": "",
-            "room": "",
-            "professor": ""
-          },
-          {
-            "day": "JUEVES",
-            "time": "7:00 - 8:00",
-            "building": "",
-            "room": "",
-            "professor": ""
-          }
-        ]
-      },
-      {
-        "sku": "C",
-        "capacity": 30,
-        "enrolled": 0,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "16:00 - 17:00",
-            "building": "",
-            "room": "",
-            "professor": "ANGIE SIDNEY NARANJO GARCIA"
-          },
-          {
-            "day": "JUEVES",
-            "time": "6:00 - 7:00",
-            "building": "",
-            "room": "",
-            "professor": ""
-          },
-          {
-            "day": "JUEVES",
-            "time": "7:00 - 8:00",
-            "building": "",
-            "room": "",
-            "professor": ""
-          }
-        ]
-      },
-      {
-        "sku": "D",
-        "capacity": 30,
-        "enrolled": 0,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "17:00 - 18:00",
-            "building": "",
-            "room": "",
-            "professor": "ANGIE SIDNEY NARANJO GARCIA"
-          },
-          {
-            "day": "JUEVES",
-            "time": "6:00 - 7:00",
-            "building": "",
-            "room": "",
-            "professor": ""
-          },
-          {
-            "day": "JUEVES",
-            "time": "7:00 - 8:00",
-            "building": "",
-            "room": "",
-            "professor": ""
-          }
-        ]
-      }
-    ],
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA BIOMEDICA",
@@ -23753,50 +23405,7 @@
     "credits": 3,
     "requirements": [],
     "level": 3,
-    "groups": [
-      {
-        "sku": "B1",
-        "capacity": 21,
-        "enrolled": 21,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "7:00 - 8:00",
-            "building": "",
-            "room": "",
-            "professor": "ADRIANA LUCIA MANOSALVA CORTES"
-          },
-          {
-            "day": "JUEVES",
-            "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
-            "professor": "ADRIANA LUCIA MANOSALVA CORTES"
-          }
-        ]
-      },
-      {
-        "sku": "B2",
-        "capacity": 21,
-        "enrolled": 13,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "8:00 - 9:00",
-            "building": "",
-            "room": "",
-            "professor": "ADRIANA LUCIA MANOSALVA CORTES"
-          },
-          {
-            "day": "JUEVES",
-            "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
-            "professor": "ADRIANA LUCIA MANOSALVA CORTES"
-          }
-        ]
-      }
-    ],
+    "groups": [],
     "program": [
       {
         "name": "INGENIERIA BIOMEDICA",
@@ -24365,7 +23974,7 @@
       {
         "sku": "PF1",
         "capacity": 32,
-        "enrolled": 30,
+        "enrolled": 31,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -32558,15 +32167,15 @@
           {
             "day": "MIERCOLES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "MARKUS HANS OLIVER DOERR"
           },
           {
             "day": "VIERNES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "MARKUS HANS OLIVER DOERR"
           }
         ]
@@ -32579,15 +32188,15 @@
           {
             "day": "MIERCOLES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "LEONARDO MUÑOZ RUGELES"
           },
           {
             "day": "VIERNES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "LEONARDO MUÑOZ RUGELES"
           }
         ]
@@ -32618,7 +32227,7 @@
             "time": "14:00 - 17:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "215",
-            "professor": "ANGIE NATHALIA PINZON SARMIENTO"
+            "professor": "GERALDINE ALVAREZ GONZALEZ"
           }
         ]
       },
@@ -32632,7 +32241,7 @@
             "time": "14:00 - 17:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "215",
-            "professor": ""
+            "professor": "ANGIE NATHALIA PINZON SARMIENTO"
           }
         ]
       },
@@ -32924,15 +32533,15 @@
           {
             "day": "MARTES",
             "time": "6:00 - 8:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "DANIEL RICARDO MOLINA VELASCO"
           },
           {
             "day": "JUEVES",
             "time": "6:00 - 8:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "DANIEL RICARDO MOLINA VELASCO"
           }
         ]
@@ -32945,15 +32554,15 @@
           {
             "day": "MIERCOLES",
             "time": "14:00 - 16:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "LILI DAHIANA BECERRA GARCIA"
           },
           {
             "day": "VIERNES",
             "time": "14:00 - 16:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "LILI DAHIANA BECERRA GARCIA"
           }
         ]
@@ -33220,15 +32829,15 @@
           {
             "day": "LUNES",
             "time": "10:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "206",
             "professor": "FERNANDO MARTINEZ ORTEGA"
           },
           {
             "day": "MIERCOLES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "206",
             "professor": "FERNANDO MARTINEZ ORTEGA"
           }
         ]
@@ -33241,15 +32850,15 @@
           {
             "day": "LUNES",
             "time": "11:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "206",
             "professor": "FERNANDO MARTINEZ ORTEGA"
           },
           {
             "day": "VIERNES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "206",
             "professor": "FERNANDO MARTINEZ ORTEGA"
           }
         ]
@@ -33280,15 +32889,15 @@
           {
             "day": "MARTES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "JOHN JAIRO CASTILLO LEON"
           },
           {
             "day": "JUEVES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "JOHN JAIRO CASTILLO LEON"
           }
         ]
@@ -33301,15 +32910,15 @@
           {
             "day": "MIERCOLES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "JOHN JAIRO CASTILLO LEON"
           },
           {
             "day": "VIERNES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "JOHN JAIRO CASTILLO LEON"
           }
         ]
@@ -33356,7 +32965,7 @@
             "time": "14:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "216",
-            "professor": ""
+            "professor": "JHOAN SEBASTIAN ORTEGA RODRIGUEZ"
           }
         ]
       },
@@ -33370,7 +32979,7 @@
             "time": "14:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "216",
-            "professor": ""
+            "professor": "JHOAN SEBASTIAN ORTEGA RODRIGUEZ"
           }
         ]
       }
@@ -33398,22 +33007,22 @@
           {
             "day": "MARTES",
             "time": "10:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "JUAN MANUEL URBINA GONZALEZ"
           },
           {
             "day": "MIERCOLES",
             "time": "10:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "JUAN MANUEL URBINA GONZALEZ"
           },
           {
             "day": "JUEVES",
             "time": "10:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "JUAN MANUEL URBINA GONZALEZ"
           }
         ]
@@ -33426,22 +33035,22 @@
           {
             "day": "MARTES",
             "time": "11:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "JUAN MANUEL URBINA GONZALEZ"
           },
           {
             "day": "MIERCOLES",
             "time": "11:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "JUAN MANUEL URBINA GONZALEZ"
           },
           {
             "day": "JUEVES",
             "time": "11:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "JUAN MANUEL URBINA GONZALEZ"
           }
         ]
@@ -33532,15 +33141,15 @@
           {
             "day": "MIERCOLES",
             "time": "7:00 - 8:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "ENRIQUE MEJIA OSPINO"
           },
           {
             "day": "VIERNES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "ENRIQUE MEJIA OSPINO"
           }
         ]
@@ -33553,15 +33162,15 @@
           {
             "day": "MIERCOLES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "ENRIQUE MEJIA OSPINO"
           },
           {
             "day": "VIERNES",
             "time": "7:00 - 8:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "ENRIQUE MEJIA OSPINO"
           }
         ]
@@ -33680,15 +33289,15 @@
           {
             "day": "LUNES",
             "time": "10:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "205",
             "professor": "MARIANNY YAJAIRA COMBARIZA MONTAÑEZ"
           },
           {
             "day": "MARTES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "205",
             "professor": "MARIANNY YAJAIRA COMBARIZA MONTAÑEZ"
           }
         ]
@@ -33719,15 +33328,15 @@
           {
             "day": "MARTES",
             "time": "10:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "202",
             "professor": "ALIRIO PALMA RODRIGUEZ"
           },
           {
             "day": "JUEVES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "202",
             "professor": "ALIRIO PALMA RODRIGUEZ"
           }
         ]
@@ -33740,15 +33349,15 @@
           {
             "day": "MARTES",
             "time": "11:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "202",
             "professor": "ALIRIO PALMA RODRIGUEZ"
           },
           {
             "day": "VIERNES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "202",
             "professor": "ALIRIO PALMA RODRIGUEZ"
           }
         ]
@@ -33781,7 +33390,7 @@
             "time": "14:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "219",
-            "professor": ""
+            "professor": "DIANA MARCELA ARDILA RODRIGUEZ"
           }
         ]
       },
@@ -33809,7 +33418,7 @@
             "time": "14:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "220",
-            "professor": ""
+            "professor": "GERALDINE ALVAREZ GONZALEZ"
           }
         ]
       }
@@ -33839,15 +33448,15 @@
           {
             "day": "MARTES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "MARKUS HANS OLIVER DOERR"
           },
           {
             "day": "JUEVES",
             "time": "8:00 - 9:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": ""
           }
         ]
@@ -33894,7 +33503,7 @@
             "time": "8:00 - 12:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "213",
-            "professor": ""
+            "professor": "LADY JOHANNA SIERRA PRADA"
           }
         ]
       },
@@ -33998,15 +33607,15 @@
           {
             "day": "LUNES",
             "time": "10:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "204",
             "professor": "ARNOLD RAFAEL ROMERO BOHORQUEZ"
           },
           {
             "day": "MARTES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "204",
             "professor": "ARNOLD RAFAEL ROMERO BOHORQUEZ"
           }
         ]
@@ -34019,15 +33628,15 @@
           {
             "day": "LUNES",
             "time": "11:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "204",
             "professor": "ARNOLD RAFAEL ROMERO BOHORQUEZ"
           },
           {
             "day": "JUEVES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "204",
             "professor": "ARNOLD RAFAEL ROMERO BOHORQUEZ"
           }
         ]
@@ -34081,14 +33690,14 @@
             "time": "13:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "220",
-            "professor": ""
+            "professor": "DIANA ROCIO VERA ALARCON"
           },
           {
             "day": "JUEVES",
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "220",
-            "professor": ""
+            "professor": "DIANA ROCIO VERA ALARCON"
           }
         ]
       },
@@ -34102,14 +33711,14 @@
             "time": "13:00 - 16:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "220",
-            "professor": ""
+            "professor": "DIANA MARCELA ARDILA RODRIGUEZ"
           },
           {
             "day": "LUNES",
             "time": "16:00 - 18:00",
             "building": "LABORATORIOS LIVIANOS",
             "room": "220",
-            "professor": ""
+            "professor": "DIANA MARCELA ARDILA RODRIGUEZ"
           }
         ]
       }
@@ -34139,15 +33748,15 @@
           {
             "day": "MARTES",
             "time": "8:00 - 9:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "HERMINSUL DE JESUS CANO CALLE"
           },
           {
             "day": "JUEVES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "HERMINSUL DE JESUS CANO CALLE"
           }
         ]
@@ -34176,8 +33785,8 @@
           {
             "day": "VIERNES",
             "time": "8:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "204",
             "professor": "JOSE ANTONIO HENAO MARTINEZ"
           }
         ]
@@ -34190,15 +33799,15 @@
           {
             "day": "MARTES",
             "time": "12:00 - 13:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "VERONICA GARCIA ROJAS"
           },
           {
             "day": "VIERNES",
             "time": "12:00 - 14:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "VERONICA GARCIA ROJAS"
           }
         ]
@@ -34347,15 +33956,15 @@
           {
             "day": "MIERCOLES",
             "time": "16:00 - 18:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "JAIRO RENE MARTINEZ MORALES"
           },
           {
             "day": "VIERNES",
             "time": "11:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "203",
             "professor": "JAIRO RENE MARTINEZ MORALES"
           }
         ]
@@ -34386,15 +33995,15 @@
           {
             "day": "MIERCOLES",
             "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "508",
             "professor": ""
           },
           {
             "day": "VIERNES",
             "time": "10:00 - 11:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "508",
             "professor": "STELIA CAROLINA MENDEZ SANCHEZ"
           }
         ]
@@ -34478,15 +34087,15 @@
           {
             "day": "LUNES",
             "time": "12:00 - 13:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "JHON FREDY PEREZ TORRES"
           },
           {
             "day": "MIERCOLES",
             "time": "12:00 - 14:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "VERONICA GARCIA ROJAS"
           }
         ]
@@ -34499,15 +34108,15 @@
           {
             "day": "LUNES",
             "time": "13:00 - 14:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "JHON FREDY PEREZ TORRES"
           },
           {
             "day": "VIERNES",
             "time": "12:00 - 14:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "207",
             "professor": "JHON FREDY PEREZ TORRES"
           }
         ]
@@ -34582,15 +34191,15 @@
           {
             "day": "LUNES",
             "time": "14:00 - 16:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "508",
             "professor": "DROCHSS PETTRY VALENCIA OCHOA"
           },
           {
             "day": "MIERCOLES",
             "time": "15:00 - 16:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "508",
             "professor": ""
           }
         ]
@@ -34619,15 +34228,15 @@
           {
             "day": "JUEVES",
             "time": "7:00 - 8:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "205",
             "professor": ""
           },
           {
             "day": "JUEVES",
             "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "205",
             "professor": "JUAN CARLOS POVEDA JARAMILLO"
           }
         ]
@@ -34656,15 +34265,15 @@
           {
             "day": "LUNES",
             "time": "18:00 - 20:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": "DUBAN FABIAN GARCIA NAVAS"
           },
           {
             "day": "MIERCOLES",
             "time": "18:00 - 19:00",
-            "building": "",
-            "room": "",
+            "building": "CAMILO TORRES",
+            "room": "208",
             "professor": ""
           }
         ]
@@ -35014,6 +34623,5605 @@
       {
         "name": "QUIMICA",
         "id": 14,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41058",
+    "name": "Matemáticas I",
+    "credits": 2,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41059",
+    "name": "Química I",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41060",
+    "name": "Biología general",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41061",
+    "name": "Física",
+    "credits": 2,
+    "requirements": [],
+    "level": 1,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "24988",
+    "name": "Bioética",
+    "credits": 2,
+    "requirements": [],
+    "level": 1,
+    "groups": [
+      {
+        "sku": "H2",
+        "capacity": 31,
+        "enrolled": 31,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "SAUL ERNESTO GARCIA SERRANO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "CINDY TATIANA DAZA RIOS"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41062",
+    "name": "Matemáticas II",
+    "credits": 2,
+    "requirements": [
+      "41058"
+    ],
+    "level": 2,
+    "groups": [
+      {
+        "sku": "M01",
+        "capacity": 26,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 15:00",
+            "building": "",
+            "room": "",
+            "professor": "MAIRA ALEJANDRA DIAZ HERNANDEZ"
+          },
+          {
+            "day": "MARTES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "MAIRA ALEJANDRA DIAZ HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "M02",
+        "capacity": 25,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "MAIRA ALEJANDRA DIAZ HERNANDEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "19:00 - 21:00",
+            "building": "",
+            "room": "",
+            "professor": "MAIRA ALEJANDRA DIAZ HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "M03",
+        "capacity": 25,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "KAREN DANIELA ARANA ROMERO"
+          },
+          {
+            "day": "MARTES",
+            "time": "9:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "KAREN DANIELA ARANA ROMERO"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41063",
+    "name": "Química II",
+    "credits": 4,
+    "requirements": [
+      "41059"
+    ],
+    "level": 2,
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 14,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 9:00",
+            "building": "LABORATORIOS LIVIANOS",
+            "room": "220",
+            "professor": "STEPHANIE SANCHEZ CASTRILLON"
+          },
+          {
+            "day": "MARTES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS MARIO SANABRIA SANCHEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS MARIO SANABRIA SANCHEZ"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 14,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "9:00 - 11:00",
+            "building": "LABORATORIOS LIVIANOS",
+            "room": "220",
+            "professor": "STEPHANIE SANCHEZ CASTRILLON"
+          },
+          {
+            "day": "MARTES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS MARIO SANABRIA SANCHEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS MARIO SANABRIA SANCHEZ"
+          }
+        ]
+      },
+      {
+        "sku": "A3",
+        "capacity": 14,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS MARIO SANABRIA SANCHEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS MARIO SANABRIA SANCHEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "9:00 - 11:00",
+            "building": "LABORATORIOS LIVIANOS",
+            "room": "219",
+            "professor": "JUAN NICOLAS FUENTES PINTO"
+          }
+        ]
+      },
+      {
+        "sku": "A4",
+        "capacity": 14,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS MARIO SANABRIA SANCHEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS MARIO SANABRIA SANCHEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "11:00 - 13:00",
+            "building": "LABORATORIOS LIVIANOS",
+            "room": "219",
+            "professor": "JUAN NICOLAS FUENTES PINTO"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41064",
+    "name": "Microbiología general",
+    "credits": 3,
+    "requirements": [
+      "41060"
+    ],
+    "level": 2,
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 15,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "CLARA INES SANCHEZ SUAREZ"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JESUS ANTONIO BETANCOURT ECHEVERRI"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "9:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "HEIDER CARREÑO GARCIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "GIOVANNA RINCON CRUZ"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 15,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "CLARA INES SANCHEZ SUAREZ"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JESUS ANTONIO BETANCOURT ECHEVERRI"
+          }
+        ]
+      },
+      {
+        "sku": "A3",
+        "capacity": 15,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "CLARA INES SANCHEZ SUAREZ"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JESUS ANTONIO BETANCOURT ECHEVERRI"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "GIOVANNA RINCON CRUZ"
+          }
+        ]
+      },
+      {
+        "sku": "A4",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "CLARA INES SANCHEZ SUAREZ"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JESUS ANTONIO BETANCOURT ECHEVERRI"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "HEIDER CARREÑO GARCIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "GIOVANNA RINCON CRUZ"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41065",
+    "name": "Morfofisiología",
+    "credits": 3,
+    "requirements": [],
+    "level": 2,
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 32,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "JOHN JAIME QUIMBAYA RAMIREZ"
+          },
+          {
+            "day": "LUNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ANGIE SIDNEY NARANJO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "B2",
+        "capacity": 32,
+        "enrolled": 31,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "ANGIE SIDNEY NARANJO GARCIA"
+          },
+          {
+            "day": "MARTES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41066",
+    "name": "Bioestadística",
+    "credits": 3,
+    "requirements": [
+      "41062"
+    ],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41067",
+    "name": "Bioquímica I",
+    "credits": 3,
+    "requirements": [
+      "41063"
+    ],
+    "level": 3,
+    "groups": [
+      {
+        "sku": "J1",
+        "capacity": 16,
+        "enrolled": 8,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS ALIRIO LAZARO SALAZAR"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "VIERNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JOSE ARTURO GUTIERREZ TRIANA"
+          }
+        ]
+      },
+      {
+        "sku": "J2",
+        "capacity": 16,
+        "enrolled": 10,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "15:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS ALIRIO LAZARO SALAZAR"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "VIERNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JOSE ARTURO GUTIERREZ TRIANA"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41068",
+    "name": "Inmunología",
+    "credits": 3,
+    "requirements": [
+      "41060"
+    ],
+    "level": 3,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "24982",
+    "name": "Administración general",
+    "credits": 2,
+    "requirements": [
+      "41058"
+    ],
+    "level": 3,
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 22,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "WILMAN DAVID SALGUEDO OLIVERO"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 22,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "WILMAN DAVID SALGUEDO OLIVERO"
+          }
+        ]
+      },
+      {
+        "sku": "A3",
+        "capacity": 22,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "WILMAN DAVID SALGUEDO OLIVERO"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41069",
+    "name": "Parasitología",
+    "credits": 4,
+    "requirements": [
+      "41064"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41070",
+    "name": "Fisiología microbiana",
+    "credits": 3,
+    "requirements": [
+      "41067"
+    ],
+    "level": 4,
+    "groups": [
+      {
+        "sku": "CD1",
+        "capacity": 1,
+        "enrolled": 1,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "LUNES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "LUNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "GERMAN ALEXIS ZAFRA SIERRA"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41071",
+    "name": "Micología",
+    "credits": 3,
+    "requirements": [
+      "41064"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41072",
+    "name": "Biología molecular",
+    "credits": 3,
+    "requirements": [
+      "41067"
+    ],
+    "level": 4,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41073",
+    "name": "Bacteriología determinativa",
+    "credits": 3,
+    "requirements": [],
+    "level": 5,
+    "groups": [
+      {
+        "sku": "H1",
+        "capacity": 15,
+        "enrolled": 10,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS EDUARDO ALVAREZ CARVAJAL"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS EDUARDO ALVAREZ CARVAJAL"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 15:00",
+            "building": "",
+            "room": "",
+            "professor": "GIOVANNA RINCON CRUZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS EDUARDO ALVAREZ CARVAJAL"
+          }
+        ]
+      },
+      {
+        "sku": "H2",
+        "capacity": 16,
+        "enrolled": 11,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41074",
+    "name": "Bioquímica II",
+    "credits": 3,
+    "requirements": [
+      "41070"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41075",
+    "name": "Virología",
+    "credits": 3,
+    "requirements": [
+      "41068"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41076",
+    "name": "Genética",
+    "credits": 3,
+    "requirements": [
+      "41072"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "24983",
+    "name": "Epidemiología",
+    "credits": 2,
+    "requirements": [
+      "41066"
+    ],
+    "level": 5,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41077",
+    "name": "Hematología I",
+    "credits": 4,
+    "requirements": [
+      "41068"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41078",
+    "name": "Química clínica",
+    "credits": 4,
+    "requirements": [
+      "41074"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41079",
+    "name": "Microbiología de alimentos",
+    "credits": 3,
+    "requirements": [
+      "41073"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "24987",
+    "name": "Salud pública",
+    "credits": 2,
+    "requirements": [
+      "24983"
+    ],
+    "level": 6,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41080",
+    "name": "Hematología II",
+    "credits": 2,
+    "requirements": [
+      "41077"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41081",
+    "name": "Biotecnología",
+    "credits": 3,
+    "requirements": [
+      "41072"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41082",
+    "name": "Microbiología Industrial",
+    "credits": 3,
+    "requirements": [
+      "41079"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41083",
+    "name": "Fitopatología",
+    "credits": 3,
+    "requirements": [
+      "41071"
+    ],
+    "level": 7,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41084",
+    "name": "Gestión y Garantía de la Calidad en Laboratorios",
+    "credits": 2,
+    "requirements": [
+      "24982"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41085",
+    "name": "Toxicología",
+    "credits": 3,
+    "requirements": [
+      "41078"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41086",
+    "name": "Microbiología ambiental",
+    "credits": 3,
+    "requirements": [
+      "41081"
+    ],
+    "level": 8,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "24989",
+    "name": "Metodología de la investigación",
+    "credits": 2,
+    "requirements": [
+      "24987"
+    ],
+    "level": 8,
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 17,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "AURORA INES GAFARO ROJAS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "AURORA INES GAFARO ROJAS"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 17,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "9:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "AURORA INES GAFARO ROJAS"
+          }
+        ]
+      },
+      {
+        "sku": "A3",
+        "capacity": 16,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41087",
+    "name": "Práctica Profesional I",
+    "credits": 17,
+    "requirements": [],
+    "level": 9,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41088",
+    "name": "Práctica Profesional II",
+    "credits": 17,
+    "requirements": [
+      "41087"
+    ],
+    "level": 10,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41089",
+    "name": "Microbiología clínica e infectología",
+    "credits": 3,
+    "requirements": [
+      "41073"
+    ],
+    "level": null,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41090",
+    "name": "Patología y citología",
+    "credits": 3,
+    "requirements": [
+      "41065"
+    ],
+    "level": null,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41091",
+    "name": "Toxicología ambiental",
+    "credits": 3,
+    "requirements": [
+      "41074"
+    ],
+    "level": null,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41092",
+    "name": "Primeros auxilios",
+    "credits": 3,
+    "requirements": [],
+    "level": null,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41093",
+    "name": "Bioinformática",
+    "credits": 3,
+    "requirements": [
+      "41072"
+    ],
+    "level": null,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "41094",
+    "name": "Parasitología humana y veterinaria",
+    "credits": 3,
+    "requirements": [
+      "41069"
+    ],
+    "level": null,
+    "groups": [],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      }
+    ]
+  },
+  {
+    "sku": "24979",
+    "name": "Biestadística",
+    "credits": null,
+    "requirements": [
+      "24969"
+    ],
+    "level": 4,
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 25,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 25,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "JOSE DE JESUS MORENO MONTOYA"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "JOSE DE JESUS MORENO MONTOYA"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24980",
+    "name": "Bioquímica I",
+    "credits": null,
+    "requirements": [
+      "24976"
+    ],
+    "level": 4,
+    "groups": [
+      {
+        "sku": "J1",
+        "capacity": 16,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "15:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS ALIRIO LAZARO SALAZAR"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "JOSE ARTURO GUTIERREZ TRIANA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "J2",
+        "capacity": 16,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS ALIRIO LAZARO SALAZAR"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "JOSE ARTURO GUTIERREZ TRIANA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24981",
+    "name": "Bacteriología Determinativa",
+    "credits": null,
+    "requirements": [
+      "24977"
+    ],
+    "level": 4,
+    "groups": [
+      {
+        "sku": "H1",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS ALIRIO LAZARO SALAZAR"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "JOSE ARTURO GUTIERREZ TRIANA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "H2",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS ALIRIO LAZARO SALAZAR"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "JOSE ARTURO GUTIERREZ TRIANA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "H3",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "GIOVANNA RINCON CRUZ"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24991",
+    "name": "Hematología I",
+    "credits": null,
+    "requirements": [
+      "24978",
+      "24984"
+    ],
+    "level": 4,
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 16,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "MIKE ALEXANDER CELIS RODRIGUEZ"
+          },
+          {
+            "day": "MARTES",
+            "time": "14:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DIEGO FERNANDO RINCON REYES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "MIKE ALEXANDER CELIS RODRIGUEZ"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 16,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "MIKE ALEXANDER CELIS RODRIGUEZ"
+          }
+        ]
+      },
+      {
+        "sku": "A3",
+        "capacity": 16,
+        "enrolled": 12,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "MIKE ALEXANDER CELIS RODRIGUEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "MIKE ALEXANDER CELIS RODRIGUEZ"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24990",
+    "name": "Parasitología",
+    "credits": null,
+    "requirements": [
+      "24977",
+      "24984"
+    ],
+    "level": 4,
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 17,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 17,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "A3",
+        "capacity": 17,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28101",
+    "name": "Primeros auxilios",
+    "credits": null,
+    "requirements": [],
+    "level": 4,
+    "groups": [
+      {
+        "sku": "C1",
+        "capacity": 6,
+        "enrolled": 6,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "9:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "LEIDY JOHANNA CORDERO ROBAYO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "9:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "LEIDY JOHANNA CORDERO ROBAYO"
+          }
+        ]
+      },
+      {
+        "sku": "C2",
+        "capacity": 6,
+        "enrolled": 6,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 15:00",
+            "building": "",
+            "room": "",
+            "professor": "LEIDY JOHANNA CORDERO ROBAYO"
+          },
+          {
+            "day": "LUNES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "LEIDY JOHANNA CORDERO ROBAYO"
+          },
+          {
+            "day": "LUNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "LEIDY JOHANNA CORDERO ROBAYO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "9:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "LEIDY JOHANNA CORDERO ROBAYO"
+          }
+        ]
+      },
+      {
+        "sku": "C3",
+        "capacity": 6,
+        "enrolled": 6,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "JUDITH RUIZ REYES"
+          },
+          {
+            "day": "VIERNES",
+            "time": "9:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "LEIDY JOHANNA CORDERO ROBAYO"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "25003",
+    "name": "Microbiología Ambiental",
+    "credits": null,
+    "requirements": [
+      "24977"
+    ],
+    "level": 4,
+    "groups": [
+      {
+        "sku": "D1",
+        "capacity": 16,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "GERMAN ALEXIS ZAFRA SIERRA"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "25001",
+    "name": "Fitopatologia",
+    "credits": null,
+    "requirements": [
+      "24985"
+    ],
+    "level": 4,
+    "groups": [
+      {
+        "sku": "H1",
+        "capacity": 16,
+        "enrolled": 1,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "MONICA FAJARDO LOPEZ"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24999",
+    "name": "Administración y gestión de la calidad",
+    "credits": null,
+    "requirements": [
+      "24982"
+    ],
+    "level": 4,
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 22,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "WILMAN DAVID SALGUEDO OLIVERO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "WILMAN DAVID SALGUEDO OLIVERO"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24997",
+    "name": "Introducción a la Practica",
+    "credits": null,
+    "requirements": [
+      "24969"
+    ],
+    "level": 4,
+    "groups": [
+      {
+        "sku": "D1",
+        "capacity": 17,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "RAUL FERNANDO SIERRA BALCARCEL"
+          },
+          {
+            "day": "LUNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "RAUL FERNANDO SIERRA BALCARCEL"
+          }
+        ]
+      },
+      {
+        "sku": "D2",
+        "capacity": 17,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "LUNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "D3",
+        "capacity": 16,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "LUNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24998",
+    "name": "Microbiología Industrial",
+    "credits": null,
+    "requirements": [
+      "24976"
+    ],
+    "level": 4,
+    "groups": [
+      {
+        "sku": "H1",
+        "capacity": 16,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "LUNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "H2",
+        "capacity": 16,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "LUNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "H3",
+        "capacity": 16,
+        "enrolled": 9,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "LUNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "25002",
+    "name": "Microbiología clínica e infectología",
+    "credits": null,
+    "requirements": [
+      "24993"
+    ],
+    "level": 4,
+    "groups": [
+      {
+        "sku": "PD1",
+        "capacity": 16,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "LUNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "25315",
+    "name": "LENGUA DE SEÑAS",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 12:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "510",
+            "professor": "LUISA FERNANDA HERNANDEZ VALDIVIESO"
+          }
+        ]
+      },
+      {
+        "sku": "B2",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 12:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "513",
+            "professor": "CLAUDIA PATRICIA HERNANDEZ VALDIVIESO"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21280",
+    "name": "BALONCESTO (MASCULINO)",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "A01",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "6:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "AURELIANO MONTAÑEZ PINZON"
+          }
+        ]
+      },
+      {
+        "sku": "B01",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "AURELIANO MONTAÑEZ PINZON"
+          }
+        ]
+      },
+      {
+        "sku": "B02",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "MONICA SUAREZ LEON"
+          }
+        ]
+      },
+      {
+        "sku": "E01",
+        "capacity": 15,
+        "enrolled": 11,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "AURELIANO MONTAÑEZ PINZON"
+          }
+        ]
+      },
+      {
+        "sku": "F01",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "AURELIANO MONTAÑEZ PINZON"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21281",
+    "name": "NATACION",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "A01",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "A02",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "A03",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "A04",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "B01",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "9:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "B02",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "9:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "B03",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "B04",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "9:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21282",
+    "name": "GIMNASIA ESTETICA",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "B01",
+        "capacity": 16,
+        "enrolled": 12,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "MONICA SUAREZ LEON"
+          }
+        ]
+      },
+      {
+        "sku": "C01",
+        "capacity": 16,
+        "enrolled": 5,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "MONICA SUAREZ LEON"
+          }
+        ]
+      },
+      {
+        "sku": "C02",
+        "capacity": 16,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "MONICA SUAREZ LEON"
+          }
+        ]
+      },
+      {
+        "sku": "E01",
+        "capacity": 16,
+        "enrolled": 6,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "MONICA SUAREZ LEON"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21283",
+    "name": "GIMNASIA FORMATIVA",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "A01",
+        "capacity": 16,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN SEBASTIAN DEL VILLAR NIETO"
+          }
+        ]
+      },
+      {
+        "sku": "B01",
+        "capacity": 16,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN SEBASTIAN DEL VILLAR NIETO"
+          }
+        ]
+      },
+      {
+        "sku": "B02",
+        "capacity": 16,
+        "enrolled": 8,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN SEBASTIAN DEL VILLAR NIETO"
+          }
+        ]
+      },
+      {
+        "sku": "B03",
+        "capacity": 16,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN SEBASTIAN DEL VILLAR NIETO"
+          }
+        ]
+      },
+      {
+        "sku": "B04",
+        "capacity": 16,
+        "enrolled": 8,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN SEBASTIAN DEL VILLAR NIETO"
+          }
+        ]
+      },
+      {
+        "sku": "E01",
+        "capacity": 16,
+        "enrolled": 6,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE ENRIQUE BUITRAGO ESPITIA"
+          }
+        ]
+      },
+      {
+        "sku": "E03",
+        "capacity": 16,
+        "enrolled": 1,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE ENRIQUE BUITRAGO ESPITIA"
+          }
+        ]
+      },
+      {
+        "sku": "F01",
+        "capacity": 16,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE ENRIQUE BUITRAGO ESPITIA"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21285",
+    "name": "ATLETISMO",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "B01",
+        "capacity": 17,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "LIANELL JOVA ELEJALDE"
+          }
+        ]
+      },
+      {
+        "sku": "B02",
+        "capacity": 17,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "LIANELL JOVA ELEJALDE"
+          }
+        ]
+      },
+      {
+        "sku": "B03",
+        "capacity": 17,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "LIANELL JOVA ELEJALDE"
+          }
+        ]
+      },
+      {
+        "sku": "B04",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "LIANELL JOVA ELEJALDE"
+          }
+        ]
+      },
+      {
+        "sku": "F01",
+        "capacity": 17,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "LIANELL JOVA ELEJALDE"
+          }
+        ]
+      },
+      {
+        "sku": "F02",
+        "capacity": 17,
+        "enrolled": 7,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "FABIO ANDELFO VILLAFRADES GONZALEZ"
+          }
+        ]
+      },
+      {
+        "sku": "F03",
+        "capacity": 17,
+        "enrolled": 10,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "FABIO ANDELFO VILLAFRADES GONZALEZ"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21286",
+    "name": "EVENTOS DEPORTIVOS",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "C01",
+        "capacity": 25,
+        "enrolled": 9,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "RENE RINCON TORRES"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "RENE RINCON TORRES"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21275",
+    "name": "EL DEPORTE EN EL NUEVO MILENIO",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "C01",
+        "capacity": 25,
+        "enrolled": 8,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21277",
+    "name": "FUTBOL",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "C01",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          }
+        ]
+      },
+      {
+        "sku": "E01",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "AURELIANO MONTAÑEZ PINZON"
+          }
+        ]
+      },
+      {
+        "sku": "E03",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "AURELIANO MONTAÑEZ PINZON"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24464",
+    "name": "FUTBOL SALA (MASCULINO)",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "B01",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "RENE RINCON TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "B02",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "RENE RINCON TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "B03",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "RENE RINCON TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "B04",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "RENE RINCON TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "B05",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "RENE RINCON TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "C01",
+        "capacity": 20,
+        "enrolled": 5,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "RENE RINCON TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "C02",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "RENE RINCON TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "C03",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "RENE RINCON TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "C04",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "RENE RINCON TORRES"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "24463",
+    "name": "FUTBOL SALA (FEMENINO)",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "C01",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "RENE RINCON TORRES"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21269",
+    "name": "TAEKWONDO (MIXTO)",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "B01",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          }
+        ]
+      },
+      {
+        "sku": "B02",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          }
+        ]
+      },
+      {
+        "sku": "B03",
+        "capacity": 20,
+        "enrolled": 11,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          }
+        ]
+      },
+      {
+        "sku": "B04",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          }
+        ]
+      },
+      {
+        "sku": "B05",
+        "capacity": 20,
+        "enrolled": 4,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "23211",
+    "name": "TENIS DE MESA",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "C01",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "MILTON ARCINIEGAS AYALA"
+          }
+        ]
+      },
+      {
+        "sku": "C02",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "MILTON ARCINIEGAS AYALA"
+          }
+        ]
+      },
+      {
+        "sku": "C03",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "MILTON ARCINIEGAS AYALA"
+          }
+        ]
+      },
+      {
+        "sku": "C04",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "MILTON ARCINIEGAS AYALA"
+          }
+        ]
+      },
+      {
+        "sku": "E01",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "MILTON ARCINIEGAS AYALA"
+          }
+        ]
+      },
+      {
+        "sku": "F01",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "MILTON ARCINIEGAS AYALA"
+          }
+        ]
+      },
+      {
+        "sku": "F02",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "MILTON ARCINIEGAS AYALA"
+          }
+        ]
+      },
+      {
+        "sku": "F03",
+        "capacity": 15,
+        "enrolled": 5,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "MILTON ARCINIEGAS AYALA"
+          }
+        ]
+      },
+      {
+        "sku": "F05",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "MILTON ARCINIEGAS AYALA"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21268",
+    "name": "VOLEIBOL (MASCULINO)",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "A01",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "RICARDO CASTELLANOS MARTINEZ"
+          }
+        ]
+      },
+      {
+        "sku": "A02",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "RICARDO CASTELLANOS MARTINEZ"
+          }
+        ]
+      },
+      {
+        "sku": "E01",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "DORIS ARGELY DUARTE QUIROZ"
+          }
+        ]
+      },
+      {
+        "sku": "E02",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "RICARDO CASTELLANOS MARTINEZ"
+          }
+        ]
+      },
+      {
+        "sku": "F01",
+        "capacity": 15,
+        "enrolled": 5,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DORIS ARGELY DUARTE QUIROZ"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40494",
+    "name": "FUNDAMEN EDICION ACADEMICA Y LITERARIA",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "D1",
+        "capacity": 20,
+        "enrolled": 5,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "13:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JOHANA ROJAS SIERRA"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28634",
+    "name": "TALLER DE CREACION LITERARIA",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 23,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JESUS ANTONIO ALVAREZ FLOREZ"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28635",
+    "name": "CINE Y LITERATURA",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "F1",
+        "capacity": 18,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 19:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "510",
+            "professor": "DANILO ANDRES REY JEREZ"
+          }
+        ]
+      },
+      {
+        "sku": "F2",
+        "capacity": 18,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 19:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "517",
+            "professor": "DANILO ANDRES REY JEREZ"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28595",
+    "name": "TRADUCCION DE TEXTOS I",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "F1",
+        "capacity": 15,
+        "enrolled": 5,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 19:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "501",
+            "professor": "JHULITZA MARIA YARCE FIALLO"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28596",
+    "name": "TRADUCCION DE TEXTOS II",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "F1",
+        "capacity": 15,
+        "enrolled": 4,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 19:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "411",
+            "professor": "LEONARDO AMADO RAMIREZ"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28597",
+    "name": "LENGUAS DE SEÑAS",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "D1",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "13:00 - 16:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "515",
+            "professor": "LUISA FERNANDA HERNANDEZ VALDIVIESO"
+          }
+        ]
+      },
+      {
+        "sku": "D2",
+        "capacity": 15,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "13:00 - 16:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "516",
+            "professor": "CLAUDIA PATRICIA HERNANDEZ VALDIVIESO"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 15,
+        "enrolled": 11,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 19:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "515",
+            "professor": "LUISA FERNANDA HERNANDEZ VALDIVIESO"
+          }
+        ]
+      },
+      {
+        "sku": "F2",
+        "capacity": 15,
+        "enrolled": 11,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 19:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "516",
+            "professor": "CLAUDIA PATRICIA HERNANDEZ VALDIVIESO"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28599",
+    "name": "LA DISCAPACIDAD VISUAL EN EL AULA",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "D1",
+        "capacity": 20,
+        "enrolled": 11,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "13:00 - 16:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "303",
+            "professor": "SONIA PATRICIA DIAZ OROZCO"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "28602",
+    "name": "ESPAÑOL COMO LENGUA EXTRANJERA",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "E1",
+        "capacity": 18,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "13:00 - 16:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "401",
+            "professor": "LUZ HELENA PRADA RAMIREZ"
+          }
+        ]
+      },
+      {
+        "sku": "E2",
+        "capacity": 18,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "13:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "RICARDO ANDRES QUINTERO CELIS"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21043",
+    "name": "SEMINARIO DE TOPI.ESPCIALES I",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "A",
+        "capacity": 20,
+        "enrolled": 8,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 17:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "614",
+            "professor": "MIGUEL DARIO CUADROS SANCHEZ"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "20189",
+    "name": "ASTRONOMIA PLANETARIA",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 32,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN CARLOS BASTO PINEDA"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN CARLOS BASTO PINEDA"
+          }
+        ]
+      },
+      {
+        "sku": "B2",
+        "capacity": 32,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN CARLOS BASTO PINEDA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN CARLOS BASTO PINEDA"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "23670",
+    "name": "PRIMEROS AUXILIOS",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "E1",
+        "capacity": 7,
+        "enrolled": 2,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "REYNEL ALBERTO RIVERO FLOREZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "REYNEL ALBERTO RIVERO FLOREZ"
+          }
+        ]
+      },
+      {
+        "sku": "E2",
+        "capacity": 7,
+        "enrolled": 2,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "REYNEL ALBERTO RIVERO FLOREZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "LEIDY JOHANNA CORDERO ROBAYO"
+          }
+        ]
+      },
+      {
+        "sku": "E3",
+        "capacity": 7,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "REYNEL ALBERTO RIVERO FLOREZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "LUZ DARY SIERRA LEON"
+          }
+        ]
+      },
+      {
+        "sku": "E4",
+        "capacity": 7,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "REYNEL ALBERTO RIVERO FLOREZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "CLAUDIA MILENA VELASCO RANGEL"
+          }
+        ]
+      },
+      {
+        "sku": "E5",
+        "capacity": 7,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "REYNEL ALBERTO RIVERO FLOREZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "EDGAR ASMERT PINZON FUENTES"
+          }
+        ]
+      },
+      {
+        "sku": "E6",
+        "capacity": 7,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "REYNEL ALBERTO RIVERO FLOREZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "LUZ DALIA VALBUENA DURAN"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "21936",
+    "name": "EDUCACION SEXUAL",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "L1",
+        "capacity": 22,
+        "enrolled": 7,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 19:00",
+            "building": "ROBERTO SERPA",
+            "room": "203",
+            "professor": "CLAUDIA MILENA VELASCO RANGEL"
+          }
+        ]
+      },
+      {
+        "sku": "L2",
+        "capacity": 22,
+        "enrolled": 7,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 19:00",
+            "building": "ROBERTO SERPA",
+            "room": "306",
+            "professor": "NURY CONSTANZA GUERRERO PARRA"
+          }
+        ]
+      },
+      {
+        "sku": "L3",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 19:00",
+            "building": "ROBERTO SERPA",
+            "room": "306",
+            "professor": "MARIA CONSTANZA HAKSPIEL PLATA"
+          }
+        ]
+      },
+      {
+        "sku": "L4",
+        "capacity": 22,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 19:00",
+            "building": "ROBERTO SERPA",
+            "room": "203",
+            "professor": "MARIA CONSTANZA HAKSPIEL PLATA"
+          }
+        ]
+      },
+      {
+        "sku": "L5",
+        "capacity": 22,
+        "enrolled": 2,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA CAROLINA GALVIS PADILLA"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "22334",
+    "name": "PREVENCION DE DESASTRES",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "E2",
+        "capacity": 10,
+        "enrolled": 9,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA JOHANNA HERRERA ESPARZA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA JOHANNA HERRERA ESPARZA"
+          }
+        ]
+      },
+      {
+        "sku": "E3",
+        "capacity": 10,
+        "enrolled": 9,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA JOHANNA HERRERA ESPARZA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "MELBA JOHANA VARON CARDENAS"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 10,
+        "enrolled": 9,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA JOHANNA HERRERA ESPARZA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA MILENA GRAST SANCHEZ"
+          }
+        ]
+      },
+      {
+        "sku": "F4",
+        "capacity": 10,
+        "enrolled": 8,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA JOHANNA HERRERA ESPARZA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "LUZ DALIA VALBUENA DURAN"
+          }
+        ]
+      },
+      {
+        "sku": "F5",
+        "capacity": 10,
+        "enrolled": 9,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA JOHANNA HERRERA ESPARZA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "JUDITH RUIZ REYES"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "27007",
+    "name": "CINE, ECONOMIA Y SOCIEDAD",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "B",
+        "capacity": 30,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "304",
+            "professor": "RONALD RODNEY DUARTE MORENO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "411",
+            "professor": "RONALD RODNEY DUARTE MORENO"
+          }
+        ]
+      },
+      {
+        "sku": "C",
+        "capacity": 30,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "607",
+            "professor": "RONALD RODNEY DUARTE MORENO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 18:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "607",
+            "professor": "RONALD RODNEY DUARTE MORENO"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "26230",
+    "name": "DERECHO AMBIENTAL",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 20,
+        "enrolled": 9,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "507",
+            "professor": "MIGUEL FRANCISCO CONTRERAS LANDINEZ"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "40503",
+    "name": "DERECHO ANIMAL NO HUMANO Y SOCIEDAD",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "514",
+            "professor": "CAROLINA ISABEL MONTES PEREA"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "20521",
+    "name": "HISTORIA Y APRECIACION MUSICA I",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "C",
+        "capacity": 25,
+        "enrolled": 9,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "202",
+            "professor": "ROGER EDGARDO DIAZ CARREÑO"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "25091",
+    "name": "EXPRESION CORPORAL",
+    "credits": 0,
+    "groups": [
+      {
+        "sku": "C",
+        "capacity": 18,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "106",
+            "professor": "CHRISTIAN ALIRIO QUIJANO MARTINEZ"
+          }
+        ]
+      },
+      {
+        "sku": "E",
+        "capacity": 18,
+        "enrolled": 10,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "DANIEL CASAS",
+            "room": "106",
+            "professor": "CHRISTIAN ALIRIO QUIJANO MARTINEZ"
+          }
+        ]
+      },
+      {
+        "sku": "F",
+        "capacity": 18,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "DANIEL CASAS",
+            "room": "106",
+            "professor": "CHRISTIAN ALIRIO QUIJANO MARTINEZ"
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA DE SISTEMAS",
+        "id": 11,
+        "new_pensum": false
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL",
+        "id": 27,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA CIVIL",
+        "id": 21,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA DE PETROLEOS",
+        "id": 4,
+        "new_pensum": false
+      },
+      {
+        "name": "QUIMICA",
+        "id": 14,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA NUEVO",
+        "id": 58,
+        "new_pensum": true
+      },
+      {
+        "name": "DISEÑO INDUSTRIAL NUEVO",
+        "id": 27,
+        "new_pensum": true
+      },
+      {
+        "name": "INGENIERIA BIOMEDICA",
+        "id": 69,
+        "new_pensum": false
+      },
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "id": 58,
         "new_pensum": false
       }
     ]

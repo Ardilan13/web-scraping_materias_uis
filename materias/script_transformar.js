@@ -42,9 +42,6 @@ class GroupsTransformer {
         return transformedGroup;
     }
 
-    /**
-     * Transforma un array de grupos
-     */
     transformGroups(grupos) {
         if (!Array.isArray(grupos)) {
             throw new Error('El parámetro debe ser un array de grupos');
@@ -85,9 +82,8 @@ class GroupsTransformer {
         return transformed;
     }
 
-    async transformFile(inputPath, outputPath) {
+    async transformFile(inputPath) {
         try {
-            // Leer archivo
             const fileContent = fs.readFileSync(inputPath, 'utf8');
             const jsonData = JSON.parse(fileContent);
 
@@ -105,17 +101,11 @@ class GroupsTransformer {
                 throw new Error('Estructura JSON no reconocida. Debe contener materias con grupos o grupos directamente.');
             }
 
-            const outputDir = path.dirname(outputPath);
-            if (!fs.existsSync(outputDir)) {
-                fs.mkdirSync(outputDir, { recursive: true });
-            }
-
-
-            fs.writeFileSync(outputPath, JSON.stringify(transformedData, null, 2), 'utf8');
+            // Sobrescribir el archivo original
+            fs.writeFileSync(inputPath, JSON.stringify(transformedData, null, 2), 'utf8');
 
             console.log(`✅ Transformación completada:`);
-            console.log(`   📁 Archivo original: ${inputPath}`);
-            console.log(`   📁 Archivo transformado: ${outputPath}`);
+            console.log(`   📁 Archivo transformado: ${inputPath}`);
             
             if (Array.isArray(transformedData)) {
                 console.log(`   📊 Materias procesadas: ${transformedData.length}`);
@@ -131,29 +121,25 @@ class GroupsTransformer {
             console.error(`❌ Error transformando archivo:`, error.message);
             throw error;
         }
-    
     }
 }
 
-// Función utilitaria para transformar materias
 function transformMaterias(materias) {
     const transformer = new GroupsTransformer();
     return transformer.transformMaterias(materias);
 }
 
-// Función utilitaria para transformar solo grupos
 function transformGroups(grupos) {
     const transformer = new GroupsTransformer();
     return transformer.transformGroups(grupos);
 }
 
-// Función para transformar desde string JSON
 function transformFromJSON(jsonString) {
     const transformer = new GroupsTransformer();
     const data = JSON.parse(jsonString);
     
     if (Array.isArray(data)) {
-        // Verificar si es array de materias
+        
         if (data.length > 0 && data[0].codigo && data[0].nombre) {
             return transformer.transformMaterias(data);
         } else {
@@ -164,7 +150,6 @@ function transformFromJSON(jsonString) {
     }
 }
 
-// Ejemplo de uso
 function example() {
     const originalData = [
         {
@@ -207,7 +192,6 @@ function example() {
     return transformed;
 }
 
-// Exportar para uso como módulo
 module.exports = {
     GroupsTransformer,
     transformGroups,
@@ -216,8 +200,7 @@ module.exports = {
 };
 
 if (require.main === module) {
-    console.log('🚀 Ejecutando ejemplo de transformación...\n');
-    example();
+    const filename = process.argv[2];
     
     // Ejemplo específico para transformar el archivo sistemas.json
     console.log('\n📁 Para transformar tu archivo sistemas.json, ejecuta:');
@@ -228,11 +211,12 @@ if (require.main === module) {
     console.log('🚀 Ejecutando transformación del archivo sistemas.json...\n');
 
     const transformer = new GroupsTransformer();
+    const inputPath = path.join(__dirname, 'horarios', filename);
 
-    const inputPath = path.join(__dirname, 'horarios', 'horario_biomedica.json');
     const outputPath = path.join(__dirname, 'horarios', 'horario_biomedica_transformed.json');
 
     transformer.transformFile(inputPath, outputPath);
 }
 
+    transformer.transformFile(inputPath);
 }
