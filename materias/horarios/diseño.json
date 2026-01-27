@@ -1,1896 +1,2433 @@
 [
-    {
-        "codigo": "29205",
-        "nombre": "CATEDRA UIS",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": []
-            },
-            {
-                "grupo": "PC1",
-                "capacidad": 1000,
-                "matriculados": 822,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            },
-            {
-                "grupo": "PE1",
-                "capacidad": 1000,
-                "matriculados": 664,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            }
+  {
+    "sku": "29205",
+    "name": "CATEDRA UIS",
+    "groups": [
+      {
+        "sku": "PC1",
+        "capacity": 1300,
+        "enrolled": 1300,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ALONSO SILVA ROJAS"
+          }
         ]
-    },
-    {
-        "codigo": "41419",
-        "nombre": "PENSAMIENTO DE DISEÑO I",
-        "grupos": [
-            {
-                "grupo": "PA1",
-                "capacidad": 22,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "208",
-                        "profesor": "DENIS SENITH CABRERA ANAYA"
-                    },
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "208",
-                        "profesor": "DENIS SENITH CABRERA ANAYA"
-                    }
-                ]
-            },
-            {
-                "grupo": "PA2",
-                "capacidad": 22,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "103",
-                        "profesor": "CLARA ISABEL LOPEZ GUALDRON"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "103",
-                        "profesor": "CLARA ISABEL LOPEZ GUALDRON"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "PE1",
+        "capacity": 1200,
+        "enrolled": 1200,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS CARLOS MANTILLA FIGUEROA"
+          }
         ]
-    },
-    {
-        "codigo": "41420",
-        "nombre": "COMUNICACION VISUAL I",
-        "grupos": [
-            {
-                "grupo": "PA1",
-                "capacidad": 22,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "JUEVES",
-                        "hora": "7:00 - 11:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "303",
-                        "profesor": "EDUARDO SERAFIN GUEVARA MELO"
-                    }
-                ]
-            },
-            {
-                "grupo": "PA2",
-                "capacidad": 22,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "7:00 - 11:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "303",
-                        "profesor": "VASLAK ROJAS TORRES"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "R",
+        "capacity": 1,
+        "enrolled": 1,
+        "schedule": []
+      }
+    ]
+  },
+  {
+    "sku": "41419",
+    "name": "PENSAMIENTO DE DISEÑO I",
+    "groups": [
+      {
+        "sku": "PA1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "202",
+            "professor": "DENIS SENITH CABRERA ANAYA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "202",
+            "professor": "DENIS SENITH CABRERA ANAYA"
+          }
         ]
-    },
-    {
-        "codigo": "41421",
-        "nombre": "DIBUJO PARAMETRICO",
-        "grupos": [
-            {
-                "grupo": "PA1",
-                "capacidad": 22,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "7:00 - 9:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "303",
-                        "profesor": "JUAN CARLOS MORALES DIMARCO"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "7:00 - 9:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "303",
-                        "profesor": "JUAN CARLOS MORALES DIMARCO"
-                    }
-                ]
-            },
-            {
-                "grupo": "PC1",
-                "capacidad": 22,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "207",
-                        "profesor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "207",
-                        "profesor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "PA2",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "202",
+            "professor": "CARLOS ANDRES CARDENAS BALAGUERA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "202",
+            "professor": "CARLOS ANDRES CARDENAS BALAGUERA"
+          }
         ]
-    },
-    {
-        "codigo": "41422",
-        "nombre": "MATEMATICA APLICADA I",
-        "grupos": [
-            {
-                "grupo": "PE1",
-                "capacidad": 22,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ISRAEL GARNICA BOHORQUEZ"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ISRAEL GARNICA BOHORQUEZ"
-                    }
-                ]
-            },
-            {
-                "grupo": "PE2",
-                "capacidad": 22,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ISRAEL GARNICA BOHORQUEZ"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ISRAEL GARNICA BOHORQUEZ"
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "sku": "41420",
+    "name": "COMUNICACION VISUAL I",
+    "groups": [
+      {
+        "sku": "PB1",
+        "capacity": 21,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "DANIELA ORDOÑEZ SUAREZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "DANIELA ORDOÑEZ SUAREZ"
+          }
         ]
-    },
-    {
-        "codigo": "40940",
-        "nombre": "MECANICA",
-        "grupos": [
-            {
-                "grupo": "B1",
-                "capacidad": 27,
-                "matriculados": 27,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ADRIANA LUCIA GELVEZ CORTES"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ADRIANA LUCIA GELVEZ CORTES"
-                    }
-                ]
-            },
-            {
-                "grupo": "B2",
-                "capacidad": 27,
-                "matriculados": 27,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ELBER RODRIGUEZ MORENO"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ELBER RODRIGUEZ MORENO"
-                    }
-                ]
-            },
-            {
-                "grupo": "C2",
-                "capacidad": 28,
-                "matriculados": 18,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ADRIANA LUCIA GELVEZ CORTES"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ADRIANA LUCIA GELVEZ CORTES"
-                    }
-                ]
-            },
-            {
-                "grupo": "C3",
-                "capacidad": 28,
-                "matriculados": 19,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ELBER RODRIGUEZ MORENO"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ELBER RODRIGUEZ MORENO"
-                    }
-                ]
-            },
-            {
-                "grupo": "D1",
-                "capacidad": 27,
-                "matriculados": 26,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "13:00 - 15:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ADRIANA LUCIA GELVEZ CORTES"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "13:00 - 15:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ADRIANA LUCIA GELVEZ CORTES"
-                    }
-                ]
-            },
-            {
-                "grupo": "D2",
-                "capacidad": 27,
-                "matriculados": 26,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "13:00 - 15:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ELBER RODRIGUEZ MORENO"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "13:00 - 15:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ELBER RODRIGUEZ MORENO"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "PC1",
+        "capacity": 21,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "202",
+            "professor": "EDUARDO SERAFIN GUEVARA MELO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "202",
+            "professor": "EDUARDO SERAFIN GUEVARA MELO"
+          }
         ]
-    },
-    {
-        "codigo": "41423",
-        "nombre": "PENSAMIENTO DE DISEÑO II",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 21,
-                "matriculados": 21,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "103",
-                        "profesor": "EDUARDO SERAFIN GUEVARA MELO"
-                    },
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "103",
-                        "profesor": "EDUARDO SERAFIN GUEVARA MELO"
-                    }
-                ]
-            },
-            {
-                "grupo": "A2",
-                "capacidad": 21,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "301",
-                        "profesor": "EDUARDO SERAFIN GUEVARA MELO"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "301",
-                        "profesor": "EDUARDO SERAFIN GUEVARA MELO"
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "sku": "41421",
+    "name": "DIBUJO PARAMETRICO",
+    "groups": [
+      {
+        "sku": "PC1",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "207",
+            "professor": "JUAN CARLOS MORALES DIMARCO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "207",
+            "professor": "JUAN CARLOS MORALES DIMARCO"
+          }
         ]
-    },
-    {
-        "codigo": "41424",
-        "nombre": "COMUNICACION VISUAL II",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 22,
-                "matriculados": 22,
-                "horario": [
-                    {
-                        "dia": "VIERNES",
-                        "hora": "7:00 - 11:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "208",
-                        "profesor": "VASLAK ROJAS TORRES"
-                    }
-                ]
-            },
-            {
-                "grupo": "D1",
-                "capacidad": 22,
-                "matriculados": 22,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "13:00 - 17:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "208",
-                        "profesor": "VASLAK ROJAS TORRES"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "PC2",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "207",
+            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "207",
+            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
+          }
         ]
-    },
-    {
-        "codigo": "41425",
-        "nombre": "SEMIOTICA",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 21,
-                "matriculados": 21,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "207",
-                        "profesor": "FRANCISCO MARIO ESPINEL CORREAL"
-                    }
-                ]
-            },
-            {
-                "grupo": "A2",
-                "capacidad": 21,
-                "matriculados": 21,
-                "horario": [
-                    {
-                        "dia": "JUEVES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "208",
-                        "profesor": "FRANCISCO MARIO ESPINEL CORREAL"
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "sku": "41422",
+    "name": "MATEMATICA APLICADA I",
+    "groups": [
+      {
+        "sku": "PE1",
+        "capacity": 21,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "MARIA IRENE SARMIENTO ROJAS"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "MARIA IRENE SARMIENTO ROJAS"
+          }
         ]
-    },
-    {
-        "codigo": "41426",
-        "nombre": "INTRODUCCION AL ALGEBRA LINEAL",
-        "grupos": [
-            {
-                "grupo": "F1",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "SERGIO ANDRES LESMES ALFONSO"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "SERGIO ANDRES LESMES ALFONSO"
-                    }
-                ]
-            },
-            {
-                "grupo": "F2",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "SERGIO ANDRES LESMES ALFONSO"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "SERGIO ANDRES LESMES ALFONSO"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "PE2",
+        "capacity": 21,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "MARIA IRENE SARMIENTO ROJAS"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "MARIA IRENE SARMIENTO ROJAS"
+          }
         ]
-    },
-    {
-        "codigo": "40555",
-        "nombre": "LENGUA EXTRANJERA:INGLES I",
-        "grupos": [
-            {
-                "grupo": "A02",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "6:00 - 8:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "CAROLINA GOMEZ MELENDEZ"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "6:00 - 8:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "CAROLINA GOMEZ MELENDEZ"
-                    }
-                ]
-            },
-            {
-                "grupo": "B01",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "CAROLINA GOMEZ MELENDEZ"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "CAROLINA GOMEZ MELENDEZ"
-                    }
-                ]
-            },
-            {
-                "grupo": "B02",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "RICARDO ANDRES QUINTERO CELIS"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "RICARDO ANDRES QUINTERO CELIS"
-                    }
-                ]
-            },
-            {
-                "grupo": "C01",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "CARLOS AUGUSTO LOZANO JAIMES"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "CARLOS AUGUSTO LOZANO JAIMES"
-                    }
-                ]
-            },
-            {
-                "grupo": "C02",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "RICARDO ANDRES QUINTERO CELIS"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "RICARDO ANDRES QUINTERO CELIS"
-                    }
-                ]
-            },
-            {
-                "grupo": "E02",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "DANIEL ALBERTO DELGADO ESTUPIÑAN"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "DANIEL ALBERTO DELGADO ESTUPIÑAN"
-                    }
-                ]
-            },
-            {
-                "grupo": "F01",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "DANIEL ALBERTO DELGADO ESTUPIÑAN"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "DANIEL ALBERTO DELGADO ESTUPIÑAN"
-                    }
-                ]
-            },
-            {
-                "grupo": "M01",
-                "capacidad": 30,
-                "matriculados": 22,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JHON DAVID CONTRERAS ABELLO"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JHON DAVID CONTRERAS ABELLO"
-                    }
-                ]
-            },
-            {
-                "grupo": "M02",
-                "capacidad": 30,
-                "matriculados": 22,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "DANIEL ALBERTO DELGADO ESTUPIÑAN"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "DANIEL ALBERTO DELGADO ESTUPIÑAN"
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "sku": "40940",
+    "name": "MECANICA",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 25,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "228",
+            "professor": "ADRIANA LUCIA GELVEZ CORTES"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "228",
+            "professor": "ADRIANA LUCIA GELVEZ CORTES"
+          }
         ]
-    },
-    {
-        "codigo": "41427",
-        "nombre": "PENSAMIENTO DE DISEÑO III",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 26,
-                "matriculados": 26,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "202",
-                        "profesor": "JUAN CARLOS MORENO MUÑOZ"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "202",
-                        "profesor": "JUAN CARLOS MORENO MUÑOZ"
-                    }
-                ]
-            },
-            {
-                "grupo": "A2",
-                "capacidad": 26,
-                "matriculados": 26,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "202",
-                        "profesor": "JUAN CARLOS MORENO MUÑOZ"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "202",
-                        "profesor": "JUAN CARLOS MORENO MUÑOZ"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "C1",
+        "capacity": 25,
+        "enrolled": 24,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ADRIANA LUCIA GELVEZ CORTES"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ADRIANA LUCIA GELVEZ CORTES"
+          }
         ]
-    },
-    {
-        "codigo": "41428",
-        "nombre": "CIENCIA DE LOS MATERIALES",
-        "grupos": [
-            {
-                "grupo": "C1",
-                "capacidad": 21,
-                "matriculados": 21,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "108",
-                        "profesor": ""
-                    }
-                ]
-            },
-            {
-                "grupo": "F2",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "LUIS ALBERTO LAGUADO VILLAMIZAR"
-                    }
-                ]
-            },
-            {
-                "grupo": "G1",
-                "capacidad": 21,
-                "matriculados": 21,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "18:00 - 20:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "108",
-                        "profesor": "SERGIO ANDRES LESMES ALFONSO"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "C2",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA PATRICIA CORZO MANTILLA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA PATRICIA CORZO MANTILLA"
+          }
         ]
-    },
-    {
-        "codigo": "41429",
-        "nombre": "ERGONOMIA FISICA Y COGNITIVA",
-        "grupos": [
-            {
-                "grupo": "E1",
-                "capacidad": 21,
-                "matriculados": 21,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "301",
-                        "profesor": "JENNY KATHERINE RODRIGUEZ GARCIA"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "301",
-                        "profesor": "JENNY KATHERINE RODRIGUEZ GARCIA"
-                    }
-                ]
-            },
-            {
-                "grupo": "E2",
-                "capacidad": 21,
-                "matriculados": 21,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "301",
-                        "profesor": "SILVIA NATHALIA MANTILLA NIÑO"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "301",
-                        "profesor": "SILVIA NATHALIA MANTILLA NIÑO"
-                    }
-                ]
-            },
-            {
-                "grupo": "F1",
-                "capacidad": 21,
-                "matriculados": 21,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "301",
-                        "profesor": "SILVIA NATHALIA MANTILLA NIÑO"
-                    },
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "301",
-                        "profesor": "SILVIA NATHALIA MANTILLA NIÑO"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "C3",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ELBER RODRIGUEZ MORENO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ELBER RODRIGUEZ MORENO"
+          }
         ]
-    },
-    {
-        "codigo": "41430",
-        "nombre": "ESTATICA",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 21,
-                "matriculados": 21,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "7:00 - 9:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "7:00 - 9:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            },
-            {
-                "grupo": "C1",
-                "capacidad": 21,
-                "matriculados": 21,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JAIRO ANDRÉS MANTILLA VILLALOBOS"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JAIRO ANDRÉS MANTILLA VILLALOBOS"
-                    }
-                ]
-            },
-            {
-                "grupo": "E1",
-                "capacidad": 21,
-                "matriculados": 21,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "SERGIO ANDRES LESMES ALFONSO"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "SERGIO ANDRES LESMES ALFONSO"
-                    }
-                ]
-            },
-            {
-                "grupo": "E2",
-                "capacidad": 21,
-                "matriculados": 21,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "SERGIO ANDRES LESMES ALFONSO"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "SERGIO ANDRES LESMES ALFONSO"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "C4",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ADRIANA LUCIA GELVEZ CORTES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ADRIANA LUCIA GELVEZ CORTES"
+          }
         ]
-    },
-    {
-        "codigo": "40556",
-        "nombre": "LENGUA EXTRANJERA:INGLES II",
-        "grupos": [
-            {
-                "grupo": "B02",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "MONICA ANDREA PINEDA CASTELLANOS"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "MONICA ANDREA PINEDA CASTELLANOS"
-                    }
-                ]
-            },
-            {
-                "grupo": "C02",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "LUZ DAYANARA SALDAÑA SARMIENTO"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "LUZ DAYANARA SALDAÑA SARMIENTO"
-                    }
-                ]
-            },
-            {
-                "grupo": "E01",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "DANIEL ALBERTO DELGADO ESTUPIÑAN"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "DANIEL ALBERTO DELGADO ESTUPIÑAN"
-                    }
-                ]
-            },
-            {
-                "grupo": "F02",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ADRIANA BARAJAS ABREO"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "ADRIANA BARAJAS ABREO"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "D1",
+        "capacity": 25,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "13:00 - 15:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "116",
+            "professor": "ELBER RODRIGUEZ MORENO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "13:00 - 15:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "116",
+            "professor": "ELBER RODRIGUEZ MORENO"
+          }
         ]
-    },
-    {
-        "codigo": "41431",
-        "nombre": "COMUNICACION VISUAL III",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 20,
-                "matriculados": 19,
-                "horario": [
-                    {
-                        "dia": "JUEVES",
-                        "hora": "7:00 - 11:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "302",
-                        "profesor": "JENNY KATHERINE RODRIGUEZ GARCIA"
-                    }
-                ]
-            },
-            {
-                "grupo": "B1",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "302",
-                        "profesor": "JENNY KATHERINE RODRIGUEZ GARCIA"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "302",
-                        "profesor": "JENNY KATHERINE RODRIGUEZ GARCIA"
-                    }
-                ]
-            },
-            {
-                "grupo": "E1",
-                "capacidad": 20,
-                "matriculados": 19,
-                "horario": [
-                    {
-                        "dia": "VIERNES",
-                        "hora": "14:00 - 18:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "303",
-                        "profesor": "JESUS ALEXIS MACHUCA GELVEZ"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "D2",
+        "capacity": 20,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "15:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "15:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
         ]
-    },
-    {
-        "codigo": "41432",
-        "nombre": "ERGONOMIA DEL PRODUCTO",
-        "grupos": [
-            {
-                "grupo": "C1",
-                "capacidad": 23,
-                "matriculados": 23,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "301",
-                        "profesor": "SILVIA NATHALIA MANTILLA NIÑO"
-                    },
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "301",
-                        "profesor": "SILVIA NATHALIA MANTILLA NIÑO"
-                    }
-                ]
-            },
-            {
-                "grupo": "C2",
-                "capacidad": 23,
-                "matriculados": 23,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "301",
-                        "profesor": "JENNY KATHERINE RODRIGUEZ GARCIA"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "301",
-                        "profesor": "JENNY KATHERINE RODRIGUEZ GARCIA"
-                    }
-                ]
-            },
-            {
-                "grupo": "C3",
-                "capacidad": 23,
-                "matriculados": 23,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "11:00 - 13:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "108",
-                        "profesor": "SILVIA NATHALIA MANTILLA NIÑO"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "11:00 - 13:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "108",
-                        "profesor": "SILVIA NATHALIA MANTILLA NIÑO"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "F1",
+        "capacity": 25,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "228",
+            "professor": "ELBER RODRIGUEZ MORENO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 18:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "228",
+            "professor": "ELBER RODRIGUEZ MORENO"
+          }
         ]
-    },
-    {
-        "codigo": "41433",
-        "nombre": "HISTORIA DEL DISEÑO",
-        "grupos": [
-            {
-                "grupo": "C1",
-                "capacidad": 23,
-                "matriculados": 23,
-                "horario": [
-                    {
-                        "dia": "JUEVES",
-                        "hora": "10:00 - 13:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "109",
-                        "profesor": "SULLY VIVIANA CALDERON ORTIZ"
-                    }
-                ]
-            },
-            {
-                "grupo": "F1",
-                "capacidad": 23,
-                "matriculados": 23,
-                "horario": [
-                    {
-                        "dia": "JUEVES",
-                        "hora": "16:00 - 19:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "301",
-                        "profesor": "ROSA MILENA GOMEZ CABALLERO"
-                    }
-                ]
-            },
-            {
-                "grupo": "F2",
-                "capacidad": 23,
-                "matriculados": 23,
-                "horario": [
-                    {
-                        "dia": "VIERNES",
-                        "hora": "16:00 - 19:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "301",
-                        "profesor": "ROSA MILENA GOMEZ CABALLERO"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "F2",
+        "capacity": 20,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JERSON IVAN REINA MEDRANO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JERSON IVAN REINA MEDRANO"
+          }
         ]
-    },
-    {
-        "codigo": "41434",
-        "nombre": "CULTURA MATERIAL",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 24,
-                "matriculados": 23,
-                "horario": [
-                    {
-                        "dia": "VIERNES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "101",
-                        "profesor": "CARLOS ANDRES CARDENAS BALAGUERA"
-                    }
-                ]
-            },
-            {
-                "grupo": "E1",
-                "capacidad": 24,
-                "matriculados": 24,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "14:00 - 17:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "208",
-                        "profesor": "CARLOS ANDRES CARDENAS BALAGUERA"
-                    }
-                ]
-            },
-            {
-                "grupo": "E2",
-                "capacidad": 24,
-                "matriculados": 24,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "14:00 - 17:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "101",
-                        "profesor": "PAULA ANDREA FRANCO MATEUS"
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "sku": "41423",
+    "name": "PENSAMIENTO DE DISEÑO II",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "EDUARDO SERAFIN GUEVARA MELO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "EDUARDO SERAFIN GUEVARA MELO"
+          }
         ]
-    },
-    {
-        "codigo": "41435",
-        "nombre": "MECANICA SOLIDOS",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 25,
-                "matriculados": 25,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "7:00 - 9:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JAIRO ANDRÉS MANTILLA VILLALOBOS"
-                    },
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "7:00 - 9:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JAIRO ANDRÉS MANTILLA VILLALOBOS"
-                    }
-                ]
-            },
-            {
-                "grupo": "C1",
-                "capacidad": 25,
-                "matriculados": 25,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JAIRO ANDRÉS MANTILLA VILLALOBOS"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "11:00 - 13:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JAIRO ANDRÉS MANTILLA VILLALOBOS"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "A2",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "208",
+            "professor": "EDUARDO SERAFIN GUEVARA MELO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "208",
+            "professor": "EDUARDO SERAFIN GUEVARA MELO"
+          }
         ]
-    },
-    {
-        "codigo": "40557",
-        "nombre": "LENGUA EXTRANJERA:INGLES III",
-        "grupos": [
-            {
-                "grupo": "B01",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "8:00 - 9:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "LINA MARIA JIMENEZ HERNANDEZ"
-                    },
-                    {
-                        "dia": "MARTES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "LINA MARIA JIMENEZ HERNANDEZ"
-                    }
-                ]
-            },
-            {
-                "grupo": "F01",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "16:00 - 17:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "DANIEL EDUARDO CARRASCAL MANTILLA"
-                    },
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "DANIEL EDUARDO CARRASCAL MANTILLA"
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "sku": "41424",
+    "name": "COMUNICACION VISUAL II",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "302",
+            "professor": "DANIELA ORDOÑEZ SUAREZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "302",
+            "professor": "DANIELA ORDOÑEZ SUAREZ"
+          }
         ]
-    },
-    {
-        "codigo": "41436",
-        "nombre": "DISEÑO PARA LA SOSTENIBILIDAD",
-        "grupos": [
-            {
-                "grupo": "E1",
-                "capacidad": 30,
-                "matriculados": 30,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "303",
-                        "profesor": "JOSE MIGUEL ENRIQUE HIGUERA MARIN"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "303",
-                        "profesor": "JOSE MIGUEL ENRIQUE HIGUERA MARIN"
-                    }
-                ]
-            },
-            {
-                "grupo": "E2",
-                "capacidad": 30,
-                "matriculados": 30,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "202",
-                        "profesor": "JORGE ALBERTO SARMIENTO OMEARA"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "202",
-                        "profesor": "JORGE ALBERTO SARMIENTO OMEARA"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "C1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "302",
+            "professor": "DANIELA ORDOÑEZ SUAREZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "302",
+            "professor": "DANIELA ORDOÑEZ SUAREZ"
+          }
         ]
-    },
-    {
-        "codigo": "41437",
-        "nombre": "DISEÑO DE LA INFORMACION",
-        "grupos": [
-            {
-                "grupo": "C1",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "10:00 - 13:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "303",
-                        "profesor": "JESUS ALEXIS MACHUCA GELVEZ"
-                    }
-                ]
-            },
-            {
-                "grupo": "C2",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "10:00 - 13:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "208",
-                        "profesor": "JESUS ALEXIS MACHUCA GELVEZ"
-                    }
-                ]
-            },
-            {
-                "grupo": "D1",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "13:00 - 16:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "109",
-                        "profesor": ""
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "sku": "41425",
+    "name": "SEMIOTICA",
+    "groups": [
+      {
+        "sku": "E1",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "208",
+            "professor": "FRANCISCO MARIO ESPINEL CORREAL"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "FRANCISCO MARIO ESPINEL CORREAL"
+          }
         ]
-    },
-    {
-        "codigo": "41438",
-        "nombre": "CUEROS Y TEXTILES",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 20,
-                "matriculados": 0,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "7:00 - 9:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    },
-                    {
-                        "dia": "MARTES",
-                        "hora": "9:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            },
-            {
-                "grupo": "C1",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "206",
-                        "profesor": "EDHER DUVAN FONSECA ABRIL"
-                    },
-                    {
-                        "dia": "MARTES",
-                        "hora": "12:00 - 13:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "206",
-                        "profesor": "EDHER DUVAN FONSECA ABRIL"
-                    }
-                ]
-            },
-            {
-                "grupo": "C2",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "JUEVES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "206",
-                        "profesor": "EDHER DUVAN FONSECA ABRIL"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "12:00 - 13:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "206",
-                        "profesor": "EDHER DUVAN FONSECA ABRIL"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "E2",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "208",
+            "professor": "FRANCISCO MARIO ESPINEL CORREAL"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "FRANCISCO MARIO ESPINEL CORREAL"
+          }
         ]
-    },
-    {
-        "codigo": "41439",
-        "nombre": "UX Y DISEÑO INTERACTIVO",
-        "grupos": [
-            {
-                "grupo": "E1",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "14:00 - 17:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "303",
-                        "profesor": "JUAN CARLOS MORENO MUÑOZ"
-                    }
-                ]
-            },
-            {
-                "grupo": "E2",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "JUEVES",
-                        "hora": "14:00 - 17:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "202",
-                        "profesor": ""
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "sku": "41426",
+    "name": "INTRODUCCION AL ALGEBRA LINEAL",
+    "groups": [
+      {
+        "sku": "E1",
+        "capacity": 21,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "SERGIO ANDRES LESMES ALFONSO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "SERGIO ANDRES LESMES ALFONSO"
+          }
         ]
-    },
-    {
-        "codigo": "41440",
-        "nombre": "MECANICA DE MAQUINAS",
-        "grupos": [
-            {
-                "grupo": "F1",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JAIRO ANDRÉS MANTILLA VILLALOBOS"
-                    },
-                    {
-                        "dia": "MARTES",
-                        "hora": "16:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JAIRO ANDRÉS MANTILLA VILLALOBOS"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "E2",
+        "capacity": 21,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "SERGIO ANDRES LESMES ALFONSO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "SERGIO ANDRES LESMES ALFONSO"
+          }
         ]
-    },
-    {
-        "codigo": "41441",
-        "nombre": "DISEÑO DE PUBLICIDAD Y EMPAQUES",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "VIERNES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "108",
-                        "profesor": "SULLY VIVIANA CALDERON ORTIZ"
-                    }
-                ]
-            },
-            {
-                "grupo": "C1",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "VIERNES",
-                        "hora": "10:00 - 13:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "207",
-                        "profesor": "SULLY VIVIANA CALDERON ORTIZ"
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "sku": "40555",
+    "name": "LENGUA EXTRANJERA:INGLES I",
+    "groups": [
+      {
+        "sku": "A01",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "6:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "LIBIA XIMENA JAIMES SANDOVAL"
+          },
+          {
+            "day": "JUEVES",
+            "time": "6:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "LIBIA XIMENA JAIMES SANDOVAL"
+          }
         ]
-    },
-    {
-        "codigo": "41442",
-        "nombre": "DISEÑO ESTRATEGICO",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 20,
-                "matriculados": 14,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "110",
-                        "profesor": "JAVIER MAURICIO MARTINEZ GOMEZ"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "110",
-                        "profesor": "JAVIER MAURICIO MARTINEZ GOMEZ"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "B01",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "DANIELA ALEXANDRA MORENO CALDERON"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "DANIELA ALEXANDRA MORENO CALDERON"
+          }
         ]
-    },
-    {
-        "codigo": "41443",
-        "nombre": "MADERAS",
-        "grupos": [
-            {
-                "grupo": "C1",
-                "capacidad": 20,
-                "matriculados": 0,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "TALLER DISEÑO INDUSTRIAL",
-                        "aula": "103",
-                        "profesor": "EDHER DUVAN FONSECA ABRIL"
-                    },
-                    {
-                        "dia": "LUNES",
-                        "hora": "12:00 - 13:00",
-                        "edificio": "TALLER DISEÑO INDUSTRIAL",
-                        "aula": "103",
-                        "profesor": "EDHER DUVAN FONSECA ABRIL"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "B02",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "IVAN ALBERTO IBAÑEZ HERNANDEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "IVAN ALBERTO IBAÑEZ HERNANDEZ"
+          }
         ]
-    },
-    {
-        "codigo": "41444",
-        "nombre": "INVESTIGACION EN DISEÑO",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "207",
-                        "profesor": "ROSA MILENA GOMEZ CABALLERO"
-                    }
-                ]
-            },
-            {
-                "grupo": "E1",
-                "capacidad": 20,
-                "matriculados": 19,
-                "horario": [
-                    {
-                        "dia": "JUEVES",
-                        "hora": "14:00 - 17:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "108",
-                        "profesor": "SILVIA NATHALIA MANTILLA NIÑO"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "C02",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "DANIELA ALEXANDRA MORENO CALDERON"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "DANIELA ALEXANDRA MORENO CALDERON"
+          }
         ]
-    },
-    {
-        "codigo": "41445",
-        "nombre": "FUNDAMENTOS DE DISEÑO MECATRONICO",
-        "grupos": [
-            {
-                "grupo": "C2",
-                "capacidad": 20,
-                "matriculados": 12,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JORGE LEONARDO SOTO GARNICA"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JORGE LEONARDO SOTO GARNICA"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "E01",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "GISELL PAOLA AREVALO GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "GISELL PAOLA AREVALO GARCIA"
+          }
         ]
-    },
-    {
-        "codigo": "41446",
-        "nombre": "DISEÑO PARA LA MANUFACTURA",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "208",
-                        "profesor": "GERMAN ADOLFO DIAZ RAMIREZ"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "207",
-                        "profesor": "GERMAN ADOLFO DIAZ RAMIREZ"
-                    }
-                ]
-            },
-            {
-                "grupo": "A2",
-                "capacidad": 20,
-                "matriculados": 11,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "10:00 - 13:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "202",
-                        "profesor": "JOSE MIGUEL ENRIQUE HIGUERA MARIN"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "10:00 - 13:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "202",
-                        "profesor": "JOSE MIGUEL ENRIQUE HIGUERA MARIN"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "E02",
+        "capacity": 20,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "MARIO RUBEN RUEDA ZARAZA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "MARIO RUBEN RUEDA ZARAZA"
+          }
         ]
-    },
-    {
-        "codigo": "41447",
-        "nombre": "GESTION DE PROYECTOS DE INNOVACION",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 20,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "301",
-                        "profesor": "CLARA ISABEL LOPEZ GUALDRON"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "F01",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "ANDREA JIMENEZ CHAPARRO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "ANDREA JIMENEZ CHAPARRO"
+          }
         ]
-    },
-    {
-        "codigo": "27100",
-        "nombre": "EXPERIMENTACION EN DISEÑO I",
-        "grupos": [
-            {
-                "grupo": "E1",
-                "capacidad": 20,
-                "matriculados": 9,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "207",
-                        "profesor": "JENNY KATHERINE RODRIGUEZ GARCIA"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "207",
-                        "profesor": "JENNY KATHERINE RODRIGUEZ GARCIA"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "F02",
+        "capacity": 20,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "LILIANA GARCIA VILLAMIZAR"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "LILIANA GARCIA VILLAMIZAR"
+          }
         ]
-    },
-    {
-        "codigo": "27288",
-        "nombre": "INTERACCION HOMBRE COMPUTADOR",
-        "grupos": [
-            {
-                "grupo": "B1",
-                "capacidad": 25,
-                "matriculados": 16,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JORGE LEONARDO SOTO GARNICA"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JORGE LEONARDO SOTO GARNICA"
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "sku": "41427",
+    "name": "PENSAMIENTO DE DISEÑO III",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "302",
+            "professor": "JUAN CARLOS MORENO MUÑOZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "302",
+            "professor": "JUAN CARLOS MORENO MUÑOZ"
+          }
         ]
-    },
-    {
-        "codigo": "27716",
-        "nombre": "DISEñO DE JOYERIA",
-        "grupos": [
-            {
-                "grupo": "C1",
-                "capacidad": 17,
-                "matriculados": 17,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "202",
-                        "profesor": "DENIS SENITH CABRERA ANAYA"
-                    },
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "FEDERICO MAMITZA BAYER",
-                        "aula": "202",
-                        "profesor": "DENIS SENITH CABRERA ANAYA"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "A2",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "207",
+            "professor": "JUAN CARLOS MORENO MUÑOZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "207",
+            "professor": "JUAN CARLOS MORENO MUÑOZ"
+          }
         ]
-    }
+      }
+    ]
+  },
+  {
+    "sku": "41428",
+    "name": "CIENCIA DE LOS MATERIALES",
+    "groups": [
+      {
+        "sku": "E1",
+        "capacity": 15,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "303",
+            "professor": "LUIS ALBERTO LAGUADO VILLAMIZAR"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 15,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "303",
+            "professor": "LUIS ALBERTO LAGUADO VILLAMIZAR"
+          }
+        ]
+      },
+      {
+        "sku": "F2",
+        "capacity": 15,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "SERGIO ANDRES LESMES ALFONSO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41429",
+    "name": "ERGONOMIA FISICA Y COGNITIVA",
+    "groups": [
+      {
+        "sku": "C1",
+        "capacity": 15,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "11:00 - 13:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "301",
+            "professor": "JENNY KATHERINE RODRIGUEZ GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "11:00 - 13:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "301",
+            "professor": "JENNY KATHERINE RODRIGUEZ GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 15,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "301",
+            "professor": "SILVIA NATHALIA MANTILLA NIÑO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "301",
+            "professor": "SILVIA NATHALIA MANTILLA NIÑO"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 15,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 18:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "SILVIA NATHALIA MANTILLA NIÑO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "302",
+            "professor": "SILVIA NATHALIA MANTILLA NIÑO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41430",
+    "name": "ESTATICA",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 22,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JOSE ALEXANDER PUERTO BAUTISTA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JOSE ALEXANDER PUERTO BAUTISTA"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 22,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "SERGIO ANDRES LESMES ALFONSO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "SERGIO ANDRES LESMES ALFONSO"
+          }
+        ]
+      },
+      {
+        "sku": "F2",
+        "capacity": 22,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "SERGIO ANDRES LESMES ALFONSO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "SERGIO ANDRES LESMES ALFONSO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "40556",
+    "name": "LENGUA EXTRANJERA:INGLES II",
+    "groups": [
+      {
+        "sku": "A02",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "IVAN ALBERTO IBAÑEZ HERNANDEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "IVAN ALBERTO IBAÑEZ HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "B01",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "LUZ DAYANARA SALDAÑA SARMIENTO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "LUZ DAYANARA SALDAÑA SARMIENTO"
+          }
+        ]
+      },
+      {
+        "sku": "B02",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "LUZ DAYANARA SALDAÑA SARMIENTO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "LUZ DAYANARA SALDAÑA SARMIENTO"
+          }
+        ]
+      },
+      {
+        "sku": "C01",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "LIBIA XIMENA JAIMES SANDOVAL"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "LIBIA XIMENA JAIMES SANDOVAL"
+          }
+        ]
+      },
+      {
+        "sku": "C02",
+        "capacity": 20,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "IVAN ALBERTO IBAÑEZ HERNANDEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "IVAN ALBERTO IBAÑEZ HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "E01",
+        "capacity": 20,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "DANIEL EDUARDO CARRASCAL MANTILLA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "DANIEL EDUARDO CARRASCAL MANTILLA"
+          }
+        ]
+      },
+      {
+        "sku": "E02",
+        "capacity": 20,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "DANIEL EDUARDO CARRASCAL MANTILLA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "DANIEL EDUARDO CARRASCAL MANTILLA"
+          }
+        ]
+      },
+      {
+        "sku": "F02",
+        "capacity": 20,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DANIEL ALBERTO DELGADO ESTUPIÑAN"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DANIEL ALBERTO DELGADO ESTUPIÑAN"
+          }
+        ]
+      },
+      {
+        "sku": "M01",
+        "capacity": 25,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN FABIAN MANTILLA GARCIA"
+          },
+          {
+            "day": "MARTES",
+            "time": "17:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN FABIAN MANTILLA GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "M02",
+        "capacity": 25,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN FABIAN MANTILLA GARCIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "17:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN FABIAN MANTILLA GARCIA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41431",
+    "name": "COMUNICACION VISUAL III",
+    "groups": [
+      {
+        "sku": "E1",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "302",
+            "professor": "JENNY KATHERINE RODRIGUEZ GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "302",
+            "professor": "JENNY KATHERINE RODRIGUEZ GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "E2",
+        "capacity": 23,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "302",
+            "professor": "JESUS ALEXIS MACHUCA GELVEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "302",
+            "professor": "JESUS ALEXIS MACHUCA GELVEZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41432",
+    "name": "ERGONOMIA DEL PRODUCTO",
+    "groups": [
+      {
+        "sku": "C1",
+        "capacity": 21,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "301",
+            "professor": "MARIA FERNANDA MARADEI GARCIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "301",
+            "professor": "MARIA FERNANDA MARADEI GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 21,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "301",
+            "professor": "MARIA FERNANDA MARADEI GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "301",
+            "professor": "MARIA FERNANDA MARADEI GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "E2",
+        "capacity": 21,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "208",
+            "professor": ""
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "208",
+            "professor": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41433",
+    "name": "HISTORIA DEL DISEÑO",
+    "groups": [
+      {
+        "sku": "A2",
+        "capacity": 22,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "303",
+            "professor": "SARA NATALIA LOPEZ MARTINEZ"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 22,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 19:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "301",
+            "professor": "ROSA MILENA GOMEZ CABALLERO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41434",
+    "name": "CULTURA MATERIAL",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 20,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "9:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "303",
+            "professor": "CARLOS ANDRES CARDENAS BALAGUERA"
+          }
+        ]
+      },
+      {
+        "sku": "B2",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 13:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "CARLOS ANDRES CARDENAS BALAGUERA"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "303",
+            "professor": "ESTEBAN GUTIERREZ TRUJILLO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41435",
+    "name": "MECANICA SOLIDOS",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 24,
+        "enrolled": 24,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "6:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "JOSE ALEXANDER PUERTO BAUTISTA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "6:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "JOSE ALEXANDER PUERTO BAUTISTA"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 24,
+        "enrolled": 24,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "JOSE ALEXANDER PUERTO BAUTISTA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "JOSE ALEXANDER PUERTO BAUTISTA"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 24,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JAIRO ANDRÉS MANTILLA VILLALOBOS"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JAIRO ANDRÉS MANTILLA VILLALOBOS"
+          }
+        ]
+      },
+      {
+        "sku": "F2",
+        "capacity": 24,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JAIRO ANDRÉS MANTILLA VILLALOBOS"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JAIRO ANDRÉS MANTILLA VILLALOBOS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "40557",
+    "name": "LENGUA EXTRANJERA:INGLES III",
+    "groups": [
+      {
+        "sku": "B01",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "ANDREA KATHERINNE NARVAEZ AGUILAR"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "ANDREA KATHERINNE NARVAEZ AGUILAR"
+          }
+        ]
+      },
+      {
+        "sku": "B02",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "DANIELA ALEXANDRA MORENO CALDERON"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DANIELA ALEXANDRA MORENO CALDERON"
+          }
+        ]
+      },
+      {
+        "sku": "C01",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ANDREA KATHERINNE NARVAEZ AGUILAR"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "ANDREA KATHERINNE NARVAEZ AGUILAR"
+          }
+        ]
+      },
+      {
+        "sku": "C02",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "E02",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "ANDREA KATHERINNE NARVAEZ AGUILAR"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 15:00",
+            "building": "",
+            "room": "",
+            "professor": "ANDREA KATHERINNE NARVAEZ AGUILAR"
+          }
+        ]
+      },
+      {
+        "sku": "F02",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "YEISSON RODRIGUEZ ESCOBAR"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "YEISSON RODRIGUEZ ESCOBAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41436",
+    "name": "DISEÑO PARA LA SOSTENIBILIDAD",
+    "groups": [
+      {
+        "sku": "C1",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "DANIELA ORDOÑEZ SUAREZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "DANIELA ORDOÑEZ SUAREZ"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "JOSE MIGUEL ENRIQUE HIGUERA MARIN"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "JOSE MIGUEL ENRIQUE HIGUERA MARIN"
+          }
+        ]
+      },
+      {
+        "sku": "E2",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "GERMAN ADOLFO DIAZ RAMIREZ"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "GERMAN ADOLFO DIAZ RAMIREZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41437",
+    "name": "DISEÑO DE LA INFORMACION",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 26,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "SILVIA DANIELA CARDOZO CARVAJAL"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 26,
+        "enrolled": 26,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 13:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "SILVIA DANIELA CARDOZO CARVAJAL"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 26,
+        "enrolled": 26,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "302",
+            "professor": "JESUS ALEXIS MACHUCA GELVEZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41438",
+    "name": "CUEROS Y TEXTILES",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 9:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "206",
+            "professor": "EDHER DUVAN FONSECA ABRIL"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "9:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "206",
+            "professor": "EDHER DUVAN FONSECA ABRIL"
+          }
+        ]
+      },
+      {
+        "sku": "B1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "206",
+            "professor": "EDHER DUVAN FONSECA ABRIL"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 11:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "206",
+            "professor": "EDHER DUVAN FONSECA ABRIL"
+          }
+        ]
+      },
+      {
+        "sku": "B2",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 11:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "206",
+            "professor": "EDHER DUVAN FONSECA ABRIL"
+          },
+          {
+            "day": "JUEVES",
+            "time": "11:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "206",
+            "professor": "EDHER DUVAN FONSECA ABRIL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41439",
+    "name": "UX Y DISEÑO INTERACTIVO",
+    "groups": [
+      {
+        "sku": "E1",
+        "capacity": 22,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "303",
+            "professor": "JUAN CARLOS MORENO MUÑOZ"
+          }
+        ]
+      },
+      {
+        "sku": "E3",
+        "capacity": 22,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "202",
+            "professor": "JOSE ALEJANDRO GUERRERO DELGADO"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 22,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 19:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "JOSE ALEJANDRO GUERRERO DELGADO"
+          }
+        ]
+      },
+      {
+        "sku": "F2",
+        "capacity": 22,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 19:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "JOSE ALEJANDRO GUERRERO DELGADO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41440",
+    "name": "MECANICA DE MAQUINAS",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN ALEXIS MEJIA IGUARAN"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN ALEXIS MEJIA IGUARAN"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN ALEXIS MEJIA IGUARAN"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN ALEXIS MEJIA IGUARAN"
+          }
+        ]
+      },
+      {
+        "sku": "B1",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "9:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN ALEXIS MEJIA IGUARAN"
+          },
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN ALEXIS MEJIA IGUARAN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "40558",
+    "name": "LENGUA EXTRANJERA:INGLES IV",
+    "groups": [
+      {
+        "sku": "B02",
+        "capacity": 20,
+        "enrolled": 4,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "ANDREA KATHERINNE NARVAEZ AGUILAR"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "ANDREA KATHERINNE NARVAEZ AGUILAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41441",
+    "name": "DISEÑO DE PUBLICIDAD Y EMPAQUES",
+    "groups": [
+      {
+        "sku": "A2",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "301",
+            "professor": "SULLY VIVIANA CALDERON ORTIZ"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "207",
+            "professor": "SULLY VIVIANA CALDERON ORTIZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41442",
+    "name": "DISEÑO ESTRATEGICO",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "207",
+            "professor": "SILVIA NATHALIA MANTILLA NIÑO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "207",
+            "professor": "SILVIA NATHALIA MANTILLA NIÑO"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 13,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER MAURICIO MARTINEZ GOMEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER MAURICIO MARTINEZ GOMEZ"
+          }
+        ]
+      },
+      {
+        "sku": "E2",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "207",
+            "professor": "JENNY KATHERINE RODRIGUEZ GARCIA"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "207",
+            "professor": "JENNY KATHERINE RODRIGUEZ GARCIA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41444",
+    "name": "INVESTIGACION EN DISEÑO",
+    "groups": [
+      {
+        "sku": "E1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "207",
+            "professor": "SILVIA NATHALIA MANTILLA NIÑO"
+          }
+        ]
+      },
+      {
+        "sku": "E2",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "208",
+            "professor": "ROSA MILENA GOMEZ CABALLERO"
+          }
+        ]
+      },
+      {
+        "sku": "E3",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "303",
+            "professor": "JENNY KATHERINE RODRIGUEZ GARCIA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41445",
+    "name": "FUNDAMENTOS DE DISEÑO MECATRONICO",
+    "groups": [
+      {
+        "sku": "C1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE LEONARDO SOTO GARNICA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE LEONARDO SOTO GARNICA"
+          }
+        ]
+      },
+      {
+        "sku": "C2",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE LEONARDO SOTO GARNICA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE LEONARDO SOTO GARNICA"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 20,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE LEONARDO SOTO GARNICA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE LEONARDO SOTO GARNICA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41446",
+    "name": "DISEÑO PARA LA MANUFACTURA",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 11,
+        "enrolled": 10,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "303",
+            "professor": "GERMAN ADOLFO DIAZ RAMIREZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "303",
+            "professor": "GERMAN ADOLFO DIAZ RAMIREZ"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 11,
+        "enrolled": 11,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 13:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "303",
+            "professor": "JOSE MIGUEL ENRIQUE HIGUERA MARIN"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 13:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "303",
+            "professor": "JOSE MIGUEL ENRIQUE HIGUERA MARIN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41447",
+    "name": "GESTION DE PROYECTOS DE INNOVACION",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 30,
+        "enrolled": 26,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "301",
+            "professor": "CLARA ISABEL LOPEZ GUALDRON"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41448",
+    "name": "METALES",
+    "groups": [
+      {
+        "sku": "E1",
+        "capacity": 20,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS ALBERTO LAGUADO VILLAMIZAR"
+          },
+          {
+            "day": "LUNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS ALBERTO LAGUADO VILLAMIZAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41449",
+    "name": "DISEÑO PARA LA INNOVACION",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 11:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "301",
+            "professor": "CLARA ISABEL LOPEZ GUALDRON"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 11:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "301",
+            "professor": "CLARA ISABEL LOPEZ GUALDRON"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41450",
+    "name": "EMPRENDIMIENTO Y PLAN DE NEGOCIOS",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 30,
+        "enrolled": 30,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 8:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "MANUEL ANTONIO MARQUEZ DIAZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "24699",
+    "name": "USABILIDAD",
+    "groups": [
+      {
+        "sku": "C1",
+        "capacity": 15,
+        "enrolled": 11,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "208",
+            "professor": "JENNY KATHERINE RODRIGUEZ GARCIA"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "208",
+            "professor": "JENNY KATHERINE RODRIGUEZ GARCIA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "27288",
+    "name": "INTERACCION HOMBRE COMPUTADOR",
+    "groups": [
+      {
+        "sku": "E1",
+        "capacity": 20,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE LEONARDO SOTO GARNICA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE LEONARDO SOTO GARNICA"
+          }
+        ]
+      }
+    ]
+  }
 ]

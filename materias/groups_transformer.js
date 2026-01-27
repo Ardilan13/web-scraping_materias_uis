@@ -139,7 +139,6 @@ function transformFromJSON(jsonString) {
     const data = JSON.parse(jsonString);
     
     if (Array.isArray(data)) {
-        
         if (data.length > 0 && data[0].codigo && data[0].nombre) {
             return transformer.transformMaterias(data);
         } else {
@@ -202,21 +201,29 @@ module.exports = {
 if (require.main === module) {
     const filename = process.argv[2];
     
-    // Ejemplo específico para transformar el archivo sistemas.json
-    console.log('\n📁 Para transformar tu archivo sistemas.json, ejecuta:');
-    console.log('const transformer = new GroupsTransformer();');
-    console.log('transformer.transformFile("materias/horarios/horario_biomedica.json", "materias/horarios/biomedica_transformed.json");');
-    
-    if (require.main === module) {
-    console.log('🚀 Ejecutando transformación del archivo sistemas.json...\n');
+    if (!filename) {
+        console.error('❌ Error: Debes proporcionar el nombre del archivo a transformar');
+        console.log('\n📖 Uso:');
+        console.log('   node groups_transformer.js <archivo.json>');
+        console.log('\n📝 Ejemplo:');
+        console.log('   node groups_transformer.js sistemas.json');
+        console.log('   node groups_transformer.js horarios/biomedica.json');
+        process.exit(1);
+    }
+
+    console.log('🚀 Ejecutando transformación...\n');
 
     const transformer = new GroupsTransformer();
-    const inputPath = path.join(__dirname, 'horarios', filename);
-
-    const outputPath = path.join(__dirname, 'horarios', 'horario_biomedica_transformed.json');
-
-    transformer.transformFile(inputPath, outputPath);
-}
+    
+    // Determinar la ruta del archivo
+    let inputPath;
+    if (path.isAbsolute(filename)) {
+        inputPath = filename;
+    } else if (filename.includes('/') || filename.includes('\\')) {
+        inputPath = path.join(__dirname, filename);
+    } else {
+        inputPath = path.join(__dirname, 'horarios', filename);
+    }
 
     transformer.transformFile(inputPath);
 }
