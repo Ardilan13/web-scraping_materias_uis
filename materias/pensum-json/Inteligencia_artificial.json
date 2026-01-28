@@ -1,6 +1,108 @@
 {
+  "materias": [
+    {
+      "codigo": "40935",
+      "nombre": "CALCULO DE FUNCIONES EN UNA VARIABLE",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "40936",
+      "nombre": "INTRODUCCION AL ALGEBRA LINEAL",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "41609",
+      "nombre": "INTRODUCCION A LA ING. EN INTELIGENCIA ARTIFICIAL",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "41330",
+      "nombre": "QUIMICA PARA INGENIERIA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "41610",
+      "nombre": "PROCESOS COGNITIVOS",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "29205",
+      "nombre": "CATEDRA UIS",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "40939",
+      "nombre": "CALCULO DE FUNCIONES EN VARIAS VARIABLES",
+      "creditos": 3,
+      "requisitos": [
+        "40935"
+      ],
+      "nivel": 2
+    },
+    {
+      "codigo": "41332",
+      "nombre": "ALGEBRA LINEAL EN ESPACIOS VECTORIALES GRLES",
+      "creditos": 3,
+      "requisitos": [
+        "40936"
+      ],
+      "nivel": 2
+    },
+    {
+      "codigo": "41334",
+      "nombre": "MATEMATICAS DISCRETAS",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "40940",
+      "nombre": "MECANICA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "41333",
+      "nombre": "ALGORITMOS Y PROGRAMACION",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "41095",
+      "nombre": "LENGUA EXTRANJERA I: INGLES",
+      "creditos": 2,
+      "requisitos": [
+        "41397"
+      ],
+      "nivel": 2
+    }
+  ],
   "codigos": [
-    "40935", "40936", "41609", "41330", "41610", "29205",
-    "40939", "41332", "41334", "40940", "41333", "41095"
+    "29205",
+    "40935",
+    "40936",
+    "40939",
+    "40940",
+    "41095",
+    "41330",
+    "41332",
+    "41333",
+    "41334",
+    "41609",
+    "41610"
   ]
 }

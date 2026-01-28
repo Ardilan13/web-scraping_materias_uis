@@ -1,0 +1,438 @@
+{
+  "materias": [
+    {
+      "codigo": "29831",
+      "nombre": "TEORIA Y SOLFEO I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "29832",
+      "nombre": "HISTORIA DE LA MUSICA I",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "29833",
+      "nombre": "FORMACION Y PRACTICA CORAL I",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "20517",
+      "nombre": "PIANO COMPLEMENTARIO I",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "29834",
+      "nombre": "TECNOLOGIA EN LA EDUCACION MUSICAL",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "28546",
+      "nombre": "LECTURA DE TEXTOS ACADEMICOS UNIVERSITARIOS",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "29205",
+      "nombre": "CATEDRA UIS",
+      "creditos": 0,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "29835",
+      "nombre": "TEORIA Y SOLFEO II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "29836",
+      "nombre": "HISTORIA DE LA MUSICA II",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "29837",
+      "nombre": "FORMACION Y PRACTICA CORAL II",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "29838",
+      "nombre": "PIANO COMPLEMENTARIO II",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "23423",
+      "nombre": "CULTURA FISICA Y DEPORTIVA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "28551",
+      "nombre": "ESCRITURA DE TEXTOS ACADEMICOS UNIVERSITARIOS",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "29839",
+      "nombre": "TEORIA Y SOLFEO III",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "29840",
+      "nombre": "ELEMENTOS DEL FOLKLOR I",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "29841",
+      "nombre": "FORMACION Y PRACTICA CORAL III",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "25082",
+      "nombre": "INSTRUMENTO PEDAGOGICO I",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "29842",
+      "nombre": "PIANO COMPLEMENTARIO III",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "28543",
+      "nombre": "PENSAMIENTO PEDAGOGICO Y SOCIEDAD",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "28556",
+      "nombre": "LENGUA EXTRANJERA I: INGLES BASICO I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "28562",
+      "nombre": "LENGUA EXTRANJERA II: INGLES BASICO II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "25114",
+      "nombre": "INSTRUMENTO PEDAGOGICO II",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "28547",
+      "nombre": "DESARROLLO HUMANO",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "29843",
+      "nombre": "TEORIA Y SOLFEO IV",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "29845",
+      "nombre": "FORMACION Y PRACTICA CORAL IV",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "29846",
+      "nombre": "PIANO COMPLEMENTARIO IV",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "29844",
+      "nombre": "ELEMENTOS DEL FOLKLOR II",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "28568",
+      "nombre": "LENGUA EXTRANJERA III: INGLES PRE-INTERMEDIO III",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "28956",
+      "nombre": "APRENDIZAJE Y MODELOS PEDAGOGICOS",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "20525",
+      "nombre": "ARMONIA I",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "29847",
+      "nombre": "MUSICA DE CAMARA I",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "29849",
+      "nombre": "PIANO COMPLEMENTARIO V",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "25088",
+      "nombre": "INSTRUMENTO PEDAGOGICO II",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "28574",
+      "nombre": "LENGUA EXTRANJERA IV: INGLES PRE-INTERMEDIO II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "28570",
+      "nombre": "DESARROLLO CURRICULAR",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "20469",
+      "nombre": "ARMONIA II",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "29850",
+      "nombre": "MUSICA DE CAMARA II",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "29851",
+      "nombre": "DIDACTICA MUSICAL I",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "28580",
+      "nombre": "LENGUA EXTRANJERA V: INGLES INTERMEDIO I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "28781",
+      "nombre": "EVALUACION DE LA ENSEÑANZA Y EL APRENDIZAJE",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "29852",
+      "nombre": "FORMAS Y ANALISIS MUSICAL",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "29854",
+      "nombre": "DIDACTICA MUSICAL II",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "25065",
+      "nombre": "ELEMENTOS DE DIRECCION",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "29856",
+      "nombre": "PRACTICA DOCENTE I",
+      "creditos": 10,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "29857",
+      "nombre": "DIDACTICA INSTRUMENTAL",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "29859",
+      "nombre": "PRACTICA DOCENTE II",
+      "creditos": 10,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "29860",
+      "nombre": "METODOLOGIA DE LA INVESTIGACION MUSICAL",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "29861",
+      "nombre": "ELEMENTOS, INSTRUMENTOS Y COMPOSICION",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 10
+    },
+    {
+      "codigo": "29862",
+      "nombre": "PRACTICA DOCENTE INTEGRADORA",
+      "creditos": 10,
+      "requisitos": [],
+      "nivel": 10
+    },
+    {
+      "codigo": "20508",
+      "nombre": "TOPICOS ESPECIALES",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "24193",
+      "nombre": "IMPROVISACION DEL JAZZ",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "20488",
+      "nombre": "ELEMENTOS DE INSTRUMENT. Y COMPOS. II",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "24229",
+      "nombre": "EXPRESION CORPORAL Y DANZA CONTEMPORANEA",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "27708",
+      "nombre": "GESTION CULTURAL",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    }
+  ],
+  "codigos": [
+    "20469",
+    "20488",
+    "20508",
+    "20517",
+    "20525",
+    "23423",
+    "24193",
+    "24229",
+    "25065",
+    "25082",
+    "25088",
+    "25114",
+    "27708",
+    "28543",
+    "28546",
+    "28547",
+    "28551",
+    "28556",
+    "28562",
+    "28568",
+    "28570",
+    "28574",
+    "28580",
+    "28781",
+    "28956",
+    "29205",
+    "29831",
+    "29832",
+    "29833",
+    "29834",
+    "29835",
+    "29836",
+    "29837",
+    "29838",
+    "29839",
+    "29840",
+    "29841",
+    "29842",
+    "29843",
+    "29844",
+    "29845",
+    "29846",
+    "29847",
+    "29849",
+    "29850",
+    "29851",
+    "29852",
+    "29854",
+    "29856",
+    "29857",
+    "29859",
+    "29860",
+    "29861",
+    "29862"
+  ]
+}

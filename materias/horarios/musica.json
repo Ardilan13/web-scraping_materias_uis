@@ -1,0 +1,5356 @@
+[
+  {
+    "sku": "20469",
+    "name": "ARMONIA II",
+    "groups": [
+      {
+        "sku": "F",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "DANIEL CASAS",
+            "room": "207",
+            "professor": "MANUEL EDUARDO MEJIA SERRANO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "20508",
+    "name": "TOPICOS ESPECIALES",
+    "groups": [
+      {
+        "sku": "E",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "CAMILO ROJAS CAMARGO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "20517",
+    "name": "PIANO COMPLEMENTARIO I",
+    "groups": [
+      {
+        "sku": "L",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 8:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L1",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 9:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L10",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "CRISTIAN DANIEL ARIZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "L11",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 15:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "CRISTIAN DANIEL ARIZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "L12",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "15:00 - 16:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "CRISTIAN DANIEL ARIZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "L13",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 8:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "RUBEN DARIO CASTILLO MEZA"
+          }
+        ]
+      },
+      {
+        "sku": "L14",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 9:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "RUBEN DARIO CASTILLO MEZA"
+          }
+        ]
+      },
+      {
+        "sku": "L15",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "L16",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "L17",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "L2",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L3",
+        "capacity": 3,
+        "enrolled": 2,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "DAYRA YURLEY GONZÁLEZ RODRÍGUEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L4",
+        "capacity": 3,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "9:00 - 10:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "DAYRA YURLEY GONZÁLEZ RODRÍGUEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L5",
+        "capacity": 3,
+        "enrolled": 1,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "DAYRA YURLEY GONZÁLEZ RODRÍGUEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L6",
+        "capacity": 3,
+        "enrolled": 1,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "DAYRA YURLEY GONZÁLEZ RODRÍGUEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L7",
+        "capacity": 3,
+        "enrolled": 1,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 15:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "CRISTIAN DANIEL ARIZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "L8",
+        "capacity": 3,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "CRISTIAN DANIEL ARIZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "L9",
+        "capacity": 3,
+        "enrolled": 1,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "CRISTIAN DANIEL ARIZA ROMERO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "20525",
+    "name": "ARMONIA I",
+    "groups": [
+      {
+        "sku": "C",
+        "capacity": 16,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "DANIEL CASAS",
+            "room": "203",
+            "professor": "MANUEL EDUARDO MEJIA SERRANO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "23423",
+    "name": "CULTURA FISICA Y DEPORTIVA",
+    "groups": [
+      {
+        "sku": "A01",
+        "capacity": 25,
+        "enrolled": 24,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "A02",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA MARCELA SUAREZ TORRES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA MARCELA SUAREZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "A03",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          }
+        ]
+      },
+      {
+        "sku": "A04",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          }
+        ]
+      },
+      {
+        "sku": "A05",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "RICARDO CASTELLANOS MARTINEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "RICARDO CASTELLANOS MARTINEZ"
+          }
+        ]
+      },
+      {
+        "sku": "A06",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "B01",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "B02",
+        "capacity": 25,
+        "enrolled": 24,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "B03",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          }
+        ]
+      },
+      {
+        "sku": "B04",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "B05",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "E01",
+        "capacity": 25,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "F01",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "F02",
+        "capacity": 25,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "G02",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "18:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "WILSON ESPINDOLA CARDENAS"
+          },
+          {
+            "day": "JUEVES",
+            "time": "18:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "WILSON ESPINDOLA CARDENAS"
+          }
+        ]
+      },
+      {
+        "sku": "M01",
+        "capacity": 30,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "SABADO",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          }
+        ]
+      },
+      {
+        "sku": "M02",
+        "capacity": 30,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "SABADO",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "SANTIAGO JOSE OCHOA CARRILLO"
+          }
+        ]
+      },
+      {
+        "sku": "PA1",
+        "capacity": 28,
+        "enrolled": 28,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "PA2",
+        "capacity": 28,
+        "enrolled": 28,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "PA3",
+        "capacity": 29,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "PA4",
+        "capacity": 29,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          }
+        ]
+      },
+      {
+        "sku": "PA5",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAO MARCELO GUTIERREZ HERRERA"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAO MARCELO GUTIERREZ HERRERA"
+          }
+        ]
+      },
+      {
+        "sku": "PA6",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN SEBASTIAN DEL VILLAR NIETO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN SEBASTIAN DEL VILLAR NIETO"
+          }
+        ]
+      },
+      {
+        "sku": "PA7",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          }
+        ]
+      },
+      {
+        "sku": "PA8",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          }
+        ]
+      },
+      {
+        "sku": "PAB",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAO MARCELO GUTIERREZ HERRERA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAO MARCELO GUTIERREZ HERRERA"
+          }
+        ]
+      },
+      {
+        "sku": "PAD",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA MARCELA SUAREZ TORRES"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA MARCELA SUAREZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "PAG",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA MARCELA SUAREZ TORRES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA MARCELA SUAREZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "PAH",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          }
+        ]
+      },
+      {
+        "sku": "PAI",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          }
+        ]
+      },
+      {
+        "sku": "PB1",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAO MARCELO GUTIERREZ HERRERA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAO MARCELO GUTIERREZ HERRERA"
+          }
+        ]
+      },
+      {
+        "sku": "PB2",
+        "capacity": 28,
+        "enrolled": 28,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          }
+        ]
+      },
+      {
+        "sku": "PB3",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "PB4",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAO MARCELO GUTIERREZ HERRERA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAO MARCELO GUTIERREZ HERRERA"
+          }
+        ]
+      },
+      {
+        "sku": "PB5",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA MARCELA SUAREZ TORRES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA MARCELA SUAREZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "PB6",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          }
+        ]
+      },
+      {
+        "sku": "PB7",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN HALLEY PEINADO RINCON"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN HALLEY PEINADO RINCON"
+          }
+        ]
+      },
+      {
+        "sku": "PB8",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DAVID ALEJANDRO VERA OSORIO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DAVID ALEJANDRO VERA OSORIO"
+          }
+        ]
+      },
+      {
+        "sku": "PB9",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DAVID ALEJANDRO VERA OSORIO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DAVID ALEJANDRO VERA OSORIO"
+          }
+        ]
+      },
+      {
+        "sku": "PBA",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "PBC",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          }
+        ]
+      },
+      {
+        "sku": "PBD",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "MONICA SUAREZ LEON"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "MONICA SUAREZ LEON"
+          }
+        ]
+      },
+      {
+        "sku": "PF1",
+        "capacity": 29,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "WILSON ESPINDOLA CARDENAS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "WILSON ESPINDOLA CARDENAS"
+          }
+        ]
+      },
+      {
+        "sku": "PF2",
+        "capacity": 29,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "WILSON ESPINDOLA CARDENAS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "WILSON ESPINDOLA CARDENAS"
+          }
+        ]
+      },
+      {
+        "sku": "PF3",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          },
+          {
+            "day": "MARTES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "PF4",
+        "capacity": 29,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "PF5",
+        "capacity": 29,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "PF6",
+        "capacity": 25,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "PF7",
+        "capacity": 24,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "PF8",
+        "capacity": 30,
+        "enrolled": 30,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "PF9",
+        "capacity": 30,
+        "enrolled": 30,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "PFA",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "PFB",
+        "capacity": 30,
+        "enrolled": 30,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN HALLEY PEINADO RINCON"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN HALLEY PEINADO RINCON"
+          }
+        ]
+      },
+      {
+        "sku": "PFC",
+        "capacity": 30,
+        "enrolled": 30,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "SANTIAGO JOSE OCHOA CARRILLO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "SANTIAGO JOSE OCHOA CARRILLO"
+          }
+        ]
+      },
+      {
+        "sku": "PFD",
+        "capacity": 25,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "SANTIAGO JOSE OCHOA CARRILLO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "SANTIAGO JOSE OCHOA CARRILLO"
+          }
+        ]
+      },
+      {
+        "sku": "PFE",
+        "capacity": 30,
+        "enrolled": 30,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "PFG",
+        "capacity": 27,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "24193",
+    "name": "IMPROVISACION DEL JAZZ",
+    "groups": [
+      {
+        "sku": "F",
+        "capacity": 13,
+        "enrolled": 12,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "DANIEL CASAS",
+            "room": "310",
+            "professor": "JUAN PABLO CEDIEL BALLESTEROS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "25065",
+    "name": "ELEMENTOS DE DIRECCION",
+    "groups": [
+      {
+        "sku": "B",
+        "capacity": 9,
+        "enrolled": 9,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "9:00 - 10:00",
+            "building": "DANIEL CASAS",
+            "room": "310",
+            "professor": "NELSON HENRY CRUZ RIVAS"
+          }
+        ]
+      },
+      {
+        "sku": "C",
+        "capacity": 8,
+        "enrolled": 8,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 11:00",
+            "building": "DANIEL CASAS",
+            "room": "310",
+            "professor": "NELSON HENRY CRUZ RIVAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "25082",
+    "name": "INSTRUMENTO PEDAGOGICO I",
+    "groups": [
+      {
+        "sku": "H",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS JOSE DURAN CARVAJAL"
+          }
+        ]
+      },
+      {
+        "sku": "H1",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS JOSE DURAN CARVAJAL"
+          }
+        ]
+      },
+      {
+        "sku": "H10",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "13:00 - 14:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN CASTAÑEDA GONZALEZ"
+          }
+        ]
+      },
+      {
+        "sku": "H11",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 15:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON RODRIGUEZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "H12",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON RODRIGUEZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "H13",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "H14",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "H15",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "H16",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "H2",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS JOSE DURAN CARVAJAL"
+          }
+        ]
+      },
+      {
+        "sku": "H3",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS JOSE DURAN CARVAJAL"
+          }
+        ]
+      },
+      {
+        "sku": "H4",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS JOSE DURAN CARVAJAL"
+          }
+        ]
+      },
+      {
+        "sku": "H5",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 15:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON RODRIGUEZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "H6",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON RODRIGUEZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "H7",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON RODRIGUEZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "H8",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON RODRIGUEZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "H9",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "13:00 - 14:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN CASTAÑEDA GONZALEZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "25088",
+    "name": "INSTRUMENTO PEDAGOGICO III",
+    "groups": [
+      {
+        "sku": "H",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 15:00",
+            "building": "DANIEL CASAS",
+            "room": "302",
+            "professor": "EDWIN CASTAÑEDA GONZALEZ"
+          }
+        ]
+      },
+      {
+        "sku": "H1",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "15:00 - 16:00",
+            "building": "DANIEL CASAS",
+            "room": "302",
+            "professor": "EDWIN CASTAÑEDA GONZALEZ"
+          }
+        ]
+      },
+      {
+        "sku": "H10",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": []
+      },
+      {
+        "sku": "H11",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN CASTAÑEDA GONZALEZ"
+          }
+        ]
+      },
+      {
+        "sku": "H12",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "H14",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "H15",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "H2",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 17:00",
+            "building": "DANIEL CASAS",
+            "room": "302",
+            "professor": "EDWIN CASTAÑEDA GONZALEZ"
+          }
+        ]
+      },
+      {
+        "sku": "H3",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 15:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN CASTAÑEDA GONZALEZ"
+          }
+        ]
+      },
+      {
+        "sku": "H4",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN CASTAÑEDA GONZALEZ"
+          }
+        ]
+      },
+      {
+        "sku": "H5",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN CASTAÑEDA GONZALEZ"
+          }
+        ]
+      },
+      {
+        "sku": "H6",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN CASTAÑEDA GONZALEZ"
+          }
+        ]
+      },
+      {
+        "sku": "H7",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN CASTAÑEDA GONZALEZ"
+          }
+        ]
+      },
+      {
+        "sku": "H8",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN CASTAÑEDA GONZALEZ"
+          }
+        ]
+      },
+      {
+        "sku": "H9",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN CASTAÑEDA GONZALEZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "25114",
+    "name": "INSTRUMENTO PEDAGOGICO II",
+    "groups": [
+      {
+        "sku": "H",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "VICTOR ALFONSO GERENA MANTILLA"
+          }
+        ]
+      },
+      {
+        "sku": "H1",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "VICTOR ALFONSO GERENA MANTILLA"
+          }
+        ]
+      },
+      {
+        "sku": "H10",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON RODRIGUEZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "H11",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "H12",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "H13",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "H14",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "H15",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "H2",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "VICTOR ALFONSO GERENA MANTILLA"
+          }
+        ]
+      },
+      {
+        "sku": "H3",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS JOSE DURAN CARVAJAL"
+          }
+        ]
+      },
+      {
+        "sku": "H4",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS JOSE DURAN CARVAJAL"
+          }
+        ]
+      },
+      {
+        "sku": "H5",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON RODRIGUEZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "H6",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON RODRIGUEZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "H7",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 15:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON RODRIGUEZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "H8",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON RODRIGUEZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "H9",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON RODRIGUEZ TORRES"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "27708",
+    "name": "GESTION CULTURAL",
+    "groups": [
+      {
+        "sku": "D",
+        "capacity": 10,
+        "enrolled": 6,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "GLORIA ANGÉLICA MORA DIONISIO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "28543",
+    "name": "PENSAMIENTO PEDAGOGICO Y SOCIEDAD",
+    "groups": [
+      {
+        "sku": "A",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 10:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "507",
+            "professor": "PABLO EMILIO CRUZ PICON"
+          }
+        ]
+      },
+      {
+        "sku": "A1",
+        "capacity": 20,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 13:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "507",
+            "professor": "PABLO LLERAL LARA CALDERON"
+          }
+        ]
+      },
+      {
+        "sku": "C",
+        "capacity": 20,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 13:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "316",
+            "professor": "PABLO LLERAL LARA CALDERON"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 13:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "507",
+            "professor": "CARLOS HUMBERTO ESPINOSA SUAREZ"
+          }
+        ]
+      },
+      {
+        "sku": "P2",
+        "capacity": 35,
+        "enrolled": 35,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 10:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "316",
+            "professor": "PABLO EMILIO CRUZ PICON"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "28546",
+    "name": "LECTURA DE TEXTOS ACADEMICOS UNIVERSITARIOS",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 20,
+        "enrolled": 8,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "6:00 - 8:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "402",
+            "professor": "PAOLA ANDREA LÓPEZ RINCÓN"
+          },
+          {
+            "day": "JUEVES",
+            "time": "6:00 - 8:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "402",
+            "professor": "PAOLA ANDREA LÓPEZ RINCÓN"
+          }
+        ]
+      },
+      {
+        "sku": "PB1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "LAURA CRISTINA BONILLA NEIRA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "412",
+            "professor": "LAURA CRISTINA BONILLA NEIRA"
+          }
+        ]
+      },
+      {
+        "sku": "PC1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "LAURA CRISTINA BONILLA NEIRA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "123",
+            "professor": "LAURA CRISTINA BONILLA NEIRA"
+          }
+        ]
+      },
+      {
+        "sku": "PC2",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "515",
+            "professor": "DANIEL ALEJANDRO MORALES MACHADO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "515",
+            "professor": "DANIEL ALEJANDRO MORALES MACHADO"
+          }
+        ]
+      },
+      {
+        "sku": "PC3",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "516",
+            "professor": "ENDER ENRIQUE ANDRADE CAICEDO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "516",
+            "professor": "ENDER ENRIQUE ANDRADE CAICEDO"
+          }
+        ]
+      },
+      {
+        "sku": "PC4",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "515",
+            "professor": "ROSMAR GUERRERO TREJO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "516",
+            "professor": "ROSMAR GUERRERO TREJO"
+          }
+        ]
+      },
+      {
+        "sku": "PC5",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "516",
+            "professor": "ROSMAR GUERRERO TREJO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "515",
+            "professor": "ROSMAR GUERRERO TREJO"
+          }
+        ]
+      },
+      {
+        "sku": "PE1",
+        "capacity": 22,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "MARJELIS VIRGINIA JAIMES MOGOLLON"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "MARJELIS VIRGINIA JAIMES MOGOLLON"
+          }
+        ]
+      },
+      {
+        "sku": "PE2",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "PAOLA ANDREA LÓPEZ RINCÓN"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "PAOLA ANDREA LÓPEZ RINCÓN"
+          }
+        ]
+      },
+      {
+        "sku": "PE3",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JIMMY HUMBERTO FORTUNA VARGAS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JIMMY HUMBERTO FORTUNA VARGAS"
+          }
+        ]
+      },
+      {
+        "sku": "PF1",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JIMMY HUMBERTO FORTUNA VARGAS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JIMMY HUMBERTO FORTUNA VARGAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "28547",
+    "name": "DESARROLLO HUMANO",
+    "groups": [
+      {
+        "sku": "C",
+        "capacity": 27,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 13:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "316",
+            "professor": "MARIO ANDRES PAEZ RUIZ"
+          }
+        ]
+      },
+      {
+        "sku": "PA1",
+        "capacity": 27,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "PA2",
+        "capacity": 27,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 10:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "308",
+            "professor": "MARIO ANDRES PAEZ RUIZ"
+          }
+        ]
+      },
+      {
+        "sku": "PE1",
+        "capacity": 27,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "YANIRA ELADIA SANABRIA GOMEZ"
+          }
+        ]
+      },
+      {
+        "sku": "PE2",
+        "capacity": 27,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 17:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "507",
+            "professor": "MARIO ANDRES PAEZ RUIZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "28551",
+    "name": "ESCRITURA DE TEXTOS ACADEMICOS UNIVERSITARIOS",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "604",
+            "professor": "MARJELIS VIRGINIA JAIMES MOGOLLON"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "122",
+            "professor": "MARJELIS VIRGINIA JAIMES MOGOLLON"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "INSTITUTO DE LENGUAS",
+            "room": "401",
+            "professor": "PAOLA ANDREA LÓPEZ RINCÓN"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "122",
+            "professor": "PAOLA ANDREA LÓPEZ RINCÓN"
+          }
+        ]
+      },
+      {
+        "sku": "C2",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "604",
+            "professor": "MARJELIS VIRGINIA JAIMES MOGOLLON"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "MARJELIS VIRGINIA JAIMES MOGOLLON"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "10104",
+            "professor": "MARJELIS VIRGINIA JAIMES MOGOLLON"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "MARJELIS VIRGINIA JAIMES MOGOLLON"
+          }
+        ]
+      },
+      {
+        "sku": "E2",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "PAOLA ANDREA LÓPEZ RINCÓN"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "10104",
+            "professor": "PAOLA ANDREA LÓPEZ RINCÓN"
+          }
+        ]
+      },
+      {
+        "sku": "E3",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "10104",
+            "professor": "JHON JANER VEGA RINCON"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "502",
+            "professor": "JHON JANER VEGA RINCON"
+          }
+        ]
+      },
+      {
+        "sku": "E4",
+        "capacity": 20,
+        "enrolled": 8,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "ROSMAR GUERRERO TREJO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "ROSMAR GUERRERO TREJO"
+          }
+        ]
+      },
+      {
+        "sku": "E5",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "ROSMAR GUERRERO TREJO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "ROSMAR GUERRERO TREJO"
+          }
+        ]
+      },
+      {
+        "sku": "E6",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAQUIN ARTURO CASTILLO LOZANO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAQUIN ARTURO CASTILLO LOZANO"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JIMMY HUMBERTO FORTUNA VARGAS"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JIMMY HUMBERTO FORTUNA VARGAS"
+          }
+        ]
+      },
+      {
+        "sku": "F2",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DAVID FERNANDO TORRES LIZARAZO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DAVID FERNANDO TORRES LIZARAZO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "28556",
+    "name": "LENG.EXTRAN.I:INGLES BASICO I",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 20,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JESSICA MARCELA VELANDIA SANTAMARIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "515",
+            "professor": "JESSICA MARCELA VELANDIA SANTAMARIA"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 20,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "516",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 20,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "JESSICA MARCELA VELANDIA SANTAMARIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 13:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "608",
+            "professor": "JESSICA MARCELA VELANDIA SANTAMARIA"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 20,
+        "enrolled": 6,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 19:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "508",
+            "professor": "NATHALIA RODRIGUEZ SAAVEDRA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "405",
+            "professor": "NATHALIA RODRIGUEZ SAAVEDRA"
+          }
+        ]
+      },
+      {
+        "sku": "PA1",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "CESAR ANDRES CAICEDO FUENTES"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "505",
+            "professor": "CESAR ANDRES CAICEDO FUENTES"
+          }
+        ]
+      },
+      {
+        "sku": "PA3",
+        "capacity": 22,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 10:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "210",
+            "professor": "JESSICA MARCELA VELANDIA SANTAMARIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JESSICA MARCELA VELANDIA SANTAMARIA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "28562",
+    "name": "LENG.EXT.II:INGLES BASICO II",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS CAMILO CABALLERO MEJIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "410",
+            "professor": "LUIS CAMILO CABALLERO MEJIA"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "DANNA GABRIELA AVENDAÑO MORA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "305",
+            "professor": "DANNA GABRIELA AVENDAÑO MORA"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 20,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 12:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "512",
+            "professor": "LUIS FERNANDO SANDOVAL RINCON"
+          },
+          {
+            "day": "MARTES",
+            "time": "10:00 - 13:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS FERNANDO SANDOVAL RINCON"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 18:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "304",
+            "professor": "LEONARDO CORREDOR AMARIS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 19:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "303",
+            "professor": "LEONARDO CORREDOR AMARIS"
+          }
+        ]
+      },
+      {
+        "sku": "F2",
+        "capacity": 20,
+        "enrolled": 5,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 18:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "404",
+            "professor": "JUAN SEBASTIAN PINTO SANCHEZ"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 19:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "304",
+            "professor": "JUAN SEBASTIAN PINTO SANCHEZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "28568",
+    "name": "LENG.EXT.III:INGLES PRE-INTERM I",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN SEBASTIAN PINTO SANCHEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 10:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "304",
+            "professor": "JUAN SEBASTIAN PINTO SANCHEZ"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 17:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "304",
+            "professor": "JUAN SEBASTIAN PINTO SANCHEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "405",
+            "professor": "JUAN SEBASTIAN PINTO SANCHEZ"
+          }
+        ]
+      },
+      {
+        "sku": "E2",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "515",
+            "professor": "JHEIDER ALDEMAR ARDILA TOVAR"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "13:00 - 16:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "404",
+            "professor": "JHEIDER ALDEMAR ARDILA TOVAR"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 20,
+        "enrolled": 11,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "CESAR ANDRES CAICEDO FUENTES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "410",
+            "professor": "CESAR ANDRES CAICEDO FUENTES"
+          }
+        ]
+      },
+      {
+        "sku": "F2",
+        "capacity": 20,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "RICARDO ANDRES QUINTERO CELIS"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "RICARDO ANDRES QUINTERO CELIS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "28570",
+    "name": "DESARROLLO CURRICULAR",
+    "groups": [
+      {
+        "sku": "A",
+        "capacity": 26,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 10:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "316",
+            "professor": "MARIA DEL PILAR VARGAS DAZA"
+          }
+        ]
+      },
+      {
+        "sku": "A1",
+        "capacity": 26,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 10:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "316",
+            "professor": "MARIA DEL PILAR VARGAS DAZA"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 26,
+        "enrolled": 26,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 10:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "316",
+            "professor": "MARIA HELENA QUIJANO HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "C",
+        "capacity": 26,
+        "enrolled": 26,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 13:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "316",
+            "professor": "MARIA HELENA QUIJANO HERNANDEZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "28574",
+    "name": "LENG.EXT.IV:INGLES PRE-INTERM.II",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "CESAR ANDRES CAICEDO FUENTES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "CESAR ANDRES CAICEDO FUENTES"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 20,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "OMAR CAMILO LOPEZ SUAREZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 13:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "613",
+            "professor": "OMAR CAMILO LOPEZ SUAREZ"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "CESAR ANDRES CAICEDO FUENTES"
+          },
+          {
+            "day": "VIERNES",
+            "time": "13:00 - 16:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "402",
+            "professor": "CESAR ANDRES CAICEDO FUENTES"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "JESSICA MARCELA VELANDIA SANTAMARIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 18:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "607",
+            "professor": "JESSICA MARCELA VELANDIA SANTAMARIA"
+          }
+        ]
+      },
+      {
+        "sku": "F2",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "LILIANA ROCIO FLOREZ CASTRO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 18:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "409",
+            "professor": "LILIANA ROCIO FLOREZ CASTRO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "28580",
+    "name": "LENG.EXTRANJERA V:INGLES INTERM.I",
+    "groups": [
+      {
+        "sku": "C1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "CESAR ANDRES CAICEDO FUENTES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 13:00",
+            "building": "",
+            "room": "",
+            "professor": "CESAR ANDRES CAICEDO FUENTES"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 20,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "606",
+            "professor": ""
+          },
+          {
+            "day": "MARTES",
+            "time": "13:00 - 16:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "512",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "E2",
+        "capacity": 20,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "CIENCIAS HUMANAS II",
+            "room": "607",
+            "professor": "JESSICA MARCELA VELANDIA SANTAMARIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "JESSICA MARCELA VELANDIA SANTAMARIA"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 20,
+        "enrolled": 2,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 19:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "403",
+            "professor": "NATHALIA RODRIGUEZ SAAVEDRA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 18:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "405",
+            "professor": "NATHALIA RODRIGUEZ SAAVEDRA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "28781",
+    "name": "EVALUACION DE LA ENSEÑANZA Y DEL APRENDIZAJE",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 22,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 10:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "302",
+            "professor": "BRAYAN DE JESUS ATUESTA URIELES"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 21,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 13:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "302",
+            "professor": "LUZ HELENA PRADA RAMIREZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "28956",
+    "name": "APRENDIZAJE Y MODELOS PEDAGOGICOS",
+    "groups": [
+      {
+        "sku": "A",
+        "capacity": 33,
+        "enrolled": 24,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 10:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "308",
+            "professor": "MAGDA LILIANA VARGAS CIFUENTES"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29205",
+    "name": "CATEDRA UIS",
+    "groups": [
+      {
+        "sku": "PC1",
+        "capacity": 1300,
+        "enrolled": 1129,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ALONSO SILVA ROJAS"
+          }
+        ]
+      },
+      {
+        "sku": "PE1",
+        "capacity": 1200,
+        "enrolled": 715,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS CARLOS MANTILLA FIGUEROA"
+          }
+        ]
+      },
+      {
+        "sku": "R",
+        "capacity": 1,
+        "enrolled": 1,
+        "schedule": []
+      }
+    ]
+  },
+  {
+    "sku": "29831",
+    "name": "TEORIA Y SOLFEO I",
+    "groups": [
+      {
+        "sku": "PB1",
+        "capacity": 16,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "HECTOR EDUARDO MATEUS CAICEDO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "HECTOR EDUARDO MATEUS CAICEDO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "PB2",
+        "capacity": 14,
+        "enrolled": 14,
+        "schedule": []
+      },
+      {
+        "sku": "PB3",
+        "capacity": 16,
+        "enrolled": 8,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "DANIEL CASAS",
+            "room": "207",
+            "professor": "SANDRA NATALIA SANCHEZ RAMIREZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "DANIEL CASAS",
+            "room": "207",
+            "professor": "SANDRA NATALIA SANCHEZ RAMIREZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 10:00",
+            "building": "DANIEL CASAS",
+            "room": "207",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "PC1",
+        "capacity": 16,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "HECTOR EDUARDO MATEUS CAICEDO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "HECTOR EDUARDO MATEUS CAICEDO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29832",
+    "name": "HISTORIA DE LA MUSICA I",
+    "groups": [
+      {
+        "sku": "PB1",
+        "capacity": 21,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "CAMILO ROJAS CAMARGO"
+          }
+        ]
+      },
+      {
+        "sku": "PF2",
+        "capacity": 22,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "CAMILO ROJAS CAMARGO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29833",
+    "name": "FORMACION Y PRACTICA CORAL I",
+    "groups": [
+      {
+        "sku": "PC1",
+        "capacity": 22,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN MANUEL HERNANDEZ MORALES"
+          }
+        ]
+      },
+      {
+        "sku": "PC2",
+        "capacity": 21,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN MANUEL HERNANDEZ MORALES"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29834",
+    "name": "TECNOLOGIA EN LA EDUCACION MUSICAL",
+    "groups": [
+      {
+        "sku": "PE1",
+        "capacity": 17,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "NATALIA AVELLA RAMIREZ"
+          }
+        ]
+      },
+      {
+        "sku": "PE2",
+        "capacity": 17,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "CRISMARY OSPINA GALLEGO"
+          }
+        ]
+      },
+      {
+        "sku": "PE3",
+        "capacity": 17,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "NATALIA AVELLA RAMIREZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29835",
+    "name": "TEORIA Y SOLFEO II",
+    "groups": [
+      {
+        "sku": "C",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "201",
+            "professor": "MABEL ROCIO CASTELLANOS GARCIA"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "DANIEL CASAS",
+            "room": "201",
+            "professor": "MABEL ROCIO CASTELLANOS GARCIA"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA NATALIA SANCHEZ RAMIREZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA NATALIA SANCHEZ RAMIREZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "C2",
+        "capacity": 15,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "208",
+            "professor": "MABEL ROCIO CASTELLANOS GARCIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 11:00",
+            "building": "DANIEL CASAS",
+            "room": "202",
+            "professor": "MABEL ROCIO CASTELLANOS GARCIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29836",
+    "name": "HISTORIA DE LA MUSICA II",
+    "groups": [
+      {
+        "sku": "E",
+        "capacity": 18,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "DANIEL CASAS",
+            "room": "201",
+            "professor": "CAMILO ROJAS CAMARGO"
+          }
+        ]
+      },
+      {
+        "sku": "F",
+        "capacity": 18,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 18:00",
+            "building": "DANIEL CASAS",
+            "room": "201",
+            "professor": "CAMILO ROJAS CAMARGO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29837",
+    "name": "FORMACION Y PRACTICA CORAL II",
+    "groups": [
+      {
+        "sku": "D",
+        "capacity": 18,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "DANIEL CASAS",
+            "room": "310",
+            "professor": "JUAN MANUEL HERNANDEZ MORALES"
+          }
+        ]
+      },
+      {
+        "sku": "D1",
+        "capacity": 18,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "DANIEL CASAS",
+            "room": "300",
+            "professor": "JUAN MANUEL HERNANDEZ MORALES"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29838",
+    "name": "PIANO COMPLEMENTARIO II",
+    "groups": [
+      {
+        "sku": "L",
+        "capacity": 3,
+        "enrolled": 2,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "15:00 - 16:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "CRISTIAN DANIEL ARIZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "L1",
+        "capacity": 3,
+        "enrolled": 2,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 17:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "CRISTIAN DANIEL ARIZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "L10",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 17:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "CARLOS ANDRES CORENA PEREA"
+          }
+        ]
+      },
+      {
+        "sku": "L11",
+        "capacity": 3,
+        "enrolled": 2,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 18:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "CARLOS ANDRES CORENA PEREA"
+          }
+        ]
+      },
+      {
+        "sku": "L12",
+        "capacity": 3,
+        "enrolled": 2,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "CARLOS ANDRES CORENA PEREA"
+          }
+        ]
+      },
+      {
+        "sku": "L13",
+        "capacity": 3,
+        "enrolled": 2,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 10:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "CARLOS ANDRES CORENA PEREA"
+          }
+        ]
+      },
+      {
+        "sku": "L14",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 11:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "CARLOS ANDRES CORENA PEREA"
+          }
+        ]
+      },
+      {
+        "sku": "L15",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "L16",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "L2",
+        "capacity": 3,
+        "enrolled": 2,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 18:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "CRISTIAN DANIEL ARIZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "L3",
+        "capacity": 3,
+        "enrolled": 2,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 8:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L4",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L5",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 10:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L6",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 11:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L7",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "11:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L8",
+        "capacity": 3,
+        "enrolled": 2,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 15:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "CARLOS ANDRES CORENA PEREA"
+          }
+        ]
+      },
+      {
+        "sku": "L9",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "15:00 - 16:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "CARLOS ANDRES CORENA PEREA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29839",
+    "name": "TEORIA Y SOLFEO III",
+    "groups": [
+      {
+        "sku": "B",
+        "capacity": 13,
+        "enrolled": 12,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "GUILLERMO GORDILLO GALAN"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "GUILLERMO GORDILLO GALAN"
+          },
+          {
+            "day": "VIERNES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "B2",
+        "capacity": 12,
+        "enrolled": 12,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "DANIEL CASAS",
+            "room": "202",
+            "professor": "MABEL ROCIO CASTELLANOS GARCIA"
+          },
+          {
+            "day": "MARTES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "202",
+            "professor": "MABEL ROCIO CASTELLANOS GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "B3",
+        "capacity": 12,
+        "enrolled": 12,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 10:00",
+            "building": "DANIEL CASAS",
+            "room": "202",
+            "professor": "MABEL ROCIO CASTELLANOS GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "DANIEL CASAS",
+            "room": "202",
+            "professor": "MABEL ROCIO CASTELLANOS GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29840",
+    "name": "ELEMENTOS DEL FOLKLOR I",
+    "groups": [
+      {
+        "sku": "E",
+        "capacity": 19,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "DANIEL CASAS",
+            "room": "201",
+            "professor": "CAMILO ROJAS CAMARGO"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 18,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "203",
+            "professor": "CAMILO ROJAS CAMARGO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29841",
+    "name": "FORMACION Y PRACTICA CORAL III",
+    "groups": [
+      {
+        "sku": "C",
+        "capacity": 18,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "204",
+            "professor": "JUAN MANUEL HERNANDEZ MORALES"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 18,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "204",
+            "professor": "LUIS JOSE DURAN CARVAJAL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29842",
+    "name": "PIANO COMPLEMENTARIO III",
+    "groups": [
+      {
+        "sku": "L",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L1",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L10",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 15:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L11",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS ANDRES CORENA PEREA"
+          }
+        ]
+      },
+      {
+        "sku": "L12",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "11:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "CARLOS ANDRES CORENA PEREA"
+          }
+        ]
+      },
+      {
+        "sku": "L13",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 8:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "CARLOS ANDRES CORENA PEREA"
+          }
+        ]
+      },
+      {
+        "sku": "L14",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "L15",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "L2",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "13:00 - 14:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L3",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 15:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L4",
+        "capacity": 3,
+        "enrolled": 2,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "15:00 - 16:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L5",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 17:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L6",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 8:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L7",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L8",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "9:00 - 10:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L9",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "13:00 - 14:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29843",
+    "name": "TEORIA Y SOLFEO IV",
+    "groups": [
+      {
+        "sku": "B",
+        "capacity": 17,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "DANIEL CASAS",
+            "room": "206",
+            "professor": "GUILLERMO GORDILLO GALAN"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "DANIEL CASAS",
+            "room": "206",
+            "professor": "GUILLERMO GORDILLO GALAN"
+          },
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "B1",
+        "capacity": 17,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 15:00",
+            "building": "",
+            "room": "",
+            "professor": "ÁLVARO MARTÍN GÓMEZ ACEVEDO"
+          },
+          {
+            "day": "LUNES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "MARTES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "ÁLVARO MARTÍN GÓMEZ ACEVEDO"
+          }
+        ]
+      },
+      {
+        "sku": "C",
+        "capacity": 17,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "206",
+            "professor": "GUILLERMO GORDILLO GALAN"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 11:00",
+            "building": "DANIEL CASAS",
+            "room": "206",
+            "professor": "GUILLERMO GORDILLO GALAN"
+          },
+          {
+            "day": "JUEVES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29844",
+    "name": "ELEMENTOS DE FOLKLOR II",
+    "groups": [
+      {
+        "sku": "B",
+        "capacity": 22,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 10:00",
+            "building": "DANIEL CASAS",
+            "room": "201",
+            "professor": "CAMILO ROJAS CAMARGO"
+          }
+        ]
+      },
+      {
+        "sku": "C",
+        "capacity": 22,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "206",
+            "professor": "CAMILO ROJAS CAMARGO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29845",
+    "name": "FORMACION Y PRACTICA CORAL IV",
+    "groups": [
+      {
+        "sku": "C",
+        "capacity": 23,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "DANIEL CASAS",
+            "room": "300",
+            "professor": "LUIS JOSE DURAN CARVAJAL"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "300",
+            "professor": "LUIS JOSE DURAN CARVAJAL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29846",
+    "name": "PIANO COMPLENTARIO IV",
+    "groups": [
+      {
+        "sku": "L",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "9:00 - 10:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "RUBEN DARIO CASTILLO MEZA"
+          }
+        ]
+      },
+      {
+        "sku": "L1",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 11:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "RUBEN DARIO CASTILLO MEZA"
+          }
+        ]
+      },
+      {
+        "sku": "L10",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 11:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "CRISTIAN DANIEL ARIZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "L11",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "15:00 - 16:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "JUAN PABLO CEDIEL BALLESTEROS"
+          }
+        ]
+      },
+      {
+        "sku": "L12",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "JUAN PABLO CEDIEL BALLESTEROS"
+          }
+        ]
+      },
+      {
+        "sku": "L13",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 18:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "JUAN PABLO CEDIEL BALLESTEROS"
+          }
+        ]
+      },
+      {
+        "sku": "L14",
+        "capacity": 3,
+        "enrolled": 2,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "18:00 - 19:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "JUAN PABLO CEDIEL BALLESTEROS"
+          }
+        ]
+      },
+      {
+        "sku": "L2",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "11:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "RUBEN DARIO CASTILLO MEZA"
+          }
+        ]
+      },
+      {
+        "sku": "L3",
+        "capacity": 3,
+        "enrolled": 2,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "12:00 - 13:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "RUBEN DARIO CASTILLO MEZA"
+          }
+        ]
+      },
+      {
+        "sku": "L4",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "13:00 - 14:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "L5",
+        "capacity": 1,
+        "enrolled": 1,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 8:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "RUBEN DARIO CASTILLO MEZA"
+          }
+        ]
+      },
+      {
+        "sku": "L6",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 11:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "JUAN PABLO CEDIEL BALLESTEROS"
+          }
+        ]
+      },
+      {
+        "sku": "L7",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "11:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "JUAN PABLO CEDIEL BALLESTEROS"
+          }
+        ]
+      },
+      {
+        "sku": "L8",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "CRISTIAN DANIEL ARIZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "L9",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 10:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "CRISTIAN DANIEL ARIZA ROMERO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29847",
+    "name": "MUSICA DE CAMARA I",
+    "groups": [
+      {
+        "sku": "C",
+        "capacity": 12,
+        "enrolled": 12,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "300",
+            "professor": "NELSON HENRY CRUZ RIVAS"
+          }
+        ]
+      },
+      {
+        "sku": "F",
+        "capacity": 12,
+        "enrolled": 12,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "DANIEL CASAS",
+            "room": "300",
+            "professor": "NELSON HENRY CRUZ RIVAS"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 12,
+        "enrolled": 12,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "DANIEL CASAS",
+            "room": "308",
+            "professor": "NATALIA AVELLA RAMIREZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29849",
+    "name": "PIANO COMPLEMENTARIO V",
+    "groups": [
+      {
+        "sku": "L1",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "17:00 - 18:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "JUAN PABLO CEDIEL BALLESTEROS"
+          }
+        ]
+      },
+      {
+        "sku": "L10",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "9:00 - 10:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L11",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 11:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L12",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "11:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "DANIEL JOSUE BARBOSA HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "L2",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "18:00 - 19:00",
+            "building": "DANIEL CASAS",
+            "room": "2051",
+            "professor": "JUAN PABLO CEDIEL BALLESTEROS"
+          }
+        ]
+      },
+      {
+        "sku": "L3",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "RUBEN DARIO CASTILLO MEZA"
+          }
+        ]
+      },
+      {
+        "sku": "L4",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "9:00 - 10:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "RUBEN DARIO CASTILLO MEZA"
+          }
+        ]
+      },
+      {
+        "sku": "L5",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 11:00",
+            "building": "DANIEL CASAS",
+            "room": "2052",
+            "professor": "RUBEN DARIO CASTILLO MEZA"
+          }
+        ]
+      },
+      {
+        "sku": "L6",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "JUAN PABLO CEDIEL BALLESTEROS"
+          }
+        ]
+      },
+      {
+        "sku": "L7",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "9:00 - 10:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "JUAN PABLO CEDIEL BALLESTEROS"
+          }
+        ]
+      },
+      {
+        "sku": "L8",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "JUAN PABLO CEDIEL BALLESTEROS"
+          }
+        ]
+      },
+      {
+        "sku": "L9",
+        "capacity": 3,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "DANIEL CASAS",
+            "room": "2053",
+            "professor": "JUAN PABLO CEDIEL BALLESTEROS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29850",
+    "name": "MUSICA DE CAMARA II",
+    "groups": [
+      {
+        "sku": "C",
+        "capacity": 10,
+        "enrolled": 10,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "310",
+            "professor": "NATALIA AVELLA RAMIREZ"
+          }
+        ]
+      },
+      {
+        "sku": "F",
+        "capacity": 11,
+        "enrolled": 11,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "DANIEL CASAS",
+            "room": "308",
+            "professor": "NATALIA AVELLA RAMIREZ"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 10,
+        "enrolled": 10,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "DANIEL CASAS",
+            "room": "300",
+            "professor": "NELSON HENRY CRUZ RIVAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29851",
+    "name": "DIDACTICA MUSICAL I(PROYECTO INTEGRADOR)",
+    "groups": [
+      {
+        "sku": "B",
+        "capacity": 17,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "CRISMARY OSPINA GALLEGO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 11:00",
+            "building": "DANIEL CASAS",
+            "room": "106",
+            "professor": "CRISMARY OSPINA GALLEGO"
+          }
+        ]
+      },
+      {
+        "sku": "F",
+        "capacity": 17,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS JOSE DURAN CARVAJAL"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29852",
+    "name": "FORMAS Y ANALISIS MUSICAL",
+    "groups": [
+      {
+        "sku": "C",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "MANUEL EDUARDO MEJIA SERRANO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "11:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "207",
+            "professor": "MANUEL EDUARDO MEJIA SERRANO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29854",
+    "name": "DIDACTICA MUSICAL II(PROY.INTEGRADOR)",
+    "groups": [
+      {
+        "sku": "C",
+        "capacity": 19,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "DANIEL CASAS",
+            "room": "202",
+            "professor": "MILTON NOHEL SANGUINO PALLARES"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 19:00",
+            "building": "DANIEL CASAS",
+            "room": "106",
+            "professor": "MILTON NOHEL SANGUINO PALLARES"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29856",
+    "name": "PRACTICA DOCENTE I",
+    "groups": [
+      {
+        "sku": "J",
+        "capacity": 7,
+        "enrolled": 3,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "JOHANNA PATRICIA GARCIA ARIAS"
+          },
+          {
+            "day": "LUNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "JOHANNA PATRICIA GARCIA ARIAS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "RUBEN DARIO CASTILLO MEZA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "RUBEN DARIO CASTILLO MEZA"
+          }
+        ]
+      },
+      {
+        "sku": "J1",
+        "capacity": 7,
+        "enrolled": 1,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "13:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "RUBEN DARIO CASTILLO MEZA"
+          },
+          {
+            "day": "MARTES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "RUBEN DARIO CASTILLO MEZA"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "RUBEN DARIO CASTILLO MEZA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "RUBEN DARIO CASTILLO MEZA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29857",
+    "name": "DIDACTICA INSTRUMENTAL(COMP.TEORICO)",
+    "groups": [
+      {
+        "sku": "E",
+        "capacity": 7,
+        "enrolled": 7,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "DANIEL CASAS",
+            "room": "206",
+            "professor": "GUILLERMO GORDILLO GALAN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29859",
+    "name": "PRACTICA DOCENTE II",
+    "groups": [
+      {
+        "sku": "J",
+        "capacity": 10,
+        "enrolled": 5,
+        "schedule": []
+      },
+      {
+        "sku": "J1",
+        "capacity": 10,
+        "enrolled": 4,
+        "schedule": []
+      },
+      {
+        "sku": "J2",
+        "capacity": 10,
+        "enrolled": 4,
+        "schedule": []
+      }
+    ]
+  },
+  {
+    "sku": "29860",
+    "name": "METODOLOGIA DE LA INVESTIGACION MUSICAL",
+    "groups": [
+      {
+        "sku": "E",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "DANIEL CASAS",
+            "room": "201",
+            "professor": "CAMILO ROJAS CAMARGO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29862",
+    "name": "PRACTICA DOCENTE INTEGRADORA",
+    "groups": [
+      {
+        "sku": "J",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "J1",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      }
+    ]
+  }
+]

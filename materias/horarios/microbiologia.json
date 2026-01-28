@@ -1,723 +1,219 @@
 [
-    {
-        "codigo": "24979",
-        "nombre": "BIOESTADISTICA",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 25,
-                "matriculados": 13,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    },
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "8:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            },
-            {
-                "grupo": "A2",
-                "capacidad": 25,
-                "matriculados": 13,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JOSE DE JESUS MORENO MONTOYA"
-                    },
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JOSE DE JESUS MORENO MONTOYA"
-                    }
-                ]
-            }
+  {
+    "sku": "24979",
+    "name": "BIOESTADISTICA",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 2,
+        "enrolled": 2,
+        "schedule": []
+      },
+      {
+        "sku": "B2",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      },
+      {
+        "sku": "B3",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": []
+      }
+    ]
+  },
+  {
+    "sku": "24980",
+    "name": "BIOQUIMICA I",
+    "groups": [
+      {
+        "sku": "J1",
+        "capacity": 1,
+        "enrolled": 1,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "15:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS ALIRIO LAZARO SALAZAR"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
         ]
-    },
-    {
-        "codigo": "24980",
-        "nombre": "BIOQUIMICA I",
-        "grupos": [
-            {
-                "grupo": "J1",
-                "capacidad": 16,
-                "matriculados": 15,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "15:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "LUIS ALIRIO LAZARO SALAZAR"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "16:00 - 17:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JOSE ARTURO GUTIERREZ TRIANA"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "17:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            },
-            {
-                "grupo": "J2",
-                "capacidad": 16,
-                "matriculados": 15,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "16:00 - 19:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "LUIS ALIRIO LAZARO SALAZAR"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "16:00 - 17:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JOSE ARTURO GUTIERREZ TRIANA"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "17:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "J2",
+        "capacity": 1,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS ALIRIO LAZARO SALAZAR"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
         ]
-    },
-    {
-        "codigo": "24981",
-        "nombre": "BACTERIOLOGIA DETERMINATIVA",
-        "grupos": [
-            {
-                "grupo": "H1",
-                "capacidad": 15,
-                "matriculados": 15,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "16:00 - 19:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "LUIS ALIRIO LAZARO SALAZAR"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "16:00 - 17:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JOSE ARTURO GUTIERREZ TRIANA"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "17:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            },
-            {
-                "grupo": "H2",
-                "capacidad": 15,
-                "matriculados": 15,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "16:00 - 19:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "LUIS ALIRIO LAZARO SALAZAR"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "16:00 - 17:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JOSE ARTURO GUTIERREZ TRIANA"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "17:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            },
-            {
-                "grupo": "H3",
-                "capacidad": 15,
-                "matriculados": 15,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "GIOVANNA RINCON CRUZ"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "J3",
+        "capacity": 1,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "18:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
         ]
-    },
-    {
-        "codigo": "24982",
-        "nombre": "ADMINISTRACION GENERAL",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 22,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "WILMAN DAVID SALGUEDO OLIVERO"
-                    }
-                ]
-            },
-            {
-                "grupo": "A2",
-                "capacidad": 22,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "JUEVES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "WILMAN DAVID SALGUEDO OLIVERO"
-                    }
-                ]
-            },
-            {
-                "grupo": "A3",
-                "capacidad": 22,
-                "matriculados": 20,
-                "horario": [
-                    {
-                        "dia": "VIERNES",
-                        "hora": "7:00 - 10:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "WILMAN DAVID SALGUEDO OLIVERO"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "J4",
+        "capacity": 1,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "15:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS ALIRIO LAZARO SALAZAR"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
         ]
-    },
-    {
-        "codigo": "24991",
-        "nombre": "HEMATOLOGIA I",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 16,
-                "matriculados": 13,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "7:00 - 9:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "MIKE ALEXANDER CELIS RODRIGUEZ"
-                    },
-                    {
-                        "dia": "MARTES",
-                        "hora": "14:00 - 18:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "DIEGO FERNANDO RINCON REYES"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "8:00 - 9:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "MIKE ALEXANDER CELIS RODRIGUEZ"
-                    }
-                ]
-            },
-            {
-                "grupo": "A2",
-                "capacidad": 16,
-                "matriculados": 14,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "7:00 - 9:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "MIKE ALEXANDER CELIS RODRIGUEZ"
-                    }
-                ]
-            },
-            {
-                "grupo": "A3",
-                "capacidad": 16,
-                "matriculados": 12,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "7:00 - 9:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "MIKE ALEXANDER CELIS RODRIGUEZ"
-                    },
-                    {
-                        "dia": "JUEVES",
-                        "hora": "8:00 - 9:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "MIKE ALEXANDER CELIS RODRIGUEZ"
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "sku": "24981",
+    "name": "BACTERIOLOGIA DETERMINATIVA",
+    "groups": [
+      {
+        "sku": "BD1",
+        "capacity": 15,
+        "enrolled": 11,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
         ]
-    },
-    {
-        "codigo": "24989",
-        "nombre": "METODOLOGIA DE LA INVESTIGACION",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 17,
-                "matriculados": 16,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "AURORA INES GAFARO ROJAS"
-                    },
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "16:00 - 17:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "AURORA INES GAFARO ROJAS"
-                    }
-                ]
-            },
-            {
-                "grupo": "A2",
-                "capacidad": 17,
-                "matriculados": 15,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "9:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "AURORA INES GAFARO ROJAS"
-                    }
-                ]
-            },
-            {
-                "grupo": "A3",
-                "capacidad": 16,
-                "matriculados": 15,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "14:00 - 17:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "sku": "24982",
+    "name": "ADMINISTRACION GENERAL",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 18,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "9:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "WILMAN DAVID SALGUEDO OLIVERO"
+          }
         ]
-    },
-    {
-        "codigo": "24990",
-        "nombre": "PARASITOLOGIA",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 17,
-                "matriculados": 13,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "14:00 - 17:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            },
-            {
-                "grupo": "A2",
-                "capacidad": 17,
-                "matriculados": 16,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "14:00 - 17:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            },
-            {
-                "grupo": "A3",
-                "capacidad": 17,
-                "matriculados": 16,
-                "horario": [
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "14:00 - 17:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "A2",
+        "capacity": 18,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "WILMAN DAVID SALGUEDO OLIVERO"
+          }
         ]
-    },
-    {
-        "codigo": "28101",
-        "nombre": "PRIMEROS AUXILIOS",
-        "grupos": [
-            {
-                "grupo": "C1",
-                "capacidad": 6,
-                "matriculados": 6,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "9:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "LEIDY JOHANNA CORDERO ROBAYO"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "9:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "LEIDY JOHANNA CORDERO ROBAYO"
-                    }
-                ]
-            },
-            {
-                "grupo": "C2",
-                "capacidad": 6,
-                "matriculados": 6,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "14:00 - 15:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "LEIDY JOHANNA CORDERO ROBAYO"
-                    },
-                    {
-                        "dia": "LUNES",
-                        "hora": "15:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "LEIDY JOHANNA CORDERO ROBAYO"
-                    },
-                    {
-                        "dia": "LUNES",
-                        "hora": "16:00 - 17:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "LEIDY JOHANNA CORDERO ROBAYO"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "9:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "LEIDY JOHANNA CORDERO ROBAYO"
-                    }
-                ]
-            },
-            {
-                "grupo": "C3",
-                "capacidad": 6,
-                "matriculados": 6,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "14:00 - 17:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "JUDITH RUIZ REYES"
-                    },
-                    {
-                        "dia": "VIERNES",
-                        "hora": "9:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "LEIDY JOHANNA CORDERO ROBAYO"
-                    }
-                ]
-            }
+      },
+      {
+        "sku": "A3",
+        "capacity": 17,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "9:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "WILMAN DAVID SALGUEDO OLIVERO"
+          }
         ]
-    },
-    {
-        "codigo": "25003",
-        "nombre": "MICROBIOLOGIA AMBIENTAL",
-        "grupos": [
-            {
-                "grupo": "D1",
-                "capacidad": 16,
-                "matriculados": 16,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "10:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "GERMAN ALEXIS ZAFRA SIERRA"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "codigo": "25001",
-        "nombre": "FITOPATOLOGIA",
-        "grupos": [
-            {
-                "grupo": "H1",
-                "capacidad": 16,
-                "matriculados": 1,
-                "horario": [
-                    {
-                        "dia": "MARTES",
-                        "hora": "14:00 - 16:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "MONICA FAJARDO LOPEZ"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "codigo": "24999",
-        "nombre": "ADMON Y GESTION DE LA CALIDAD EN SALUD",
-        "grupos": [
-            {
-                "grupo": "A1",
-                "capacidad": 22,
-                "matriculados": 3,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "8:00 - 11:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "WILMAN DAVID SALGUEDO OLIVERO"
-                    },
-                    {
-                        "dia": "MIERCOLES",
-                        "hora": "8:00 - 11:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "WILMAN DAVID SALGUEDO OLIVERO"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "codigo": "24997",
-        "nombre": "INTRODUCCION A PRACTICA PROFESIONAL",
-        "grupos": [
-            {
-                "grupo": "D1",
-                "capacidad": 17,
-                "matriculados": 15,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "10:00 - 11:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "RAUL FERNANDO SIERRA BALCARCEL"
-                    },
-                    {
-                        "dia": "LUNES",
-                        "hora": "11:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": "RAUL FERNANDO SIERRA BALCARCEL"
-                    }
-                ]
-            },
-            {
-                "grupo": "D2",
-                "capacidad": 17,
-                "matriculados": 15,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "10:00 - 11:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    },
-                    {
-                        "dia": "LUNES",
-                        "hora": "11:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            },
-            {
-                "grupo": "D3",
-                "capacidad": 16,
-                "matriculados": 14,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "10:00 - 11:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    },
-                    {
-                        "dia": "LUNES",
-                        "hora": "11:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "codigo": "24998",
-        "nombre": "MICROBIOLOGIA INDUSTRIAL",
-        "grupos": [
-            {
-                "grupo": "H1",
-                "capacidad": 16,
-                "matriculados": 16,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "10:00 - 11:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    },
-                    {
-                        "dia": "LUNES",
-                        "hora": "11:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            },
-            {
-                "grupo": "H2",
-                "capacidad": 16,
-                "matriculados": 16,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "10:00 - 11:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    },
-                    {
-                        "dia": "LUNES",
-                        "hora": "11:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            },
-            {
-                "grupo": "H3",
-                "capacidad": 16,
-                "matriculados": 9,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "10:00 - 11:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    },
-                    {
-                        "dia": "LUNES",
-                        "hora": "11:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "codigo": "25002",
-        "nombre": "MICROBIOLOGIA CLINICA E INFECTOLOGIA",
-        "grupos": [
-            {
-                "grupo": "PD1",
-                "capacidad": 16,
-                "matriculados": 16,
-                "horario": [
-                    {
-                        "dia": "LUNES",
-                        "hora": "10:00 - 11:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    },
-                    {
-                        "dia": "LUNES",
-                        "hora": "11:00 - 12:00",
-                        "edificio": "",
-                        "aula": "",
-                        "profesor": ""
-                    }
-                ]
-            }
-        ]
-    }
+      }
+    ]
+  }
 ]

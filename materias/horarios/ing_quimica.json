@@ -1314,222 +1314,6 @@
     ]
   },
   {
-    "sku": "22952",
-    "name": "BIOLOGIA PARA INGENIEROS",
-    "groups": [
-      {
-        "sku": "A",
-        "capacity": 25,
-        "enrolled": 25,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "7:00 - 10:00",
-            "building": "CAMILO TORRES",
-            "room": "107",
-            "professor": "NASSER SEGUNDO GUERRERO BERMUDEZ"
-          }
-        ]
-      },
-      {
-        "sku": "A1",
-        "capacity": 25,
-        "enrolled": 25,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "7:00 - 10:00",
-            "building": "CAMILO TORRES",
-            "room": "107",
-            "professor": "JAIDER MUÑOZ GUERRERO"
-          }
-        ]
-      },
-      {
-        "sku": "A10",
-        "capacity": 25,
-        "enrolled": 25,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "15:00 - 18:00",
-            "building": "CAMILO TORRES",
-            "room": "107",
-            "professor": "JAIDER MUÑOZ GUERRERO"
-          }
-        ]
-      },
-      {
-        "sku": "A11",
-        "capacity": 25,
-        "enrolled": 25,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "7:00 - 10:00",
-            "building": "CAMILO TORRES",
-            "room": "108",
-            "professor": "DANIEL RAFAEL MIRANDA ESQUIVEL"
-          }
-        ]
-      },
-      {
-        "sku": "A12",
-        "capacity": 25,
-        "enrolled": 25,
-        "schedule": [
-          {
-            "day": "JUEVES",
-            "time": "14:00 - 17:00",
-            "building": "CAMILO TORRES",
-            "room": "107",
-            "professor": "YASMIN PLATA DIAZ"
-          }
-        ]
-      },
-      {
-        "sku": "A2",
-        "capacity": 25,
-        "enrolled": 25,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "7:00 - 10:00",
-            "building": "CAMILO TORRES",
-            "room": "107",
-            "professor": "JAIDER MUÑOZ GUERRERO"
-          }
-        ]
-      },
-      {
-        "sku": "A3",
-        "capacity": 25,
-        "enrolled": 25,
-        "schedule": [
-          {
-            "day": "JUEVES",
-            "time": "7:00 - 10:00",
-            "building": "CAMILO TORRES",
-            "room": "107",
-            "professor": "NASSER SEGUNDO GUERRERO BERMUDEZ"
-          }
-        ]
-      },
-      {
-        "sku": "A4",
-        "capacity": 25,
-        "enrolled": 25,
-        "schedule": [
-          {
-            "day": "VIERNES",
-            "time": "7:00 - 10:00",
-            "building": "CAMILO TORRES",
-            "room": "107",
-            "professor": "JAIDER MUÑOZ GUERRERO"
-          }
-        ]
-      },
-      {
-        "sku": "A5",
-        "capacity": 25,
-        "enrolled": 25,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "10:00 - 13:00",
-            "building": "CAMILO TORRES",
-            "room": "107",
-            "professor": "NASSER SEGUNDO GUERRERO BERMUDEZ"
-          }
-        ]
-      },
-      {
-        "sku": "A6",
-        "capacity": 25,
-        "enrolled": 25,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "10:00 - 13:00",
-            "building": "CAMILO TORRES",
-            "room": "107",
-            "professor": "JAIDER MUÑOZ GUERRERO"
-          }
-        ]
-      },
-      {
-        "sku": "A7",
-        "capacity": 25,
-        "enrolled": 25,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "10:00 - 13:00",
-            "building": "CAMILO TORRES",
-            "room": "107",
-            "professor": "JAIDER MUÑOZ GUERRERO"
-          }
-        ]
-      },
-      {
-        "sku": "A9",
-        "capacity": 25,
-        "enrolled": 25,
-        "schedule": [
-          {
-            "day": "VIERNES",
-            "time": "10:00 - 13:00",
-            "building": "CAMILO TORRES",
-            "room": "107",
-            "professor": "JAIDER MUÑOZ GUERRERO"
-          }
-        ]
-      },
-      {
-        "sku": "PA1",
-        "capacity": 29,
-        "enrolled": 29,
-        "schedule": [
-          {
-            "day": "VIERNES",
-            "time": "7:00 - 10:00",
-            "building": "",
-            "room": "",
-            "professor": "NELSON FACUNDO RODRIGUEZ LOPEZ"
-          }
-        ]
-      },
-      {
-        "sku": "PE1",
-        "capacity": 29,
-        "enrolled": 29,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "14:00 - 17:00",
-            "building": "",
-            "room": "",
-            "professor": ""
-          }
-        ]
-      },
-      {
-        "sku": "YA1",
-        "capacity": 25,
-        "enrolled": 24,
-        "schedule": [
-          {
-            "day": "VIERNES",
-            "time": "16:00 - 19:00",
-            "building": "CAMILO TORRES",
-            "room": "107",
-            "professor": "JAIDER MUÑOZ GUERRERO"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "sku": "22979",
     "name": "ALGEBRA LINEAL I",
     "groups": [
@@ -2490,40 +2274,6 @@
         "capacity": 0,
         "enrolled": 0,
         "schedule": []
-      }
-    ]
-  },
-  {
-    "sku": "23050",
-    "name": "INTRODUCC.A.LA.ING.DE PETROLEOS",
-    "groups": [
-      {
-        "sku": "PB1",
-        "capacity": 29,
-        "enrolled": 29,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "9:00 - 12:00",
-            "building": "",
-            "room": "",
-            "professor": "MANUEL ENRIQUE CABARCAS SIMANCAS"
-          }
-        ]
-      },
-      {
-        "sku": "PE1",
-        "capacity": 29,
-        "enrolled": 29,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "14:00 - 17:00",
-            "building": "",
-            "room": "",
-            "professor": "MANUEL ENRIQUE CABARCAS SIMANCAS"
-          }
-        ]
       }
     ]
   },
@@ -4613,6 +4363,54 @@
             "building": "",
             "room": "",
             "professor": "NELLY PATRICIA ACEVEDO RINCON"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "27534",
+    "name": "INTRODUCCION A LA ING QUIMICA",
+    "groups": [
+      {
+        "sku": "PE1",
+        "capacity": 41,
+        "enrolled": 41,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "PF1",
+        "capacity": 41,
+        "enrolled": 41,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
           }
         ]
       }
@@ -6878,6 +6676,474 @@
     ]
   },
   {
+    "sku": "23015",
+    "name": "GEOMETRIA DESCRIPTIVA",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 27,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 27,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "6:00 - 8:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "MARTIN JULIAN GODOY ROJAS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "MARTIN JULIAN GODOY ROJAS"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 8:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "MARTIN JULIAN GODOY ROJAS"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 27,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 13:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "ROSA MILENA GOMEZ CABALLERO"
+          },
+          {
+            "day": "MARTES",
+            "time": "10:00 - 13:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "103",
+            "professor": "ROSA MILENA GOMEZ CABALLERO"
+          }
+        ]
+      },
+      {
+        "sku": "C3",
+        "capacity": 27,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "MARTIN JULIAN GODOY ROJAS"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "MARTIN JULIAN GODOY ROJAS"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "MARTIN JULIAN GODOY ROJAS"
+          }
+        ]
+      },
+      {
+        "sku": "C4",
+        "capacity": 27,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 13:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 13:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
+          }
+        ]
+      },
+      {
+        "sku": "D1",
+        "capacity": 27,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "202",
+            "professor": "JUAN CARLOS MORALES DIMARCO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "202",
+            "professor": "JUAN CARLOS MORALES DIMARCO"
+          }
+        ]
+      },
+      {
+        "sku": "D2",
+        "capacity": 27,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 27,
+        "enrolled": 24,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
+          }
+        ]
+      },
+      {
+        "sku": "E2",
+        "capacity": 27,
+        "enrolled": 24,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "202",
+            "professor": "EDGAR AUGUSTO SARMIENTO LEON"
+          },
+          {
+            "day": "MARTES",
+            "time": "14:00 - 17:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "EDGAR AUGUSTO SARMIENTO LEON"
+          }
+        ]
+      },
+      {
+        "sku": "E3",
+        "capacity": 27,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 17:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "309",
+            "professor": "JORGE ALBERTO SARMIENTO OMEARA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 17:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "309",
+            "professor": "JORGE ALBERTO SARMIENTO OMEARA"
+          }
+        ]
+      },
+      {
+        "sku": "PA3",
+        "capacity": 28,
+        "enrolled": 28,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 10:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "204",
+            "professor": "JUAN CARLOS MORALES DIMARCO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 10:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "204",
+            "professor": "JUAN CARLOS MORALES DIMARCO"
+          }
+        ]
+      },
+      {
+        "sku": "PA4",
+        "capacity": 28,
+        "enrolled": 28,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 10:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "204",
+            "professor": "MARIA IRENE SARMIENTO ROJAS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 10:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "103",
+            "professor": "MARIA IRENE SARMIENTO ROJAS"
+          }
+        ]
+      },
+      {
+        "sku": "PB1",
+        "capacity": 28,
+        "enrolled": 28,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
+          }
+        ]
+      },
+      {
+        "sku": "PB2",
+        "capacity": 27,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "MARTIN JULIAN GODOY ROJAS"
+          },
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "MARTIN JULIAN GODOY ROJAS"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "101",
+            "professor": "MARTIN JULIAN GODOY ROJAS"
+          }
+        ]
+      },
+      {
+        "sku": "PB3",
+        "capacity": 29,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "103",
+            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
+          },
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
+          }
+        ]
+      },
+      {
+        "sku": "PB4",
+        "capacity": 29,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "204",
+            "professor": "ERIKA MERCEDES GALLARDO FIGUEROA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "201",
+            "professor": "ERIKA MERCEDES GALLARDO FIGUEROA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "201",
+            "professor": "ERIKA MERCEDES GALLARDO FIGUEROA"
+          }
+        ]
+      },
+      {
+        "sku": "PC1",
+        "capacity": 28,
+        "enrolled": 28,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 13:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "JUAN CARLOS MORALES DIMARCO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 13:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "JUAN CARLOS MORALES DIMARCO"
+          }
+        ]
+      },
+      {
+        "sku": "PE1",
+        "capacity": 29,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
+          }
+        ]
+      },
+      {
+        "sku": "PF1",
+        "capacity": 29,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 18:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "MARIA IRENE SARMIENTO ROJAS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "MARIA IRENE SARMIENTO ROJAS"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "FEDERICO MAMITZA BAYER",
+            "room": "102",
+            "professor": "MARIA IRENE SARMIENTO ROJAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "sku": "23079",
     "name": "QUIMICA II",
     "groups": [
@@ -8480,228 +8746,6 @@
             "building": "",
             "room": "",
             "professor": "GISELL PAOLA AREVALO GARCIA"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28035",
-    "name": "GEOLOGIA GENERAL DE HIDROCARBUROS",
-    "groups": [
-      {
-        "sku": "B1",
-        "capacity": 20,
-        "enrolled": 18,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "8:00 - 10:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "103",
-            "professor": "EDWAR HERNANDO HERRERA OTERO"
-          },
-          {
-            "day": "MARTES",
-            "time": "10:00 - 12:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "103",
-            "professor": "EDWAR HERNANDO HERRERA OTERO"
-          }
-        ]
-      },
-      {
-        "sku": "E1",
-        "capacity": 19,
-        "enrolled": 16,
-        "schedule": [
-          {
-            "day": "JUEVES",
-            "time": "8:00 - 10:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "103",
-            "professor": "GERMAN DARIO CAMACHO ALMEYDA"
-          },
-          {
-            "day": "JUEVES",
-            "time": "10:00 - 12:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "103",
-            "professor": "GERMAN DARIO CAMACHO ALMEYDA"
-          }
-        ]
-      },
-      {
-        "sku": "E2",
-        "capacity": 19,
-        "enrolled": 17,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "14:00 - 16:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "103",
-            "professor": "GERMAN DARIO CAMACHO ALMEYDA"
-          },
-          {
-            "day": "MARTES",
-            "time": "16:00 - 18:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "103",
-            "professor": "GERMAN DARIO CAMACHO ALMEYDA"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "20113",
-    "name": "MECANICA ANALITICA",
-    "groups": [
-      {
-        "sku": "B1",
-        "capacity": 28,
-        "enrolled": 28,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
-            "professor": "TOMAS ANGEL EMILIO LERZUNDY SALAMANCA"
-          },
-          {
-            "day": "JUEVES",
-            "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
-            "professor": "TOMAS ANGEL EMILIO LERZUNDY SALAMANCA"
-          }
-        ]
-      },
-      {
-        "sku": "B2",
-        "capacity": 29,
-        "enrolled": 29,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
-            "professor": "LUIS CARLOS CAICEDO BARRERA"
-          },
-          {
-            "day": "MIERCOLES",
-            "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
-            "professor": "LUIS CARLOS CAICEDO BARRERA"
-          }
-        ]
-      },
-      {
-        "sku": "C1",
-        "capacity": 29,
-        "enrolled": 29,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
-            "professor": "TOMAS ANGEL EMILIO LERZUNDY SALAMANCA"
-          },
-          {
-            "day": "JUEVES",
-            "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
-            "professor": "TOMAS ANGEL EMILIO LERZUNDY SALAMANCA"
-          }
-        ]
-      },
-      {
-        "sku": "C3",
-        "capacity": 28,
-        "enrolled": 28,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
-            "professor": "JHONATTAN JAVIER PISCO GUABAVE"
-          },
-          {
-            "day": "VIERNES",
-            "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
-            "professor": "JHONATTAN JAVIER PISCO GUABAVE"
-          }
-        ]
-      },
-      {
-        "sku": "E1",
-        "capacity": 28,
-        "enrolled": 28,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "14:00 - 16:00",
-            "building": "",
-            "room": "",
-            "professor": "CESAR AUGUSTO RIBEROS JAIMES"
-          },
-          {
-            "day": "JUEVES",
-            "time": "14:00 - 16:00",
-            "building": "",
-            "room": "",
-            "professor": "CESAR AUGUSTO RIBEROS JAIMES"
-          }
-        ]
-      },
-      {
-        "sku": "E2",
-        "capacity": 29,
-        "enrolled": 29,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "14:00 - 16:00",
-            "building": "",
-            "room": "",
-            "professor": "CESAR AUGUSTO RIBEROS JAIMES"
-          },
-          {
-            "day": "MIERCOLES",
-            "time": "14:00 - 16:00",
-            "building": "",
-            "room": "",
-            "professor": "CESAR AUGUSTO RIBEROS JAIMES"
-          }
-        ]
-      },
-      {
-        "sku": "F1",
-        "capacity": 29,
-        "enrolled": 29,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "16:00 - 18:00",
-            "building": "",
-            "room": "",
-            "professor": "CESAR AUGUSTO RIBEROS JAIMES"
-          },
-          {
-            "day": "MIERCOLES",
-            "time": "16:00 - 18:00",
-            "building": "",
-            "room": "",
-            "professor": "CESAR AUGUSTO RIBEROS JAIMES"
           }
         ]
       }
@@ -10890,6 +10934,54 @@
     ]
   },
   {
+    "sku": "23217",
+    "name": "QUIMICA III",
+    "groups": [
+      {
+        "sku": "H1",
+        "capacity": 32,
+        "enrolled": 31,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "CAMILO TORRES",
+            "room": "206",
+            "professor": "CARLOS MARIO SANABRIA SANCHEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "CAMILO TORRES",
+            "room": "206",
+            "professor": "CARLOS MARIO SANABRIA SANCHEZ"
+          }
+        ]
+      },
+      {
+        "sku": "J2",
+        "capacity": 32,
+        "enrolled": 31,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "CAMILO TORRES",
+            "room": "206",
+            "professor": "JUAN MANUEL URBINA GONZALEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "CAMILO TORRES",
+            "room": "206",
+            "professor": "JUAN MANUEL URBINA GONZALEZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "sku": "23425",
     "name": "INGLES II",
     "groups": [
@@ -11932,69 +12024,69 @@
     ]
   },
   {
-    "sku": "28036",
-    "name": "SEDIMENTOLOGIA DE HIDROCARBUROS",
+    "sku": "27535",
+    "name": "BASES INFORMATICAS",
     "groups": [
       {
         "sku": "B1",
-        "capacity": 19,
-        "enrolled": 19,
+        "capacity": 20,
+        "enrolled": 20,
         "schedule": [
           {
-            "day": "MIERCOLES",
+            "day": "MARTES",
             "time": "8:00 - 10:00",
-            "building": "JORGE BAUTISTA VESGA",
+            "building": "INGENIERIA QUIMICA",
             "room": "103",
-            "professor": "EDWAR HERNANDO HERRERA OTERO"
+            "professor": "CESAR AUGUSTO GUEVARA LASTRE"
           },
           {
-            "day": "MIERCOLES",
-            "time": "10:00 - 12:00",
-            "building": "JORGE BAUTISTA VESGA",
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "INGENIERIA QUIMICA",
             "room": "103",
-            "professor": "EDWAR HERNANDO HERRERA OTERO"
+            "professor": "CESAR AUGUSTO GUEVARA LASTRE"
           }
         ]
       },
       {
-        "sku": "B2",
-        "capacity": 18,
-        "enrolled": 14,
+        "sku": "F1",
+        "capacity": 20,
+        "enrolled": 20,
         "schedule": [
           {
-            "day": "LUNES",
-            "time": "8:00 - 10:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "103",
-            "professor": "GERMAN DARIO CAMACHO ALMEYDA"
-          },
-          {
-            "day": "LUNES",
-            "time": "10:00 - 12:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "103",
-            "professor": "GERMAN DARIO CAMACHO ALMEYDA"
-          }
-        ]
-      },
-      {
-        "sku": "E1",
-        "capacity": 19,
-        "enrolled": 15,
-        "schedule": [
-          {
-            "day": "JUEVES",
-            "time": "14:00 - 16:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "103",
-            "professor": "GERMAN DARIO CAMACHO ALMEYDA"
-          },
-          {
-            "day": "JUEVES",
+            "day": "MIERCOLES",
             "time": "16:00 - 18:00",
-            "building": "JORGE BAUTISTA VESGA",
+            "building": "INGENIERIA QUIMICA",
             "room": "103",
-            "professor": "GERMAN DARIO CAMACHO ALMEYDA"
+            "professor": "JEFFERSON DOOGLAS OCHOA OJEDA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "103",
+            "professor": "JEFFERSON DOOGLAS OCHOA OJEDA"
+          }
+        ]
+      },
+      {
+        "sku": "F2",
+        "capacity": 20,
+        "enrolled": 7,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "103",
+            "professor": "JEFFERSON DOOGLAS OCHOA OJEDA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "15:00 - 16:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "103",
+            "professor": "JEFFERSON DOOGLAS OCHOA OJEDA"
           }
         ]
       }
@@ -12589,6 +12681,75 @@
             "building": "",
             "room": "",
             "professor": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "21413",
+    "name": "ESTEQUIOMETRIA",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 26,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "233",
+            "professor": "VIVIANA SANCHEZ TORRES"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "233",
+            "professor": "VIVIANA SANCHEZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 26,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "CARLOS JESUS MUVDI NOVA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "CARLOS JESUS MUVDI NOVA"
+          }
+        ]
+      },
+      {
+        "sku": "B1",
+        "capacity": 26,
+        "enrolled": 24,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "233",
+            "professor": "VIVIANA SANCHEZ TORRES"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "233",
+            "professor": "VIVIANA SANCHEZ TORRES"
           }
         ]
       }
@@ -14001,917 +14162,539 @@
     ]
   },
   {
-    "sku": "23015",
-    "name": "GEOMETRIA DESCRIPTIVA",
+    "sku": "27536",
+    "name": "ANALISIS DE VARIABLES DE PROCESO",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 23,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "103",
+            "professor": "OMAR ANDRES BENAVIDES PRADA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "103",
+            "professor": "OMAR ANDRES BENAVIDES PRADA"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 23,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "103",
+            "professor": "OMAR ANDRES BENAVIDES PRADA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "103",
+            "professor": "OMAR ANDRES BENAVIDES PRADA"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": []
+      }
+    ]
+  },
+  {
+    "sku": "21416",
+    "name": "FENOMENOS DE TRANSPORTE I",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 36,
+        "enrolled": 36,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "VICTOR GABRIEL BALDOVINO MEDRANO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "VICTOR GABRIEL BALDOVINO MEDRANO"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 36,
+        "enrolled": 36,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "231",
+            "professor": "EDUAR ANTONIO BECERRA VERGARA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "231",
+            "professor": "EDUAR ANTONIO BECERRA VERGARA"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 42,
+        "enrolled": 41,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "ARLEX CHAVES GUERRERO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "ARLEX CHAVES GUERRERO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "21428",
+    "name": "ESTRUCTURA Y PROP. DE LOS MATERIALES",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 30,
+        "enrolled": 28,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "JORGE BAUTISTA VESGA",
+            "room": "211",
+            "professor": "EDWING ALEXANDER VELASCO ROZO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "JORGE BAUTISTA VESGA",
+            "room": "211",
+            "professor": "EDWING ALEXANDER VELASCO ROZO"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 36,
+        "enrolled": 36,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "JORGE BAUTISTA VESGA",
+            "room": "211",
+            "professor": "FERNANDO VIEJO ABRANTE"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "JORGE BAUTISTA VESGA",
+            "room": "211",
+            "professor": "FERNANDO VIEJO ABRANTE"
+          }
+        ]
+      },
+      {
+        "sku": "C2",
+        "capacity": 34,
+        "enrolled": 34,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "JAVIER ENRIQUE GOMEZ RAMIREZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "JAVIER ENRIQUE GOMEZ RAMIREZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "23219",
+    "name": "TERMODINAMICA I",
+    "groups": [
+      {
+        "sku": "C1",
+        "capacity": 30,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "232",
+            "professor": "HUMBERTO ESCALANTE HERNANDEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "232",
+            "professor": "HUMBERTO ESCALANTE HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "C2",
+        "capacity": 30,
+        "enrolled": 30,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "ANDREA PAOLA SANDOVAL CORREA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "ANDREA PAOLA SANDOVAL CORREA"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 30,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "232",
+            "professor": "HUMBERTO ESCALANTE HERNANDEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "232",
+            "professor": "HUMBERTO ESCALANTE HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "E2",
+        "capacity": 30,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "CESAR AUGUSTO GUEVARA LASTRE"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "CESAR AUGUSTO GUEVARA LASTRE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "27537",
+    "name": "METODOS EN ING QUIMICA I",
+    "groups": [
+      {
+        "sku": "E1",
+        "capacity": 30,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "JORGE BAUTISTA VESGA",
+            "room": "211",
+            "professor": "CARLOS EDUARDO GARCIA SANCHEZ"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "JORGE BAUTISTA VESGA",
+            "room": "211",
+            "professor": "CARLOS EDUARDO GARCIA SANCHEZ"
+          }
+        ]
+      },
+      {
+        "sku": "E2",
+        "capacity": 30,
+        "enrolled": 30,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "VICTOR ALEXIS LIZCANO GONZALEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "VICTOR ALEXIS LIZCANO GONZALEZ"
+          }
+        ]
+      },
+      {
+        "sku": "E3",
+        "capacity": 30,
+        "enrolled": 26,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "VICTOR ALEXIS LIZCANO GONZALEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "VICTOR ALEXIS LIZCANO GONZALEZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "27538",
+    "name": "MANEJO DE FLUIDOS Y SOLIDOS",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 35,
+        "enrolled": 35,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "VICTOR ALEXIS LIZCANO GONZALEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "VICTOR ALEXIS LIZCANO GONZALEZ"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 35,
+        "enrolled": 34,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "VICTOR ALEXIS LIZCANO GONZALEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "VICTOR ALEXIS LIZCANO GONZALEZ"
+          }
+        ]
+      },
+      {
+        "sku": "B1",
+        "capacity": 35,
+        "enrolled": 35,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "FREDY AUGUSTO AVELLANEDA VARGAS"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "FREDY AUGUSTO AVELLANEDA VARGAS"
+          }
+        ]
+      },
+      {
+        "sku": "B2",
+        "capacity": 35,
+        "enrolled": 35,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "FREDY AUGUSTO AVELLANEDA VARGAS"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "FREDY AUGUSTO AVELLANEDA VARGAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "21417",
+    "name": "FENOMENOS DE TRANSPORTE II",
     "groups": [
       {
         "sku": "A1",
         "capacity": 27,
-        "enrolled": 27,
+        "enrolled": 24,
         "schedule": [
           {
-            "day": "MIERCOLES",
-            "time": "7:00 - 10:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "103",
-            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
+            "day": "MARTES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "228",
+            "professor": "EDGAR MAURICIO MORALES VALENCIA"
           },
           {
-            "day": "VIERNES",
-            "time": "7:00 - 10:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "103",
-            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
+            "day": "JUEVES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "228",
+            "professor": "EDGAR MAURICIO MORALES VALENCIA"
           }
         ]
       },
       {
         "sku": "A2",
         "capacity": 27,
-        "enrolled": 27,
+        "enrolled": 25,
         "schedule": [
           {
             "day": "MARTES",
             "time": "6:00 - 8:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "101",
-            "professor": "MARTIN JULIAN GODOY ROJAS"
+            "building": "JORGE BAUTISTA VESGA",
+            "room": "211",
+            "professor": "EDUAR ANTONIO BECERRA VERGARA"
           },
           {
-            "day": "MIERCOLES",
+            "day": "JUEVES",
             "time": "6:00 - 8:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "101",
-            "professor": "MARTIN JULIAN GODOY ROJAS"
+            "building": "JORGE BAUTISTA VESGA",
+            "room": "211",
+            "professor": "EDUAR ANTONIO BECERRA VERGARA"
+          }
+        ]
+      },
+      {
+        "sku": "B1",
+        "capacity": 27,
+        "enrolled": 26,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "231",
+            "professor": "YULY FERNANDA LOPEZ CONTRERAS"
           },
           {
-            "day": "VIERNES",
-            "time": "6:00 - 8:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "101",
-            "professor": "MARTIN JULIAN GODOY ROJAS"
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "231",
+            "professor": "YULY FERNANDA LOPEZ CONTRERAS"
           }
         ]
       },
       {
         "sku": "C1",
         "capacity": 27,
-        "enrolled": 27,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "10:00 - 13:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "103",
-            "professor": "ROSA MILENA GOMEZ CABALLERO"
-          },
-          {
-            "day": "MARTES",
-            "time": "10:00 - 13:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "103",
-            "professor": "ROSA MILENA GOMEZ CABALLERO"
-          }
-        ]
-      },
-      {
-        "sku": "C3",
-        "capacity": 27,
-        "enrolled": 27,
+        "enrolled": 25,
         "schedule": [
           {
             "day": "MARTES",
             "time": "10:00 - 12:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "101",
-            "professor": "MARTIN JULIAN GODOY ROJAS"
+            "building": "INGENIERIA QUIMICA",
+            "room": "231",
+            "professor": "YULY FERNANDA LOPEZ CONTRERAS"
           },
           {
             "day": "JUEVES",
             "time": "10:00 - 12:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "101",
-            "professor": "MARTIN JULIAN GODOY ROJAS"
-          },
-          {
-            "day": "VIERNES",
-            "time": "10:00 - 12:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "101",
-            "professor": "MARTIN JULIAN GODOY ROJAS"
-          }
-        ]
-      },
-      {
-        "sku": "C4",
-        "capacity": 27,
-        "enrolled": 27,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "10:00 - 13:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "102",
-            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
-          },
-          {
-            "day": "VIERNES",
-            "time": "10:00 - 13:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "102",
-            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
-          }
-        ]
-      },
-      {
-        "sku": "D1",
-        "capacity": 27,
-        "enrolled": 27,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "14:00 - 17:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "202",
-            "professor": "JUAN CARLOS MORALES DIMARCO"
-          },
-          {
-            "day": "MIERCOLES",
-            "time": "14:00 - 17:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "202",
-            "professor": "JUAN CARLOS MORALES DIMARCO"
-          }
-        ]
-      },
-      {
-        "sku": "D2",
-        "capacity": 27,
-        "enrolled": 27,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "14:00 - 17:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "101",
-            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
-          },
-          {
-            "day": "MIERCOLES",
-            "time": "14:00 - 17:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "101",
-            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
-          }
-        ]
-      },
-      {
-        "sku": "E1",
-        "capacity": 27,
-        "enrolled": 24,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "14:00 - 16:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "101",
-            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
-          },
-          {
-            "day": "JUEVES",
-            "time": "14:00 - 16:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "101",
-            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
-          },
-          {
-            "day": "VIERNES",
-            "time": "14:00 - 16:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "101",
-            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
-          }
-        ]
-      },
-      {
-        "sku": "E2",
-        "capacity": 27,
-        "enrolled": 24,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "14:00 - 17:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "202",
-            "professor": "EDGAR AUGUSTO SARMIENTO LEON"
-          },
-          {
-            "day": "MARTES",
-            "time": "14:00 - 17:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "102",
-            "professor": "EDGAR AUGUSTO SARMIENTO LEON"
-          }
-        ]
-      },
-      {
-        "sku": "E3",
-        "capacity": 27,
-        "enrolled": 22,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "14:00 - 17:00",
-            "building": "INGENIERIA INDUSTRIAL",
-            "room": "309",
-            "professor": "JORGE ALBERTO SARMIENTO OMEARA"
-          },
-          {
-            "day": "VIERNES",
-            "time": "14:00 - 17:00",
-            "building": "INGENIERIA INDUSTRIAL",
-            "room": "309",
-            "professor": "JORGE ALBERTO SARMIENTO OMEARA"
-          }
-        ]
-      },
-      {
-        "sku": "PA3",
-        "capacity": 28,
-        "enrolled": 28,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "7:00 - 10:00",
-            "building": "INGENIERIA INDUSTRIAL",
-            "room": "204",
-            "professor": "JUAN CARLOS MORALES DIMARCO"
-          },
-          {
-            "day": "JUEVES",
-            "time": "7:00 - 10:00",
-            "building": "INGENIERIA INDUSTRIAL",
-            "room": "204",
-            "professor": "JUAN CARLOS MORALES DIMARCO"
-          }
-        ]
-      },
-      {
-        "sku": "PA4",
-        "capacity": 28,
-        "enrolled": 28,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "7:00 - 10:00",
-            "building": "INGENIERIA INDUSTRIAL",
-            "room": "204",
-            "professor": "MARIA IRENE SARMIENTO ROJAS"
-          },
-          {
-            "day": "MIERCOLES",
-            "time": "7:00 - 10:00",
-            "building": "INGENIERIA INDUSTRIAL",
-            "room": "103",
-            "professor": "MARIA IRENE SARMIENTO ROJAS"
-          }
-        ]
-      },
-      {
-        "sku": "PB1",
-        "capacity": 28,
-        "enrolled": 28,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "8:00 - 10:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "102",
-            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
-          },
-          {
-            "day": "JUEVES",
-            "time": "8:00 - 10:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "102",
-            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
-          },
-          {
-            "day": "VIERNES",
-            "time": "8:00 - 10:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "102",
-            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
-          }
-        ]
-      },
-      {
-        "sku": "PB2",
-        "capacity": 27,
-        "enrolled": 27,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "8:00 - 10:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "101",
-            "professor": "MARTIN JULIAN GODOY ROJAS"
-          },
-          {
-            "day": "MARTES",
-            "time": "8:00 - 10:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "102",
-            "professor": "MARTIN JULIAN GODOY ROJAS"
-          },
-          {
-            "day": "VIERNES",
-            "time": "8:00 - 10:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "101",
-            "professor": "MARTIN JULIAN GODOY ROJAS"
-          }
-        ]
-      },
-      {
-        "sku": "PB3",
-        "capacity": 29,
-        "enrolled": 29,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "8:00 - 10:00",
-            "building": "INGENIERIA INDUSTRIAL",
-            "room": "103",
-            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
-          },
-          {
-            "day": "MARTES",
-            "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
-            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
-          },
-          {
-            "day": "JUEVES",
-            "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
-            "professor": "JUDITH BIBIANA MORENO RAMIREZ"
-          }
-        ]
-      },
-      {
-        "sku": "PB4",
-        "capacity": 29,
-        "enrolled": 29,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "8:00 - 10:00",
-            "building": "INGENIERIA INDUSTRIAL",
-            "room": "204",
-            "professor": "ERIKA MERCEDES GALLARDO FIGUEROA"
-          },
-          {
-            "day": "JUEVES",
-            "time": "8:00 - 10:00",
-            "building": "INGENIERIA INDUSTRIAL",
-            "room": "201",
-            "professor": "ERIKA MERCEDES GALLARDO FIGUEROA"
-          },
-          {
-            "day": "VIERNES",
-            "time": "8:00 - 10:00",
-            "building": "INGENIERIA INDUSTRIAL",
-            "room": "201",
-            "professor": "ERIKA MERCEDES GALLARDO FIGUEROA"
-          }
-        ]
-      },
-      {
-        "sku": "PC1",
-        "capacity": 28,
-        "enrolled": 28,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "10:00 - 13:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "102",
-            "professor": "JUAN CARLOS MORALES DIMARCO"
-          },
-          {
-            "day": "JUEVES",
-            "time": "10:00 - 13:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "102",
-            "professor": "JUAN CARLOS MORALES DIMARCO"
-          }
-        ]
-      },
-      {
-        "sku": "PE1",
-        "capacity": 29,
-        "enrolled": 29,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "14:00 - 16:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "102",
-            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
-          },
-          {
-            "day": "MIERCOLES",
-            "time": "14:00 - 16:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "102",
-            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
-          },
-          {
-            "day": "VIERNES",
-            "time": "14:00 - 16:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "102",
-            "professor": "CLAUDIA JOHANNA DIAZ LIZARAZO"
-          }
-        ]
-      },
-      {
-        "sku": "PF1",
-        "capacity": 29,
-        "enrolled": 29,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "16:00 - 18:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "102",
-            "professor": "MARIA IRENE SARMIENTO ROJAS"
-          },
-          {
-            "day": "MIERCOLES",
-            "time": "16:00 - 18:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "102",
-            "professor": "MARIA IRENE SARMIENTO ROJAS"
-          },
-          {
-            "day": "JUEVES",
-            "time": "16:00 - 18:00",
-            "building": "FEDERICO MAMITZA BAYER",
-            "room": "102",
-            "professor": "MARIA IRENE SARMIENTO ROJAS"
+            "building": "INGENIERIA QUIMICA",
+            "room": "231",
+            "professor": "YULY FERNANDA LOPEZ CONTRERAS"
           }
         ]
       }
     ]
   },
   {
-    "sku": "28037",
-    "name": "BALANCE Y TRANSFERENCIA DE MASA Y ENERGIA",
-    "groups": [
-      {
-        "sku": "B1",
-        "capacity": 25,
-        "enrolled": 19,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "8:00 - 10:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "402",
-            "professor": "GERMAN GONZALEZ SILVA"
-          },
-          {
-            "day": "JUEVES",
-            "time": "8:00 - 10:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "402",
-            "professor": "GERMAN GONZALEZ SILVA"
-          }
-        ]
-      },
-      {
-        "sku": "B2",
-        "capacity": 25,
-        "enrolled": 19,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "10:00 - 12:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "402",
-            "professor": "NATALIA PRIETO JIMÉNEZ"
-          },
-          {
-            "day": "MIERCOLES",
-            "time": "8:00 - 10:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "412",
-            "professor": "NATALIA PRIETO JIMÉNEZ"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28038",
-    "name": "GEOLOGIA ESTRUCTURAL DE HIDROCARBUROS",
-    "groups": [
-      {
-        "sku": "E1",
-        "capacity": 24,
-        "enrolled": 15,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "14:00 - 16:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "103",
-            "professor": "EDWAR HERNANDO HERRERA OTERO"
-          },
-          {
-            "day": "LUNES",
-            "time": "16:00 - 18:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "103",
-            "professor": "EDWAR HERNANDO HERRERA OTERO"
-          }
-        ]
-      },
-      {
-        "sku": "E3",
-        "capacity": 24,
-        "enrolled": 17,
-        "schedule": [
-          {
-            "day": "VIERNES",
-            "time": "14:00 - 16:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "103",
-            "professor": "GERMAN DARIO CAMACHO ALMEYDA"
-          },
-          {
-            "day": "VIERNES",
-            "time": "16:00 - 18:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "103",
-            "professor": "GERMAN DARIO CAMACHO ALMEYDA"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28039",
-    "name": "ANALISIS PETROFISICOS",
-    "groups": [
-      {
-        "sku": "B1",
-        "capacity": 12,
-        "enrolled": 12,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "14:00 - 15:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "419",
-            "professor": "NICOLAS SANTOS SANTOS"
-          },
-          {
-            "day": "MARTES",
-            "time": "15:00 - 18:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "104",
-            "professor": "NICOLAS SANTOS SANTOS"
-          }
-        ]
-      },
-      {
-        "sku": "E1",
-        "capacity": 12,
-        "enrolled": 12,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "14:00 - 15:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "419",
-            "professor": "NICOLAS SANTOS SANTOS"
-          },
-          {
-            "day": "JUEVES",
-            "time": "10:00 - 13:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "104",
-            "professor": "NICOLAS SANTOS SANTOS"
-          }
-        ]
-      },
-      {
-        "sku": "E2",
-        "capacity": 12,
-        "enrolled": 7,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "14:00 - 15:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "419",
-            "professor": "SAMUEL FERNANDO MUÑOZ NAVARRO"
-          },
-          {
-            "day": "JUEVES",
-            "time": "14:00 - 17:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "104",
-            "professor": "SAMUEL FERNANDO MUÑOZ NAVARRO"
-          }
-        ]
-      },
-      {
-        "sku": "E5",
-        "capacity": 12,
-        "enrolled": 8,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "14:00 - 15:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "419",
-            "professor": "SAMUEL FERNANDO MUÑOZ NAVARRO"
-          },
-          {
-            "day": "LUNES",
-            "time": "15:00 - 18:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "104",
-            "professor": "SAMUEL FERNANDO MUÑOZ NAVARRO"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28040",
-    "name": "METODOS NUMERICOS",
-    "groups": [
-      {
-        "sku": "D1",
-        "capacity": 30,
-        "enrolled": 30,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
-            "professor": "JESUS RAMIREZ MONTAÑEZ"
-          },
-          {
-            "day": "VIERNES",
-            "time": "8:00 - 11:00",
-            "building": "",
-            "room": "",
-            "professor": "JESUS RAMIREZ MONTAÑEZ"
-          }
-        ]
-      },
-      {
-        "sku": "D2",
-        "capacity": 23,
-        "enrolled": 13,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "14:00 - 17:00",
-            "building": "",
-            "room": "",
-            "professor": "JESUS RAMIREZ MONTAÑEZ"
-          },
-          {
-            "day": "VIERNES",
-            "time": "14:00 - 16:00",
-            "building": "",
-            "room": "",
-            "professor": "JESUS RAMIREZ MONTAÑEZ"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28041",
-    "name": "TERMODINAMICA DE HIDROCARBUROS",
-    "groups": [
-      {
-        "sku": "E1",
-        "capacity": 25,
-        "enrolled": 21,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "14:00 - 16:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "404",
-            "professor": "JESUS RAMIREZ MONTAÑEZ"
-          },
-          {
-            "day": "JUEVES",
-            "time": "10:00 - 12:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "402",
-            "professor": "JESUS RAMIREZ MONTAÑEZ"
-          }
-        ]
-      },
-      {
-        "sku": "E2",
-        "capacity": 25,
-        "enrolled": 23,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "10:00 - 12:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "411",
-            "professor": "GERMAN GONZALEZ SILVA"
-          },
-          {
-            "day": "JUEVES",
-            "time": "14:00 - 16:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "411",
-            "professor": "GERMAN GONZALEZ SILVA"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28042",
-    "name": "LODOS DE PERFORACION",
-    "groups": [
-      {
-        "sku": "B1",
-        "capacity": 9,
-        "enrolled": 9,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "14:00 - 17:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "403",
-            "professor": "FERNANDO ENRIQUE CALVETE GONZALEZ"
-          },
-          {
-            "day": "JUEVES",
-            "time": "8:00 - 9:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "002",
-            "professor": "FERNANDO ENRIQUE CALVETE GONZALEZ"
-          }
-        ]
-      },
-      {
-        "sku": "B2",
-        "capacity": 9,
-        "enrolled": 9,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "14:00 - 17:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "403",
-            "professor": "FERNANDO ENRIQUE CALVETE GONZALEZ"
-          },
-          {
-            "day": "VIERNES",
-            "time": "10:00 - 11:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "002",
-            "professor": "FERNANDO ENRIQUE CALVETE GONZALEZ"
-          }
-        ]
-      },
-      {
-        "sku": "B3",
-        "capacity": 9,
-        "enrolled": 9,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "17:00 - 20:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "404",
-            "professor": "MARIO TORRES LOPEZ"
-          },
-          {
-            "day": "MIERCOLES",
-            "time": "13:00 - 14:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "002",
-            "professor": "MARIO TORRES LOPEZ"
-          }
-        ]
-      },
-      {
-        "sku": "B4",
-        "capacity": 9,
-        "enrolled": 9,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "17:00 - 20:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "404",
-            "professor": "MARIO TORRES LOPEZ"
-          },
-          {
-            "day": "JUEVES",
-            "time": "13:00 - 14:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "002",
-            "professor": "MARIO TORRES LOPEZ"
-          }
-        ]
-      },
-      {
-        "sku": "E1",
-        "capacity": 9,
-        "enrolled": 9,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "14:00 - 17:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "403",
-            "professor": "FERNANDO ENRIQUE CALVETE GONZALEZ"
-          },
-          {
-            "day": "MIERCOLES",
-            "time": "17:00 - 18:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "002",
-            "professor": "FERNANDO ENRIQUE CALVETE GONZALEZ"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28043",
-    "name": "FENOMENOS DE TRANSPORTE DE HIDROCARBUROS",
-    "groups": [
-      {
-        "sku": "B1",
-        "capacity": 25,
-        "enrolled": 23,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "8:00 - 10:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "404",
-            "professor": "NATALIA PRIETO JIMÉNEZ"
-          },
-          {
-            "day": "MIERCOLES",
-            "time": "10:00 - 12:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "404",
-            "professor": "NATALIA PRIETO JIMÉNEZ"
-          }
-        ]
-      },
-      {
-        "sku": "B2",
-        "capacity": 25,
-        "enrolled": 18,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "16:00 - 18:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "402",
-            "professor": "DIEGO ARMANDO VARGAS SILVA"
-          },
-          {
-            "day": "VIERNES",
-            "time": "14:00 - 16:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "402",
-            "professor": "DIEGO ARMANDO VARGAS SILVA"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28044",
-    "name": "ESTADISTICA",
+    "sku": "23222",
+    "name": "NANOTECNOLOGIA",
     "groups": [
       {
         "sku": "E1",
@@ -14919,563 +14702,1565 @@
         "enrolled": 35,
         "schedule": [
           {
-            "day": "LUNES",
-            "time": "14:00 - 16:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "403",
-            "professor": "OSCAR VANEGAS ANGARITA"
-          },
-          {
-            "day": "JUEVES",
-            "time": "16:00 - 18:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "402",
-            "professor": "OSCAR VANEGAS ANGARITA"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28045",
-    "name": "INGENIERIA ECONOMICA",
-    "groups": [
-      {
-        "sku": "B1",
-        "capacity": 25,
-        "enrolled": 25,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "6:00 - 8:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "412",
-            "professor": "LUZ MARINA RUEDA RUEDA"
-          },
-          {
-            "day": "VIERNES",
-            "time": "6:00 - 8:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "412",
-            "professor": "LUZ MARINA RUEDA RUEDA"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28046",
-    "name": "PROPIEDADES DE LOS FLUIDOS",
-    "groups": [
-      {
-        "sku": "E1",
-        "capacity": 25,
-        "enrolled": 16,
-        "schedule": [
-          {
             "day": "MARTES",
-            "time": "16:00 - 18:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "404",
-            "professor": "ADAN YOVANI LEON BERMUDEZ"
-          },
-          {
-            "day": "MIERCOLES",
-            "time": "16:00 - 18:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "404",
-            "professor": "ADAN YOVANI LEON BERMUDEZ"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28047",
-    "name": "EVALUACION DE FORMACIONES",
-    "groups": [
-      {
-        "sku": "B1",
-        "capacity": 25,
-        "enrolled": 25,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
-            "professor": "OSCAR VANEGAS ANGARITA"
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "JAVIER ENRIQUE GOMEZ RAMIREZ"
           },
           {
             "day": "JUEVES",
             "time": "14:00 - 16:00",
-            "building": "",
-            "room": "",
-            "professor": "OSCAR VANEGAS ANGARITA"
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "JAVIER ENRIQUE GOMEZ RAMIREZ"
           }
         ]
       },
       {
-        "sku": "B2",
-        "capacity": 25,
-        "enrolled": 20,
+        "sku": "F1",
+        "capacity": 35,
+        "enrolled": 35,
         "schedule": [
           {
-            "day": "LUNES",
+            "day": "MARTES",
             "time": "16:00 - 18:00",
-            "building": "",
-            "room": "",
-            "professor": "OSCAR VANEGAS ANGARITA"
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "JAVIER ENRIQUE GOMEZ RAMIREZ"
           },
           {
             "day": "JUEVES",
-            "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
-            "professor": "OSCAR VANEGAS ANGARITA"
+            "time": "16:00 - 18:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "JAVIER ENRIQUE GOMEZ RAMIREZ"
           }
         ]
-      }
-    ]
-  },
-  {
-    "sku": "28048",
-    "name": "PERFORACION DE POZOS",
-    "groups": [
+      },
       {
-        "sku": "A1",
-        "capacity": 20,
-        "enrolled": 15,
+        "sku": "G1",
+        "capacity": 35,
+        "enrolled": 35,
         "schedule": [
+          {
+            "day": "MARTES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "JAVIER ENRIQUE GOMEZ RAMIREZ"
+          },
           {
             "day": "JUEVES",
             "time": "18:00 - 20:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "412",
-            "professor": "NESTOR FERNANDO SAAVEDRA TRUJILLO"
-          },
-          {
-            "day": "VIERNES",
-            "time": "14:00 - 17:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "412",
-            "professor": "NESTOR FERNANDO SAAVEDRA TRUJILLO"
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "JAVIER ENRIQUE GOMEZ RAMIREZ"
           }
         ]
       }
     ]
   },
   {
-    "sku": "23183",
-    "name": "LABORATORIO DE FLUIDOS",
+    "sku": "23226",
+    "name": "TERMODINAMICA II",
     "groups": [
       {
-        "sku": "B1",
-        "capacity": 12,
-        "enrolled": 9,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "8:00 - 12:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "105",
-            "professor": "GERMAN GONZALEZ SILVA"
-          }
-        ]
-      },
-      {
-        "sku": "B2",
-        "capacity": 12,
-        "enrolled": 11,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "14:00 - 18:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "105",
-            "professor": "NICOLAS SANTOS SANTOS"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28049",
-    "name": "EVALUACION DE PROYECTOS",
-    "groups": [
-      {
-        "sku": "D2",
-        "capacity": 30,
-        "enrolled": 30,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "12:00 - 14:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "411",
-            "professor": "DIANA CAROLINA JAIMES GARCIA"
-          },
-          {
-            "day": "JUEVES",
-            "time": "12:00 - 14:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "411",
-            "professor": "DIANA CAROLINA JAIMES GARCIA"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28050",
-    "name": "POLITICA PETROLERA",
-    "groups": [
-      {
-        "sku": "E1",
-        "capacity": 30,
-        "enrolled": 27,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "14:00 - 17:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "411",
-            "professor": "OSCAR VANEGAS ANGARITA"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28051",
-    "name": "RESPONSABILIDAD SOCIAL",
-    "groups": [
-      {
-        "sku": "B1",
-        "capacity": 25,
-        "enrolled": 15,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "8:00 - 10:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "411",
-            "professor": "KATHY MARGARITA DAZA BROCHERO"
-          },
-          {
-            "day": "MIERCOLES",
-            "time": "6:00 - 8:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "411",
-            "professor": "KATHY MARGARITA DAZA BROCHERO"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28052",
-    "name": "COMPLETAMIENTO DE POZOS",
-    "groups": [
-      {
-        "sku": "C1",
-        "capacity": 30,
-        "enrolled": 20,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "10:00 - 13:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "403",
-            "professor": "FERNANDO ENRIQUE CALVETE GONZALEZ"
-          },
-          {
-            "day": "JUEVES",
-            "time": "14:00 - 16:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "403",
-            "professor": "FERNANDO ENRIQUE CALVETE GONZALEZ"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28053",
-    "name": "INGENIERIA DE YACIMIENTOS",
-    "groups": [
-      {
-        "sku": "C1",
-        "capacity": 25,
-        "enrolled": 20,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "8:00 - 10:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "419",
-            "professor": "JIMENA LIZETH GOMEZ DELGADO"
-          },
-          {
-            "day": "JUEVES",
-            "time": "8:00 - 10:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "419",
-            "professor": "JIMENA LIZETH GOMEZ DELGADO"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28054",
-    "name": "GESTION INTEGRAL DE LA INDUSTRIA PETROLERA",
-    "groups": [
-      {
-        "sku": "B1",
-        "capacity": 32,
-        "enrolled": 32,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "10:00 - 12:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "402",
-            "professor": "KATHY MARGARITA DAZA BROCHERO"
-          },
-          {
-            "day": "JUEVES",
-            "time": "6:00 - 8:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "402",
-            "professor": "KATHY MARGARITA DAZA BROCHERO"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28055",
-    "name": "ANALISIS DE PRESIONES",
-    "groups": [
-      {
-        "sku": "F1",
-        "capacity": 30,
-        "enrolled": 29,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "14:00 - 16:00",
-            "building": "",
-            "room": "",
-            "professor": "JIMENA LIZETH GOMEZ DELGADO"
-          },
-          {
-            "day": "JUEVES",
-            "time": "10:00 - 12:00",
-            "building": "",
-            "room": "",
-            "professor": "JIMENA LIZETH GOMEZ DELGADO"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28056",
-    "name": "METODOS DE PRODUCCION",
-    "groups": [
-      {
-        "sku": "F1",
-        "capacity": 34,
+        "sku": "A1",
+        "capacity": 35,
         "enrolled": 34,
         "schedule": [
           {
             "day": "MARTES",
-            "time": "16:00 - 18:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "403",
-            "professor": "FERNANDO ENRIQUE CALVETE GONZALEZ"
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "232",
+            "professor": "HELVER CRISPINIANO ALVAREZ CASTRO"
           },
           {
             "day": "JUEVES",
-            "time": "16:00 - 18:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "403",
-            "professor": "FERNANDO ENRIQUE CALVETE GONZALEZ"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "22975",
-    "name": "TRABAJO DE GRADO I",
-    "groups": [
-      {
-        "sku": "A",
-        "capacity": 3000,
-        "enrolled": 1186,
-        "schedule": []
-      }
-    ]
-  },
-  {
-    "sku": "28057",
-    "name": "INGENIERIA DEL GAS",
-    "groups": [
-      {
-        "sku": "E1",
-        "capacity": 25,
-        "enrolled": 24,
-        "schedule": [
-          {
-            "day": "MIERCOLES",
-            "time": "14:00 - 16:00",
-            "building": "",
-            "room": "",
-            "professor": "MANUEL ENRIQUE CABARCAS SIMANCAS"
-          },
-          {
-            "day": "JUEVES",
-            "time": "14:00 - 16:00",
-            "building": "",
-            "room": "",
-            "professor": "MANUEL ENRIQUE CABARCAS SIMANCAS"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28058",
-    "name": "SIMULACION DE YACIMIENTOS",
-    "groups": [
-      {
-        "sku": "E2",
-        "capacity": 32,
-        "enrolled": 32,
-        "schedule": [
-          {
-            "day": "LUNES",
-            "time": "14:00 - 17:00",
-            "building": "",
-            "room": "",
-            "professor": "MAIKA KAREN GAMBUS ORDAZ"
-          },
-          {
-            "day": "JUEVES",
-            "time": "8:00 - 10:00",
-            "building": "",
-            "room": "",
-            "professor": "MAIKA KAREN GAMBUS ORDAZ"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28059",
-    "name": "FACILIDADES DE SUPERFICIE",
-    "groups": [
-      {
-        "sku": "B1",
-        "capacity": 30,
-        "enrolled": 23,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "10:00 - 12:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "419",
-            "professor": "NICOLAS SANTOS SANTOS"
-          },
-          {
-            "day": "MIERCOLES",
-            "time": "10:00 - 12:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "419",
-            "professor": "NICOLAS SANTOS SANTOS"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "28060",
-    "name": "METODOS DE RECOBRO",
-    "groups": [
-      {
-        "sku": "A1",
-        "capacity": 31,
-        "enrolled": 21,
-        "schedule": [
-          {
-            "day": "MARTES",
-            "time": "7:00 - 10:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "416",
-            "professor": "SAMUEL FERNANDO MUÑOZ NAVARRO"
-          },
-          {
-            "day": "JUEVES",
-            "time": "10:00 - 12:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "416",
-            "professor": "SAMUEL FERNANDO MUÑOZ NAVARRO"
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "232",
+            "professor": "HELVER CRISPINIANO ALVAREZ CASTRO"
           }
         ]
       },
       {
         "sku": "A2",
-        "capacity": 25,
-        "enrolled": 16,
+        "capacity": 35,
+        "enrolled": 35,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "231",
+            "professor": "DIANA PAOLA DUARTE DUARTE"
+          },
+          {
+            "day": "JUEVES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "231",
+            "professor": "DIANA PAOLA DUARTE DUARTE"
+          }
+        ]
+      },
+      {
+        "sku": "B1",
+        "capacity": 40,
+        "enrolled": 40,
         "schedule": [
           {
             "day": "MIERCOLES",
             "time": "8:00 - 10:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "403",
-            "professor": "ADAN YOVANI LEON BERMUDEZ"
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "LUIS JAVIER LOPEZ GIRALDO"
           },
           {
-            "day": "JUEVES",
-            "time": "16:00 - 19:00",
-            "building": "JORGE BAUTISTA VESGA",
-            "room": "404",
-            "professor": "ADAN YOVANI LEON BERMUDEZ"
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "LUIS JAVIER LOPEZ GIRALDO"
           }
         ]
       }
     ]
   },
   {
-    "sku": "22977",
-    "name": "TRABAJO DE GRADO II",
+    "sku": "27539",
+    "name": "METODOS ING QUIMICA II",
     "groups": [
       {
-        "sku": "A",
-        "capacity": 3000,
-        "enrolled": 1189,
-        "schedule": []
+        "sku": "B1",
+        "capacity": 38,
+        "enrolled": 37,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "231",
+            "professor": "VIATCHESLAV KAFAROV"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "231",
+            "professor": "VIATCHESLAV KAFAROV"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 38,
+        "enrolled": 38,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "233",
+            "professor": "VIATCHESLAV KAFAROV"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "233",
+            "professor": "VIATCHESLAV KAFAROV"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 38,
+        "enrolled": 38,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "VICTOR ALEXIS LIZCANO GONZALEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "VICTOR ALEXIS LIZCANO GONZALEZ"
+          }
+        ]
       }
     ]
   },
   {
-    "sku": "26542",
-    "name": "GEOMECANICA Y SUS APLICACIONES A LA INDUSTRIA  DEL PETROLEO",
+    "sku": "27540",
+    "name": "FISICOQUIMICA",
     "groups": [
       {
-        "sku": "E1",
+        "sku": "A1",
         "capacity": 30,
-        "enrolled": 19,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "232",
+            "professor": "HELVER CRISPINIANO ALVAREZ CASTRO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "232",
+            "professor": "HELVER CRISPINIANO ALVAREZ CASTRO"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 30,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "JORGE BAUTISTA VESGA",
+            "room": "211",
+            "professor": "EDWING ALEXANDER VELASCO ROZO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 8:00",
+            "building": "JORGE BAUTISTA VESGA",
+            "room": "211",
+            "professor": "EDWING ALEXANDER VELASCO ROZO"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 40,
+        "enrolled": 38,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "230",
+            "professor": "RONALD ALFONSO MERCADO OJEDA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "230",
+            "professor": "RONALD ALFONSO MERCADO OJEDA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "21419",
+    "name": "OPERACIONES UNITARIAS I",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 39,
+        "enrolled": 39,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "CRISOSTOMO BARAJAS FERREIRA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "CRISOSTOMO BARAJAS FERREIRA"
+          }
+        ]
+      },
+      {
+        "sku": "B1",
+        "capacity": 39,
+        "enrolled": 39,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "CRISOSTOMO BARAJAS FERREIRA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "CRISOSTOMO BARAJAS FERREIRA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "22976",
+    "name": "INGENIERIA ECONOMICA",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 32,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "304",
+            "professor": "LAURA DANIELA GARCES CARREÑO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "304",
+            "professor": "LAURA DANIELA GARCES CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "B2",
+        "capacity": 32,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "303",
+            "professor": "ZULAY YESENIA RAMIREZ LEON"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "303",
+            "professor": "ZULAY YESENIA RAMIREZ LEON"
+          }
+        ]
+      },
+      {
+        "sku": "D2",
+        "capacity": 32,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "304",
+            "professor": "LAURA DANIELA GARCES CARREÑO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "304",
+            "professor": "LAURA DANIELA GARCES CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "D3",
+        "capacity": 32,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "304",
+            "professor": "LAURA DANIELA GARCES CARREÑO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "304",
+            "professor": "LAURA DANIELA GARCES CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "D4",
+        "capacity": 33,
+        "enrolled": 33,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "303",
+            "professor": "ZULAY YESENIA RAMIREZ LEON"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "303",
+            "professor": "ZULAY YESENIA RAMIREZ LEON"
+          }
+        ]
+      },
+      {
+        "sku": "H1",
+        "capacity": 32,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "111",
+            "professor": "LAURA DANIELA GARCES CARREÑO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "111",
+            "professor": "LAURA DANIELA GARCES CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "H2",
+        "capacity": 33,
+        "enrolled": 33,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "302",
+            "professor": "LAURA DANIELA GARCES CARREÑO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "302",
+            "professor": "LAURA DANIELA GARCES CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "J1",
+        "capacity": 33,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 18:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "111",
+            "professor": "LAURA DANIELA GARCES CARREÑO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "111",
+            "professor": "LAURA DANIELA GARCES CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "J2",
+        "capacity": 33,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "101",
+            "professor": "JOSE JOAQUIN ALZATE MARIN"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "101",
+            "professor": "JOSE JOAQUIN ALZATE MARIN"
+          }
+        ]
+      },
+      {
+        "sku": "L1",
+        "capacity": 34,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "103",
+            "professor": "JOSE LUIS GARCES BAUTISTA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "103",
+            "professor": "JOSE LUIS GARCES BAUTISTA"
+          }
+        ]
+      },
+      {
+        "sku": "O2",
+        "capacity": 32,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "303",
+            "professor": "JOSE ALONSO CABALLERO MARQUEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "303",
+            "professor": "JOSE ALONSO CABALLERO MARQUEZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "23228",
+    "name": "DISEÑO DE REACTORES",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 30,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "VICTOR GABRIEL BALDOVINO MEDRANO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "VICTOR GABRIEL BALDOVINO MEDRANO"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 30,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "JULIO ANDRES PEDRAZA AVELLA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "JULIO ANDRES PEDRAZA AVELLA"
+          }
+        ]
+      },
+      {
+        "sku": "C2",
+        "capacity": 30,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "GUSTAVO EMILIO RAMIREZ CABALLERO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "GUSTAVO EMILIO RAMIREZ CABALLERO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "27541",
+    "name": "BIOPROCESOS I",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 32,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "232",
+            "professor": "LILIA CAROLINA ROJAS PEREZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "232",
+            "professor": "LILIA CAROLINA ROJAS PEREZ"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 32,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "230",
+            "professor": "ZAMIR SANCHEZ CASTRO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "230",
+            "professor": "ZAMIR SANCHEZ CASTRO"
+          }
+        ]
+      },
+      {
+        "sku": "E2",
+        "capacity": 32,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "230",
+            "professor": "ZAMIR SANCHEZ CASTRO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "230",
+            "professor": "ZAMIR SANCHEZ CASTRO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "27542",
+    "name": "LAB DE PROCESOS I",
+    "groups": [
+      {
+        "sku": "D1",
+        "capacity": 17,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "13:00 - 17:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "001A1",
+            "professor": "HUMBERTO ESCALANTE HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "D2",
+        "capacity": 17,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "13:00 - 17:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "001A1",
+            "professor": "JOSE GABRIEL LOPEZ ORTIZ"
+          }
+        ]
+      },
+      {
+        "sku": "D3",
+        "capacity": 17,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "13:00 - 17:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "001A1",
+            "professor": "JOSE GABRIEL LOPEZ ORTIZ"
+          }
+        ]
+      },
+      {
+        "sku": "D4",
+        "capacity": 17,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "13:00 - 17:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "001A1",
+            "professor": "FREDY AUGUSTO AVELLANEDA VARGAS"
+          }
+        ]
+      },
+      {
+        "sku": "D5",
+        "capacity": 17,
+        "enrolled": 16,
         "schedule": [
           {
             "day": "VIERNES",
-            "time": "10:00 - 13:00",
+            "time": "13:00 - 17:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "001A1",
+            "professor": "LILIANA MARCELA GOMEZ IBAÑEZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "27543",
+    "name": "INGENIERIA COMPUTACIONAL",
+    "groups": [
+      {
+        "sku": "C1",
+        "capacity": 30,
+        "enrolled": 30,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "103",
+            "professor": "CESAR AUGUSTO GUEVARA LASTRE"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "103",
+            "professor": "CESAR AUGUSTO GUEVARA LASTRE"
+          }
+        ]
+      },
+      {
+        "sku": "C2",
+        "capacity": 30,
+        "enrolled": 30,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "103",
+            "professor": "CESAR AUGUSTO GUEVARA LASTRE"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "103",
+            "professor": "CESAR AUGUSTO GUEVARA LASTRE"
+          }
+        ]
+      },
+      {
+        "sku": "G1",
+        "capacity": 30,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "103",
+            "professor": "OMAR ANDRES BENAVIDES PRADA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "103",
+            "professor": "OMAR ANDRES BENAVIDES PRADA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "21420",
+    "name": "OPERACIONES UNITARIAS II",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 37,
+        "enrolled": 37,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "230",
+            "professor": "DEBORA ALCIDA NABARLATZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "230",
+            "professor": "DEBORA ALCIDA NABARLATZ"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 37,
+        "enrolled": 37,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "230",
+            "professor": "DEBORA ALCIDA NABARLATZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "230",
+            "professor": "DEBORA ALCIDA NABARLATZ"
+          }
+        ]
+      },
+      {
+        "sku": "C2",
+        "capacity": 37,
+        "enrolled": 37,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "232",
+            "professor": "OMAR ANDRES BENAVIDES PRADA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "232",
+            "professor": "OMAR ANDRES BENAVIDES PRADA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "23229",
+    "name": "CONTROL DE PROCESOS QUIMICOS",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 33,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "233",
+            "professor": "CARLOS JESUS MUVDI NOVA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "233",
+            "professor": "CARLOS JESUS MUVDI NOVA"
+          }
+        ]
+      },
+      {
+        "sku": "B1",
+        "capacity": 33,
+        "enrolled": 33,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "233",
+            "professor": "CARLOS JESUS MUVDI NOVA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "233",
+            "professor": "CARLOS JESUS MUVDI NOVA"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 33,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "231",
+            "professor": "OMAR ANDRES BENAVIDES PRADA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "231",
+            "professor": "OMAR ANDRES BENAVIDES PRADA"
+          }
+        ]
+      },
+      {
+        "sku": "G1",
+        "capacity": 33,
+        "enrolled": 31,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "IVAN DARIO ORDOÑEZ SEPULVEDA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "IVAN DARIO ORDOÑEZ SEPULVEDA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "27544",
+    "name": "BIOPROCESOS II",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 33,
+        "enrolled": 33,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "230",
+            "professor": "LUIS ENRIQUE LAMBIS BENITEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "230",
+            "professor": "LUIS ENRIQUE LAMBIS BENITEZ"
+          }
+        ]
+      },
+      {
+        "sku": "B1",
+        "capacity": 33,
+        "enrolled": 33,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "232",
+            "professor": "LILIA CAROLINA ROJAS PEREZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "232",
+            "professor": "LILIA CAROLINA ROJAS PEREZ"
+          }
+        ]
+      },
+      {
+        "sku": "G1",
+        "capacity": 33,
+        "enrolled": 33,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "230",
+            "professor": "JAIME JAIMES ESTEVEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "230",
+            "professor": "JAIME JAIMES ESTEVEZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "27545",
+    "name": "SINTESIS Y ANAL DE PROCESOS QUIMICOS",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 37,
+        "enrolled": 37,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "228",
+            "professor": "EDGAR MAURICIO MORALES VALENCIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "228",
+            "professor": "EDGAR MAURICIO MORALES VALENCIA"
+          }
+        ]
+      },
+      {
+        "sku": "B1",
+        "capacity": 37,
+        "enrolled": 35,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "228",
+            "professor": "EDGAR MAURICIO MORALES VALENCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "228",
+            "professor": "EDGAR MAURICIO MORALES VALENCIA"
+          }
+        ]
+      },
+      {
+        "sku": "B2",
+        "capacity": 37,
+        "enrolled": 37,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "228",
+            "professor": "OMAR ANDRES BENAVIDES PRADA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "228",
+            "professor": "OMAR ANDRES BENAVIDES PRADA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "27546",
+    "name": "GESTION DE PROYECTOS",
+    "groups": [
+      {
+        "sku": "D1",
+        "capacity": 31,
+        "enrolled": 31,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "305",
+            "professor": "JOHANA LEON JAIMES"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "305",
+            "professor": "JOHANA LEON JAIMES"
+          }
+        ]
+      },
+      {
+        "sku": "H1",
+        "capacity": 31,
+        "enrolled": 31,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "305",
+            "professor": "JOHANA LEON JAIMES"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "305",
+            "professor": "JOHANA LEON JAIMES"
+          }
+        ]
+      },
+      {
+        "sku": "J1",
+        "capacity": 31,
+        "enrolled": 26,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 18:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "305",
+            "professor": "JOHANA LEON JAIMES"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "305",
+            "professor": "JOHANA LEON JAIMES"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "23233",
+    "name": "ANALISIS DE PROCESOS",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 21,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "DIANA PAOLA DUARTE DUARTE"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "DIANA PAOLA DUARTE DUARTE"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "230",
+            "professor": "ASTRID CAROLINA PLATA VALDIVIESO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 8:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "230",
+            "professor": "ASTRID CAROLINA PLATA VALDIVIESO"
+          }
+        ]
+      },
+      {
+        "sku": "B1",
+        "capacity": 21,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
             "building": "JORGE BAUTISTA VESGA",
-            "room": "403",
-            "professor": "DIEGO ARMANDO VARGAS SILVA"
+            "room": "211",
+            "professor": "GIOVANNI MORALES MEDINA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "JORGE BAUTISTA VESGA",
+            "room": "211",
+            "professor": "GIOVANNI MORALES MEDINA"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 21,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "JORGE BAUTISTA VESGA",
+            "room": "211",
+            "professor": "GIOVANNI MORALES MEDINA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "JORGE BAUTISTA VESGA",
+            "room": "211",
+            "professor": "GIOVANNI MORALES MEDINA"
+          }
+        ]
+      },
+      {
+        "sku": "G1",
+        "capacity": 20,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "IVAN DARIO ORDOÑEZ SEPULVEDA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "108",
+            "professor": "IVAN DARIO ORDOÑEZ SEPULVEDA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "27547",
+    "name": "TRABAJO DE GRADO I",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 100,
+        "enrolled": 90,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "234",
+            "professor": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "27548",
+    "name": "LABORATORIO DE PROCESOS II",
+    "groups": [
+      {
+        "sku": "D1",
+        "capacity": 20,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "13:00 - 17:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "001",
+            "professor": "DEBORA ALCIDA NABARLATZ"
+          }
+        ]
+      },
+      {
+        "sku": "D2",
+        "capacity": 20,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "13:00 - 17:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "001",
+            "professor": "MARTHA CECILIA MATIZ CASTRO"
+          }
+        ]
+      },
+      {
+        "sku": "D3",
+        "capacity": 20,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "13:00 - 17:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "001",
+            "professor": "MARTHA CECILIA MATIZ CASTRO"
+          }
+        ]
+      },
+      {
+        "sku": "D4",
+        "capacity": 20,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "13:00 - 17:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "001",
+            "professor": "MARTHA CECILIA MATIZ CASTRO"
+          }
+        ]
+      },
+      {
+        "sku": "D5",
+        "capacity": 20,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "13:00 - 17:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "001",
+            "professor": "MARTHA CECILIA MATIZ CASTRO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "27549",
+    "name": "CREACION DE EMPRESAS",
+    "groups": [
+      {
+        "sku": "H1",
+        "capacity": 27,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "303",
+            "professor": "JUAN FRANCISCO MARADEI GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "303",
+            "professor": "JUAN FRANCISCO MARADEI GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "J1",
+        "capacity": 28,
+        "enrolled": 28,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "303",
+            "professor": "JUAN FRANCISCO MARADEI GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "303",
+            "professor": "JUAN FRANCISCO MARADEI GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "L1",
+        "capacity": 28,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "302",
+            "professor": "LUIS ALFREDO BADILLO ROJAS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "302",
+            "professor": "LUIS ALFREDO BADILLO ROJAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "27550",
+    "name": "TRABAJO DE GRADO II",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 180,
+        "enrolled": 177,
+        "schedule": [
+          {
+            "day": "SABADO",
+            "time": "6:00 - 10:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "234",
+            "professor": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "21445",
+    "name": "CATALISIS",
+    "groups": [
+      {
+        "sku": "E1",
+        "capacity": 29,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 17:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "104",
+            "professor": "VICTOR GABRIEL BALDOVINO MEDRANO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "23227",
+    "name": "ECOLOGIA INDUSTRIAL",
+    "groups": [
+      {
+        "sku": "G1",
+        "capacity": 38,
+        "enrolled": 37,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "BIANETH GARCIA BARRIOS"
+          },
+          {
+            "day": "JUEVES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "BIANETH GARCIA BARRIOS"
+          }
+        ]
+      },
+      {
+        "sku": "G2",
+        "capacity": 38,
+        "enrolled": 36,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "BIANETH GARCIA BARRIOS"
+          },
+          {
+            "day": "VIERNES",
+            "time": "18:00 - 20:00",
+            "building": "INGENIERIA QUIMICA",
+            "room": "107",
+            "professor": "BIANETH GARCIA BARRIOS"
           }
         ]
       }

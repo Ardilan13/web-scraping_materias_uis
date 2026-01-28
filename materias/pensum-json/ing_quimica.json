@@ -1,0 +1,524 @@
+{
+  "materias": [
+    {
+      "codigo": "20252",
+      "nombre": "Cálculo I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "20314",
+      "nombre": "Química I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "22979",
+      "nombre": "Álgebra Lineal I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23423",
+      "nombre": "Cultura Física y Deportiva",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23427",
+      "nombre": "Taller de Lenguaje",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "24948",
+      "nombre": "Vida y Cultura Universitaria",
+      "creditos": 0,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "27534",
+      "nombre": "Introducción a la Ing. Química",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "20253",
+      "nombre": "Cálculo II",
+      "creditos": 4,
+      "requisitos": [
+        "20252"
+      ],
+      "nivel": 2
+    },
+    {
+      "codigo": "22950",
+      "nombre": "Física I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "23015",
+      "nombre": "Geometría Descriptiva",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "23079",
+      "nombre": "Química II",
+      "creditos": 4,
+      "requisitos": [
+        "20314"
+      ],
+      "nivel": 2
+    },
+    {
+      "codigo": "23424",
+      "nombre": "Inglés I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "20254",
+      "nombre": "Cálculo III",
+      "creditos": 4,
+      "requisitos": [
+        "20253"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "22953",
+      "nombre": "Física II",
+      "creditos": 4,
+      "requisitos": [
+        "22950",
+        "20252"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "23217",
+      "nombre": "Química III",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "23425",
+      "nombre": "Ingles II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "27535",
+      "nombre": "Bases Informaticas",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "000",
+      "nombre": "CONTEXTO I",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "20255",
+      "nombre": "Ecuaciones Diferenciales",
+      "creditos": 4,
+      "requisitos": [
+        "20254"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "21413",
+      "nombre": "Estequiometría",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "22956",
+      "nombre": "Física III",
+      "creditos": 4,
+      "requisitos": [
+        "22953",
+        "20253"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "27536",
+      "nombre": "Análisis de Variables de Procesos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "21416",
+      "nombre": "Fenómenos de Transporte I",
+      "creditos": 4,
+      "requisitos": [
+        "21413"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "21428",
+      "nombre": "Estructura y Propiedades de los Materiales",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "23219",
+      "nombre": "Termodinámica I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "27537",
+      "nombre": "Métodos en Ingeniería Química I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "27538",
+      "nombre": "Manejo de Fluidos y Sólidos",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "21417",
+      "nombre": "Fenómenos de Transporte II",
+      "creditos": 4,
+      "requisitos": [
+        "21416"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "23222",
+      "nombre": "Nanotecnología",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "23226",
+      "nombre": "Termodinámica II",
+      "creditos": 4,
+      "requisitos": [
+        "23219"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "27539",
+      "nombre": "Métodos en Ingeniería Química II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "27540",
+      "nombre": "FISICOQUÍMICA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "21419",
+      "nombre": "Operaciones Unitarias I",
+      "creditos": 4,
+      "requisitos": [
+        "21417",
+        "23226"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "22976",
+      "nombre": "Ingeniería Económica",
+      "creditos": 3,
+      "requisitos": [
+        "20254"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "23228",
+      "nombre": "Diseño de Reactores",
+      "creditos": 4,
+      "requisitos": [
+        "23220",
+        "23226"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "27541",
+      "nombre": "BIOPROCESOS I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "27542",
+      "nombre": "laboratorio de procesos I",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "27543",
+      "nombre": "ingenieria computacional",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "21420",
+      "nombre": "Operaciones Unitarias II",
+      "creditos": 4,
+      "requisitos": [
+        "21419"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "23229",
+      "nombre": "Control de Procesos Químicos",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "27544",
+      "nombre": "BIOPROCESOS II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "27545",
+      "nombre": "Síntesis y Análisis de Procesos Químicos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "27546",
+      "nombre": "Gestión de Proyectos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "23233",
+      "nombre": "Análisis de Procesos",
+      "creditos": 4,
+      "requisitos": [
+        "23232"
+      ],
+      "nivel": 9
+    },
+    {
+      "codigo": "27547",
+      "nombre": "Trabajo de Grado I",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "27548",
+      "nombre": "Laboratorio de Procesos II",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "27549",
+      "nombre": "Creación de Empresas",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "ELECT01",
+      "nombre": "Asignaturas Técnicas Pregado",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "27550",
+      "nombre": "Trabajo de Grado II",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 10
+    },
+    {
+      "codigo": "ELECT10",
+      "nombre": "Asignatura de Contexto",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 10
+    },
+    {
+      "codigo": "21426",
+      "nombre": "optimizacion",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "21429",
+      "nombre": "Química Orgánica Industrial",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "21436",
+      "nombre": "Introducción a los polímeros",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "21445",
+      "nombre": "CATALISIS",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "21452",
+      "nombre": "Administración General para Ing. Qcos.",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "21458",
+      "nombre": "corrosion y su control",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "23227",
+      "nombre": "Ecología Industrial",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "25549",
+      "nombre": "Ing. de procesos en la Industria de alimentos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "25980",
+      "nombre": "Técnicas Experimentales para Ingenieros",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "26050",
+      "nombre": "Gestión Ambiental en la Industria de procesos Qcos.",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "27086",
+      "nombre": "Ingeniería Biomolecular",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    }
+  ],
+  
+  "codigos": [
+    "20252",
+    "20314",
+    "22979",
+    "23423",
+    "23427",
+    "24948",
+    "27534",
+    "20253",
+    "22950",
+    "23015",
+    "23079",
+    "23424",
+    "20254",
+    "22953",
+    "23217",
+    "23425",
+    "27535",
+    "20255",
+    "21413",
+    "22956",
+    "27536",
+    "21416",
+    "21428",
+    "23219",
+    "27537",
+    "27538",
+    "21417",
+    "23222",
+    "23226",
+    "27539",
+    "27540",
+    "21419",
+    "22976",
+    "23228",
+    "27541",
+    "27542",
+    "27543",
+    "21420",
+    "23229",
+    "27544",
+    "27545",
+    "27546",
+    "23233",
+    "27547",
+    "27548",
+    "27549",
+    "27550",
+    "21426",
+    "21429",
+    "21436",
+    "21445",
+    "21452",
+    "21458",
+    "23227",
+    "25549",
+    "25980",
+    "26050",
+    "27086"
+  ]
+}

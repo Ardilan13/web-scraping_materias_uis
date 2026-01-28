@@ -1,0 +1,341 @@
+{
+  "materias": [
+    {
+      "codigo": "24948",
+      "nombre": "VIDA Y CULTURA UNIVERSITARIA",
+      "creditos": 0,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23427",
+      "nombre": "TALLER DE LENGUAJE",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23423",
+      "nombre": "CULTURA FISICA Y DEPORTIVA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "22322",
+      "nombre": "INTRODUCCION A LA FISIOTERAPIA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "22321",
+      "nombre": "HISTORIA DE LA CIENCIA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "20422",
+      "nombre": "BIOCIENCIAS I",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23424",
+      "nombre": "INGLES I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "22356",
+      "nombre": "BIOCIENCIAS II",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "22325",
+      "nombre": "DESARROLLO HUMANO I",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "22324",
+      "nombre": "HOMBRE Y MOVIMIENTO",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "22323",
+      "nombre": "MORFOFISIOLOGIA GENERAL",
+      "creditos": 7,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "23582",
+      "nombre": "FUNDAMENTOS DE NEUROFISIOLOGIA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "23425",
+      "nombre": "INGLES II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "22334",
+      "nombre": "PREVENCION DE DESASTRES",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "22327",
+      "nombre": "FUNDAMENTOS DE BIOMECANICA I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "22326",
+      "nombre": "DESARROLLO HUMANO II",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "21957",
+      "nombre": "SALUD MENTAL",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "23583",
+      "nombre": "SALUD Y COMUNIDAD",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "22336",
+      "nombre": "PATOLOGIA DEL MOVIMIENTO",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "22332",
+      "nombre": "ETICA PROFESIONAL",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "22331",
+      "nombre": "FUNDAMENTOS DE BIOMECANICA II",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "22330",
+      "nombre": "FISIOLOGIA DEL EJERCICIO",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "00002",
+      "nombre": "ASIGNATURA DE CONTEXTO",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "23584",
+      "nombre": "FISIOTERAPIA CARDIORRESPIRATORIA",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "22339",
+      "nombre": "INVESTIGACION I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "22338",
+      "nombre": "ACONDICIONAMIENTO FISICO",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "22337",
+      "nombre": "ADMINISTRACION EN FISIOTERAPIA",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "22335",
+      "nombre": "DIAGNOSTICO FISIOTERAPEUTICO",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "23587",
+      "nombre": "CONTROL MOTOR",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "23586",
+      "nombre": "MODALIDADES DEL EJERCICIO TERAPEUTICO I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "23585",
+      "nombre": "MODALIDADES FISICAS I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "22344",
+      "nombre": "FARMACOLOGIA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "22343",
+      "nombre": "INVESTIGACION II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "23589",
+      "nombre": "MODALIDADES FISICAS II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "23588",
+      "nombre": "MODALIDADES DEL EJERCICIO TERAPEUTICO II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "22348",
+      "nombre": "PROMOCION Y PREVENCION EN FISIOTERAPIA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "22347",
+      "nombre": "SEMINARIO I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "22345",
+      "nombre": "FUNCION Y DISCAPACIDAD",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "23590",
+      "nombre": "INTERVENCION FISIOTERAPEUTICA",
+      "creditos": 12,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "22352",
+      "nombre": "SEMINARIO II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "22354",
+      "nombre": "PRACTICA DOCENCIA SERVICIO I",
+      "creditos": 17,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "22355",
+      "nombre": "PRACTICA DOCENCIA SERVICIO II",
+      "creditos": 17,
+      "requisitos": [],
+      "nivel": 10
+    }
+  ],
+  "codigos": [
+    "20422",
+    "21957",
+    "22321",
+    "22322",
+    "22323",
+    "22324",
+    "22325",
+    "22326",
+    "22327",
+    "22330",
+    "22331",
+    "22332",
+    "22334",
+    "22335",
+    "22336",
+    "22337",
+    "22338",
+    "22339",
+    "22343",
+    "22344",
+    "22345",
+    "22347",
+    "22348",
+    "22352",
+    "22354",
+    "22355",
+    "22356",
+    "23423",
+    "23424",
+    "23425",
+    "23427",
+    "23582",
+    "23583",
+    "23584",
+    "23585",
+    "23586",
+    "23587",
+    "23588",
+    "23589",
+    "23590",
+    "24948"
+  ]
+}

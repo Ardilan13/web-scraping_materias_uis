@@ -15,7 +15,7 @@ Para sacar los datos de las materias de html a json se debe:
 
 1. Copiar el contenido del html generado por la pagina de la UIS de la carrera
 2. Pegar el contenido en un archivo .html dentro de la carpeta 'materias/html'
-3. Correr el script 'script_html_to_json.js' en la consola con "node materias_html_to_json.js ./html ./json"
+3. Correr el script 'script_html_to_json.js' en la consola con "node materias_html_to_json.js ruta/a/carpeta_html"
 4. Se generara un archivo json con el nombre de la carrera, que contiene las materias
 
 # Materias JSON proceso para depurar la data

@@ -1,382 +1,506 @@
 {
   "materias": [
-    {
-      "codigo": "40513",
-      "nombre": "FISICA I",
-      "creditos": 3,
-      "requisitos": [],
-      "nivel": 1
-    },
-    {
-      "codigo": "40514",
-      "nombre": "CALCULO I",
-      "creditos": 3,
-      "requisitos": [],
-      "nivel": 1
-    },
-    {
-      "codigo": "29205",
-      "nombre": "CATEDRA UIS",
-      "creditos": 1,
-      "requisitos": [],
-      "nivel": 1
-    },
-    {
-      "codigo": "40515",
-      "nombre": "QUIMICA GENERAL I",
-      "creditos": 3,
-      "requisitos": [],
-      "nivel": 1
-    },
-    {
-      "codigo": "40516",
-      "nombre": "LAB QUIMICA GENERAL I",
-      "creditos": 2,
-      "requisitos": [],
-      "nivel": 1
-    },
-    {
-      "codigo": "23423",
-      "nombre": "CULTURA FISICA Y DEPORTIVA",
-      "creditos": 1,
-      "requisitos": [],
-      "nivel": 1
-    },
-    {
-      "codigo": "23427",
-      "nombre": "TALLER DE LENGUAJE",
-      "creditos": 3,
-      "requisitos": [],
-      "nivel": 1
-    },
-    {
-      "codigo": "40517",
-      "nombre": "FISICA II",
-      "creditos": 3,
-      "requisitos": ["40513"],
-      "nivel": 2
-    },
-    {
-      "codigo": "40518",
-      "nombre": "CALCULO II",
-      "creditos": 3,
-      "requisitos": ["40514"],
-      "nivel": 2
-    },
-    {
-      "codigo": "40519",
-      "nombre": "ALGEBRA LINEAL",
-      "creditos": 3,
-      "requisitos": [],
-      "nivel": 2
-    },
-    {
-      "codigo": "40520",
-      "nombre": "QUIMICA GENERAL II",
-      "creditos": 3,
-      "requisitos": ["40515"],
-      "nivel": 2
-    },
-    {
-      "codigo": "40521",
-      "nombre": "LAB QUIMICA GENERAL II",
-      "creditos": 1,
-      "requisitos": ["40516"],
-      "nivel": 2
-    },
-    {
-      "codigo": "40555",
-      "nombre": "LENGUA EXTRANJERA:INGLES I",
-      "creditos": 2,
-      "requisitos": [],
-      "nivel": 2
-    },
-    {
-      "codigo": "40522",
-      "nombre": "FISICA III",
-      "creditos": 3,
-      "requisitos": ["40517"],
-      "nivel": 3
-    },
-    {
-      "codigo": "40523",
-      "nombre": "CALCULO III",
-      "creditos": 4,
-      "requisitos": ["40518"],
-      "nivel": 3
-    },
-    {
-      "codigo": "40524",
-      "nombre": "FISICOQUIMICA I",
-      "creditos": 3,
-      "requisitos": ["40518"],
-      "nivel": 3
-    },
-    {
-      "codigo": "40525",
-      "nombre": "QUIMICA ANALITICA I",
-      "creditos": 3,
-      "requisitos": ["40520"],
-      "nivel": 3
-    },
-    {
-      "codigo": "40526",
-      "nombre": "LAB QUIMICA ANALITICA I",
-      "creditos": 1,
-      "requisitos": ["40520"],
-      "nivel": 3
-    },
-    {
-      "codigo": "40556",
-      "nombre": "LENGUA EXTRANJERA:INGLES II",
-      "creditos": 2,
-      "requisitos": ["40555"],
-      "nivel": 3
-    },
-    {
-      "codigo": "40527",
-      "nombre": "QUIMICA ORGANICA I",
-      "creditos": 3,
-      "requisitos": [],
-      "nivel": 4
-    },
-    {
-      "codigo": "40528",
-      "nombre": "ECUACIONES DIFERENCIALES",
-      "creditos": 3,
-      "requisitos": ["40523"],
-      "nivel": 4
-    },
-    {
-      "codigo": "40529",
-      "nombre": "FISICOQUIMICA II",
-      "creditos": 3,
-      "requisitos": ["40524"],
-      "nivel": 4
-    },
-    {
-      "codigo": "40530",
-      "nombre": "LABORATORIO DE FISICOQUIMICA I",
-      "creditos": 1,
-      "requisitos": ["40524"],
-      "nivel": 4
-    },
-    {
-      "codigo": "40531",
-      "nombre": "QUIMICA ANALITICA II",
-      "creditos": 3,
-      "requisitos": ["40525"],
-      "nivel": 4
-    },
-    {
-      "codigo": "40557",
-      "nombre": "LENGUA EXTRANJERA:INGLES III",
-      "creditos": 2,
-      "requisitos": ["40556"],
-      "nivel": 4
-    },
-    {
-      "codigo": "40532",
-      "nombre": "QUIMICA ORGANICA II",
-      "creditos": 3,
-      "requisitos": ["40527"],
-      "nivel": 5
-    },
-    {
-      "codigo": "40533",
-      "nombre": "LAB.QIMICA ORGANICA I",
-      "creditos": 1,
-      "requisitos": ["40527"],
-      "nivel": 4
-    },
-    {
-      "codigo": "40534",
-      "nombre": "QUIMICA CUANTICA",
-      "creditos": 3,
-      "requisitos": ["40528"],
-      "nivel": 5
-    },
-    {
-      "codigo": "40535",
-      "nombre": "LAB.FISICOQUIMICA II",
-      "creditos": 2,
-      "requisitos": ["40529"],
-      "nivel": 5
-    },
-    {
-      "codigo": "40536",
-      "nombre": "LAB QUIMICA ANALITICA II",
-      "creditos": 2,
-      "requisitos": ["40531"],
-      "nivel": 5
-    },
-    {
-      "codigo": "40537",
-      "nombre": "QUIMICA ORGANICA III",
-      "creditos": 3,
-      "requisitos": ["40532"],
-      "nivel": 5
-    },
-    {
-      "codigo": "40538",
-      "nombre": "LAB QUIMICA ORGANICA II",
-      "creditos": 2,
-      "requisitos": ["40532"],
-      "nivel": 5
-    },
-    {
-      "codigo": "40539",
-      "nombre": "BIOQUIMICA I",
-      "creditos": 3,
-      "requisitos": ["40533"],
-      "nivel": 5
-    },
-    {
-      "codigo": "40540",
-      "nombre": "QUIMICA INORGANICA I",
-      "creditos": 3,
-      "requisitos": [],
-      "nivel": 5
-    },
-    {
-      "codigo": "40541",
-      "nombre": "QUIMICA ANALITICA III",
-      "creditos": 3,
-      "requisitos": ["40536"],
-      "nivel": 6
-    },
-    {
-      "codigo": "40542",
-      "nombre": "LAB.QUIMICA ANALITICA III",
-      "creditos": 2,
-      "requisitos": ["40541"],
-      "nivel": 6
-    },
-    {
-      "codigo": "40543",
-      "nombre": "DISEÑO DE EXPERIMENTOS",
-      "creditos": 3,
-      "requisitos": [],
-      "nivel": 7
-    },
-    {
-      "codigo": "40544",
-      "nombre": "BIOQUIMICA II",
-      "creditos": 3,
-      "requisitos": ["40539"],
-      "nivel": 7
-    },
-    {
-      "codigo": "40545",
-      "nombre": "LABORATORIO DE BIOQUIMICA",
-      "creditos": 1,
-      "requisitos": ["40539"],
-      "nivel": 7
-    },
-    {
-      "codigo": "40546",
-      "nombre": "QUIMICA INORGANICA II",
-      "creditos": 3,
-      "requisitos": ["40540"],
-      "nivel": 7
-    },
-    {
-      "codigo": "40547",
-      "nombre": "LAB QUIMICA INORGANICA I",
-      "creditos": 2,
-      "requisitos": ["40540"],
-      "nivel": 7
-    },
-    {
-      "codigo": "40548",
-      "nombre": "QUIMICA AMBIENTAL",
-      "creditos": 3,
-      "requisitos": [],
-      "nivel": 7
-    },
-    {
-      "codigo": "40549",
-      "nombre": "SEMINARIO",
-      "creditos": 2,
-      "requisitos": [],
-      "nivel": 8
-    },
-    {
-      "codigo": "40550",
-      "nombre": "QUIMICA INDUSTRIAL",
-      "creditos": 4,
-      "requisitos": [],
-      "nivel": 8
-    },
-    {
-      "codigo": "40551",
-      "nombre": "LAB.QUIMICA INDUSTRIAL",
-      "creditos": 2,
-      "requisitos": [],
-      "nivel": 8
-    },
-    {
-      "codigo": "40552",
-      "nombre": "LAB.QUIMICA INORGANICA II",
-      "creditos": 2,
-      "requisitos": ["40532"],
-      "nivel": 8
-    },
-    {
-      "codigo": "22977",
-      "nombre": "TRABAJO DE GRADO II",
-      "creditos": 6,
-      "requisitos": [],
-      "nivel": 10
-    },
-    {
-      "codigo": "40562",
-      "nombre": "ELECTROQUIMICA",
-      "creditos": 3,
-      "requisitos": ["40529"],
-      "nivel": 8
-    },
-    {
-      "codigo": "40564",
-      "nombre": "CROMATOGRAFIA",
-      "creditos": 3,
-      "requisitos": ["40531"],
-      "nivel": 8
-    },
-    {
-      "codigo": "40570",
-      "nombre": "QUIMICA FORENSE",
-      "creditos": 3,
-      "requisitos": ["40531"],
-      "nivel": 8
-    },
-    {
-      "codigo": "40573",
-      "nombre": "DIFRACCION DE RAYOS X",
-      "creditos": 3,
-      "requisitos": ["40540"],
-      "nivel": 8
-    },
-    {
-      "codigo": "40577",
-      "nombre": "PROGRAMACION ORIENTADA A LA QUIMICA",
-      "creditos": 3,
-      "requisitos": [],
-      "nivel": 8
-    },
-    {
-      "codigo": "40579",
-      "nombre": "SINTESIS DE MATERIALES CERAMICOS",
-      "creditos": 3,
-      "requisitos": ["40540"],
-      "nivel": 8
-    },
-    {
-      "codigo": "40583",
-      "nombre": "ESTEROQUIMICA DE LOS COMPUESTOS ORGANICOS",
-      "creditos": 3,
-      "requisitos": ["40537"],
-      "nivel": 8
-    }
+  {
+    "codigo": "40513",
+    "nombre": "FISICA I",
+    "creditos": 3,
+    "nivel": 1
+  },
+  {
+    "codigo": "40514",
+    "nombre": "CALCULO I",
+    "creditos": 3,
+    "nivel": 1
+  },
+  {
+    "codigo": "29205",
+    "nombre": "CATEDRA UIS",
+    "creditos": 1,
+    "nivel": 1
+  },
+  {
+    "codigo": "40515",
+    "nombre": "QUIMICA GENERAL I",
+    "creditos": 3,
+    "nivel": 1
+  },
+  {
+    "codigo": "40516",
+    "nombre": "LABORATORIO DE QUIMICA GENERAL I",
+    "creditos": 2,
+    "nivel": 1
+  },
+  {
+    "codigo": "23423",
+    "nombre": "CULTURA FISICA Y DEPORTIVA",
+    "creditos": 1,
+    "nivel": 1
+  },
+  {
+    "codigo": "23427",
+    "nombre": "TALLER DE LENGUAJE",
+    "creditos": 3,
+    "nivel": 1
+  },
+  {
+    "codigo": "40517",
+    "nombre": "FISICA II",
+    "creditos": 3,
+    "nivel": 2
+  },
+  {
+    "codigo": "40518",
+    "nombre": "CALCULO II",
+    "creditos": 3,
+    "nivel": 2
+  },
+  {
+    "codigo": "40519",
+    "nombre": "ALGEBRA LINEAL",
+    "creditos": 3,
+    "nivel": 2
+  },
+  {
+    "codigo": "40520",
+    "nombre": "QUIMICA GENERAL II",
+    "creditos": 3,
+    "nivel": 2
+  },
+  {
+    "codigo": "40521",
+    "nombre": "LABORATORIO DE QUIMICA GENERAL II",
+    "creditos": 2,
+    "nivel": 2
+  },
+  {
+    "codigo": "40555",
+    "nombre": "LENGUA EXTRANJERA I: INGLES",
+    "creditos": 2,
+    "nivel": 2
+  },
+  {
+    "codigo": "40522",
+    "nombre": "FISICA III",
+    "creditos": 3,
+    "nivel": 3
+  },
+  {
+    "codigo": "40523",
+    "nombre": "CALCULO III",
+    "creditos": 3,
+    "nivel": 3
+  },
+  {
+    "codigo": "40524",
+    "nombre": "FISICOQUIMICA I",
+    "creditos": 3,
+    "nivel": 3
+  },
+  {
+    "codigo": "40525",
+    "nombre": "QUIMICA ANALITICA I",
+    "creditos": 3,
+    "nivel": 3
+  },
+  {
+    "codigo": "40526",
+    "nombre": "LABORATORIO DE QUIMICA ANALITICA I",
+    "creditos": 2,
+    "nivel": 3
+  },
+  {
+    "codigo": "40556",
+    "nombre": "LENGUA EXTRANJERA II: INGLES",
+    "creditos": 2,
+    "nivel": 3
+  },
+  {
+    "codigo": "40527",
+    "nombre": "QUIMICA ORGANICA I",
+    "creditos": 3,
+    "nivel": 4
+  },
+  {
+    "codigo": "40528",
+    "nombre": "ECUACIONES DIFERENCIALES",
+    "creditos": 3,
+    "nivel": 4
+  },
+  {
+    "codigo": "40529",
+    "nombre": "FISICOQUIMICA II",
+    "creditos": 3,
+    "nivel": 4
+  },
+  {
+    "codigo": "40530",
+    "nombre": "LABORATORIO DE FISICOQUIMICA I",
+    "creditos": 2,
+    "nivel": 4
+  },
+  {
+    "codigo": "40531",
+    "nombre": "QUIMICA ANALITICA II",
+    "creditos": 3,
+    "nivel": 4
+  },
+  {
+    "codigo": "40557",
+    "nombre": "LENGUA EXTRANJERA III: INGLES",
+    "creditos": 2,
+    "nivel": 4
+  },
+  {
+    "codigo": "40532",
+    "nombre": "QUIMICA ORGANICA II",
+    "creditos": 3,
+    "nivel": 5
+  },
+  {
+    "codigo": "40533",
+    "nombre": "LABORATORIO DE QUIMICA ORGANICA I",
+    "creditos": 2,
+    "nivel": 5
+  },
+  {
+    "codigo": "40534",
+    "nombre": "QUIMICA CUANTICA",
+    "creditos": 3,
+    "nivel": 5
+  },
+  {
+    "codigo": "40535",
+    "nombre": "LABORATORIO DE FISICOQUIMICA II",
+    "creditos": 2,
+    "nivel": 5
+  },
+  {
+    "codigo": "40536",
+    "nombre": "LABORATORIO DE QUIMICA ANALITICA II",
+    "creditos": 2,
+    "nivel": 5
+  },
+  {
+    "codigo": "00000",
+    "nombre": "CONTEXTO I",
+    "creditos": 2,
+    "nivel": 5
+  },
+  {
+    "codigo": "40558",
+    "nombre": "LENGUA EXTRANJERA IV: INGLES",
+    "creditos": 2,
+    "nivel": 5
+  },
+  {
+    "codigo": "40537",
+    "nombre": "QUIMICA ORGANICA III",
+    "creditos": 3,
+    "nivel": 6
+  },
+  {
+    "codigo": "40538",
+    "nombre": "LABORATORIO DE QUIMICA ORGANICA II",
+    "creditos": 2,
+    "nivel": 6
+  },
+  {
+    "codigo": "40539",
+    "nombre": "BIOQUIMICA I",
+    "creditos": 3,
+    "nivel": 6
+  },
+  {
+    "codigo": "40540",
+    "nombre": "QUIMICA INORGANICA I",
+    "creditos": 3,
+    "nivel": 6
+  },
+  {
+    "codigo": "40541",
+    "nombre": "QUIMICA ANALITICA III",
+    "creditos": 3,
+    "nivel": 6
+  },
+  {
+    "codigo": "40542",
+    "nombre": "LABORATORIO DE QUIMICA ANALITICA III",
+    "creditos": 2,
+    "nivel": 6
+  },
+  {
+    "codigo": "40543",
+    "nombre": "DISEÑO DE EXPERIMENTOS",
+    "creditos": 3,
+    "nivel": 7
+  },
+  {
+    "codigo": "40544",
+    "nombre": "BIOQUIMICA II",
+    "creditos": 3,
+    "nivel": 7
+  },
+  {
+    "codigo": "40545",
+    "nombre": "LABORATORIO DE BIOQUIMICA",
+    "creditos": 2,
+    "nivel": 7
+  },
+  {
+    "codigo": "40546",
+    "nombre": "QUIMICA INORGANICA II",
+    "creditos": 3,
+    "nivel": 7
+  },
+  {
+    "codigo": "40547",
+    "nombre": "LABORATORIO DE QUIMICA INORGANICA I",
+    "creditos": 2,
+    "nivel": 7
+  },
+  {
+    "codigo": "40548",
+    "nombre": "QUIMICA AMBIENTAL",
+    "creditos": 3,
+    "nivel": 7
+  },
+  {
+    "codigo": "40549",
+    "nombre": "SEMINARIO",
+    "creditos": 3,
+    "nivel": 8
+  },
+  {
+    "codigo": "40550",
+    "nombre": "QUIMICA INDUSTRIAL",
+    "creditos": 4,
+    "nivel": 8
+  },
+  {
+    "codigo": "40551",
+    "nombre": "LABORATORIO DE QUIMICA INDUSTRIAL",
+    "creditos": 2,
+    "nivel": 8
+  },
+  {
+    "codigo": "00000",
+    "nombre": "ELECTIVA DISCIPLINAR I",
+    "creditos": 3,
+    "nivel": 8
+  },
+  {
+    "codigo": "40552",
+    "nombre": "LABORATORIO DE QUIMICA INORGANICA II",
+    "creditos": 2,
+    "nivel": 8
+  },
+  {
+    "codigo": "40559",
+    "nombre": "INTRODUCCION A LA BIOTECNOLOGIA",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40560",
+    "nombre": "METABOLOMICA",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40561",
+    "nombre": "DINAMICA CUANTICA MOLECULAR",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40562",
+    "nombre": "ELECTROQUIMICA",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40563",
+    "nombre": "INTRODUCCION A LA TEORIA DE LA CATALISIS",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40564",
+    "nombre": "CROMATOGRAFIA",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40565",
+    "nombre": "ESPECTROMETRIA DE MASAS",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40566",
+    "nombre": "ESPECTROSCOPIA DE RMN",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40567",
+    "nombre": "EVALUACION, CONTROL Y TRATAMIENTO DE AGUAS NATURALES",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40568",
+    "nombre": "PREPARACION DE MUESTRAS",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40569",
+    "nombre": "QUIMICA DEL PETROLEO",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40570",
+    "nombre": "QUIMICA FORENSE",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40571",
+    "nombre": "RESONANCIA MAGNETICA NUCLEAR DE ESTADO SOLIDO",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40572",
+    "nombre": "TECNICAS MODERNAS DE ESPECTROSCOPIA ATOMICA MOLECULAR",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40573",
+    "nombre": "DIFRACCION DE RAYOS X",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40574",
+    "nombre": "ELECTRONICA E INSTRUMENTACION QUIMICA",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40575",
+    "nombre": "QUIMICA DE LOS ALIMENTOS",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40576",
+    "nombre": "QUIMICA DE LOS POLIMEROS",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40577",
+    "nombre": "PROGRAMACION ORIENTADA A LA QUIMICA",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40578",
+    "nombre": "QUIMICA INORGANICA COMPUTACIONAL",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40579",
+    "nombre": "SINTESIS DE MATERIALES CERAMICOS",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40580",
+    "nombre": "COMPUESTOS HETEROCICLICOS",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40581",
+    "nombre": "INTRODUCCION A LA QUIMICA VERDE",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40582",
+    "nombre": "PRINCIPIOS BASICOS DE LA QUIMICA DE FARMACOS",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40583",
+    "nombre": "ESTEROQUIMICA DE LOS COMPUESTOS ORGANICOS",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  },
+  {
+    "codigo": "40584",
+    "nombre": "CARACTERIZACION ESTRUCTURAL DE COMPUESTOS ORGANICOS",
+    "creditos": 3,
+    "nivel": "ELECTIVAS"
+  }
+],"codigos": [
+    "23423","23427","29205",
+    "40513","40514","40515","40516","40517",
+    "40518","40519","40520","40521","40522",
+    "40523","40524","40525","40526","40527",
+    "40528","40529","40530","40531","40532",
+    "40533","40534","40535","40536","40537",
+    "40538",
+    "40539",
+    "40540",
+    "40541",
+    "40542",
+    "40543",
+    "40544",
+    "40545",
+    "40546",
+    "40547",
+    "40548",
+    "40549",
+    "40550",
+    "40551",
+    "40552",
+    "40555",
+    "40556",
+    "40557",
+    "40558",
+    "40559",
+    "40560",
+    "40561",
+    "40562",
+    "40563",
+    "40564",
+    "40565",
+    "40566",
+    "40567",
+    "40568",
+    "40569",
+    "40570",
+    "40571",
+    "40572",
+    "40573",
+    "40574",
+    "40575",
+    "40576",
+    "40577",
+    "40578",
+    "40579",
+    "40580",
+    "40581",
+    "40582",
+    "40583",
+    "40584"
   ]
 }

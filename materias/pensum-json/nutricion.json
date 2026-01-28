@@ -1,0 +1,409 @@
+{
+  "materias": [
+    {
+      "codigo": "20422",
+      "nombre": "BIOCIENCIAS I",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "21958",
+      "nombre": "DESARROLLO HUMANO Y SEXUALIDAD I",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23423",
+      "nombre": "CULTURA FISICA Y DEPORTIVA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23427",
+      "nombre": "TALLER DE LENGUAJE",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23508",
+      "nombre": "INTRODUCCION A LA NUTRICION",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "24948",
+      "nombre": "VIDA Y CULTURA UNIVERSITARIA",
+      "creditos": 0,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "22110",
+      "nombre": "DESARROLLO HUMANO Y SEXUALIDAD II",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "23437",
+      "nombre": "DESARROLLO PSICOLOGICO",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "23438",
+      "nombre": "SISTEMA SOCIOPOLITICO COLOMBIANO",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "23472",
+      "nombre": "BIOCIENCIAS II",
+      "creditos": 6,
+      "requisitos": [
+        "20422"
+      ],
+      "nivel": 2
+    },
+    {
+      "codigo": "27553",
+      "nombre": "MORFOFISIOLOGIA GENERAL",
+      "creditos": 7,
+      "requisitos": [
+        "20422"
+      ],
+      "nivel": 2
+    },
+    {
+      "codigo": "23439",
+      "nombre": "QUIMICA DE ALIMENTOS",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "23441",
+      "nombre": "ECONOMIA EN ALIMENTACION Y NUTRICION",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "23440",
+      "nombre": "SALUD PUBLICA",
+      "creditos": 4,
+      "requisitos": [
+        "23438"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "27554",
+      "nombre": "NUTRICION BASICA",
+      "creditos": 3,
+      "requisitos": [
+        "23472"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "00000",
+      "nombre": "ASIGNATURA DE CONTEXTO",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "23444",
+      "nombre": "SEMINARIO DE INVESTIGACION II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "23424",
+      "nombre": "INGLES I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "23442",
+      "nombre": "LEGISLACION Y ESTANDARIZACION EN ALIMENTOS",
+      "creditos": 4,
+      "requisitos": [
+        "23439"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "23443",
+      "nombre": "MICROBIOLOGIA E INOCUIDAD DE ALIMENTOS",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "00000",
+      "nombre": "ASIGNATURA DE CONTEXTO",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "23452",
+      "nombre": "PLANIFICACION DE LA ALIMENTACION",
+      "creditos": 4,
+      "requisitos": [
+        "23442"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "22964",
+      "nombre": "DIRECCION EMPRESARIAL I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "23445",
+      "nombre": "TECNOLOGIA DE ALIMENTOS I",
+      "creditos": 5,
+      "requisitos": [
+        "23442"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "23447",
+      "nombre": "SEMINARIO DE INVESTIGACION II",
+      "creditos": 4,
+      "requisitos": [
+        "23444"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "23425",
+      "nombre": "INGLES II",
+      "creditos": 4,
+      "requisitos": [
+        "23424"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "23474",
+      "nombre": "ETICA PROFESIONAL",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "23448",
+      "nombre": "NUTRICION Y ACTIVIDAD FISICA",
+      "creditos": 4,
+      "requisitos": [
+        "27553"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "23453",
+      "nombre": "ESTRATEGIA DE EDUCACION Y COMUNICACION",
+      "creditos": 3,
+      "requisitos": [
+        "27554"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "23449",
+      "nombre": "TECNOLOGIA DE ALIMENTOS II",
+      "creditos": 3,
+      "requisitos": [
+        "23445"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "23450",
+      "nombre": "FUNDAMENTOS DE MERCADEO",
+      "creditos": 4,
+      "requisitos": [
+        "22964",
+        "23440"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "23451",
+      "nombre": "EPIDEMIOLOGIA NUTRICIONAL",
+      "creditos": 3,
+      "requisitos": [
+        "23447"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "27555",
+      "nombre": "FARMACOLOGIA Y TOXICOLOGIA",
+      "creditos": 3,
+      "requisitos": [
+        "23472"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "27556",
+      "nombre": "NUTRACEUTICA",
+      "creditos": 1,
+      "requisitos": [
+        "23472"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "27557",
+      "nombre": "MATERIALES DE EDUCACION Y COMUNICACION",
+      "creditos": 3,
+      "requisitos": [
+        "23453"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "23455",
+      "nombre": "ALIMENTACION EN EL PROCESO VITAL HUMANO",
+      "creditos": 7,
+      "requisitos": [
+        "23452"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "23456",
+      "nombre": "ALIMENTACION COLECTIVA",
+      "creditos": 4,
+      "requisitos": [
+        "23452"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "23458",
+      "nombre": "GESTION LOCAL",
+      "creditos": 3,
+      "requisitos": [
+        "23440"
+      ],
+      "nivel": 9
+    },
+    {
+      "codigo": "23459",
+      "nombre": "GERENCIA DE LA CALIDAD",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "23460",
+      "nombre": "NUTRICION CLINICA PEDIATRICA",
+      "creditos": 7,
+      "requisitos": [
+        "23455"
+      ],
+      "nivel": 9
+    },
+    {
+      "codigo": "23461",
+      "nombre": "NUTRICION CLINICA DE ADULTOS",
+      "creditos": 7,
+      "requisitos": [
+        "23455"
+      ],
+      "nivel": 9
+    },
+    {
+      "codigo": "40031",
+      "nombre": "PRACTICAS INTEGRADAS I",
+      "creditos": 7,
+      "requisitos": [],
+      "nivel": 10
+    },
+    {
+      "codigo": "40032",
+      "nombre": "PRACTICAS INTEGRADAS II",
+      "creditos": 7,
+      "requisitos": [],
+      "nivel": 10
+    },
+    {
+      "codigo": "40033",
+      "nombre": "PRACTICAS INTEGRADAS III",
+      "creditos": 7,
+      "requisitos": [],
+      "nivel": 11
+    },
+    {
+      "codigo": "40034",
+      "nombre": "PRACTICAS INTEGRADAS IV",
+      "creditos": 7,
+      "requisitos": [],
+      "nivel": 11
+    }
+  ],
+  "codigos": [
+    "20422",
+    "21958",
+    "22110",
+    "22964",
+    "23423",
+    "23424",
+    "23425",
+    "23427",
+    "23437",
+    "23438",
+    "23439",
+    "23440",
+    "23441",
+    "23442",
+    "23443",
+    "23444",
+    "23445",
+    "23447",
+    "23448",
+    "23449",
+    "23450",
+    "23451",
+    "23452",
+    "23453",
+    "23455",
+    "23456",
+    "23458",
+    "23459",
+    "23460",
+    "23461",
+    "23472",
+    "23474",
+    "23508",
+    "24948",
+    "27553",
+    "27554",
+    "27555",
+    "27556",
+    "27557",
+    "40031",
+    "40032",
+    "40033",
+    "40034"
+  ]
+}

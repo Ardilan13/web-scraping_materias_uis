@@ -1,0 +1,406 @@
+{
+  "materias": [
+    {
+      "codigo": "28672",
+      "nombre": "GEOMETRIA EUCLIDIANA",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "28671",
+      "nombre": "FUNDAMENTOS DE MATEMATICAS",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "28556",
+      "nombre": "LENGUA EXTRANJERA I: INGLES BASICO I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "28547",
+      "nombre": "DESARROLLO HUMANO",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "28546",
+      "nombre": "LECTURA DE TEXTOS ACADEMICOS UNIVERSITARIOS",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "24948",
+      "nombre": "VIDA Y CULTURA UNIVERSITARIA",
+      "creditos": 0,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "28562",
+      "nombre": "LENGUA EXTRANJERA II: INGLES BASICO II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "28551",
+      "nombre": "ESCRITURA DE TEXTOS ACADEMICOS UNIVERSITARIOS",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "28543",
+      "nombre": "PENSAMIENTO PEDAGOGICO Y SOCIEDAD",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "23423",
+      "nombre": "CULTURA FISICA Y DEPORTIVA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "20267",
+      "nombre": "TEORIA DE CONJUNTOS",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "20252",
+      "nombre": "CALCULO I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "28687",
+      "nombre": "FUNDAMENTACION DIDACTICA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "28673",
+      "nombre": "ALGEBRA LINEAL",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "28657",
+      "nombre": "APRENDIZAJE Y MODELOS PEDAGOGICOS",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "28568",
+      "nombre": "LENGUA EXTRANJERA III: INGLES",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "20253",
+      "nombre": "CALCULO II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "28674",
+      "nombre": "DIDACTICA DE LA GEOMETRIA Y TRIGONOMETRIA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "28574",
+      "nombre": "LENGUA EXTRANJERA IV: INGLES",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "28570",
+      "nombre": "DESARROLLO CURRICULAR",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "24170",
+      "nombre": "ESTADISTICA I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "20254",
+      "nombre": "CALCULO III",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "20245",
+      "nombre": "TEORIA DE NUMEROS",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "28675",
+      "nombre": "EDUCACION MATEMATICA Y ATENCION A LA DIVERSIDAD",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "28655",
+      "nombre": "EVALUACION DE LA ENSEÑANZA Y DEL APRENDIZAJE",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "28580",
+      "nombre": "LENGUA EXTRANJERA V: INGLES INTERMEDIO I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "24178",
+      "nombre": "ESTADISTICA II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "20268",
+      "nombre": "ALGEBRA MODERNA I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "20255",
+      "nombre": "ECUACIONES DIFERENCIALES",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "28679",
+      "nombre": "SEMINARIO DE PRACTICA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "28678",
+      "nombre": "DIDACTICA DE LA ARITMETICA Y EL ALGEBRA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "28677",
+      "nombre": "DIDACTICA DE LA PROBABILIDAD Y LA ESTADISTICA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "28676",
+      "nombre": "ANALISIS REAL",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "28683",
+      "nombre": "DIDACTICA DEL CALCULO",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "28682",
+      "nombre": "PRACTICA I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "28681",
+      "nombre": "HISTORIA DE LAS MATEMATICAS",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "28680",
+      "nombre": "FISICA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "28685",
+      "nombre": "TRABAJO DE GRADO I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "28684",
+      "nombre": "PRACTICA II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "28686",
+      "nombre": "TRABAJO DE GRADO II",
+      "creditos": 7,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "25288",
+      "nombre": "INTRODUCCION A LA GEOMETRIA FRACTAL",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25289",
+      "nombre": "INTRODUCCION A LAS CATEGORIAS",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25290",
+      "nombre": "LOGICA MATEMATICA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "20282",
+      "nombre": "CRIPTOGRAFIA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "20280",
+      "nombre": "TOPOLOGIA I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25416",
+      "nombre": "MATEMATICAS DIFUSAS",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "24192",
+      "nombre": "TEORIA DE DISTRIBUCIONES",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "24173",
+      "nombre": "PROGRAMACION I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "24176",
+      "nombre": "PROGRAMACION II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "24175",
+      "nombre": "MATEMATICA COMPUTACIONAL",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    }
+  ],
+  "codigos": [
+    "20245",
+    "20252",
+    "20253",
+    "20254",
+    "20255",
+    "20267",
+    "20268",
+    "20280",
+    "20282",
+    "23423",
+    "24170",
+    "24173",
+    "24175",
+    "24176",
+    "24178",
+    "24192",
+    "24948",
+    "25288",
+    "25289",
+    "25290",
+    "25416",
+    "28543",
+    "28546",
+    "28547",
+    "28551",
+    "28556",
+    "28562",
+    "28568",
+    "28570",
+    "28574",
+    "28580",
+    "28655",
+    "28657",
+    "28671",
+    "28672",
+    "28673",
+    "28674",
+    "28675",
+    "28676",
+    "28677",
+    "28678",
+    "28679",
+    "28680",
+    "28681",
+    "28682",
+    "28683",
+    "28684",
+    "28685",
+    "28686",
+    "28687"
+  ]
+}

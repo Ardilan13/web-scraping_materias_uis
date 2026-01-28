@@ -1,0 +1,599 @@
+{
+  "materias": [
+    {
+      "codigo": "23424",
+      "nombre": "INGLES I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23427",
+      "nombre": "TALLER DE LENGUAJE",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "24948",
+      "nombre": "VIDA Y CULTURA UNIVERSITARIA",
+      "creditos": 0,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "25362",
+      "nombre": "INTRODUCCION A LA BIOLOGIA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "25363",
+      "nombre": "MATEMATICAS I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "25364",
+      "nombre": "QUIMICA GENERAL",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23423",
+      "nombre": "CULTURA FISICA Y DEPORTIVA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "23425",
+      "nombre": "INGLES II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "25365",
+      "nombre": "MATEMATICAS II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "25366",
+      "nombre": "BIOFISICA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "25367",
+      "nombre": "BIOMOLECULAS",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "25368",
+      "nombre": "GEOFISIOGRAFIA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "00002",
+      "nombre": "ASIGNATURA DE CONTEXTO",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "20064",
+      "nombre": "BIOLOGIA CELULAR",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "25369",
+      "nombre": "METABOLISMO",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "25370",
+      "nombre": "HONGOS",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "25371",
+      "nombre": "PROTISTA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "20072",
+      "nombre": "MICROBIOLOGIA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "25372",
+      "nombre": "METAPHYTA I",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "25373",
+      "nombre": "METAZOOA I",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "25374",
+      "nombre": "ESTADISTICA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "00002",
+      "nombre": "ASIGNATURA DE CONTEXTO",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "20071",
+      "nombre": "BIOLOGIA MOLECULAR",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "25375",
+      "nombre": "METAPHYTA II",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "25376",
+      "nombre": "METAZOOA II",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "20065",
+      "nombre": "FISIOLOGIA VEGETAL",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "20073",
+      "nombre": "FISIOLOGIA ANIMAL",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "25377",
+      "nombre": "ECOLOGIA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "25378",
+      "nombre": "GENETICA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "20069",
+      "nombre": "BIOLOGIA DEL DESARROLLO",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "20070",
+      "nombre": "SISTEMATICA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "20075",
+      "nombre": "GENETICA DE POBLACIONES",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "25379",
+      "nombre": "BIOETICA",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "00003",
+      "nombre": "ASIGNATURA ELECTIVA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "00003",
+      "nombre": "ELECTIVA I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "25380",
+      "nombre": "EVOLUCION",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "25381",
+      "nombre": "BIOLOGIA DE LA CONSERVACION",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "25382",
+      "nombre": "SEMINARIO DE INVESTIGACION",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "00005",
+      "nombre": "PROFUNDIZACION",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "25385",
+      "nombre": "TRABAJO DE GRADO I",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "00005",
+      "nombre": "PROFUNDIZACION II",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "25386",
+      "nombre": "TRABAJO DE GRADO II",
+      "creditos": 10,
+      "requisitos": [],
+      "nivel": 10
+    },
+    {
+      "codigo": "25393",
+      "nombre": "BIOINFORMATICA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25392",
+      "nombre": "BOTANICA ECONOMICA Y ETNOBOTANICA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25391",
+      "nombre": "ANALISIS EVOLUTIVO CUANTITATIVO",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25390",
+      "nombre": "HERPETOLOGIA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25394",
+      "nombre": "FUNDAMENTOS DE LA BIOLOGIA QUIMICA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25389",
+      "nombre": "ENTOMOLOGIA BASICA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "27803",
+      "nombre": "TECNICAS DE CAMPO Y COLECCIONES BIOLOGICAS",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25388",
+      "nombre": "TOPICOS EN GENETICA MOLECULAR BACTERIAS",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25387",
+      "nombre": "MACROECOLOGIA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "27970",
+      "nombre": "ANALISIS DE DATOS BASICOS Y APLICADOS",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "26734",
+      "nombre": "COMPUTACION DE ALTO RENDIMIENTO",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "20089",
+      "nombre": "ECOFISIOLOGIA VEGETAL",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "20086",
+      "nombre": "LIMNOLOGIA II",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25483",
+      "nombre": "MORFOLOGIA REPRODUCTIVA Y DEL DESARROLLO",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25484",
+      "nombre": "HISTORIAS DE VIDA Y ECOLOGIA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "20085",
+      "nombre": "LIMNOLOGIA I",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25485",
+      "nombre": "ORNITOLOGIA BASICA II: ECOLOGIA Y C",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25386",
+      "nombre": "METODOLOGIA EN ANALISIS DE POBLACIONES D",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25486",
+      "nombre": "MUTAGENESIS AMBIENTAL I",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25487",
+      "nombre": "MUTAGENESIS AMBIENTAL II",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25488",
+      "nombre": "METODOS PARA EL ESTUDIO DE LA VEGETACION",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25489",
+      "nombre": "METODOS PARA EL ESTUDIO DE LA VEGETACION II",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25490",
+      "nombre": "BIOLOGIA COMPARADA I",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25491",
+      "nombre": "BIOLOGIA COMPARADA II",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25492",
+      "nombre": "TECNICAS BASICAS DE BIOLOGIA MOLECULAR I",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25493",
+      "nombre": "TECNICAS AVANZADAS DE BIOLOGIA MOLECULAR II",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25975",
+      "nombre": "ANALISIS POBLACIONAL I",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25976",
+      "nombre": "ANALISIS POBLACIONAL II",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "26351",
+      "nombre": "COMUNICACION CELULAR EN CELOMADOS I",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25383",
+      "nombre": "ECOLOGIA NUMERICA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "20092",
+      "nombre": "ORNITOLOGIA BASICA I: MORFOFIS DE LAS AVES",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "27160",
+      "nombre": "FILOGEOGRAFIA I",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "27161",
+      "nombre": "FILOGEOGRAFIA II",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    }
+  ],
+  "codigos": [
+    "20064",
+    "20065",
+    "20069",
+    "20070",
+    "20071",
+    "20072",
+    "20073",
+    "20075",
+    "20085",
+    "20086",
+    "20089",
+    "20092",
+    "23423",
+    "23424",
+    "23425",
+    "23427",
+    "24948",
+    "25362",
+    "25363",
+    "25364",
+    "25365",
+    "25366",
+    "25367",
+    "25368",
+    "25369",
+    "25370",
+    "25371",
+    "25372",
+    "25373",
+    "25374",
+    "25375",
+    "25376",
+    "25377",
+    "25378",
+    "25379",
+    "25380",
+    "25381",
+    "25382",
+    "25383",
+    "25385",
+    "25386",
+    "25387",
+    "25388",
+    "25389",
+    "25390",
+    "25391",
+    "25392",
+    "25393",
+    "25394",
+    "25483",
+    "25484",
+    "25485",
+    "25486",
+    "25487",
+    "25488",
+    "25489",
+    "25490",
+    "25491",
+    "25492",
+    "25493",
+    "25975",
+    "25976",
+    "26351",
+    "26734",
+    "27160",
+    "27161",
+    "27803",
+    "27970"
+  ]
+}

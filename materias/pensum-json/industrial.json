@@ -1,0 +1,644 @@
+{
+  "materias": [
+    {
+      "codigo": "20252",
+      "nombre": "CALCULO I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "22979",
+      "nombre": "ALGEBRA LINEAL I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23015",
+      "nombre": "GEOMETRIA DESCRIPTIVA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "22949",
+      "nombre": "QUIMICA BASICA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23427",
+      "nombre": "TALLER DE LENGUAJE",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "24948",
+      "nombre": "VIDA Y CULTURA UNIVERSITARIA",
+      "creditos": 0,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23423",
+      "nombre": "CULTURA FISICA Y DEPORTIVA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "20253",
+      "nombre": "CALCULO II",
+      "creditos": 4,
+      "requisitos": [
+        "20252"
+      ],
+      "nivel": 2
+    },
+    {
+      "codigo": "22950",
+      "nombre": "FISICA I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "22952",
+      "nombre": "BIOLOGIA PARA INGENIEROS",
+      "creditos": 2,
+      "requisitos": [
+        "22949"
+      ],
+      "nivel": 2
+    },
+    {
+      "codigo": "28997",
+      "nombre": "ESTRUCTURAS COMPUTACIONALES",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "28998",
+      "nombre": "INTRODUCCION A LA INGENIERIA INDUSTRIAL",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "20254",
+      "nombre": "CALCULO III",
+      "creditos": 4,
+      "requisitos": [
+        "20253"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "20113",
+      "nombre": "MECANICA ANALITICA",
+      "creditos": 4,
+      "requisitos": [
+        "20253",
+        "22950"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "22953",
+      "nombre": "FISICA II",
+      "creditos": 4,
+      "requisitos": [
+        "20252",
+        "22950"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "23424",
+      "nombre": "INGLES I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "28999",
+      "nombre": "ENTORNO ECONOMICO",
+      "creditos": 3,
+      "requisitos": [
+        "28998"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "00000",
+      "nombre": "ASIGNATURA DE CONTEXTO",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "20255",
+      "nombre": "ECUACIONES DIFERENCIALES",
+      "creditos": 4,
+      "requisitos": [
+        "20254"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "22956",
+      "nombre": "FISICA III",
+      "creditos": 4,
+      "requisitos": [
+        "20253",
+        "22953"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "23425",
+      "nombre": "INGLES II",
+      "creditos": 4,
+      "requisitos": [
+        "23424"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "21802",
+      "nombre": "TERMODINAMICA I",
+      "creditos": 4,
+      "requisitos": [
+        "20254"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "29000",
+      "nombre": "GESTION CONTABLE",
+      "creditos": 3,
+      "requisitos": [
+        "28999"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "29001",
+      "nombre": "ELECTRICIDAD Y ELECTRONICA BASICA",
+      "creditos": 3,
+      "requisitos": [
+        "20255"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "29002",
+      "nombre": "CIENCIA DE LOS MATERIALES",
+      "creditos": 3,
+      "requisitos": [
+        "22949"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "29003",
+      "nombre": "ESTADISTICA I",
+      "creditos": 3,
+      "requisitos": [
+        "20254"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "29004",
+      "nombre": "COSTOS",
+      "creditos": 3,
+      "requisitos": [
+        "29000"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "29005",
+      "nombre": "DIRECCION EMPRESARIAL I",
+      "creditos": 3,
+      "requisitos": [
+        "28999"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "00000",
+      "nombre": "ASIGNATURA DE CONTEXTO",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "29006",
+      "nombre": "ESTADISTICA II",
+      "creditos": 3,
+      "requisitos": [
+        "29003"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "29007",
+      "nombre": "INVESTIGACION DE OPERACIONES I",
+      "creditos": 3,
+      "requisitos": [
+        "29003"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "29008",
+      "nombre": "PROCESOS INDUSTRIALES",
+      "creditos": 3,
+      "requisitos": [
+        "29002"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "29009",
+      "nombre": "INGENIERIA ECONOMICA",
+      "creditos": 3,
+      "requisitos": [
+        "29004"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "29010",
+      "nombre": "PRINCIPIOS DE MERCADEO",
+      "creditos": 3,
+      "requisitos": [
+        "29005"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "29011",
+      "nombre": "DIRECCION EMPRESARIAL II",
+      "creditos": 3,
+      "requisitos": [
+        "29005"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "29012",
+      "nombre": "ESTADISTICA III",
+      "creditos": 3,
+      "requisitos": [
+        "29006"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "29013",
+      "nombre": "INVESTIGACION DE OPERACIONES II",
+      "creditos": 3,
+      "requisitos": [
+        "29007"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "29014",
+      "nombre": "DIRECCION DE OPERACIONES I",
+      "creditos": 3,
+      "requisitos": [
+        "23519"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "29015",
+      "nombre": "FINANZAS Y PRESUPUESTOS",
+      "creditos": 3,
+      "requisitos": [
+        "29009"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "29016",
+      "nombre": "INVESTIGACION DE MERCADOS",
+      "creditos": 3,
+      "requisitos": [
+        "29010",
+        "29006"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "23527",
+      "nombre": "SISTEMAS DE INFORMACION",
+      "creditos": 3,
+      "requisitos": [
+        "29005"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "29017",
+      "nombre": "INGENIERIA DE CALIDAD",
+      "creditos": 3,
+      "requisitos": [
+        "29012"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "29018",
+      "nombre": "DIRECCION DE OPERACIONES II",
+      "creditos": 3,
+      "requisitos": [
+        "29014"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "29019",
+      "nombre": "SEGURIDAD Y SALUD EN EL TRABAJO",
+      "creditos": 3,
+      "requisitos": [
+        "29014"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "29020",
+      "nombre": "TALENTO HUMANO",
+      "creditos": 3,
+      "requisitos": [
+        "29011"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "29021",
+      "nombre": "FORMULACION Y EVALUACION DE PROYECTOS",
+      "creditos": 3,
+      "requisitos": [
+        "29015",
+        "29016"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "22975",
+      "nombre": "TRABAJO DE GRADO I",
+      "creditos": 3,
+      "requisitos": [
+        "29021"
+      ],
+      "nivel": 9
+    },
+    {
+      "codigo": "29022",
+      "nombre": "LOGISTICA INTEGRAL",
+      "creditos": 3,
+      "requisitos": [
+        "29018"
+      ],
+      "nivel": 9
+    },
+    {
+      "codigo": "29023",
+      "nombre": "DISEÑO DE SISTEMAS PRODUCTIVOS",
+      "creditos": 3,
+      "requisitos": [
+        "29018",
+        "29019"
+      ],
+      "nivel": 9
+    },
+    {
+      "codigo": "00000",
+      "nombre": "ASIGNATURAS ELECTIVAS",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "22977",
+      "nombre": "TRABAJO DE GRADO II",
+      "creditos": 7,
+      "requisitos": [
+        "22975"
+      ],
+      "nivel": 10
+    },
+    {
+      "codigo": "00000",
+      "nombre": "ASIGNATURAS ELECTIVAS",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 10
+    },
+    {
+      "codigo": "29059",
+      "nombre": "EMPRENDIMIENTO GLOBAL",
+      "creditos": 3,
+      "requisitos": [
+        "29028"
+      ],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "23536",
+      "nombre": "TECNICAS MODERNAS DE OPTIMIZACION",
+      "creditos": 3,
+      "requisitos": [
+        "29006",
+        "29013"
+      ],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "23535",
+      "nombre": "FINANZAS CORPORATIVAS",
+      "creditos": 3,
+      "requisitos": [
+        "29015"
+      ],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "23544",
+      "nombre": "MERCADO DE CAPITALES",
+      "creditos": 3,
+      "requisitos": [
+        "29015"
+      ],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "23545",
+      "nombre": "HABILIDADES GERENCIALES",
+      "creditos": 3,
+      "requisitos": [
+        "23528"
+      ],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "23575",
+      "nombre": "TOP ESPEC GESTION AMBIENTAL",
+      "creditos": 3,
+      "requisitos": [
+        "23522",
+        "29005"
+      ],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25721",
+      "nombre": "RESPONSABILIDAD SOCIAL EMPRESARIAL",
+      "creditos": 3,
+      "requisitos": [
+        "29005"
+      ],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "27565",
+      "nombre": "SIMULACION DE SISTEMAS PRODUCTIVOS",
+      "creditos": 3,
+      "requisitos": [
+        "29006",
+        "29013"
+      ],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "29024",
+      "nombre": "SISTEMAS FLEXIBLES DE MANUFACTURA",
+      "creditos": 3,
+      "requisitos": [
+        "29018"
+      ],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "29025",
+      "nombre": "GESTION DE NEGOCIOS INTERNACIONALES",
+      "creditos": 3,
+      "requisitos": [
+        "29016"
+      ],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "29026",
+      "nombre": "GESTION TECNOLOGICA",
+      "creditos": 3,
+      "requisitos": [
+        "29011"
+      ],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "29027",
+      "nombre": "INTEGRACION DE PROCESOS CON TECNOLOGIA INFORMATICA",
+      "creditos": 3,
+      "requisitos": [
+        "23527",
+        "29018"
+      ],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "29028",
+      "nombre": "EMPRENDIMIENTO",
+      "creditos": 3,
+      "requisitos": [
+        "29014",
+        "29016",
+        "29015"
+      ],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "29029",
+      "nombre": "GERENCIA DE MERCADEO",
+      "creditos": 3,
+      "requisitos": [
+        "29016"
+      ],
+      "nivel": "ELECTIVAS"
+    }
+  ],
+  "codigos": [
+    "20113",
+    "20252",
+    "20253",
+    "20254",
+    "20255",
+    "21802",
+    "22949",
+    "22950",
+    "22952",
+    "22953",
+    "22956",
+    "22975",
+    "22977",
+    "22979",
+    "23015",
+    "23423",
+    "23424",
+    "23425",
+    "23427",
+    "23527",
+    "23535",
+    "23536",
+    "23544",
+    "23545",
+    "23575",
+    "24948",
+    "25721",
+    "27565",
+    "28997",
+    "28998",
+    "28999",
+    "29000",
+    "29001",
+    "29002",
+    "29003",
+    "29004",
+    "29005",
+    "29006",
+    "29007",
+    "29008",
+    "29009",
+    "29010",
+    "29011",
+    "29012",
+    "29013",
+    "29014",
+    "29015",
+    "29016",
+    "29017",
+    "29018",
+    "29019",
+    "29020",
+    "29021",
+    "29022",
+    "29023",
+    "29024",
+    "29025",
+    "29026",
+    "29027",
+    "29028",
+    "29029",
+    "29059"
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "materias": [
+    {
+      "codigo": "20252",
+      "nombre": "CALCULO I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "20273",
+      "nombre": "GEOMETRIA EUCLIDIANA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "22979",
+      "nombre": "ALGEBRA LINEAL I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23423",
+      "nombre": "CULTURA FISICA Y DEPORTIVA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "24173",
+      "nombre": "PROGRAMACION I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "24948",
+      "nombre": "VIDA Y CULTURA UNIVERSITARIA",
+      "creditos": 0,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "25124",
+      "nombre": "TALLER DE LENGUAJE I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "20253",
+      "nombre": "CALCULO II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "22950",
+      "nombre": "FISICA I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "23272",
+      "nombre": "ALGEBRA LINEAL II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "23424",
+      "nombre": "INGLES I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "25282",
+      "nombre": "FUNDAMENTOS DE MATEMATICAS",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "20245",
+      "nombre": "TEORIA DE NUMEROS",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "20254",
+      "nombre": "CALCULO III",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "20267",
+      "nombre": "TEORIA DE CONJUNTOS",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "22953",
+      "nombre": "FISICA II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "23425",
+      "nombre": "INGLES II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "20255",
+      "nombre": "ECUACIONES DIFERENCIALES",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "20268",
+      "nombre": "ALGEBRA MODERNA I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "24170",
+      "nombre": "ESTADISTICA I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "24175",
+      "nombre": "MATEMATICA COMPUTACIONAL",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "24176",
+      "nombre": "PROGRAMACION II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "20269",
+      "nombre": "ALGEBRA MODERNA II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "20274",
+      "nombre": "ANALISIS MATEMATICO I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "24171",
+      "nombre": "ANALISIS NUMERICO",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "24178",
+      "nombre": "ESTADISTICA II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "24181",
+      "nombre": "OPTIMIZACION",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "20275",
+      "nombre": "ANALISIS MATEMATICO II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "20280",
+      "nombre": "TOPOLOGIA I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "25283",
+      "nombre": "EPISTEMOLOGIA E HISTORIA DE LAS MATEMATICAS",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "25417",
+      "nombre": "SEMINARIO",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "20285",
+      "nombre": "GEOMETRIA DIFERENCIAL",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "24182",
+      "nombre": "VARIABLE COMPLEJA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "24183",
+      "nombre": "TRABAJO DE GRADO I",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "20284",
+      "nombre": "ETICA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "24184",
+      "nombre": "TRABAJO DE GRADO II",
+      "creditos": 10,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "24185",
+      "nombre": "INTRODUCCION AL ANALISIS FUNCIONAL",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "24186",
+      "nombre": "INTRODUCCION A LAS CATEGORIAS",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "24187",
+      "nombre": "ECUACIONES INTEGRALES",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "24188",
+      "nombre": "LOGICA MATEMATICA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "24189",
+      "nombre": "TOPOLOGIA ALGEBRAICA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "24190",
+      "nombre": "PROBLEMAS INVERSOS Y PROBLEMAS MAL PUESTOS",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "24191",
+      "nombre": "INTRODUCCION A LA GEOMETRIA FRACTAL",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "24192",
+      "nombre": "TEORIA DE DISTRIBUCIONES",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "24784",
+      "nombre": "TOPICOS EN ESTADISTICA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25415",
+      "nombre": "INTRODUCCION A LAS ECUACIONES DIFERENCIALES EN DERIVADAS PARCIALES",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    }
+  ],
+  "codigos": [
+    "20245",
+    "20252",
+    "20253",
+    "20254",
+    "20255",
+    "20267",
+    "20268",
+    "20269",
+    "20273",
+    "20274",
+    "20275",
+    "20280",
+    "20284",
+    "20285",
+    "22950",
+    "22953",
+    "22979",
+    "23272",
+    "23423",
+    "23424",
+    "23425",
+    "24170",
+    "24171",
+    "24173",
+    "24175",
+    "24176",
+    "24178",
+    "24181",
+    "24182",
+    "24183",
+    "24184",
+    "24185",
+    "24186",
+    "24187",
+    "24188",
+    "24189",
+    "24190",
+    "24191",
+    "24192",
+    "24784",
+    "24948",
+    "25124",
+    "25282",
+    "25283",
+    "25415",
+    "25417"
+  ]
+}

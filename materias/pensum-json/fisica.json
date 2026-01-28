@@ -1,0 +1,601 @@
+{
+  "materias": [
+    {
+      "codigo": "22979",
+      "nombre": "ALGEBRA LINEAL I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "25401",
+      "nombre": "FUNDAMENTOS DE CALCULO DIFERENCIAL",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "29301",
+      "nombre": "INTRODUCCION A LA FISICA",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "29302",
+      "nombre": "INTRODUCCION A LAS HERRAMIENTAS COMPUTACIONALES DE LA FISICA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23423",
+      "nombre": "CULTURA FISICA Y DEPORTIVA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23424",
+      "nombre": "INGLES I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23272",
+      "nombre": "ALGEBRA LINEAL II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "20253",
+      "nombre": "CALCULO II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "29303",
+      "nombre": "FISICA I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "28546",
+      "nombre": "LECTURA DE TEXTOS ACADEMICOS UNIVERSITARIOS",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "23425",
+      "nombre": "INGLES II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "20254",
+      "nombre": "CALCULO III",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "29447",
+      "nombre": "FISICA II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "29448",
+      "nombre": "FISICA III",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "29449",
+      "nombre": "QUIMICA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "29450",
+      "nombre": "LABORATORIO DE FISICA I",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "20255",
+      "nombre": "ECUACIONES DIFERENCIALES",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "29451",
+      "nombre": "ALGORITMOS Y ARQUITECTURAS COMPUTACIONALES DE ALTO RENDIMIENTO",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "29452",
+      "nombre": "FISICA IV",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "29453",
+      "nombre": "LABORATORIO DE FISICA II",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "29454",
+      "nombre": "METODOS MATEMATICOS PARA FISICOS I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "26163",
+      "nombre": "CONSTITUCION POLITICA",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "29456",
+      "nombre": "METODOS MATEMATICOS PARA FISICOS II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "25444",
+      "nombre": "MECANICA CLASICA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "29457",
+      "nombre": "TOPICOS EN FISICA CONTEMPORANEA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "29458",
+      "nombre": "LABORATORIO DE FISICA III",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "25437",
+      "nombre": "BIOLOGIA GENERAL",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "29459",
+      "nombre": "MECANICA CUANTICA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "29460",
+      "nombre": "TERMODINAMICA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "29461",
+      "nombre": "TEORIA ELECTROMAGNETICA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "29471",
+      "nombre": "DISEÑO DE EXPERIMENTOS",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "29463",
+      "nombre": "APLICACIONES COMPUTACIONALES A PROBLEMAS FISICOS",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "29464",
+      "nombre": "RELATIVIDAD ESPECIAL",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "29465",
+      "nombre": "TEORIA DE LA LUZ",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "29473",
+      "nombre": "FISICA ESTADISTICA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "29474",
+      "nombre": "INSTRUMENTACION ELECTRONICA",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "29475",
+      "nombre": "RETOS CIENTIFICOS",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "22109",
+      "nombre": "ETICA CIUDADANA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "29476",
+      "nombre": "ESTADO SOLIDO",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "29477",
+      "nombre": "LABORATORIO AVANZADO I",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "29478",
+      "nombre": "FISICA ATOMICA Y SUBATOMICA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "29479",
+      "nombre": "TRABAJO DE GRADO I",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "00001",
+      "nombre": "ELECTIVA PROFESIONAL I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "00002",
+      "nombre": "CONTEXTO II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "29480",
+      "nombre": "TRABAJO DE GRADO II",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "00001",
+      "nombre": "ELECTIVA PROFESIONAL II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "00001",
+      "nombre": "ELECTIVA PROFESIONAL III",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "29481",
+      "nombre": "LABORATORIO AVANZADO II",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "29472",
+      "nombre": "NANOCIENCIA Y LA NANOTECNOLOGIA PARA TODOS",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "29483",
+      "nombre": "PROPIEDADES ELECTRICAS DE DOS TEJIDOS",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "29483",
+      "nombre": "TOPICOS TEORICOS Y EXPERIMENTALES DE MATERIA CONDENSADA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25456",
+      "nombre": "TOPICOS EN SEMICONDUCTORES",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25457",
+      "nombre": "TRATAMIENTO EN OPTICA COHERENTE",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25458",
+      "nombre": "METROLOGIA OPTICA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25459",
+      "nombre": "FISICA DEL PLASMA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25461",
+      "nombre": "INTRODUCCION A LA TEORIA DE LA RELATIVIDAD",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25462",
+      "nombre": "ESPECTROSCOPIA ATOMICA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25463",
+      "nombre": "ESPECTROSCOPIA MOLECULAR",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25464",
+      "nombre": "ESPECTROSCOPIA LASER",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25465",
+      "nombre": "INVESTIGACION EN EL AULA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "29482",
+      "nombre": "INTRODUCCION AL MODELADO Y SIMULACION EN CIENCIA DE MATERIALES",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25466",
+      "nombre": "ESTRATEGIAS DE LA ENSEÑANZA Y APRENDIZAJE",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "29374",
+      "nombre": "PROPIEDADES ELECTRICAS DE LOS TEJIDOS",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25468",
+      "nombre": "FISICA DE DESCARGA DE GASES",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25967",
+      "nombre": "INTRODUCCION A LA COSMOLOGIA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25968",
+      "nombre": "ASTROFISICA I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25969",
+      "nombre": "ASTROFISICA II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25970",
+      "nombre": "FISICA COMPUTACIONAL",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25972",
+      "nombre": "INTRODUCCION A LA FISICA COMPUTACIONAL DEL PLASMA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25973",
+      "nombre": "INTRODUCCION A LA REPRESENTACION TIEMPO-FRECUENCIA DE SEÑALES",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25974",
+      "nombre": "SISTEMAS DE BAJA DIMENSIONALIDAD",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "25971",
+      "nombre": "ONDAS EN PLASMA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "27979",
+      "nombre": "FUNDAMENTOS DE GEOFISICA I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "27980",
+      "nombre": "FUNDAMENTOS DE GEOFISICA II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    },
+    {
+      "codigo": "27983",
+      "nombre": "INTRODUCCION A LA SISMOLOGIA",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": "ELECTIVAS"
+    }
+  ],
+  "codigos": [
+    "20253",
+    "20254",
+    "20255",
+    "22109",
+    "22979",
+    "23272",
+    "23423",
+    "23424",
+    "23425",
+    "25401",
+    "25437",
+    "25444",
+    "25456",
+    "25457",
+    "25458",
+    "25459",
+    "25461",
+    "25462",
+    "25463",
+    "25464",
+    "25465",
+    "25466",
+    "25468",
+    "25967",
+    "25968",
+    "25969",
+    "25970",
+    "25971",
+    "25972",
+    "25973",
+    "25974",
+    "26163",
+    "27979",
+    "27980",
+    "27983",
+    "28546",
+    "29301",
+    "29302",
+    "29303",
+    "29374",
+    "29447",
+    "29448",
+    "29449",
+    "29450",
+    "29451",
+    "29452",
+    "29453",
+    "29454",
+    "29456",
+    "29457",
+    "29458",
+    "29459",
+    "29460",
+    "29461",
+    "29463",
+    "29464",
+    "29465",
+    "29471",
+    "29472",
+    "29473",
+    "29474",
+    "29475",
+    "29476",
+    "29477",
+    "29478",
+    "29479",
+    "29480",
+    "29481",
+    "29482",
+    "29483"
+  ]
+}
