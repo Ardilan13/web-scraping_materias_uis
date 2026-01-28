@@ -12,7 +12,7 @@ async function waitForElementNotBusy(selector) {
   });
 }
 
-async function procesarMateria(codigoMateria) {
+async function procesarMateria(skuMateria) {
   const inputCodigo = document.querySelector("#form\\:txtCodigoAsignatura");
   const btnConsulta = document.querySelector("#form\\:btnConsultaAsignatura");
 
@@ -21,22 +21,22 @@ async function procesarMateria(codigoMateria) {
     return null;
   }
 
-  inputCodigo.value = codigoMateria;
+  inputCodigo.value = skuMateria;
   btnConsulta.click();
 
   await waitForElementNotBusy("#form");
 
   const tableDiv = document.querySelector("#form\\:dtlListadoProgramadas");
   if (!tableDiv) {
-    console.error(`No se encontró información para el código ${codigoMateria}`);
+    console.error(`No se encontró información para el código ${skuMateria}`);
     return null;
   }
 
   const rows = tableDiv.querySelectorAll("tbody tr");
   const materiaInfo = {
-    codigo: codigoMateria,
-    nombre: "",
-    grupos: [],
+    sku: skuMateria,
+    name: "",
+    groups: [],
   };
 
   for (let i = 0; i < rows.length; i++) {
@@ -44,18 +44,18 @@ async function procesarMateria(codigoMateria) {
     const columns = row.querySelectorAll("td div");
 
     if (i === 0) {
-      materiaInfo.nombre = columns[1]?.textContent.trim();
+      materiaInfo.name = columns[1]?.textContent.trim();
     }
 
     const grupoInfo = {
-      grupo: columns[2]?.textContent.trim(),
-      capacidad: parseInt(columns[3]?.textContent.trim(), 10),
-      matriculados: parseInt(columns[4]?.textContent.trim(), 10),
-      horario: [],
+      groups: columns[2]?.textContent.trim(),
+      capacity: parseInt(columns[3]?.textContent.trim(), 10),
+      enrolled: parseInt(columns[4]?.textContent.trim(), 10),
+      schedule: [],
     };
 
     const button = row.querySelector(
-      `#form\\:dtlListadoProgramadas\\:${i}\\:btnIrVer`,
+      `#form\\:dtlListadoProgramadas\\:${i}\\:btnIrVer`
     );
 
     if (button) {
@@ -63,19 +63,19 @@ async function procesarMateria(codigoMateria) {
       await waitForElementNotBusy("#form");
 
       const modalTable = document.querySelector(
-        "#formHorario\\:dtlListadoParciales_data",
+        "#formHorario\\:dtlListadoParciales_data"
       );
 
       if (modalTable) {
         const modalRows = modalTable.querySelectorAll("tr");
         modalRows.forEach((modalRow) => {
           const modalColumns = modalRow.querySelectorAll("td div");
-          grupoInfo.horario.push({
-            dia: modalColumns[0]?.textContent.trim(),
-            hora: modalColumns[1]?.textContent.trim(),
-            edificio: modalColumns[2]?.textContent.trim(),
-            aula: modalColumns[3]?.textContent.trim(),
-            profesor: modalColumns[4]?.textContent.trim(),
+          grupoInfo.schedule.push({
+            day: modalColumns[0]?.textContent.trim(),
+            time: modalColumns[1]?.textContent.trim(),
+            building: modalColumns[2]?.textContent.trim(),
+            room: modalColumns[3]?.textContent.trim(),
+            professor: modalColumns[4]?.textContent.trim(),
           });
         });
       }
@@ -87,7 +87,7 @@ async function procesarMateria(codigoMateria) {
       }
     }
 
-    materiaInfo.grupos.push(grupoInfo);
+    materiaInfo.groups.push(grupoInfo);
   }
 
   return materiaInfo;
@@ -96,12 +96,12 @@ async function procesarMateria(codigoMateria) {
 async function procesarListaCodigos(listaCodigos) {
   const resultado = [];
 
-  for (const codigo of listaCodigos) {
-    console.log(`Procesando código: ${codigo}`);
-    const materiaInfo = await procesarMateria(codigo);
+  for (const sku of listaCodigos) {
+    console.log(`Procesando código: ${sku}`);
+    const materiaInfo = await procesarMateria(sku);
     if (materiaInfo) {
       resultado.push(materiaInfo);
-      console.log(`Completado código: ${codigo}`);
+      console.log(`Completado código: ${sku}`);
     }
   }
 
@@ -109,7 +109,9 @@ async function procesarListaCodigos(listaCodigos) {
 }
 
 (async function () {
-  const listaCodigos = ["25724", "23544", "29015"];
+  const listaCodigos = [
+    "41342", "41338"
+];
 
   try {
     const resultado = await procesarListaCodigos(listaCodigos);
@@ -126,7 +128,7 @@ async function procesarListaCodigos(listaCodigos) {
     if (datosGuardados) {
       console.log(
         "Datos previos recuperados de localStorage:",
-        JSON.parse(datosGuardados),
+        JSON.parse(datosGuardados)
       );
     }
   }
