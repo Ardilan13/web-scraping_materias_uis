@@ -1,0 +1,128 @@
+[
+  {
+    "sku": "23544",
+    "name": "MERCADO DE CAPITALES",
+    "groups": [
+      {
+        "sku": "H1",
+        "capacity": 25,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 12:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "123",
+            "professor": "CLAUDIA PATRICIA HERNANDEZ VALDIVIESO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "29015",
+    "name": "FINANZAS Y PRESUPUESTOS",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 27,
+        "enrolled": 26,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "103",
+            "professor": "JUAN BENJAMIN DUARTE DUARTE"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "103",
+            "professor": "JUAN BENJAMIN DUARTE DUARTE"
+          }
+        ]
+      },
+      {
+        "sku": "D1",
+        "capacity": 27,
+        "enrolled": 26,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "103",
+            "professor": "JUAN BENJAMIN DUARTE DUARTE"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "103",
+            "professor": "JUAN BENJAMIN DUARTE DUARTE"
+          }
+        ]
+      },
+      {
+        "sku": "K1",
+        "capacity": 27,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "103",
+            "professor": "JUAN BENJAMIN DUARTE DUARTE"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "103",
+            "professor": "JUAN BENJAMIN DUARTE DUARTE"
+          }
+        ]
+      },
+      {
+        "sku": "K2",
+        "capacity": 27,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "103",
+            "professor": "JUAN BENJAMIN DUARTE DUARTE"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "INGENIERIA INDUSTRIAL",
+            "room": "103",
+            "professor": "JUAN BENJAMIN DUARTE DUARTE"
+          }
+        ]
+      }
+    ]
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {}
+]

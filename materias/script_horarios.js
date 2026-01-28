@@ -55,7 +55,7 @@ async function procesarMateria(codigoMateria) {
     };
 
     const button = row.querySelector(
-      `#form\\:dtlListadoProgramadas\\:${i}\\:btnIrVer`
+      `#form\\:dtlListadoProgramadas\\:${i}\\:btnIrVer`,
     );
 
     if (button) {
@@ -63,7 +63,7 @@ async function procesarMateria(codigoMateria) {
       await waitForElementNotBusy("#form");
 
       const modalTable = document.querySelector(
-        "#formHorario\\:dtlListadoParciales_data"
+        "#formHorario\\:dtlListadoParciales_data",
       );
 
       if (modalTable) {
@@ -109,9 +109,7 @@ async function procesarListaCodigos(listaCodigos) {
 }
 
 (async function () {
-  const listaCodigos = [
-    "41342", "41338"
-];
+  const listaCodigos = ["25724", "23544", "29015"];
 
   try {
     const resultado = await procesarListaCodigos(listaCodigos);
@@ -128,7 +126,7 @@ async function procesarListaCodigos(listaCodigos) {
     if (datosGuardados) {
       console.log(
         "Datos previos recuperados de localStorage:",
-        JSON.parse(datosGuardados)
+        JSON.parse(datosGuardados),
       );
     }
   }

@@ -23274,6 +23274,11 @@
         "new_pensum": false
       },
       {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
+      },
+      {
         "name": "BIOLOGIA",
         "id": 10,
         "new_pensum": false
@@ -45542,6 +45547,11 @@
         "new_pensum": true
       },
       {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
+      },
+      {
         "name": "MUSICA",
         "id": 30,
         "new_pensum": false
@@ -54270,6 +54280,11 @@
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
         "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
       }
     ]
   },
@@ -54479,6 +54494,11 @@
       {
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
         "new_pensum": false
       }
     ]
@@ -54909,6 +54929,11 @@
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
         "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
       }
     ]
   },
@@ -55123,6 +55148,11 @@
       {
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
         "new_pensum": false
       }
     ]
@@ -55460,6 +55490,11 @@
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
         "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
       }
     ]
   },
@@ -55592,6 +55627,11 @@
       {
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
         "new_pensum": false
       }
     ]
@@ -58197,6 +58237,11 @@
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
         "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
       }
     ]
   },
@@ -58323,6 +58368,11 @@
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
         "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
       }
     ]
   },
@@ -58386,6 +58436,11 @@
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
         "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
       }
     ]
   },
@@ -58420,6 +58475,11 @@
       {
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
         "new_pensum": false
       }
     ]
@@ -58633,6 +58693,11 @@
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
         "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
       }
     ]
   },
@@ -58842,6 +58907,11 @@
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
         "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
       }
     ]
   },
@@ -58942,6 +59012,11 @@
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
         "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
       }
     ]
   },
@@ -59041,6 +59116,11 @@
       {
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
         "new_pensum": false
       }
     ]
@@ -59158,6 +59238,11 @@
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
         "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
       }
     ]
   },
@@ -59216,6 +59301,11 @@
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
         "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
       }
     ]
   },
@@ -59232,20 +59322,32 @@
         "enrolled": 18,
         "schedule": [
           {
-            "day": "MIERCOLES",
-            "time": "10:00 - 12:00",
-            "building": "UIS FLORIDABLANCA",
-            "room": "102",
+            "day": "MARTES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
             "professor": "CESAR AUGUSTO ACEROS MORENO"
           },
           {
-            "day": "VIERNES",
-            "time": "10:00 - 12:00",
-            "building": "UIS FLORIDABLANCA",
-            "room": "102",
+            "day": "JUEVES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
             "professor": "CESAR AUGUSTO ACEROS MORENO"
           }
         ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
       }
     ]
   },
@@ -59303,6 +59405,11 @@
       {
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
         "new_pensum": false
       }
     ]
@@ -59362,6 +59469,11 @@
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
         "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
       }
     ]
   },
@@ -59420,6 +59532,11 @@
         "name": "INGENIERIA EN CIENCIA DE DATOS",
         "id": 50,
         "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
       }
     ]
   },
@@ -59437,21 +59554,7 @@
         "schedule": [
           {
             "day": "MIERCOLES",
-            "time": "8:00 - 9:00",
-            "building": "UIS FLORIDABLANCA",
-            "room": "102",
-            "professor": "ANDRÉS LEONARDO GONZÁLEZ GÓMEZ"
-          },
-          {
-            "day": "MIERCOLES",
             "time": "9:00 - 10:00",
-            "building": "UIS FLORIDABLANCA",
-            "room": "102",
-            "professor": "ANDRÉS LEONARDO GONZÁLEZ GÓMEZ"
-          },
-          {
-            "day": "VIERNES",
-            "time": "8:00 - 10:00",
             "building": "UIS FLORIDABLANCA",
             "room": "102",
             "professor": "ANDRÉS LEONARDO GONZÁLEZ GÓMEZ"
@@ -59485,6 +59588,18 @@
             "professor": "ANDRÉS LEONARDO GONZÁLEZ GÓMEZ"
           }
         ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INGENIERIA EN CIENCIA DE DATOS",
+        "id": 50,
+        "new_pensum": false
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
       }
     ]
   },
@@ -61392,10 +61507,225 @@
     ]
   },
   {
-    "credits": 0,
+    "sku": "41609",
+    "name": "INTRODUCCION A LA ING. EN INTELIGENCIA ARTIFICIAL",
+    "credits": 2,
     "requirements": [],
     "level": 1,
-    "groups": [],
+    "groups": [
+      {
+        "sku": "C01",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "MARTES",
+            "time": "12:00 - 13:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "C02",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ALEJANDRA MORENO TARAZONA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "12:00 - 13:00",
+            "building": "",
+            "room": "",
+            "professor": "ALEJANDRA MORENO TARAZONA"
+          }
+        ]
+      },
+      {
+        "sku": "PC1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "FISOCOMECANICAS",
+            "room": "255",
+            "professor": ""
+          },
+          {
+            "day": "MARTES",
+            "time": "12:00 - 13:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "PC2",
+        "capacity": 19,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "12:00 - 13:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ],
+    "program": [
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "id": 47,
+        "new_pensum": false
+      }
+    ]
+  },
+  {
+    "sku": "41610",
+    "name": "PROCESOS COGNITIVOS",
+    "credits": 3,
+    "requirements": [],
+    "level": 1,
+    "groups": [
+      {
+        "sku": "F01",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA RUBIELA AYALA CARVAJAL"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA RUBIELA AYALA CARVAJAL"
+          },
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA RUBIELA AYALA CARVAJAL"
+          }
+        ]
+      },
+      {
+        "sku": "F02",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA RUBIELA AYALA CARVAJAL"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA RUBIELA AYALA CARVAJAL"
+          },
+          {
+            "day": "VIERNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA RUBIELA AYALA CARVAJAL"
+          }
+        ]
+      },
+      {
+        "sku": "PF1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "PF2",
+        "capacity": 19,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "VIERNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ],
     "program": [
       {
         "name": "INTELIGENCIA ARTIFICIAL",

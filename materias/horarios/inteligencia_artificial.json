@@ -1,38 +1,3686 @@
 [
   {
-    "schedule": []
+    "sku": "40935",
+    "name": "CALCULO DE FUNCIONES EN UNA VARIABLE",
+    "groups": [
+      {
+        "sku": "E1",
+        "capacity": 26,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "15:00 - 17:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "115",
+            "professor": "ALVARO JAVIER ANDRADE DURAN"
+          },
+          {
+            "day": "JUEVES",
+            "time": "15:00 - 17:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "227",
+            "professor": "ALVARO JAVIER ANDRADE DURAN"
+          },
+          {
+            "day": "VIERNES",
+            "time": "15:00 - 17:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "115",
+            "professor": "ALVARO JAVIER ANDRADE DURAN"
+          }
+        ]
+      },
+      {
+        "sku": "PA1",
+        "capacity": 32,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 9:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "107",
+            "professor": "LUIS ANGEL PEREZ FERNANDEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "11:00 - 13:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "107",
+            "professor": "LUIS ANGEL PEREZ FERNANDEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 9:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "107",
+            "professor": "LUIS ANGEL PEREZ FERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "PA2",
+        "capacity": 32,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 9:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "105",
+            "professor": "YULIETH ALEXANDRA GUTIERREZ CARRILLO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "11:00 - 13:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "105",
+            "professor": "YULIETH ALEXANDRA GUTIERREZ CARRILLO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 9:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "105",
+            "professor": "YULIETH ALEXANDRA GUTIERREZ CARRILLO"
+          }
+        ]
+      },
+      {
+        "sku": "PE1",
+        "capacity": 22,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE ANDRES ROJAS GOMEZ"
+          },
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE ANDRES ROJAS GOMEZ"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE ANDRES ROJAS GOMEZ"
+          }
+        ]
+      },
+      {
+        "sku": "PE2",
+        "capacity": 22,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE ELIECER GOMEZ RIOS"
+          },
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE ELIECER GOMEZ RIOS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE ELIECER GOMEZ RIOS"
+          }
+        ]
+      },
+      {
+        "sku": "PF1",
+        "capacity": 32,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "13:00 - 15:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "107",
+            "professor": "SILVIA JULIANA BALLESTEROS GUALDRON"
+          },
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 19:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "107",
+            "professor": "SILVIA JULIANA BALLESTEROS GUALDRON"
+          },
+          {
+            "day": "VIERNES",
+            "time": "13:00 - 15:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "107",
+            "professor": "SILVIA JULIANA BALLESTEROS GUALDRON"
+          }
+        ]
+      },
+      {
+        "sku": "PF2",
+        "capacity": 32,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "13:00 - 15:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "105",
+            "professor": "ALVARO JAVIER ANDRADE DURAN"
+          },
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 19:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "105",
+            "professor": "ALVARO JAVIER ANDRADE DURAN"
+          },
+          {
+            "day": "VIERNES",
+            "time": "13:00 - 15:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "105",
+            "professor": "ALVARO JAVIER ANDRADE DURAN"
+          }
+        ]
+      }
+    ]
   },
   {
-    "schedule": []
+    "sku": "40936",
+    "name": "INTRODUCCION AL ALGEBRA LINEAL",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "11:00 - 13:00",
+            "building": "",
+            "room": "",
+            "professor": "KAREN DANIELA ARANA ROMERO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "KAREN DANIELA ARANA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "PB1",
+        "capacity": 34,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 8:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "107",
+            "professor": "JENNY PAOLA MILLAN HERNANDEZ"
+          },
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JENNY PAOLA MILLAN HERNANDEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 11:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "107",
+            "professor": "JENNY PAOLA MILLAN HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "PB2",
+        "capacity": 34,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 9:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "105",
+            "professor": "YULIETH ALEXANDRA GUTIERREZ CARRILLO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 10:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "105",
+            "professor": "YULIETH ALEXANDRA GUTIERREZ CARRILLO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 11:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "105",
+            "professor": "YULIETH ALEXANDRA GUTIERREZ CARRILLO"
+          }
+        ]
+      },
+      {
+        "sku": "PB3",
+        "capacity": 22,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS MATEO BELTRAN LARROTTA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS MATEO BELTRAN LARROTTA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS MATEO BELTRAN LARROTTA"
+          }
+        ]
+      },
+      {
+        "sku": "PB4",
+        "capacity": 22,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "DAIMON SANTIAGO MAYORGA CARREÑO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DAIMON SANTIAGO MAYORGA CARREÑO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "DAIMON SANTIAGO MAYORGA CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "PE1",
+        "capacity": 34,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 17:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "105",
+            "professor": "JENNY PAOLA MILLAN HERNANDEZ"
+          },
+          {
+            "day": "MARTES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JENNY PAOLA MILLAN HERNANDEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "15:00 - 17:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "105",
+            "professor": "JENNY PAOLA MILLAN HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "PE2",
+        "capacity": 34,
+        "enrolled": 31,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "107",
+            "professor": "IVAN ALFREDO SAAVEDRA TORRES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "15:00 - 16:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "107",
+            "professor": "IVAN ALFREDO SAAVEDRA TORRES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "IVAN ALFREDO SAAVEDRA TORRES"
+          }
+        ]
+      }
+    ]
   },
   {
-    "schedule": []
+    "sku": "41609",
+    "name": "INTRODUCCION A LA ING. EN INTELIGENCIA ARTIFICIAL",
+    "groups": [
+      {
+        "sku": "C01",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "MARTES",
+            "time": "12:00 - 13:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "C02",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ALEJANDRA MORENO TARAZONA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "12:00 - 13:00",
+            "building": "",
+            "room": "",
+            "professor": "ALEJANDRA MORENO TARAZONA"
+          }
+        ]
+      },
+      {
+        "sku": "PC1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "FISOCOMECANICAS",
+            "room": "255",
+            "professor": ""
+          },
+          {
+            "day": "MARTES",
+            "time": "12:00 - 13:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "PC2",
+        "capacity": 19,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "12:00 - 13:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ]
   },
   {
-    "schedule": []
+    "sku": "41330",
+    "name": "QUIMICA PARA INGENIERIA",
+    "groups": [
+      {
+        "sku": "PA1",
+        "capacity": 16,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "MARIA MERCEDES GONZALEZ BERNAL"
+          },
+          {
+            "day": "MARTES",
+            "time": "9:00 - 12:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "107",
+            "professor": "MARIA MERCEDES GONZALEZ BERNAL"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 9:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "107",
+            "professor": "MARIA MERCEDES GONZALEZ BERNAL"
+          }
+        ]
+      },
+      {
+        "sku": "PA2",
+        "capacity": 16,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "MARIA MERCEDES GONZALEZ BERNAL"
+          },
+          {
+            "day": "MARTES",
+            "time": "9:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "MARIA MERCEDES GONZALEZ BERNAL"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "MARIA MERCEDES GONZALEZ BERNAL"
+          }
+        ]
+      },
+      {
+        "sku": "PC1",
+        "capacity": 16,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA MILENA PINTO BOHORQUEZ"
+          },
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA MILENA PINTO BOHORQUEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA MILENA PINTO BOHORQUEZ"
+          }
+        ]
+      },
+      {
+        "sku": "PC2",
+        "capacity": 13,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA MILENA PINTO BOHORQUEZ"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA MILENA PINTO BOHORQUEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 13:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA MILENA PINTO BOHORQUEZ"
+          }
+        ]
+      },
+      {
+        "sku": "PC3",
+        "capacity": 12,
+        "enrolled": 12,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA MILENA PINTO BOHORQUEZ"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA MILENA PINTO BOHORQUEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 13:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA MILENA PINTO BOHORQUEZ"
+          }
+        ]
+      },
+      {
+        "sku": "PE1",
+        "capacity": 16,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "MARIA MERCEDES GONZALEZ BERNAL"
+          },
+          {
+            "day": "MARTES",
+            "time": "13:00 - 16:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "107",
+            "professor": "MARIA MERCEDES GONZALEZ BERNAL"
+          },
+          {
+            "day": "JUEVES",
+            "time": "13:00 - 15:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "107",
+            "professor": "MARIA MERCEDES GONZALEZ BERNAL"
+          }
+        ]
+      },
+      {
+        "sku": "PE2",
+        "capacity": 16,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "MARIA MERCEDES GONZALEZ BERNAL"
+          },
+          {
+            "day": "MARTES",
+            "time": "13:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "MARIA MERCEDES GONZALEZ BERNAL"
+          },
+          {
+            "day": "JUEVES",
+            "time": "13:00 - 15:00",
+            "building": "",
+            "room": "",
+            "professor": "MARIA MERCEDES GONZALEZ BERNAL"
+          }
+        ]
+      }
+    ]
   },
   {
-    "schedule": []
+    "sku": "41610",
+    "name": "PROCESOS COGNITIVOS",
+    "groups": [
+      {
+        "sku": "F01",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA RUBIELA AYALA CARVAJAL"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA RUBIELA AYALA CARVAJAL"
+          },
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA RUBIELA AYALA CARVAJAL"
+          }
+        ]
+      },
+      {
+        "sku": "F02",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA RUBIELA AYALA CARVAJAL"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA RUBIELA AYALA CARVAJAL"
+          },
+          {
+            "day": "VIERNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA RUBIELA AYALA CARVAJAL"
+          }
+        ]
+      },
+      {
+        "sku": "PF1",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "PF2",
+        "capacity": 19,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "VIERNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ]
   },
   {
-    "schedule": []
+    "sku": "29205",
+    "name": "CATEDRA UIS",
+    "groups": [
+      {
+        "sku": "PC1",
+        "capacity": 1300,
+        "enrolled": 1136,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ALONSO SILVA ROJAS"
+          }
+        ]
+      },
+      {
+        "sku": "PE1",
+        "capacity": 1200,
+        "enrolled": 717,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "LUIS CARLOS MANTILLA FIGUEROA"
+          }
+        ]
+      },
+      {
+        "sku": "R",
+        "capacity": 1,
+        "enrolled": 1,
+        "schedule": []
+      }
+    ]
   },
   {
-    "schedule": []
+    "sku": "40939",
+    "name": "CALCULO DE FUNCIONES EN VARIAS VARIABLES",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 33,
+        "enrolled": 33,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "228",
+            "professor": "CARLOS MATEO BELTRAN LARROTTA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS MATEO BELTRAN LARROTTA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS MATEO BELTRAN LARROTTA"
+          }
+        ]
+      },
+      {
+        "sku": "B5",
+        "capacity": 27,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "DAIMON SANTIAGO MAYORGA CARREÑO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "DAIMON SANTIAGO MAYORGA CARREÑO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "DAIMON SANTIAGO MAYORGA CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "B6",
+        "capacity": 27,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "DAIMON SANTIAGO MAYORGA CARREÑO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 15:00",
+            "building": "",
+            "room": "",
+            "professor": "DAIMON SANTIAGO MAYORGA CARREÑO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "DAIMON SANTIAGO MAYORGA CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 32,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "116",
+            "professor": "OSWALDO ALONSO NIETO NARVAEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "OSWALDO ALONSO NIETO NARVAEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "OSWALDO ALONSO NIETO NARVAEZ"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 32,
+        "enrolled": 31,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "228",
+            "professor": "JENNY PAOLA MILLAN HERNANDEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 15:00",
+            "building": "",
+            "room": "",
+            "professor": "JENNY PAOLA MILLAN HERNANDEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JENNY PAOLA MILLAN HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "E2",
+        "capacity": 32,
+        "enrolled": 30,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "IVAN ALFREDO SAAVEDRA TORRES"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 15:00",
+            "building": "",
+            "room": "",
+            "professor": "IVAN ALFREDO SAAVEDRA TORRES"
+          },
+          {
+            "day": "VIERNES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "IVAN ALFREDO SAAVEDRA TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 32,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "15:00 - 17:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "116",
+            "professor": "CARLOS AUGUSTO DÍAZ ROJAS"
+          },
+          {
+            "day": "JUEVES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS AUGUSTO DÍAZ ROJAS"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS AUGUSTO DÍAZ ROJAS"
+          }
+        ]
+      },
+      {
+        "sku": "S1",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "15:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ]
   },
   {
-    "schedule": []
+    "sku": "41332",
+    "name": "ALGEBRA LINEAL EN ESPACIOS VECTORIALES GRLES",
+    "groups": [
+      {
+        "sku": "B5",
+        "capacity": 20,
+        "enrolled": 16,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "VIERNES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 26,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "116",
+            "professor": "OSWALDO ALONSO NIETO NARVAEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "OSWALDO ALONSO NIETO NARVAEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "OSWALDO ALONSO NIETO NARVAEZ"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 26,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "13:00 - 15:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "116",
+            "professor": "EDSON JAIR SUÁREZ PORRAS"
+          },
+          {
+            "day": "VIERNES",
+            "time": "13:00 - 14:00",
+            "building": "",
+            "room": "",
+            "professor": "EDSON JAIR SUÁREZ PORRAS"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 15:00",
+            "building": "",
+            "room": "",
+            "professor": "EDSON JAIR SUÁREZ PORRAS"
+          }
+        ]
+      },
+      {
+        "sku": "F2",
+        "capacity": 26,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "EDSON JAIR SUÁREZ PORRAS"
+          },
+          {
+            "day": "VIERNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "EDSON JAIR SUÁREZ PORRAS"
+          },
+          {
+            "day": "VIERNES",
+            "time": "18:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "EDSON JAIR SUÁREZ PORRAS"
+          }
+        ]
+      },
+      {
+        "sku": "S1",
+        "capacity": 20,
+        "enrolled": 15,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "13:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      }
+    ]
   },
   {
-    "schedule": []
+    "sku": "41334",
+    "name": "MATEMATICAS DISCRETAS",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 32,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "9:00 - 11:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "116",
+            "professor": "CESAR AUGUSTO ACEROS MORENO"
+          },
+          {
+            "day": "MARTES",
+            "time": "11:00 - 12:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "01-0",
+            "professor": "CESAR AUGUSTO ACEROS MORENO"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 32,
+        "enrolled": 32,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "116",
+            "professor": "CESAR AUGUSTO ACEROS MORENO"
+          },
+          {
+            "day": "MARTES",
+            "time": "16:00 - 17:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "116",
+            "professor": "CESAR AUGUSTO ACEROS MORENO"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "CESAR AUGUSTO ACEROS MORENO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "18:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "CESAR AUGUSTO ACEROS MORENO"
+          }
+        ]
+      },
+      {
+        "sku": "F2",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "LEIDY DAYHANA GUARIN MANRIQUE"
+          },
+          {
+            "day": "VIERNES",
+            "time": "18:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "LEIDY DAYHANA GUARIN MANRIQUE"
+          }
+        ]
+      }
+    ]
   },
   {
-    "schedule": []
+    "sku": "40940",
+    "name": "MECANICA",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "228",
+            "professor": "ADRIANA LUCIA GELVEZ CORTES"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "228",
+            "professor": "ADRIANA LUCIA GELVEZ CORTES"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 26,
+        "enrolled": 26,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ADRIANA LUCIA GELVEZ CORTES"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ADRIANA LUCIA GELVEZ CORTES"
+          }
+        ]
+      },
+      {
+        "sku": "C2",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA PATRICIA CORZO MANTILLA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA PATRICIA CORZO MANTILLA"
+          }
+        ]
+      },
+      {
+        "sku": "C3",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ELBER RODRIGUEZ MORENO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ELBER RODRIGUEZ MORENO"
+          }
+        ]
+      },
+      {
+        "sku": "C4",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ADRIANA LUCIA GELVEZ CORTES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "ADRIANA LUCIA GELVEZ CORTES"
+          }
+        ]
+      },
+      {
+        "sku": "D1",
+        "capacity": 25,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "13:00 - 15:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "116",
+            "professor": "ELBER RODRIGUEZ MORENO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "13:00 - 15:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "116",
+            "professor": "ELBER RODRIGUEZ MORENO"
+          }
+        ]
+      },
+      {
+        "sku": "D2",
+        "capacity": 20,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "15:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "15:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 25,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "15:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "15:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "F2",
+        "capacity": 20,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JERSON IVAN REINA MEDRANO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JERSON IVAN REINA MEDRANO"
+          }
+        ]
+      }
+    ]
   },
   {
-    "schedule": []
+    "sku": "41333",
+    "name": "ALGORITMOS Y PROGRAMACION",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 27,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "6:00 - 8:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "116",
+            "professor": "ROSAURA GUTIERREZ ALMEYDA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 8:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "01-003",
+            "professor": "ROSAURA GUTIERREZ ALMEYDA"
+          }
+        ]
+      },
+      {
+        "sku": "B1",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "G1",
+        "capacity": 27,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "18:00 - 20:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "01-003",
+            "professor": "ROSAURA GUTIERREZ ALMEYDA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "18:00 - 20:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "116",
+            "professor": "ROSAURA GUTIERREZ ALMEYDA"
+          }
+        ]
+      }
+    ]
   },
   {
-    "schedule": []
+    "sku": "41095",
+    "name": "LENGUA EXTRANJERA I: INGLES",
+    "groups": [
+      {
+        "sku": "B01",
+        "capacity": 20,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "LIBIA XIMENA JAIMES SANDOVAL"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "LIBIA XIMENA JAIMES SANDOVAL"
+          }
+        ]
+      },
+      {
+        "sku": "E01",
+        "capacity": 20,
+        "enrolled": 13,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "ANDREA KATHERINNE NARVAEZ AGUILAR"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "ANDREA KATHERINNE NARVAEZ AGUILAR"
+          }
+        ]
+      },
+      {
+        "sku": "E02",
+        "capacity": 23,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "ENZON OSWALDO BRAND CANDELA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "ENZON OSWALDO BRAND CANDELA"
+          }
+        ]
+      },
+      {
+        "sku": "PB1",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "IVAN ALBERTO IBAÑEZ HERNANDEZ"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "IVAN ALBERTO IBAÑEZ HERNANDEZ"
+          }
+        ]
+      },
+      {
+        "sku": "PB2",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS AUGUSTO LOZANO JAIMES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS AUGUSTO LOZANO JAIMES"
+          }
+        ]
+      },
+      {
+        "sku": "PC1",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON EDUARDO DORADO LUJAN"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON EDUARDO DORADO LUJAN"
+          }
+        ]
+      },
+      {
+        "sku": "PD1",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON EDUARDO DORADO LUJAN"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON EDUARDO DORADO LUJAN"
+          }
+        ]
+      },
+      {
+        "sku": "PE1",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "ENZON OSWALDO BRAND CANDELA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "ENZON OSWALDO BRAND CANDELA"
+          }
+        ]
+      },
+      {
+        "sku": "PE2",
+        "capacity": 0,
+        "enrolled": 0,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JHON DAVID CONTRERAS ABELLO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JHON DAVID CONTRERAS ABELLO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41018",
+    "name": "ECUACIONES DIFERENCIALES",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 26,
+        "enrolled": 26,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "B1",
+        "capacity": 26,
+        "enrolled": 26,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "9:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "ALVARO JAVIER ANDRADE DURAN"
+          },
+          {
+            "day": "VIERNES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "ALVARO JAVIER ANDRADE DURAN"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "ALVARO JAVIER ANDRADE DURAN"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 26,
+        "enrolled": 24,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "IVAN ALFREDO SAAVEDRA TORRES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "IVAN ALFREDO SAAVEDRA TORRES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "18:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "IVAN ALFREDO SAAVEDRA TORRES"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41337",
+    "name": "ESTADISTICA DESCRIPTIVA Y PROBABILIDAD",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 27,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 9:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "227",
+            "professor": "CESAR AUGUSTO ACEROS MORENO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 9:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "227",
+            "professor": "CESAR AUGUSTO ACEROS MORENO"
+          }
+        ]
+      },
+      {
+        "sku": "D1",
+        "capacity": 27,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "13:00 - 15:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "227",
+            "professor": "CESAR AUGUSTO ACEROS MORENO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "13:00 - 15:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "01-003",
+            "professor": "CESAR AUGUSTO ACEROS MORENO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41339",
+    "name": "VISUALIZACION Y REPRESENTACION DE DATOS",
+    "groups": [
+      {
+        "sku": "C1",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "9:00 - 11:00",
+            "building": "",
+            "room": "",
+            "professor": "GUSTAVO ADOLFO GARZON VILLAMIZAR"
+          },
+          {
+            "day": "MARTES",
+            "time": "11:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "GUSTAVO ADOLFO GARZON VILLAMIZAR"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "GUSTAVO ADOLFO GARZON VILLAMIZAR"
+          },
+          {
+            "day": "MARTES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "GUSTAVO ADOLFO GARZON VILLAMIZAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41019",
+    "name": "LABORATORIO DE MECANICA",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 14,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA PATRICIA CORZO MANTILLA"
+          }
+        ]
+      },
+      {
+        "sku": "A2",
+        "capacity": 14,
+        "enrolled": 12,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "SANDRA PATRICIA CORZO MANTILLA"
+          }
+        ]
+      },
+      {
+        "sku": "C1",
+        "capacity": 14,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 13:00",
+            "building": "",
+            "room": "",
+            "professor": "ALEXANDRA PLATA PLANIDINA"
+          }
+        ]
+      },
+      {
+        "sku": "C2",
+        "capacity": 14,
+        "enrolled": 10,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 13:00",
+            "building": "",
+            "room": "",
+            "professor": "RAÚL FRANCISCO VALDIVIESO BOHÓRQUEZ"
+          }
+        ]
+      },
+      {
+        "sku": "D1",
+        "capacity": 14,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "13:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "ALEXANDRA PLATA PLANIDINA"
+          }
+        ]
+      },
+      {
+        "sku": "D2",
+        "capacity": 14,
+        "enrolled": 12,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "13:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE ENRIQUE OSORIO VARGAS"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 14,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "ROGELIO OSPINA OSPINA"
+          }
+        ]
+      },
+      {
+        "sku": "F2",
+        "capacity": 14,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "JORGE ENRIQUE OSORIO VARGAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41336",
+    "name": "ESTRUCTURAS DE DATOS",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 28,
+        "enrolled": 28,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "6:00 - 8:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "227",
+            "professor": "GUSTAVO ADOLFO GOMEZ GOMEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "9:00 - 11:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "01-003",
+            "professor": "GUSTAVO ADOLFO GOMEZ GOMEZ"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 28,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "14:00 - 16:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "01-003",
+            "professor": "GUSTAVO ADOLFO GOMEZ GOMEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "17:00 - 19:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "01-003",
+            "professor": "GUSTAVO ADOLFO GOMEZ GOMEZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41096",
+    "name": "LENGUA EXTRANJERA II: INGLES",
+    "groups": [
+      {
+        "sku": "B02",
+        "capacity": 21,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON EDUARDO DORADO LUJAN"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON EDUARDO DORADO LUJAN"
+          }
+        ]
+      },
+      {
+        "sku": "C01",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS AUGUSTO LOZANO JAIMES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "CARLOS AUGUSTO LOZANO JAIMES"
+          }
+        ]
+      },
+      {
+        "sku": "C02",
+        "capacity": 23,
+        "enrolled": 22,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON EDUARDO DORADO LUJAN"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON EDUARDO DORADO LUJAN"
+          }
+        ]
+      },
+      {
+        "sku": "F01",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "ENZON OSWALDO BRAND CANDELA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "ENZON OSWALDO BRAND CANDELA"
+          }
+        ]
+      },
+      {
+        "sku": "F02",
+        "capacity": 20,
+        "enrolled": 17,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "ENZON OSWALDO BRAND CANDELA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "ENZON OSWALDO BRAND CANDELA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "23423",
+    "name": "CULTURA FISICA Y DEPORTIVA",
+    "groups": [
+      {
+        "sku": "A01",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "A02",
+        "capacity": 25,
+        "enrolled": 24,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA MARCELA SUAREZ TORRES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA MARCELA SUAREZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "A03",
+        "capacity": 25,
+        "enrolled": 24,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          }
+        ]
+      },
+      {
+        "sku": "A04",
+        "capacity": 25,
+        "enrolled": 21,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          }
+        ]
+      },
+      {
+        "sku": "A05",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "RICARDO CASTELLANOS MARTINEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 7:00",
+            "building": "",
+            "room": "",
+            "professor": "RICARDO CASTELLANOS MARTINEZ"
+          }
+        ]
+      },
+      {
+        "sku": "A06",
+        "capacity": 25,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "B01",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "B02",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "B03",
+        "capacity": 25,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          }
+        ]
+      },
+      {
+        "sku": "B04",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "B05",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "9:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "E01",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "15:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "F01",
+        "capacity": 25,
+        "enrolled": 24,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "F02",
+        "capacity": 25,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "G02",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "18:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "WILSON ESPINDOLA CARDENAS"
+          },
+          {
+            "day": "JUEVES",
+            "time": "18:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "WILSON ESPINDOLA CARDENAS"
+          }
+        ]
+      },
+      {
+        "sku": "M01",
+        "capacity": 30,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "SABADO",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          }
+        ]
+      },
+      {
+        "sku": "M02",
+        "capacity": 30,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "SABADO",
+            "time": "8:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "SANTIAGO JOSE OCHOA CARRILLO"
+          }
+        ]
+      },
+      {
+        "sku": "PA1",
+        "capacity": 28,
+        "enrolled": 28,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "PA2",
+        "capacity": 28,
+        "enrolled": 28,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "PA3",
+        "capacity": 29,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "PA4",
+        "capacity": 29,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          }
+        ]
+      },
+      {
+        "sku": "PA5",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAO MARCELO GUTIERREZ HERRERA"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAO MARCELO GUTIERREZ HERRERA"
+          }
+        ]
+      },
+      {
+        "sku": "PA6",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN SEBASTIAN DEL VILLAR NIETO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "JUAN SEBASTIAN DEL VILLAR NIETO"
+          }
+        ]
+      },
+      {
+        "sku": "PA7",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          }
+        ]
+      },
+      {
+        "sku": "PA8",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          }
+        ]
+      },
+      {
+        "sku": "PAB",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAO MARCELO GUTIERREZ HERRERA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAO MARCELO GUTIERREZ HERRERA"
+          }
+        ]
+      },
+      {
+        "sku": "PAD",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA MARCELA SUAREZ TORRES"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA MARCELA SUAREZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "PAG",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA MARCELA SUAREZ TORRES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA MARCELA SUAREZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "PAH",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM LORENZO GARCIA DELGADO"
+          }
+        ]
+      },
+      {
+        "sku": "PAI",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 8:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          }
+        ]
+      },
+      {
+        "sku": "PB1",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAO MARCELO GUTIERREZ HERRERA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAO MARCELO GUTIERREZ HERRERA"
+          }
+        ]
+      },
+      {
+        "sku": "PB2",
+        "capacity": 28,
+        "enrolled": 28,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "WILLIAM RUIZ GALVIS"
+          }
+        ]
+      },
+      {
+        "sku": "PB3",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "PB4",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAO MARCELO GUTIERREZ HERRERA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "JOAO MARCELO GUTIERREZ HERRERA"
+          }
+        ]
+      },
+      {
+        "sku": "PB5",
+        "capacity": 20,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA MARCELA SUAREZ TORRES"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DIANA MARCELA SUAREZ TORRES"
+          }
+        ]
+      },
+      {
+        "sku": "PB6",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          }
+        ]
+      },
+      {
+        "sku": "PB7",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN HALLEY PEINADO RINCON"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN HALLEY PEINADO RINCON"
+          }
+        ]
+      },
+      {
+        "sku": "PB8",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DAVID ALEJANDRO VERA OSORIO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DAVID ALEJANDRO VERA OSORIO"
+          }
+        ]
+      },
+      {
+        "sku": "PB9",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DAVID ALEJANDRO VERA OSORIO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DAVID ALEJANDRO VERA OSORIO"
+          }
+        ]
+      },
+      {
+        "sku": "PBA",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "PBC",
+        "capacity": 20,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
+          }
+        ]
+      },
+      {
+        "sku": "PBD",
+        "capacity": 25,
+        "enrolled": 24,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "MONICA SUAREZ LEON"
+          },
+          {
+            "day": "JUEVES",
+            "time": "8:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "MONICA SUAREZ LEON"
+          }
+        ]
+      },
+      {
+        "sku": "PF1",
+        "capacity": 29,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "WILSON ESPINDOLA CARDENAS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "WILSON ESPINDOLA CARDENAS"
+          }
+        ]
+      },
+      {
+        "sku": "PF2",
+        "capacity": 29,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "WILSON ESPINDOLA CARDENAS"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "WILSON ESPINDOLA CARDENAS"
+          }
+        ]
+      },
+      {
+        "sku": "PF3",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          },
+          {
+            "day": "MARTES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "PF4",
+        "capacity": 29,
+        "enrolled": 29,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "PF5",
+        "capacity": 29,
+        "enrolled": 19,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "PF6",
+        "capacity": 25,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "PF7",
+        "capacity": 24,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "DEIRA ELIANA MENDOZA ROMERO"
+          }
+        ]
+      },
+      {
+        "sku": "PF8",
+        "capacity": 30,
+        "enrolled": 30,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "PF9",
+        "capacity": 30,
+        "enrolled": 30,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      },
+      {
+        "sku": "PFA",
+        "capacity": 23,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "16:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "JAVIER ISIDRO GOMEZ CARREÑO"
+          }
+        ]
+      },
+      {
+        "sku": "PFB",
+        "capacity": 30,
+        "enrolled": 30,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN HALLEY PEINADO RINCON"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "EDWIN HALLEY PEINADO RINCON"
+          }
+        ]
+      },
+      {
+        "sku": "PFC",
+        "capacity": 30,
+        "enrolled": 30,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "SANTIAGO JOSE OCHOA CARRILLO"
+          },
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "SANTIAGO JOSE OCHOA CARRILLO"
+          }
+        ]
+      },
+      {
+        "sku": "PFD",
+        "capacity": 25,
+        "enrolled": 24,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "SANTIAGO JOSE OCHOA CARRILLO"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "SANTIAGO JOSE OCHOA CARRILLO"
+          }
+        ]
+      },
+      {
+        "sku": "PFE",
+        "capacity": 30,
+        "enrolled": 30,
+        "schedule": [
+          {
+            "day": "LUNES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": ""
+          }
+        ]
+      },
+      {
+        "sku": "PFG",
+        "capacity": 27,
+        "enrolled": 27,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          },
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 18:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON ARIEL NIÑO GARCIA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41338",
+    "name": "METODOS NUMERICOS Y OPTIMIZACION",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 18,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "10:00 - 12:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "102",
+            "professor": "CESAR AUGUSTO ACEROS MORENO"
+          },
+          {
+            "day": "VIERNES",
+            "time": "10:00 - 12:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "102",
+            "professor": "CESAR AUGUSTO ACEROS MORENO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41342",
+    "name": "ESTADISTICA INFERENCIAL",
+    "groups": [
+      {
+        "sku": "B1",
+        "capacity": 14,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "8:00 - 9:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "102",
+            "professor": "ANDRÉS LEONARDO GONZÁLEZ GÓMEZ"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "9:00 - 10:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "102",
+            "professor": "ANDRÉS LEONARDO GONZÁLEZ GÓMEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "8:00 - 10:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "102",
+            "professor": "ANDRÉS LEONARDO GONZÁLEZ GÓMEZ"
+          }
+        ]
+      },
+      {
+        "sku": "D1",
+        "capacity": 14,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "13:00 - 14:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "102",
+            "professor": "ANDRÉS LEONARDO GONZÁLEZ GÓMEZ"
+          },
+          {
+            "day": "MIERCOLES",
+            "time": "14:00 - 15:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "102",
+            "professor": "ANDRÉS LEONARDO GONZÁLEZ GÓMEZ"
+          },
+          {
+            "day": "VIERNES",
+            "time": "13:00 - 15:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "102",
+            "professor": "ANDRÉS LEONARDO GONZÁLEZ GÓMEZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41341",
+    "name": "APRENDIZAJE DE MAQUINA",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 14,
+        "enrolled": 11,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "GUSTAVO ADOLFO GARZON VILLAMIZAR"
+          },
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 9:00",
+            "building": "",
+            "room": "",
+            "professor": "GUSTAVO ADOLFO GARZON VILLAMIZAR"
+          }
+        ]
+      },
+      {
+        "sku": "F1",
+        "capacity": 14,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "17:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "GUSTAVO ADOLFO GARZON VILLAMIZAR"
+          },
+          {
+            "day": "JUEVES",
+            "time": "17:00 - 19:00",
+            "building": "",
+            "room": "",
+            "professor": "GUSTAVO ADOLFO GARZON VILLAMIZAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41340",
+    "name": "PROGRAMACION ORIENTADA A OBJETOS",
+    "groups": [
+      {
+        "sku": "A1",
+        "capacity": 14,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "6:00 - 8:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "01-003",
+            "professor": "NYDIA PAOLA RONDON VILLARREAL"
+          },
+          {
+            "day": "VIERNES",
+            "time": "6:00 - 8:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "103",
+            "professor": "NYDIA PAOLA RONDON VILLARREAL"
+          }
+        ]
+      },
+      {
+        "sku": "E1",
+        "capacity": 14,
+        "enrolled": 14,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "15:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "NYDIA PAOLA RONDON VILLARREAL"
+          },
+          {
+            "day": "VIERNES",
+            "time": "15:00 - 17:00",
+            "building": "",
+            "room": "",
+            "professor": "NYDIA PAOLA RONDON VILLARREAL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41097",
+    "name": "LENGUA EXTRANJERA III: INGLES",
+    "groups": [
+      {
+        "sku": "A01",
+        "capacity": 25,
+        "enrolled": 23,
+        "schedule": [
+          {
+            "day": "MARTES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JHON DAVID CONTRERAS ABELLO"
+          }
+        ]
+      },
+      {
+        "sku": "A03",
+        "capacity": 25,
+        "enrolled": 18,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "7:00 - 10:00",
+            "building": "",
+            "room": "",
+            "professor": "JHON DAVID CONTRERAS ABELLO"
+          }
+        ]
+      },
+      {
+        "sku": "D01",
+        "capacity": 25,
+        "enrolled": 25,
+        "schedule": [
+          {
+            "day": "JUEVES",
+            "time": "13:00 - 16:00",
+            "building": "",
+            "room": "",
+            "professor": "LILIANA GARCIA VILLAMIZAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "41098",
+    "name": "LENGUA EXTRANJERA IV: INGLES",
+    "groups": [
+      {
+        "sku": "F02",
+        "capacity": 23,
+        "enrolled": 20,
+        "schedule": [
+          {
+            "day": "MIERCOLES",
+            "time": "17:00 - 20:00",
+            "building": "",
+            "room": "",
+            "professor": "NELSON EDUARDO DORADO LUJAN"
+          }
+        ]
+      }
+    ]
   }
 ]

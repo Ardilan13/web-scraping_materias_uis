@@ -14738,21 +14738,14 @@
       {
         "sku": "H1",
         "capacity": 25,
-        "enrolled": 16,
+        "enrolled": 21,
         "schedule": [
           {
-            "day": "MIERCOLES",
-            "time": "8:00 - 10:00",
-            "building": "INGENIERIA INDUSTRIAL",
-            "room": "309",
-            "professor": "EDGAR EDUARDO CORDOBA SARMIENTO"
-          },
-          {
-            "day": "VIERNES",
-            "time": "8:00 - 10:00",
-            "building": "INGENIERIA INDUSTRIAL",
-            "room": "309",
-            "professor": "EDGAR EDUARDO CORDOBA SARMIENTO"
+            "day": "MARTES",
+            "time": "8:00 - 12:00",
+            "building": "CIENCIAS HUMANAS VIRGINIA GUTIERREZ DE PINEDA",
+            "room": "123",
+            "professor": "CLAUDIA PATRICIA HERNANDEZ VALDIVIESO"
           }
         ]
       }
@@ -16444,7 +16437,7 @@
     "groups": [
       {
         "sku": "B1",
-        "capacity": 26,
+        "capacity": 27,
         "enrolled": 26,
         "schedule": [
           {
@@ -16465,7 +16458,7 @@
       },
       {
         "sku": "D1",
-        "capacity": 26,
+        "capacity": 27,
         "enrolled": 26,
         "schedule": [
           {
@@ -16486,7 +16479,7 @@
       },
       {
         "sku": "K1",
-        "capacity": 26,
+        "capacity": 27,
         "enrolled": 23,
         "schedule": [
           {
@@ -16507,22 +16500,22 @@
       },
       {
         "sku": "K2",
-        "capacity": 26,
-        "enrolled": 23,
+        "capacity": 27,
+        "enrolled": 25,
         "schedule": [
           {
             "day": "MARTES",
-            "time": "17:00 - 19:00",
+            "time": "10:00 - 12:00",
             "building": "INGENIERIA INDUSTRIAL",
-            "room": "304",
-            "professor": "OLGA PATRICIA CHACON ARIAS"
+            "room": "103",
+            "professor": "JUAN BENJAMIN DUARTE DUARTE"
           },
           {
             "day": "JUEVES",
-            "time": "17:00 - 19:00",
+            "time": "10:00 - 12:00",
             "building": "INGENIERIA INDUSTRIAL",
-            "room": "304",
-            "professor": "OLGA PATRICIA CHACON ARIAS"
+            "room": "103",
+            "professor": "JUAN BENJAMIN DUARTE DUARTE"
           }
         ]
       }
