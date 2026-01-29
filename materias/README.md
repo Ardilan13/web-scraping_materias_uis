@@ -23,3 +23,10 @@ Para sacar los datos de las materias de html a json se debe:
 1. Tener los archivos json de las materias en la carpeta 'materias/json'
 2. Ejecutar script_transformar.js  esto modificara el nombre de los atributos a ingles, toma el archivo y sobreescribo la informacion se puede ejecutar de la siguiente manera: Si el archivo está en la carpeta horarios/  ejecutar node groups_transformer.js "nombre del archivo".json
 3. ejecutar el script merge_subject.js este realizara una validacion entre todas las asignaturas y revisara de todos las carreras y validara cuales se cruzan añadiendo el program. este script genera el archivo merged_subjects.json el cual es la version final que puede ser exportada a la DB
+
+# Generar YAML file para DB liquidbase
+
+1. Haber generado el archivo merged_subjects.json con todas las materias
+2. Modificar el nombre de el yaml de salida y del json de entrada en el archivo import_json_to_yaml.py
+3. correr el archivo import_json_to_yaml.py el cual generara un archivo yaml con la estructura necesaria para ser importada a la DB usando liquidbase
+4. Cargar el archivo yaml en la DB usando liquidbase en gitlab
