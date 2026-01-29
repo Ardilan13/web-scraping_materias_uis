@@ -23,13 +23,13 @@ class OptimizedSubjectProcessor {
         name: "DISEÑO INDUSTRIAL NUEVO",
         id: 27,
         file: "diseño.json",
-        pensumFile: "diseño_industrial.json",
+        pensumFile: "diseño.json",
       },
       {
         name: "DISEÑO INDUSTRIAL",
         id: 27,
         file: "diseño_antiguo.json",
-        pensumFile: "diseño_industrial.json",
+        pensumFile: "diseño_antiguo.json",
       },
       {
         name: "INGENIERIA BIOMEDICA",

@@ -4,7 +4,7 @@
     "name": "CALCULO DE FUNCIONES EN UNA VARIABLE",
     "groups": [
       {
-        "sku": "E1",
+        "groups": "E1",
         "capacity": 26,
         "enrolled": 19,
         "schedule": [
@@ -32,7 +32,7 @@
         ]
       },
       {
-        "sku": "PA1",
+        "groups": "PA1",
         "capacity": 32,
         "enrolled": 32,
         "schedule": [
@@ -60,7 +60,7 @@
         ]
       },
       {
-        "sku": "PA2",
+        "groups": "PA2",
         "capacity": 32,
         "enrolled": 32,
         "schedule": [
@@ -88,7 +88,7 @@
         ]
       },
       {
-        "sku": "PE1",
+        "groups": "PE1",
         "capacity": 22,
         "enrolled": 21,
         "schedule": [
@@ -116,7 +116,7 @@
         ]
       },
       {
-        "sku": "PE2",
+        "groups": "PE2",
         "capacity": 22,
         "enrolled": 18,
         "schedule": [
@@ -144,7 +144,7 @@
         ]
       },
       {
-        "sku": "PF1",
+        "groups": "PF1",
         "capacity": 32,
         "enrolled": 32,
         "schedule": [
@@ -172,7 +172,7 @@
         ]
       },
       {
-        "sku": "PF2",
+        "groups": "PF2",
         "capacity": 32,
         "enrolled": 32,
         "schedule": [
@@ -206,7 +206,7 @@
     "name": "INTRODUCCION AL ALGEBRA LINEAL",
     "groups": [
       {
-        "sku": "B1",
+        "groups": "B1",
         "capacity": 0,
         "enrolled": 0,
         "schedule": [
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "sku": "PB1",
+        "groups": "PB1",
         "capacity": 34,
         "enrolled": 32,
         "schedule": [
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "sku": "PB2",
+        "groups": "PB2",
         "capacity": 34,
         "enrolled": 32,
         "schedule": [
@@ -283,9 +283,9 @@
         ]
       },
       {
-        "sku": "PB3",
+        "groups": "PB3",
         "capacity": 22,
-        "enrolled": 21,
+        "enrolled": 22,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -311,7 +311,7 @@
         ]
       },
       {
-        "sku": "PB4",
+        "groups": "PB4",
         "capacity": 22,
         "enrolled": 19,
         "schedule": [
@@ -339,7 +339,7 @@
         ]
       },
       {
-        "sku": "PE1",
+        "groups": "PE1",
         "capacity": 34,
         "enrolled": 32,
         "schedule": [
@@ -367,9 +367,9 @@
         ]
       },
       {
-        "sku": "PE2",
+        "groups": "PE2",
         "capacity": 34,
-        "enrolled": 31,
+        "enrolled": 32,
         "schedule": [
           {
             "day": "MARTES",
@@ -401,7 +401,7 @@
     "name": "INTRODUCCION A LA ING. EN INTELIGENCIA ARTIFICIAL",
     "groups": [
       {
-        "sku": "C01",
+        "groups": "C01",
         "capacity": 0,
         "enrolled": 0,
         "schedule": [
@@ -422,7 +422,7 @@
         ]
       },
       {
-        "sku": "C02",
+        "groups": "C02",
         "capacity": 0,
         "enrolled": 0,
         "schedule": [
@@ -443,7 +443,7 @@
         ]
       },
       {
-        "sku": "PC1",
+        "groups": "PC1",
         "capacity": 20,
         "enrolled": 20,
         "schedule": [
@@ -464,7 +464,7 @@
         ]
       },
       {
-        "sku": "PC2",
+        "groups": "PC2",
         "capacity": 19,
         "enrolled": 19,
         "schedule": [
@@ -491,7 +491,7 @@
     "name": "QUIMICA PARA INGENIERIA",
     "groups": [
       {
-        "sku": "PA1",
+        "groups": "PA1",
         "capacity": 16,
         "enrolled": 16,
         "schedule": [
@@ -519,7 +519,7 @@
         ]
       },
       {
-        "sku": "PA2",
+        "groups": "PA2",
         "capacity": 16,
         "enrolled": 16,
         "schedule": [
@@ -547,7 +547,7 @@
         ]
       },
       {
-        "sku": "PC1",
+        "groups": "PC1",
         "capacity": 16,
         "enrolled": 14,
         "schedule": [
@@ -575,7 +575,7 @@
         ]
       },
       {
-        "sku": "PC2",
+        "groups": "PC2",
         "capacity": 13,
         "enrolled": 13,
         "schedule": [
@@ -603,7 +603,7 @@
         ]
       },
       {
-        "sku": "PC3",
+        "groups": "PC3",
         "capacity": 12,
         "enrolled": 12,
         "schedule": [
@@ -631,7 +631,7 @@
         ]
       },
       {
-        "sku": "PE1",
+        "groups": "PE1",
         "capacity": 16,
         "enrolled": 16,
         "schedule": [
@@ -659,7 +659,7 @@
         ]
       },
       {
-        "sku": "PE2",
+        "groups": "PE2",
         "capacity": 16,
         "enrolled": 15,
         "schedule": [
@@ -693,7 +693,7 @@
     "name": "PROCESOS COGNITIVOS",
     "groups": [
       {
-        "sku": "F01",
+        "groups": "F01",
         "capacity": 0,
         "enrolled": 0,
         "schedule": [
@@ -721,7 +721,7 @@
         ]
       },
       {
-        "sku": "F02",
+        "groups": "F02",
         "capacity": 0,
         "enrolled": 0,
         "schedule": [
@@ -749,7 +749,7 @@
         ]
       },
       {
-        "sku": "PF1",
+        "groups": "PF1",
         "capacity": 20,
         "enrolled": 20,
         "schedule": [
@@ -777,7 +777,7 @@
         ]
       },
       {
-        "sku": "PF2",
+        "groups": "PF2",
         "capacity": 19,
         "enrolled": 19,
         "schedule": [
@@ -811,9 +811,9 @@
     "name": "CATEDRA UIS",
     "groups": [
       {
-        "sku": "PC1",
+        "groups": "PC1",
         "capacity": 1300,
-        "enrolled": 1136,
+        "enrolled": 1137,
         "schedule": [
           {
             "day": "LUNES",
@@ -825,7 +825,7 @@
         ]
       },
       {
-        "sku": "PE1",
+        "groups": "PE1",
         "capacity": 1200,
         "enrolled": 717,
         "schedule": [
@@ -839,7 +839,7 @@
         ]
       },
       {
-        "sku": "R",
+        "groups": "R",
         "capacity": 1,
         "enrolled": 1,
         "schedule": []
@@ -851,9 +851,9 @@
     "name": "CALCULO DE FUNCIONES EN VARIAS VARIABLES",
     "groups": [
       {
-        "sku": "A1",
+        "groups": "A1",
         "capacity": 33,
-        "enrolled": 33,
+        "enrolled": 32,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -879,9 +879,9 @@
         ]
       },
       {
-        "sku": "B5",
+        "groups": "B5",
         "capacity": 27,
-        "enrolled": 14,
+        "enrolled": 15,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -907,7 +907,7 @@
         ]
       },
       {
-        "sku": "B6",
+        "groups": "B6",
         "capacity": 27,
         "enrolled": 13,
         "schedule": [
@@ -935,7 +935,7 @@
         ]
       },
       {
-        "sku": "C1",
+        "groups": "C1",
         "capacity": 32,
         "enrolled": 29,
         "schedule": [
@@ -963,9 +963,9 @@
         ]
       },
       {
-        "sku": "E1",
+        "groups": "E1",
         "capacity": 32,
-        "enrolled": 31,
+        "enrolled": 32,
         "schedule": [
           {
             "day": "MARTES",
@@ -991,7 +991,7 @@
         ]
       },
       {
-        "sku": "E2",
+        "groups": "E2",
         "capacity": 32,
         "enrolled": 30,
         "schedule": [
@@ -1019,9 +1019,9 @@
         ]
       },
       {
-        "sku": "F1",
+        "groups": "F1",
         "capacity": 32,
-        "enrolled": 29,
+        "enrolled": 28,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -1047,7 +1047,7 @@
         ]
       },
       {
-        "sku": "S1",
+        "groups": "S1",
         "capacity": 0,
         "enrolled": 0,
         "schedule": [
@@ -1074,7 +1074,7 @@
     "name": "ALGEBRA LINEAL EN ESPACIOS VECTORIALES GRLES",
     "groups": [
       {
-        "sku": "B5",
+        "groups": "B5",
         "capacity": 20,
         "enrolled": 16,
         "schedule": [
@@ -1102,7 +1102,7 @@
         ]
       },
       {
-        "sku": "C1",
+        "groups": "C1",
         "capacity": 26,
         "enrolled": 13,
         "schedule": [
@@ -1130,9 +1130,9 @@
         ]
       },
       {
-        "sku": "F1",
+        "groups": "F1",
         "capacity": 26,
-        "enrolled": 13,
+        "enrolled": 14,
         "schedule": [
           {
             "day": "JUEVES",
@@ -1158,9 +1158,9 @@
         ]
       },
       {
-        "sku": "F2",
+        "groups": "F2",
         "capacity": 26,
-        "enrolled": 13,
+        "enrolled": 12,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -1186,7 +1186,7 @@
         ]
       },
       {
-        "sku": "S1",
+        "groups": "S1",
         "capacity": 20,
         "enrolled": 15,
         "schedule": [
@@ -1213,7 +1213,7 @@
     "name": "MATEMATICAS DISCRETAS",
     "groups": [
       {
-        "sku": "B1",
+        "groups": "B1",
         "capacity": 32,
         "enrolled": 32,
         "schedule": [
@@ -1234,7 +1234,7 @@
         ]
       },
       {
-        "sku": "E1",
+        "groups": "E1",
         "capacity": 32,
         "enrolled": 32,
         "schedule": [
@@ -1255,7 +1255,7 @@
         ]
       },
       {
-        "sku": "F1",
+        "groups": "F1",
         "capacity": 20,
         "enrolled": 17,
         "schedule": [
@@ -1276,7 +1276,7 @@
         ]
       },
       {
-        "sku": "F2",
+        "groups": "F2",
         "capacity": 20,
         "enrolled": 17,
         "schedule": [
@@ -1303,9 +1303,9 @@
     "name": "MECANICA",
     "groups": [
       {
-        "sku": "B1",
+        "groups": "B1",
         "capacity": 25,
-        "enrolled": 25,
+        "enrolled": 24,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -1324,7 +1324,7 @@
         ]
       },
       {
-        "sku": "C1",
+        "groups": "C1",
         "capacity": 26,
         "enrolled": 26,
         "schedule": [
@@ -1345,7 +1345,7 @@
         ]
       },
       {
-        "sku": "C2",
+        "groups": "C2",
         "capacity": 20,
         "enrolled": 20,
         "schedule": [
@@ -1366,7 +1366,7 @@
         ]
       },
       {
-        "sku": "C3",
+        "groups": "C3",
         "capacity": 20,
         "enrolled": 17,
         "schedule": [
@@ -1387,7 +1387,7 @@
         ]
       },
       {
-        "sku": "C4",
+        "groups": "C4",
         "capacity": 20,
         "enrolled": 20,
         "schedule": [
@@ -1408,9 +1408,9 @@
         ]
       },
       {
-        "sku": "D1",
+        "groups": "D1",
         "capacity": 25,
-        "enrolled": 23,
+        "enrolled": 24,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -1429,7 +1429,7 @@
         ]
       },
       {
-        "sku": "D2",
+        "groups": "D2",
         "capacity": 20,
         "enrolled": 13,
         "schedule": [
@@ -1450,30 +1450,30 @@
         ]
       },
       {
-        "sku": "F1",
+        "groups": "F1",
         "capacity": 25,
         "enrolled": 20,
         "schedule": [
           {
-            "day": "MARTES",
-            "time": "15:00 - 17:00",
-            "building": "",
-            "room": "",
-            "professor": ""
+            "day": "MIERCOLES",
+            "time": "16:00 - 18:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "228",
+            "professor": "ELBER RODRIGUEZ MORENO"
           },
           {
-            "day": "JUEVES",
-            "time": "15:00 - 17:00",
-            "building": "",
-            "room": "",
-            "professor": ""
+            "day": "VIERNES",
+            "time": "16:00 - 18:00",
+            "building": "UIS FLORIDABLANCA",
+            "room": "228",
+            "professor": "ELBER RODRIGUEZ MORENO"
           }
         ]
       },
       {
-        "sku": "F2",
+        "groups": "F2",
         "capacity": 20,
-        "enrolled": 13,
+        "enrolled": 15,
         "schedule": [
           {
             "day": "MARTES",
@@ -1498,7 +1498,7 @@
     "name": "ALGORITMOS Y PROGRAMACION",
     "groups": [
       {
-        "sku": "A1",
+        "groups": "A1",
         "capacity": 27,
         "enrolled": 27,
         "schedule": [
@@ -1519,7 +1519,7 @@
         ]
       },
       {
-        "sku": "B1",
+        "groups": "B1",
         "capacity": 20,
         "enrolled": 17,
         "schedule": [
@@ -1540,7 +1540,7 @@
         ]
       },
       {
-        "sku": "E1",
+        "groups": "E1",
         "capacity": 20,
         "enrolled": 17,
         "schedule": [
@@ -1561,7 +1561,7 @@
         ]
       },
       {
-        "sku": "G1",
+        "groups": "G1",
         "capacity": 27,
         "enrolled": 27,
         "schedule": [
@@ -1588,7 +1588,7 @@
     "name": "LENGUA EXTRANJERA I: INGLES",
     "groups": [
       {
-        "sku": "B01",
+        "groups": "B01",
         "capacity": 20,
         "enrolled": 14,
         "schedule": [
@@ -1609,7 +1609,7 @@
         ]
       },
       {
-        "sku": "E01",
+        "groups": "E01",
         "capacity": 20,
         "enrolled": 13,
         "schedule": [
@@ -1630,7 +1630,7 @@
         ]
       },
       {
-        "sku": "E02",
+        "groups": "E02",
         "capacity": 23,
         "enrolled": 20,
         "schedule": [
@@ -1651,7 +1651,7 @@
         ]
       },
       {
-        "sku": "PB1",
+        "groups": "PB1",
         "capacity": 0,
         "enrolled": 0,
         "schedule": [
@@ -1672,7 +1672,7 @@
         ]
       },
       {
-        "sku": "PB2",
+        "groups": "PB2",
         "capacity": 0,
         "enrolled": 0,
         "schedule": [
@@ -1693,7 +1693,7 @@
         ]
       },
       {
-        "sku": "PC1",
+        "groups": "PC1",
         "capacity": 0,
         "enrolled": 0,
         "schedule": [
@@ -1714,7 +1714,7 @@
         ]
       },
       {
-        "sku": "PD1",
+        "groups": "PD1",
         "capacity": 0,
         "enrolled": 0,
         "schedule": [
@@ -1735,7 +1735,7 @@
         ]
       },
       {
-        "sku": "PE1",
+        "groups": "PE1",
         "capacity": 0,
         "enrolled": 0,
         "schedule": [
@@ -1756,7 +1756,7 @@
         ]
       },
       {
-        "sku": "PE2",
+        "groups": "PE2",
         "capacity": 0,
         "enrolled": 0,
         "schedule": [
@@ -1783,7 +1783,7 @@
     "name": "ECUACIONES DIFERENCIALES",
     "groups": [
       {
-        "sku": "A1",
+        "groups": "A1",
         "capacity": 26,
         "enrolled": 26,
         "schedule": [
@@ -1792,28 +1792,28 @@
             "time": "6:00 - 8:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "IVAN ALFREDO SAAVEDRA TORRES"
           },
           {
             "day": "VIERNES",
             "time": "6:00 - 7:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "IVAN ALFREDO SAAVEDRA TORRES"
           },
           {
             "day": "VIERNES",
             "time": "7:00 - 8:00",
             "building": "",
             "room": "",
-            "professor": ""
+            "professor": "IVAN ALFREDO SAAVEDRA TORRES"
           }
         ]
       },
       {
-        "sku": "B1",
-        "capacity": 26,
-        "enrolled": 26,
+        "groups": "B1",
+        "capacity": 27,
+        "enrolled": 27,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -1839,9 +1839,9 @@
         ]
       },
       {
-        "sku": "F1",
+        "groups": "F1",
         "capacity": 26,
-        "enrolled": 24,
+        "enrolled": 23,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -1873,7 +1873,7 @@
     "name": "ESTADISTICA DESCRIPTIVA Y PROBABILIDAD",
     "groups": [
       {
-        "sku": "A1",
+        "groups": "A1",
         "capacity": 27,
         "enrolled": 25,
         "schedule": [
@@ -1894,7 +1894,7 @@
         ]
       },
       {
-        "sku": "D1",
+        "groups": "D1",
         "capacity": 27,
         "enrolled": 27,
         "schedule": [
@@ -1921,7 +1921,7 @@
     "name": "VISUALIZACION Y REPRESENTACION DE DATOS",
     "groups": [
       {
-        "sku": "C1",
+        "groups": "C1",
         "capacity": 20,
         "enrolled": 17,
         "schedule": [
@@ -1942,7 +1942,7 @@
         ]
       },
       {
-        "sku": "E1",
+        "groups": "E1",
         "capacity": 20,
         "enrolled": 17,
         "schedule": [
@@ -1969,7 +1969,7 @@
     "name": "LABORATORIO DE MECANICA",
     "groups": [
       {
-        "sku": "A1",
+        "groups": "A1",
         "capacity": 14,
         "enrolled": 14,
         "schedule": [
@@ -1983,7 +1983,7 @@
         ]
       },
       {
-        "sku": "A2",
+        "groups": "A2",
         "capacity": 14,
         "enrolled": 12,
         "schedule": [
@@ -1997,7 +1997,7 @@
         ]
       },
       {
-        "sku": "C1",
+        "groups": "C1",
         "capacity": 14,
         "enrolled": 14,
         "schedule": [
@@ -2011,7 +2011,7 @@
         ]
       },
       {
-        "sku": "C2",
+        "groups": "C2",
         "capacity": 14,
         "enrolled": 10,
         "schedule": [
@@ -2025,7 +2025,7 @@
         ]
       },
       {
-        "sku": "D1",
+        "groups": "D1",
         "capacity": 14,
         "enrolled": 14,
         "schedule": [
@@ -2039,9 +2039,9 @@
         ]
       },
       {
-        "sku": "D2",
+        "groups": "D2",
         "capacity": 14,
-        "enrolled": 12,
+        "enrolled": 13,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -2053,7 +2053,7 @@
         ]
       },
       {
-        "sku": "F1",
+        "groups": "F1",
         "capacity": 14,
         "enrolled": 14,
         "schedule": [
@@ -2067,9 +2067,9 @@
         ]
       },
       {
-        "sku": "F2",
+        "groups": "F2",
         "capacity": 14,
-        "enrolled": 14,
+        "enrolled": 13,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -2087,7 +2087,7 @@
     "name": "ESTRUCTURAS DE DATOS",
     "groups": [
       {
-        "sku": "A1",
+        "groups": "A1",
         "capacity": 28,
         "enrolled": 28,
         "schedule": [
@@ -2108,7 +2108,7 @@
         ]
       },
       {
-        "sku": "E1",
+        "groups": "E1",
         "capacity": 28,
         "enrolled": 27,
         "schedule": [
@@ -2135,7 +2135,7 @@
     "name": "LENGUA EXTRANJERA II: INGLES",
     "groups": [
       {
-        "sku": "B02",
+        "groups": "B02",
         "capacity": 21,
         "enrolled": 21,
         "schedule": [
@@ -2156,7 +2156,7 @@
         ]
       },
       {
-        "sku": "C01",
+        "groups": "C01",
         "capacity": 25,
         "enrolled": 25,
         "schedule": [
@@ -2177,7 +2177,7 @@
         ]
       },
       {
-        "sku": "C02",
+        "groups": "C02",
         "capacity": 23,
         "enrolled": 22,
         "schedule": [
@@ -2198,9 +2198,9 @@
         ]
       },
       {
-        "sku": "F01",
-        "capacity": 20,
-        "enrolled": 20,
+        "groups": "F01",
+        "capacity": 23,
+        "enrolled": 21,
         "schedule": [
           {
             "day": "MARTES",
@@ -2219,8 +2219,8 @@
         ]
       },
       {
-        "sku": "F02",
-        "capacity": 20,
+        "groups": "F02",
+        "capacity": 23,
         "enrolled": 17,
         "schedule": [
           {
@@ -2246,9 +2246,9 @@
     "name": "CULTURA FISICA Y DEPORTIVA",
     "groups": [
       {
-        "sku": "A01",
+        "groups": "A01",
         "capacity": 25,
-        "enrolled": 25,
+        "enrolled": 24,
         "schedule": [
           {
             "day": "MIERCOLES",
@@ -2267,7 +2267,7 @@
         ]
       },
       {
-        "sku": "A02",
+        "groups": "A02",
         "capacity": 25,
         "enrolled": 24,
         "schedule": [
@@ -2288,7 +2288,7 @@
         ]
       },
       {
-        "sku": "A03",
+        "groups": "A03",
         "capacity": 25,
         "enrolled": 24,
         "schedule": [
@@ -2309,7 +2309,7 @@
         ]
       },
       {
-        "sku": "A04",
+        "groups": "A04",
         "capacity": 25,
         "enrolled": 21,
         "schedule": [
@@ -2330,7 +2330,7 @@
         ]
       },
       {
-        "sku": "A05",
+        "groups": "A05",
         "capacity": 25,
         "enrolled": 25,
         "schedule": [
@@ -2351,7 +2351,7 @@
         ]
       },
       {
-        "sku": "A06",
+        "groups": "A06",
         "capacity": 25,
         "enrolled": 23,
         "schedule": [
@@ -2372,9 +2372,9 @@
         ]
       },
       {
-        "sku": "B01",
+        "groups": "B01",
         "capacity": 25,
-        "enrolled": 25,
+        "enrolled": 24,
         "schedule": [
           {
             "day": "MARTES",
@@ -2393,7 +2393,7 @@
         ]
       },
       {
-        "sku": "B02",
+        "groups": "B02",
         "capacity": 25,
         "enrolled": 25,
         "schedule": [
@@ -2414,9 +2414,9 @@
         ]
       },
       {
-        "sku": "B03",
+        "groups": "B03",
         "capacity": 25,
-        "enrolled": 23,
+        "enrolled": 25,
         "schedule": [
           {
             "day": "LUNES",
@@ -2435,7 +2435,7 @@
         ]
       },
       {
-        "sku": "B04",
+        "groups": "B04",
         "capacity": 25,
         "enrolled": 25,
         "schedule": [
@@ -2456,7 +2456,7 @@
         ]
       },
       {
-        "sku": "B05",
+        "groups": "B05",
         "capacity": 25,
         "enrolled": 25,
         "schedule": [
@@ -2477,9 +2477,9 @@
         ]
       },
       {
-        "sku": "E01",
+        "groups": "E01",
         "capacity": 25,
-        "enrolled": 25,
+        "enrolled": 24,
         "schedule": [
           {
             "day": "LUNES",
@@ -2498,7 +2498,7 @@
         ]
       },
       {
-        "sku": "F01",
+        "groups": "F01",
         "capacity": 25,
         "enrolled": 24,
         "schedule": [
@@ -2519,7 +2519,7 @@
         ]
       },
       {
-        "sku": "F02",
+        "groups": "F02",
         "capacity": 25,
         "enrolled": 19,
         "schedule": [
@@ -2540,7 +2540,7 @@
         ]
       },
       {
-        "sku": "G02",
+        "groups": "G02",
         "capacity": 25,
         "enrolled": 25,
         "schedule": [
@@ -2561,7 +2561,7 @@
         ]
       },
       {
-        "sku": "M01",
+        "groups": "M01",
         "capacity": 30,
         "enrolled": 19,
         "schedule": [
@@ -2575,9 +2575,9 @@
         ]
       },
       {
-        "sku": "M02",
+        "groups": "M02",
         "capacity": 30,
-        "enrolled": 19,
+        "enrolled": 18,
         "schedule": [
           {
             "day": "SABADO",
@@ -2589,7 +2589,7 @@
         ]
       },
       {
-        "sku": "PA1",
+        "groups": "PA1",
         "capacity": 28,
         "enrolled": 28,
         "schedule": [
@@ -2610,7 +2610,7 @@
         ]
       },
       {
-        "sku": "PA2",
+        "groups": "PA2",
         "capacity": 28,
         "enrolled": 28,
         "schedule": [
@@ -2631,7 +2631,7 @@
         ]
       },
       {
-        "sku": "PA3",
+        "groups": "PA3",
         "capacity": 29,
         "enrolled": 29,
         "schedule": [
@@ -2652,7 +2652,7 @@
         ]
       },
       {
-        "sku": "PA4",
+        "groups": "PA4",
         "capacity": 29,
         "enrolled": 29,
         "schedule": [
@@ -2673,7 +2673,7 @@
         ]
       },
       {
-        "sku": "PA5",
+        "groups": "PA5",
         "capacity": 20,
         "enrolled": 20,
         "schedule": [
@@ -2694,7 +2694,7 @@
         ]
       },
       {
-        "sku": "PA6",
+        "groups": "PA6",
         "capacity": 25,
         "enrolled": 25,
         "schedule": [
@@ -2715,7 +2715,7 @@
         ]
       },
       {
-        "sku": "PA7",
+        "groups": "PA7",
         "capacity": 25,
         "enrolled": 25,
         "schedule": [
@@ -2736,7 +2736,7 @@
         ]
       },
       {
-        "sku": "PA8",
+        "groups": "PA8",
         "capacity": 25,
         "enrolled": 25,
         "schedule": [
@@ -2757,7 +2757,7 @@
         ]
       },
       {
-        "sku": "PAB",
+        "groups": "PAB",
         "capacity": 23,
         "enrolled": 23,
         "schedule": [
@@ -2778,7 +2778,7 @@
         ]
       },
       {
-        "sku": "PAD",
+        "groups": "PAD",
         "capacity": 23,
         "enrolled": 23,
         "schedule": [
@@ -2799,7 +2799,7 @@
         ]
       },
       {
-        "sku": "PAG",
+        "groups": "PAG",
         "capacity": 23,
         "enrolled": 23,
         "schedule": [
@@ -2820,7 +2820,7 @@
         ]
       },
       {
-        "sku": "PAH",
+        "groups": "PAH",
         "capacity": 23,
         "enrolled": 23,
         "schedule": [
@@ -2841,7 +2841,7 @@
         ]
       },
       {
-        "sku": "PAI",
+        "groups": "PAI",
         "capacity": 23,
         "enrolled": 23,
         "schedule": [
@@ -2862,7 +2862,7 @@
         ]
       },
       {
-        "sku": "PB1",
+        "groups": "PB1",
         "capacity": 23,
         "enrolled": 23,
         "schedule": [
@@ -2883,7 +2883,7 @@
         ]
       },
       {
-        "sku": "PB2",
+        "groups": "PB2",
         "capacity": 28,
         "enrolled": 28,
         "schedule": [
@@ -2904,7 +2904,7 @@
         ]
       },
       {
-        "sku": "PB3",
+        "groups": "PB3",
         "capacity": 20,
         "enrolled": 20,
         "schedule": [
@@ -2925,7 +2925,7 @@
         ]
       },
       {
-        "sku": "PB4",
+        "groups": "PB4",
         "capacity": 20,
         "enrolled": 19,
         "schedule": [
@@ -2946,9 +2946,9 @@
         ]
       },
       {
-        "sku": "PB5",
+        "groups": "PB5",
         "capacity": 20,
-        "enrolled": 19,
+        "enrolled": 20,
         "schedule": [
           {
             "day": "MARTES",
@@ -2967,7 +2967,7 @@
         ]
       },
       {
-        "sku": "PB6",
+        "groups": "PB6",
         "capacity": 23,
         "enrolled": 23,
         "schedule": [
@@ -2988,7 +2988,7 @@
         ]
       },
       {
-        "sku": "PB7",
+        "groups": "PB7",
         "capacity": 20,
         "enrolled": 20,
         "schedule": [
@@ -3009,7 +3009,7 @@
         ]
       },
       {
-        "sku": "PB8",
+        "groups": "PB8",
         "capacity": 20,
         "enrolled": 20,
         "schedule": [
@@ -3030,7 +3030,7 @@
         ]
       },
       {
-        "sku": "PB9",
+        "groups": "PB9",
         "capacity": 20,
         "enrolled": 20,
         "schedule": [
@@ -3051,7 +3051,7 @@
         ]
       },
       {
-        "sku": "PBA",
+        "groups": "PBA",
         "capacity": 20,
         "enrolled": 20,
         "schedule": [
@@ -3072,7 +3072,7 @@
         ]
       },
       {
-        "sku": "PBC",
+        "groups": "PBC",
         "capacity": 20,
         "enrolled": 20,
         "schedule": [
@@ -3093,7 +3093,7 @@
         ]
       },
       {
-        "sku": "PBD",
+        "groups": "PBD",
         "capacity": 25,
         "enrolled": 24,
         "schedule": [
@@ -3114,7 +3114,7 @@
         ]
       },
       {
-        "sku": "PF1",
+        "groups": "PF1",
         "capacity": 29,
         "enrolled": 29,
         "schedule": [
@@ -3135,7 +3135,7 @@
         ]
       },
       {
-        "sku": "PF2",
+        "groups": "PF2",
         "capacity": 29,
         "enrolled": 27,
         "schedule": [
@@ -3156,7 +3156,7 @@
         ]
       },
       {
-        "sku": "PF3",
+        "groups": "PF3",
         "capacity": 25,
         "enrolled": 25,
         "schedule": [
@@ -3177,7 +3177,7 @@
         ]
       },
       {
-        "sku": "PF4",
+        "groups": "PF4",
         "capacity": 29,
         "enrolled": 29,
         "schedule": [
@@ -3198,7 +3198,7 @@
         ]
       },
       {
-        "sku": "PF5",
+        "groups": "PF5",
         "capacity": 29,
         "enrolled": 19,
         "schedule": [
@@ -3219,9 +3219,9 @@
         ]
       },
       {
-        "sku": "PF6",
+        "groups": "PF6",
         "capacity": 25,
-        "enrolled": 20,
+        "enrolled": 21,
         "schedule": [
           {
             "day": "LUNES",
@@ -3240,7 +3240,7 @@
         ]
       },
       {
-        "sku": "PF7",
+        "groups": "PF7",
         "capacity": 24,
         "enrolled": 20,
         "schedule": [
@@ -3261,7 +3261,7 @@
         ]
       },
       {
-        "sku": "PF8",
+        "groups": "PF8",
         "capacity": 30,
         "enrolled": 30,
         "schedule": [
@@ -3282,7 +3282,7 @@
         ]
       },
       {
-        "sku": "PF9",
+        "groups": "PF9",
         "capacity": 30,
         "enrolled": 30,
         "schedule": [
@@ -3303,7 +3303,7 @@
         ]
       },
       {
-        "sku": "PFA",
+        "groups": "PFA",
         "capacity": 23,
         "enrolled": 23,
         "schedule": [
@@ -3324,7 +3324,7 @@
         ]
       },
       {
-        "sku": "PFB",
+        "groups": "PFB",
         "capacity": 30,
         "enrolled": 30,
         "schedule": [
@@ -3345,7 +3345,7 @@
         ]
       },
       {
-        "sku": "PFC",
+        "groups": "PFC",
         "capacity": 30,
         "enrolled": 30,
         "schedule": [
@@ -3354,19 +3354,19 @@
             "time": "17:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": "SANTIAGO JOSE OCHOA CARRILLO"
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
           },
           {
             "day": "JUEVES",
             "time": "17:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": "SANTIAGO JOSE OCHOA CARRILLO"
+            "professor": "FRANCISCO PASTOR MARTINEZ ESCUDERO"
           }
         ]
       },
       {
-        "sku": "PFD",
+        "groups": "PFD",
         "capacity": 25,
         "enrolled": 24,
         "schedule": [
@@ -3375,19 +3375,19 @@
             "time": "17:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": "SANTIAGO JOSE OCHOA CARRILLO"
+            "professor": "DAVID ALEJANDRO VERA OSORIO"
           },
           {
             "day": "MIERCOLES",
             "time": "17:00 - 18:00",
             "building": "",
             "room": "",
-            "professor": "SANTIAGO JOSE OCHOA CARRILLO"
+            "professor": "DAVID ALEJANDRO VERA OSORIO"
           }
         ]
       },
       {
-        "sku": "PFE",
+        "groups": "PFE",
         "capacity": 30,
         "enrolled": 30,
         "schedule": [
@@ -3408,7 +3408,7 @@
         ]
       },
       {
-        "sku": "PFG",
+        "groups": "PFG",
         "capacity": 27,
         "enrolled": 27,
         "schedule": [
@@ -3435,7 +3435,7 @@
     "name": "METODOS NUMERICOS Y OPTIMIZACION",
     "groups": [
       {
-        "sku": "A1",
+        "groups": "A1",
         "capacity": 18,
         "enrolled": 18,
         "schedule": [
@@ -3462,7 +3462,7 @@
     "name": "ESTADISTICA INFERENCIAL",
     "groups": [
       {
-        "sku": "B1",
+        "groups": "B1",
         "capacity": 14,
         "enrolled": 14,
         "schedule": [
@@ -3490,7 +3490,7 @@
         ]
       },
       {
-        "sku": "D1",
+        "groups": "D1",
         "capacity": 14,
         "enrolled": 14,
         "schedule": [
@@ -3524,7 +3524,7 @@
     "name": "APRENDIZAJE DE MAQUINA",
     "groups": [
       {
-        "sku": "A1",
+        "groups": "A1",
         "capacity": 14,
         "enrolled": 11,
         "schedule": [
@@ -3545,7 +3545,7 @@
         ]
       },
       {
-        "sku": "F1",
+        "groups": "F1",
         "capacity": 14,
         "enrolled": 14,
         "schedule": [
@@ -3572,7 +3572,7 @@
     "name": "PROGRAMACION ORIENTADA A OBJETOS",
     "groups": [
       {
-        "sku": "A1",
+        "groups": "A1",
         "capacity": 14,
         "enrolled": 14,
         "schedule": [
@@ -3593,7 +3593,7 @@
         ]
       },
       {
-        "sku": "E1",
+        "groups": "E1",
         "capacity": 14,
         "enrolled": 14,
         "schedule": [
@@ -3620,7 +3620,7 @@
     "name": "LENGUA EXTRANJERA III: INGLES",
     "groups": [
       {
-        "sku": "A01",
+        "groups": "A01",
         "capacity": 25,
         "enrolled": 23,
         "schedule": [
@@ -3634,7 +3634,7 @@
         ]
       },
       {
-        "sku": "A03",
+        "groups": "A03",
         "capacity": 25,
         "enrolled": 18,
         "schedule": [
@@ -3648,7 +3648,7 @@
         ]
       },
       {
-        "sku": "D01",
+        "groups": "D01",
         "capacity": 25,
         "enrolled": 25,
         "schedule": [
@@ -3668,7 +3668,7 @@
     "name": "LENGUA EXTRANJERA IV: INGLES",
     "groups": [
       {
-        "sku": "F02",
+        "groups": "F02",
         "capacity": 23,
         "enrolled": 20,
         "schedule": [
