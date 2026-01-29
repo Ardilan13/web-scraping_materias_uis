@@ -1,4 +1,575 @@
 {
+  "materias": [
+    {
+      "codigo": "20252",
+      "nombre": "CALCULO I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "22949",
+      "nombre": "QUIMICA BASICA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "22979",
+      "nombre": "ALGEBRA LINEAL I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23015",
+      "nombre": "GEOMETRIA DESCRIPTIVA",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23423",
+      "nombre": "CULTURA FISICA Y DEPORTE",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23427",
+      "nombre": "TALLER DE LENGUAJE",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "24948",
+      "nombre": "VIDA Y CULTURA UNIVERSITARIA",
+      "creditos": 0,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "20253",
+      "nombre": "CALCULO II",
+      "creditos": 4,
+      "requisitos": [
+        "20252"
+      ],
+      "nivel": 2
+    },
+    {
+      "codigo": "22950",
+      "nombre": "FISICA I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "22952",
+      "nombre": "BIOLOGIA PARA INGENIEROS",
+      "creditos": 2,
+      "requisitos": [
+        "22949"
+      ],
+      "nivel": 2
+    },
+    {
+      "codigo": "23016",
+      "nombre": "ESTRUCTURAS COMPUTACIONALES",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "23017",
+      "nombre": "DIBUJO DE MAQUINAS",
+      "creditos": 3,
+      "requisitos": [
+        "23015"
+      ],
+      "nivel": 2
+    },
+    {
+      "codigo": "23424",
+      "nombre": "INGLES I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "20254",
+      "nombre": "CALCULO III",
+      "creditos": 4,
+      "requisitos": [
+        "20253"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "22953",
+      "nombre": "FISICA II",
+      "creditos": 4,
+      "requisitos": [
+        "20252",
+        "22950"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "23018",
+      "nombre": "ESTATICA",
+      "creditos": 4,
+      "requisitos": [
+        "20253",
+        "22950"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "23019",
+      "nombre": "DISEÑO GRAFICO",
+      "creditos": 3,
+      "requisitos": [
+        "23017"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "23020",
+      "nombre": "MATERIALES I",
+      "creditos": 3,
+      "requisitos": [
+        "22949"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "23425",
+      "nombre": "INGLES II",
+      "creditos": 4,
+      "requisitos": [
+        "23424"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "20255",
+      "nombre": "ECUACIONES DIFERENCIALES",
+      "creditos": 4,
+      "requisitos": [
+        "20254"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "22109",
+      "nombre": "ETICA CIUDADANA",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "22956",
+      "nombre": "FISICA III",
+      "creditos": 4,
+      "requisitos": [
+        "20253",
+        "22953"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "23021",
+      "nombre": "DINAMICA",
+      "creditos": 3,
+      "requisitos": [
+        "23018"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "23022",
+      "nombre": "RESISTENCIA DE MATERIALES",
+      "creditos": 4,
+      "requisitos": [
+        "23018"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "23023",
+      "nombre": "MATERIALES II",
+      "creditos": 3,
+      "requisitos": [
+        "23020"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "21802",
+      "nombre": "TERMODINAMICA I",
+      "creditos": 4,
+      "requisitos": [
+        "23021"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "23024",
+      "nombre": "MECANICA DE FLUIDOS",
+      "creditos": 4,
+      "requisitos": [
+        "20255",
+        "23021"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "23025",
+      "nombre": "MECANICA DE MAQUINAS",
+      "creditos": 4,
+      "requisitos": [
+        "23021"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "23026",
+      "nombre": "DISEÑO BASICO",
+      "creditos": 4,
+      "requisitos": [
+        "23019"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "23027",
+      "nombre": "LABORATORIO DE MATERIALES",
+      "creditos": 1,
+      "requisitos": [
+        "23023"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "23028",
+      "nombre": "PROCESOS DE MANUFACTURA",
+      "creditos": 3,
+      "requisitos": [
+        "23023"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "23029",
+      "nombre": "TRANSFERENCIA DE CALOR",
+      "creditos": 4,
+      "requisitos": [
+        "21802",
+        "23024"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "23030",
+      "nombre": "ELECTRICIDAD Y ELECTRONICA BASICA",
+      "creditos": 4,
+      "requisitos": [
+        "22953"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "23031",
+      "nombre": "DISEÑO DE MAQUINAS I",
+      "creditos": 5,
+      "requisitos": [
+        "23022",
+        "23026"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "23032",
+      "nombre": "INGENIERIA DE MANUFACTURA",
+      "creditos": 3,
+      "requisitos": [
+        "23028"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "23033",
+      "nombre": "TALLER DE MANUFACTURA",
+      "creditos": 1,
+      "requisitos": [
+        "23027"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "23059",
+      "nombre": "TERMODINAMICA II",
+      "creditos": 3,
+      "requisitos": [
+        "21802"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "22976",
+      "nombre": "INGENIERIA ECONOMICA",
+      "creditos": 3,
+      "requisitos": [
+        "20254"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "23034",
+      "nombre": "SISTEMAS TERMICOS I",
+      "creditos": 4,
+      "requisitos": [
+        "23029",
+        "23059"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "23035",
+      "nombre": "SIST. DE TRANSP. Y APROVECH. DE FLUIDOS",
+      "creditos": 4,
+      "requisitos": [
+        "23024"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "23036",
+      "nombre": "SISTEMAS MECATRONICOS I",
+      "creditos": 4,
+      "requisitos": [
+        "23030"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "23037",
+      "nombre": "DISEÑO DE MAQUINAS II",
+      "creditos": 5,
+      "requisitos": [
+        "23025",
+        "23031"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "23038",
+      "nombre": "LAB. SIST. DE TRANSP. Y APROVECH. DE FLUIDOS",
+      "creditos": 1,
+      "requisitos": [
+        "23024"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "22964",
+      "nombre": "DIRECCION EMPRESARIAL I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "23039",
+      "nombre": "POTENCIA FLUIDA",
+      "creditos": 4,
+      "requisitos": [
+        "23029",
+        "23035"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "23040",
+      "nombre": "INGENIERA DE CONTROL",
+      "creditos": 3,
+      "requisitos": [
+        "23036"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "23041",
+      "nombre": "INGENIERIA DE MANTENIMIENTO",
+      "creditos": 4,
+      "requisitos": [
+        "23032"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "23054",
+      "nombre": "METODOLOGIA DE LA INVESTIGACION",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "CONT",
+      "nombre": "ASIGNATURA DE CONTEXTO",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "22975",
+      "nombre": "TRABAJO DE GRADO I",
+      "creditos": 3,
+      "requisitos": [
+        "23054"
+      ],
+      "nivel": 9
+    },
+    {
+      "codigo": "ELECT",
+      "nombre": "ELECTIVAS TECNICAS PROFESIONALES",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "22977",
+      "nombre": "TRABAJO DE GRADO II",
+      "creditos": 7,
+      "requisitos": [
+        "22975"
+      ],
+      "nivel": 10
+    },
+    {
+      "codigo": "21799",
+      "nombre": "Diseño de Herramientas",
+      "creditos": 3,
+      "requisitos": [
+        "23032",
+        "23033",
+        "23031"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "21806",
+      "nombre": "Máquinas Térmicas Alternativas (Motores de Combustión Interna)",
+      "creditos": 4,
+      "requisitos": [
+        "23059",
+        "23029"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "21809",
+      "nombre": "Refrigeración y Aire Acondicionado",
+      "creditos": 5,
+      "requisitos": [
+        "23059",
+        "23029"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "21811",
+      "nombre": "Control Numérico Computarizado",
+      "creditos": 3,
+      "requisitos": [
+        "23037"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "21813",
+      "nombre": "Método de Elementos Finitos",
+      "creditos": 3,
+      "requisitos": [
+        "23037",
+        "23029"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "21815",
+      "nombre": "Vibraciones Mecánicas",
+      "creditos": 4,
+      "requisitos": [
+        "23041"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "21823",
+      "nombre": "Sistemas Dinámicos",
+      "creditos": 3,
+      "requisitos": [
+        "23059"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "23529",
+      "nombre": "Dirección Empresarial II",
+      "creditos": 3,
+      "requisitos": [
+        "22964"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "23537",
+      "nombre": "Sistemas Flexibles de Manufactura",
+      "creditos": 3,
+      "requisitos": [
+        "23032"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "25533",
+      "nombre": "Servosistemas de Potencia Fluida",
+      "creditos": 3,
+      "requisitos": [
+        "23039"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "25537",
+      "nombre": "Sistemas Mecatrónicos II",
+      "creditos": 4,
+      "requisitos": [
+        "23036"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "26582",
+      "nombre": "Máquinas de Elevación y Transporte",
+      "creditos": 3,
+      "requisitos": [
+        "23037"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "26734",
+      "nombre": "Computación de Alto Rendimiento y Científica",
+      "creditos": 3,
+      "requisitos": [
+        "23016"
+      ],
+      "nivel": "Electivas"
+    }
+  ],
   "codigos": [
     "20252", "22949", "22979", "23015", "23423", "23427", "24948",
     "20253", "22950", "22952", "23016", "23017", "23424",
