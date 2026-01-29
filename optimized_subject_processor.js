@@ -16,127 +16,127 @@ class OptimizedSubjectProcessor {
       {
         name: "INGENIERIA DE SISTEMAS",
         id: 11,
-        file: "sistemas.json",
+        file: "general.json",
         pensumFile: "sistemas.json",
       },
       {
         name: "DISEÑO INDUSTRIAL NUEVO",
         id: 27,
-        file: "diseño.json",
+        file: "general.json",
         pensumFile: "diseño.json",
       },
       {
         name: "DISEÑO INDUSTRIAL",
         id: 27,
-        file: "diseño_antiguo.json",
+        file: "general.json",
         pensumFile: "diseño_antiguo.json",
       },
       {
         name: "INGENIERIA BIOMEDICA",
         id: 69,
-        file: "biomedica.json",
+        file: "general.json",
         pensumFile: "biomedica.json",
       },
       {
         name: "INGENIERIA EN CIENCIA DE DATOS",
         id: 50,
-        file: "datos.json",
+        file: "general.json",
         pensumFile: "datos.json",
       },
       {
         name: "INGENIERIA CIVIL",
         id: 21,
-        file: "civil.json",
+        file: "general.json",
         pensumFile: "civil.json",
       },
       {
         name: "INGENIERIA DE PETROLEOS",
         id: 32,
-        file: "petroleos.json",
+        file: "general.json",
         pensumFile: "petroleos.json",
       },
       {
         name: "QUIMICA",
         id: 14,
-        file: "quimica.json",
+        file: "general.json",
         pensumFile: "quimica.json",
       },
       {
         name: "MICROBIOLOGIA NUEVO",
         id: 58,
-        file: "microbiologia_nuevo.json",
+        file: "general.json",
         pensumFile: "microbiologia.json",
       },
       {
         name: "MICROBIOLOGIA",
         id: 58,
-        file: "microbiologia.json",
+        file: "general.json",
         pensumFile: "microbiologia.json",
       },
       {
         name: "INGENIERIA MECANICA",
         id: 24,
-        file: "mecanica.json",
+        file: "general.json",
         pensumFile: "mecanica.json",
       },
       {
         name: "INGENIERIA INDUSTRIAL",
         id: 23,
-        file: "industrial.json",
+        file: "general.json",
         pensumFile: "industrial.json",
       },
       {
         name: "INGENIERIA QUIMICA",
         id: 33,
-        file: "ing_quimica.json",
+        file: "general.json",
         pensumFile: "ing_quimica.json",
       },
       {
         name: "NUTRICION",
         id: 57,
-        file: "nutricion.json",
+        file: "general.json",
         pensumFile: "nutricion.json",
       },
       {
         name: "INTELIGENCIA ARTIFICIAL",
         id: 47,
-        file: "inteligencia_artificial.json",
+        file: "general.json",
         pensumFile: "inteligencia_artificial.json",
       },
       {
         name: "BIOLOGIA",
         id: 10,
-        file: "biologia.json",
+        file: "general.json",
         pensumFile: "biologia.json",
       },
       {
         name: "LICENCIATURA EN MATEMATICAS",
         id: 16,
-        file: "lic_matematicas.json",
+        file: "general.json",
         pensumFile: "lic_matematicas.json",
       },
       {
         name: "MATEMATICAS",
         id: 39,
-        file: "matematicas.json",
+        file: "general.json",
         pensumFile: "matematicas.json",
       },
       {
         name: "MUSICA",
         id: 30,
-        file: "musica.json",
+        file: "general.json",
         pensumFile: "musica.json",
       },
       {
         name: "FISICA",
         id: 40,
-        file: "fisica.json",
+        file: "general.json",
         pensumFile: "fisica.json",
       },
       {
         name: "FISIOTERAPIA",
         id: 56,
-        file: "fisioterapia.json",
+        file: "general.json",
         pensumFile: "fisioterapia.json",
       },
     ];
@@ -283,6 +283,8 @@ class OptimizedSubjectProcessor {
 // Generado automáticamente
 // Total de materias: ${skuArray.length}
 // Materias compartidas: ${Array.from(this.sharedSkus).length}
+// 
+// RESULTADO: general.json (un solo archivo con todo)
 // ============================================
 
 async function waitForElementNotBusy(selector) {
@@ -335,8 +337,7 @@ async function procesarMateria(skuMateria) {
     }
 
     const grupoInfo = {
-      sku: \`\${skuMateria}-\${columns[2]?.textContent.trim()}\`, // SKU único del grupo
-      group: columns[2]?.textContent.trim(),
+      groups: columns[2]?.textContent.trim(), // Nombre del grupo (ej: "B1", "D1")
       capacity: parseInt(columns[3]?.textContent.trim(), 10),
       enrolled: parseInt(columns[4]?.textContent.trim(), 10),
       schedule: [],
@@ -348,7 +349,12 @@ async function procesarMateria(skuMateria) {
 
     if (button) {
       button.click();
+      
+      // Esperar a que el formulario esté listo
       await waitForElementNotBusy("#form");
+      
+      // Esperar un poco más para que el modal se abra completamente
+      await new Promise(resolve => setTimeout(resolve, 300));
 
       const modalTable = document.querySelector(
         "#formHorario\\\\:dtlListadoParciales_data"
@@ -358,20 +364,31 @@ async function procesarMateria(skuMateria) {
         const modalRows = modalTable.querySelectorAll("tr");
         modalRows.forEach((modalRow) => {
           const modalColumns = modalRow.querySelectorAll("td div");
-          grupoInfo.schedule.push({
-            day: modalColumns[0]?.textContent.trim(),
-            time: modalColumns[1]?.textContent.trim(),
-            building: modalColumns[2]?.textContent.trim(),
-            room: modalColumns[3]?.textContent.trim(),
-            professor: modalColumns[4]?.textContent.trim(),
-          });
+          
+          // Solo agregar si hay datos
+          const day = modalColumns[0]?.textContent.trim();
+          const time = modalColumns[1]?.textContent.trim();
+          
+          if (day || time) {
+            grupoInfo.schedule.push({
+              day: day || "",
+              time: time || "",
+              building: modalColumns[2]?.textContent.trim() || "",
+              room: modalColumns[3]?.textContent.trim() || "",
+              professor: modalColumns[4]?.textContent.trim() || "",
+            });
+          }
         });
+      } else {
+        console.warn(\`  ⚠️  Modal no encontrado para grupo \${grupoInfo.sku}\`);
       }
 
       const closeButton = document.querySelector(".ui-dialog-titlebar-close");
       if (closeButton) {
         closeButton.click();
         await waitForElementNotBusy("#form");
+        // Pequeña pausa después de cerrar el modal
+        await new Promise(resolve => setTimeout(resolve, 200));
       }
     }
 
@@ -425,26 +442,23 @@ async function procesarListaCodigos(listaCodigos) {
   console.log("🚀 Iniciando scraping optimizado");
   console.log(\`📊 Total de materias: \${listaCodigos.length}\`);
   console.log(\`⚡ Materias compartidas procesadas primero\`);
+  console.log("📁 Guardar resultado como: general.json");
   console.log("=" .repeat(50));
 
   try {
     const resultado = await procesarListaCodigos(listaCodigos);
     
     // Guardar resultado final
-    const finalData = {
-      metadata: {
-        totalSubjects: resultado.length,
-        timestamp: new Date().toISOString(),
-        success: true
-      },
-      subjects: resultado
-    };
-    
-    localStorage.setItem("scrapingComplete", JSON.stringify(finalData));
+    localStorage.setItem("scrapingComplete", JSON.stringify(resultado));
     console.log("=" .repeat(50));
     console.log("✅ SCRAPING COMPLETADO");
     console.log(\`📊 Materias procesadas: \${resultado.length}\`);
     console.log("💾 Datos guardados en localStorage");
+    console.log("");
+    console.log("📝 INSTRUCCIONES:");
+    console.log("   1. Copia el JSON que aparece abajo");
+    console.log("   2. Guárdalo como: materias/horarios/general.json");
+    console.log("   3. Ejecuta: node optimized_subject_processor.js");
     console.log("=" .repeat(50));
     
     // Mostrar resultado para copiar
@@ -466,7 +480,8 @@ async function procesarListaCodigos(listaCodigos) {
 
     fs.writeFileSync(outputPath, scriptContent, "utf8");
     console.log(`✅ Script de scraping generado:`);
-    console.log(`   📁 ${outputPath}\n`);
+    console.log(`   📁 ${outputPath}`);
+    console.log(`   📝 Resultado: guardar como general.json\n`);
   }
 
   // ========== OPTIMIZACIÓN 4: Merge con datos de scraping ==========
@@ -474,63 +489,116 @@ async function procesarListaCodigos(listaCodigos) {
     console.log("🔄 FASE 3: Fusión con datos de scraping");
     console.log("═══════════════════════════════════════\n");
 
-    let processed = 0;
-    let merged = 0;
+    const generalFilePath = path.join(horariosPath, "general.json");
 
-    this.programs.forEach((program) => {
-      const filePath = path.join(horariosPath, program.file);
+    // Verificar si existe el archivo general.json
+    if (!fs.existsSync(generalFilePath)) {
+      console.log(`⚠️  Archivo general.json no encontrado en ${horariosPath}`);
+      console.log(`   Ejecuta el scraping primero y guarda el resultado como general.json\n`);
+      return;
+    }
 
-      if (!fs.existsSync(filePath)) {
+    try {
+      console.log(`📖 Procesando: general.json`);
+      const subjects = JSON.parse(fs.readFileSync(generalFilePath, "utf8"));
+
+      if (!Array.isArray(subjects) || subjects.length === 0) {
+        console.log(`⚠️  Archivo general.json vacío o formato inválido\n`);
         return;
       }
 
-      try {
-        const subjects = JSON.parse(fs.readFileSync(filePath, "utf8"));
+      let processed = 0;
+      let withGroups = 0;
+      let skipped = 0;
 
-        subjects.forEach((subject) => {
-          const sku = String(subject.sku);
-          processed++;
+      subjects.forEach((subject) => {
+        const sku = String(subject.sku);
+        processed++;
 
-          if (this.pensumMap.has(sku)) {
-            const pensumData = this.pensumMap.get(sku);
+        // Verificar que la materia tenga grupos
+        if (!subject.groups || subject.groups.length === 0) {
+          skipped++;
+          return; // Saltar materias sin grupos
+        }
 
-            // Crear o actualizar en subjectsMap
-            if (!this.subjectsMap.has(sku)) {
-              this.subjectsMap.set(sku, {
-                sku: subject.sku,
-                name: subject.name || pensumData.nombre,
-                credits: pensumData.creditos,
-                requirements: pensumData.requisitos,
-                level: pensumData.nivel,
-                groups: subject.groups || [],
-                program: [...pensumData.programs], // Usar todos los programas del pensum
-              });
-              merged++;
-            } else {
-              // Solo actualizar grupos si hay nuevos
-              const existing = this.subjectsMap.get(sku);
-              if (subject.groups) {
-                const existingSkus = new Set(existing.groups.map((g) => g.sku));
-                subject.groups.forEach((group) => {
-                  if (!existingSkus.has(group.sku)) {
-                    existing.groups.push(group);
-                  }
-                });
+        // Normalizar grupos: cambiar "groups" a "sku" si existe
+        const normalizedGroups = subject.groups.map(group => ({
+          sku: group.sku || group.groups || group.group, // Soportar todos los formatos
+          capacity: group.capacity,
+          enrolled: group.enrolled,
+          schedule: group.schedule || []
+        }));
+
+        // Obtener datos del pensum si existen
+        const pensumData = this.pensumMap.get(sku);
+
+
+        if (!this.subjectsMap.has(sku)) {
+          // Nueva materia - usar TODOS los programas del pensum si existen
+          this.subjectsMap.set(sku, {
+            sku: subject.sku,
+            name: subject.name || pensumData?.nombre || "Sin nombre",
+            credits: pensumData?.creditos || subject.credits || 0,
+            requirements: pensumData?.requisitos || subject.requirements || [],
+            level: pensumData?.nivel || subject.level || 1,
+            groups: normalizedGroups,
+            // IMPORTANTE: Usar todos los programas del pensum si existen, sino array vacío
+            program: pensumData?.programs || [],
+          });
+          withGroups++;
+        } else {
+          // Materia existente - solo agregar grupos nuevos (no debería pasar)
+          const existing = this.subjectsMap.get(sku);
+          if (normalizedGroups.length > 0) {
+            const existingSkus = new Set(
+              existing.groups.map((g) => g.sku)
+            );
+            normalizedGroups.forEach((group) => {
+              if (!existingSkus.has(group.sku)) {
+                existing.groups.push(group);
               }
-            }
+            });
           }
-        });
+        }
+      });
 
-        console.log(`✅ ${program.name}: ${subjects.length} materias`);
-      } catch (error) {
-        console.error(`❌ ${program.name}: ${error.message}`);
+      console.log(`   ✅ Procesadas: ${processed} materias`);
+      console.log(`   ✅ Con grupos: ${withGroups} materias`);
+      console.log(`   ⚠️  Sin grupos (omitidas): ${skipped} materias`);
+
+      console.log(`\n📊 Resumen de fusión:`);
+      console.log(`   • Total de materias con grupos: ${this.subjectsMap.size}\n`);
+    } catch (error) {
+      console.error(`❌ Error procesando general.json: ${error.message}`);
+      console.error(`   Stack: ${error.stack}\n`);
+    }
+  }
+
+  // ========== NUEVA: Agregar todas las materias del pensum al resultado final ==========
+  addAllPensumSubjects() {
+    console.log("📚 FASE 3.5: Agregando materias de pensum sin horarios");
+    console.log("═══════════════════════════════════════\n");
+
+    let added = 0;
+
+    this.pensumMap.forEach((pensumData, sku) => {
+      // Si la materia no está en subjectsMap, agregarla
+      if (!this.subjectsMap.has(sku)) {
+        this.subjectsMap.set(sku, {
+          sku: pensumData.sku,
+          name: pensumData.nombre,
+          credits: pensumData.creditos,
+          requirements: pensumData.requisitos,
+          level: pensumData.nivel,
+          groups: [], // Sin grupos porque no hay datos de horarios
+          program: [...pensumData.programs],
+        });
+        added++;
       }
     });
 
-    console.log(`\n📊 Resumen de fusión:`);
-    console.log(`   • Materias procesadas: ${processed}`);
-    console.log(`   • Materias fusionadas: ${merged}`);
-    console.log(`   • Materias únicas finales: ${this.subjectsMap.size}\n`);
+    console.log(`📊 Materias agregadas desde pensum: ${added}`);
+    console.log(`   • Total de materias ahora: ${this.subjectsMap.size}\n`);
   }
 
   // ========== Guardar resultado final ==========
@@ -554,6 +622,7 @@ async function procesarListaCodigos(listaCodigos) {
         totalSubjects: result.length,
         sharedSubjects: Array.from(this.sharedSkus).length,
         programs: this.programs.length,
+        note: "Solo incluye materias con grupos/horarios disponibles",
       },
       subjects: result,
     };
@@ -561,15 +630,20 @@ async function procesarListaCodigos(listaCodigos) {
     fs.writeFileSync(outputPath, JSON.stringify(output, null, 2), "utf8");
 
     console.log(`✅ Archivo guardado: ${outputPath}`);
-    console.log(`   • Total de materias: ${result.length}`);
+    console.log(`   • Total de materias con grupos: ${result.length}`);
     console.log(`   • Materias compartidas: ${this.sharedSkus.size}`);
 
     // Estadísticas adicionales
-    const withGroups = result.filter((s) => s.groups.length > 0).length;
-    const withRequirements = result.filter((s) => s.requirements.length > 0).length;
+    const withGroups = result.filter((s) => s.groups && s.groups.length > 0).length;
+    const withRequirements = result.filter((s) => s.requirements && s.requirements.length > 0).length;
+    const totalGroups = result.reduce((sum, s) => sum + (s.groups?.length || 0), 0);
 
-    console.log(`   • Con grupos: ${withGroups}`);
-    console.log(`   • Con requisitos: ${withRequirements}\n`);
+    console.log(`   • Total de grupos disponibles: ${totalGroups}`);
+    console.log(`   • Materias con requisitos: ${withRequirements}`);
+    console.log(`   • Materias con al menos 1 grupo: ${withGroups}\n`);
+
+    console.log(`💡 Nota: Solo se incluyen materias que tienen grupos disponibles`);
+    console.log(`   en los archivos de horarios. Materias sin grupos no aparecen.\n`);
   }
 
   // ========== OPTIMIZACIÓN 5: Análisis de materias compartidas ==========
@@ -619,6 +693,7 @@ async function procesarListaCodigos(listaCodigos) {
 
     // Fase 1: Cargar todos los pensum
     this.loadAllPensums(pensumPath);
+    this.mergeScrapingData(horariosPath);
 
     // Fase 2: Generar lista optimizada de scraping
     const scrapingList = this.generateScrapingList();
@@ -630,7 +705,12 @@ async function procesarListaCodigos(listaCodigos) {
     // Fase 3: Merge con datos existentes de horarios
     if (fs.existsSync(horariosPath)) {
       this.mergeScrapingData(horariosPath);
+    } else {
+      console.log("⚠️  No se encontró la carpeta de horarios");
+      console.log("   Solo se incluirán materias cuando tengan datos de horarios\n");
     }
+
+    // NO agregar materias sin grupos - solo queremos las que tienen horarios
 
     // Fase 4: Guardar resultados
     const outputPath = path.join(outputDir, "merged_subjects_optimized.json");

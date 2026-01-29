@@ -3,6 +3,8 @@
 // Generado automáticamente
 // Total de materias: 850
 // Materias compartidas: 98
+// 
+// RESULTADO: general.json (un solo archivo con todo)
 // ============================================
 
 async function waitForElementNotBusy(selector) {
@@ -55,8 +57,7 @@ async function procesarMateria(skuMateria) {
     }
 
     const grupoInfo = {
-      sku: `${skuMateria}-${columns[2]?.textContent.trim()}`, // SKU único del grupo
-      group: columns[2]?.textContent.trim(),
+      groups: columns[2]?.textContent.trim(), // Nombre del grupo (ej: "B1", "D1")
       capacity: parseInt(columns[3]?.textContent.trim(), 10),
       enrolled: parseInt(columns[4]?.textContent.trim(), 10),
       schedule: [],
@@ -68,7 +69,12 @@ async function procesarMateria(skuMateria) {
 
     if (button) {
       button.click();
+      
+      // Esperar a que el formulario esté listo
       await waitForElementNotBusy("#form");
+      
+      // Esperar un poco más para que el modal se abra completamente
+      await new Promise(resolve => setTimeout(resolve, 300));
 
       const modalTable = document.querySelector(
         "#formHorario\\:dtlListadoParciales_data"
@@ -78,20 +84,31 @@ async function procesarMateria(skuMateria) {
         const modalRows = modalTable.querySelectorAll("tr");
         modalRows.forEach((modalRow) => {
           const modalColumns = modalRow.querySelectorAll("td div");
-          grupoInfo.schedule.push({
-            day: modalColumns[0]?.textContent.trim(),
-            time: modalColumns[1]?.textContent.trim(),
-            building: modalColumns[2]?.textContent.trim(),
-            room: modalColumns[3]?.textContent.trim(),
-            professor: modalColumns[4]?.textContent.trim(),
-          });
+          
+          // Solo agregar si hay datos
+          const day = modalColumns[0]?.textContent.trim();
+          const time = modalColumns[1]?.textContent.trim();
+          
+          if (day || time) {
+            grupoInfo.schedule.push({
+              day: day || "",
+              time: time || "",
+              building: modalColumns[2]?.textContent.trim() || "",
+              room: modalColumns[3]?.textContent.trim() || "",
+              professor: modalColumns[4]?.textContent.trim() || "",
+            });
+          }
         });
+      } else {
+        console.warn(`  ⚠️  Modal no encontrado para grupo ${grupoInfo.sku}`);
       }
 
       const closeButton = document.querySelector(".ui-dialog-titlebar-close");
       if (closeButton) {
         closeButton.click();
         await waitForElementNotBusy("#form");
+        // Pequeña pausa después de cerrar el modal
+        await new Promise(resolve => setTimeout(resolve, 200));
       }
     }
 
@@ -996,26 +1013,23 @@ async function procesarListaCodigos(listaCodigos) {
   console.log("🚀 Iniciando scraping optimizado");
   console.log(`📊 Total de materias: ${listaCodigos.length}`);
   console.log(`⚡ Materias compartidas procesadas primero`);
+  console.log("📁 Guardar resultado como: general.json");
   console.log("=" .repeat(50));
 
   try {
     const resultado = await procesarListaCodigos(listaCodigos);
     
     // Guardar resultado final
-    const finalData = {
-      metadata: {
-        totalSubjects: resultado.length,
-        timestamp: new Date().toISOString(),
-        success: true
-      },
-      subjects: resultado
-    };
-    
-    localStorage.setItem("scrapingComplete", JSON.stringify(finalData));
+    localStorage.setItem("scrapingComplete", JSON.stringify(resultado));
     console.log("=" .repeat(50));
     console.log("✅ SCRAPING COMPLETADO");
     console.log(`📊 Materias procesadas: ${resultado.length}`);
     console.log("💾 Datos guardados en localStorage");
+    console.log("");
+    console.log("📝 INSTRUCCIONES:");
+    console.log("   1. Copia el JSON que aparece abajo");
+    console.log("   2. Guárdalo como: materias/horarios/general.json");
+    console.log("   3. Ejecuta: node optimized_subject_processor.js");
     console.log("=" .repeat(50));
     
     // Mostrar resultado para copiar

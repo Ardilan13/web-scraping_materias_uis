@@ -18,12 +18,6 @@ Para sacar los datos de las materias de html a json se debe:
 3. Correr el script 'script_html_to_json.js' en la consola con "node materias_html_to_json.js ruta/a/carpeta_html"
 4. Se generara un archivo json con el nombre de la carrera, que contiene las materias
 
-# Materias JSON proceso para depurar la data
-
-1. Tener los archivos json de las materias en la carpeta 'materias/json'
-2. Ejecutar script_transformar.js  esto modificara el nombre de los atributos a ingles, toma el archivo y sobreescribo la informacion se puede ejecutar de la siguiente manera: Si el archivo está en la carpeta horarios/  ejecutar node groups_transformer.js "nombre del archivo".json
-3. ejecutar el script merge_subject.js este realizara una validacion entre todas las asignaturas y revisara de todos las carreras y validara cuales se cruzan añadiendo el program. este script genera el archivo merged_subjects.json el cual es la version final que puede ser exportada a la DB
-
 # Web scraping optimizado
 
 1. Es necesario tener informacion del pensum de la carrera en las carpetas materias\pensum-json y materias\horarios
